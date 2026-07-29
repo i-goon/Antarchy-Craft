@@ -16,10 +16,10 @@
 - [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) by FionaTheMortal
 - [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) by Adubbz, Forstride
 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) by Darkhax
-- [Born in Chaos](https://modrinth.com/mod/born-in-chaos) by Mongoose\_artist, MCreator
+- [Born in Chaos](https://modrinth.com/mod/borninchaos) by Mongoose\_artist, MCreator
 - [BotanyPots](https://www.curseforge.com/minecraft/mc-mods/botany-pots) by Darkhax
 - [Brandon's Core](https://modrinth.com/mod/brandons-core) by brandon3055
-- [Building Gadgets 2](https://modrinth.com/mod/building-gadgets) by Direwolf20
+- [Building Gadgets 2](https://www.curseforge.com/minecraft/mc-mods/building-gadgets) by Direwolf20
 - [Caelus API](https://github.com/illusivesoulworks/caelus) by Illusive Soulworks
 - [Champions Unofficial](https://github.com/CrychicTeam/Champions/) by CrychicTeam, TheIllusiveC4
 - [Citadel](https://modrinth.com/mod/citadel) by Alexthe666
@@ -29,7 +29,7 @@
 - [Comforts](https://github.com/illusivesoulworks/comforts) by Illusive Soulworks
 - [Configured](https://modrinth.com/mod/configured) by MrCrayfish
 - [Configured Defaults](https://github.com/Fuzss/configureddefaults) by Fuzs
-- [Connectivity Mod](https://modrinth.com/mod/connectivity) by Someaddon
+- [Connectivity Mod](https://www.curseforge.com/minecraft/mc-mods/connectivity) by Someaddon
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) by Jaredlll08
 - [CorgiLib](https://github.com/CorgiTaco/CorgiLib) by Corgi Taco
 - [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) by Max Henkel
@@ -46,12 +46,12 @@
 - [Create: New Age](https://antarcticgardens.org/) by Antarctic Gardens
 - [Create: Power Loader](https://github.com/hlysine/create_power_loader) by Lysine
 - [Cucumber Library](https://blakesmods.com/cucumber) by BlakeBr0
-- [Cupboard mod](https://modrinth.com/mod/cupboard) by Someaddon
+- [Cupboard mod](https://www.curseforge.com/minecraft/mc-mods/cupboard) by Someaddon
 - [Curios API](https://github.com/TheIllusiveC4/Curios) by C4
 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) by Lothrazar
 - [Cyclops Core](https://www.curseforge.com/minecraft/mc-mods/cyclops-core) by rubensworks \(aka kroeser\)
 - [Draconic Evolution](https://modrinth.com/mod/draconic-evolution) by brandon3055
-- [Dungeon Crawl](https://modrinth.com/mod/dungeon-crawl) by xiroc
+- [Dungeon Crawl](https://modrinth.com/mod/dungeoncrawl) by xiroc
 - [Easy Piglins](https://www.curseforge.com/minecraft/mc-mods/easy-piglins) by Max Henkel
 - [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) by Max Henkel
 - [ElevatorMod](https://github.com/VsnGamer/ElevatorMod) by VsnGamer
@@ -61,15 +61,15 @@
 - [EntityCulling](https://modrinth.com/mod/entityculling) by tr7zw
 - [Explorer's Compass](https://github.com/MattCzyr/ExplorersCompass) by ChaosTheDude
 - [Extreme Reactors](https://modrinth.com/mod/extreme-reactors) by ZeroNoRyouki
-- [FTB Backups 3](https://modrinth.com/mod/ftb-backups-2) by FTB Team
-- [FTB Chunks](https://modrinth.com/mod/ftb-chunks) by FTB Team
-- [FTB Essentials](https://modrinth.com/mod/ftb-essentials) by FTB Team
-- [FTB Library](https://modrinth.com/mod/ftb-library) by FTB Team
-- [FTB Quests](https://modrinth.com/mod/ftb-quests) by FTB Team
-- [FTB Teams](https://modrinth.com/mod/ftb-teams) by FTB Team
-- [FTB Ultimine](https://modrinth.com/mod/ftb-ultimine) by FTB Team
-- [Ferrite Core](https://modrinth.com/mod/ferritecore) by malte0811
-- [Flux Networks](https://modrinth.com/mod/flux-networks) by Sonar Sonic, BloCamLimb
+- [FTB Backups 2](https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2) by FTB Team
+- [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge) by FTB Team
+- [FTB Essentials](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials-forge) by FTB Team
+- [FTB Library](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge) by FTB Team
+- [FTB Quests](https://www.curseforge.com/minecraft/mc-mods/ftb-quests-forge) by FTB Team
+- [FTB Teams](https://www.curseforge.com/minecraft/mc-mods/ftb-teams-forge) by FTB Team
+- [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge) by FTB Team
+- [Ferrite Core](https://modrinth.com/mod/ferrite-core) by malte0811
+- [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks) by Sonar Sonic, BloCamLimb
 - [Forbidden Arcanus](https://modrinth.com/mod/forbidden-arcanus)
 - [Forgified Fabric API](https://modrinth.com/mod/forgified-fabric-api) by Sinytra, FabricMC
 - [Framework](https://www.curseforge.com/minecraft/mc-mods/framework) by MrCrayfish
@@ -81,7 +81,7 @@
 - [Hostile Neural Networks](https://modrinth.com/mod/hostile-neural-networks) by Shadows\_of\_Fire
 - [Iceberg](https://anthonyhilyard.com/) by Grend
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) by RK\_01
-- [Immersive Engineering](https://modrinth.com/mod/immersive-engineering) by BluSunrize and Damien A\.W\. Hazard
+- [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) by BluSunrize and Damien A\.W\. Hazard
 - [Industrial Foregoing](https://modrinth.com/mod/industrial-foregoing) by Buuz135
 - [Industrial Foregoing Additional](https://modrinth.com/mod/industrial-foregoing-additional) by MrPup\(minecraftkus\)
 - [Industrial Foregoing Souls](https://modrinth.com/mod/industrial-foregoing-souls) by Buuz135, Rid
@@ -95,7 +95,7 @@
 - [Just Enough Items](https://modrinth.com/mod/jei) by mezz
 - [Just Enough Professions \(JEP\)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep) by Mrbysco, ShyNieke
 - [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) by way2muchnoise
-- [Just Zoom](https://modrinth.com/mod/justzoom) by Keksuccino
+- [Just Zoom](https://modrinth.com/mod/just-zoom) by Keksuccino
 - [Konkrete](https://modrinth.com/mod/konkrete) by Keksuccino
 - [L\_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) by L\_Ender
 - [Legendary Tooltips](https://anthonyhilyard.com/) by Grend
@@ -105,7 +105,7 @@
 - [Mekanism: Generators](https://aidancbrady.com/mekanism/) by Aidancbrady, Thommy101, Thiakil, pupnewfster, dizzyd
 - [ModernFix](https://modrinth.com/mod/modernfix) by embeddedt
 - [Modular Routers](https://modrinth.com/mod/modular-routers) by Des Herriott
-- [Moonlight Lib](https://modrinth.com/mod/moonlight-lib) by MehVahdJukaar
+- [Moonlight Lib](https://modrinth.com/mod/moonlight) by MehVahdJukaar
 - [More Industrial Foregoing Addons](https://github.com/Christofmeg/MoreIndustrialForegoingAddons) by Christofmeg
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) by Ivan Molodetskikh \(YaLTeR\)
 - [Mowzie's Mobs](https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs) by BobMowzie, Wadoo, Vakypanda, Noonyez, pau101
@@ -116,7 +116,7 @@
 - [Nature's Compass](https://github.com/MattCzyr/NaturesCompass) by ChaosTheDude
 - [Not Enough Recipe Book](https://modrinth.com/mod/notenoughrecipebook) by OctoStudios
 - [NotEnoughAnimations](https://modrinth.com/mod/not-enough-animations) by tr7zw
-- [OctoLib](https://modrinth.com/mod/octolib) by OctoStudios
+- [OctoLib](https://www.curseforge.com/minecraft/mc-mods/octo-lib) by OctoStudios
 - [Oh The Biomes We've Gone](https://potionstudios.net/) by Joseph T\. McQuigg \(JT122406\), AOCAWOL, YaBoiChips, Corgi Taco
 - [Oh The Trees You'll Grow](https://modrinth.com/mod/oh-the-trees-youll-grow) by Corgi Taco
 - [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui/) by Virtuoel
@@ -126,7 +126,7 @@
 - [Powah](https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected) by owmii,Technici4n,shartte
 - [PrickleMC](https://www.curseforge.com/minecraft/mc-mods/prickle) by Darkhax
 - [Prism](https://anthonyhilyard.com/) by Grend
-- [ProjectE](https://modrinth.com/mod/projecte) by SinKillerJ, MaPePeR, williewillus, Lilylicious, pupnewfster
+- [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte) by SinKillerJ, MaPePeR, williewillus, Lilylicious, pupnewfster
 - [ProjectE\-Integration](https://www.curseforge.com/minecraft/mc-mods/projecte-integration) by TagnumElite
 - [Puzzles Lib](https://github.com/Fuzss/puzzleslib) by Fuzs
 - [Quark](https://modrinth.com/mod/quark) by Vazkii, WireSegal, MCVinnyq, Sully
@@ -136,19 +136,19 @@
 - [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations) by P3pp3rF1y
 - [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) by Jaredlll08
 - [Shrink](https://modrinth.com/mod/shrink) by Gigabit101
-- [Sinytra Connector](https://modrinth.com/mod/sinytra-connector)
+- [Sinytra Connector](https://modrinth.com/mod/connector)
 - [Sizeable Foliage](https://modrinth.com/mod/sizeable-foliage) by Craisin, Laynce
 - [Sodium](https://modrinth.com/mod/sodium) by JellySquid \(jellysquid3\), IMS212
 - [Sodium Extra](https://modrinth.com/mod/sodium-extra) by FlashyReese
 - [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) by P3pp3rF1y, Ridanisaurus
 - [Sophisticated Core](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) by P3pp3rF1y
-- [Storage Drawers](https://modrinth.com/mod/storage-drawers) by Texelsaur
+- [Storage Drawers](https://modrinth.com/mod/storagedrawers) by Texelsaur
 - [SuperMartijn642's Config Library](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib) by SuperMartijn642
 - [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib) by SuperMartijn642
 - [Supplementaries](https://modrinth.com/mod/supplementaries) by MehVahdJukaar, Plantkillable
-- [SwingThroughGrass](https://modrinth.com/mod/swingthroughgrass) by Nikrecs
+- [SwingThroughGrass](https://modrinth.com/mod/swing-through-grass) by Nikrecs
 - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender) by Adubbz
-- [The Twilight Forest](https://modrinth.com/mod/twilight-forest) by Benimatic, AtomicBlom, Drullkus, Killer\_Demon, quadraxis, Tamaized, williewillus, Andromander, GizmoTheMoonPig, jodlodi, SleepyHorse
+- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) by Benimatic, AtomicBlom, Drullkus, Killer\_Demon, quadraxis, Tamaized, williewillus, Andromander, GizmoTheMoonPig, jodlodi, SleepyHorse
 - [Titanium](https://modrinth.com/mod/titanium) by TheCodedOne, Buuz135
 - [Toast Control](https://modrinth.com/mod/toast-control) by Shadows\_of\_Fire
 - [Torchmaster](https://modrinth.com/mod/torchmaster) by Xalcon
