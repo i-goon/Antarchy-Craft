@@ -6,11 +6,6 @@ hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
 
 [[files]]
-file = "mods/aesthetic-storage.pw.toml"
-hash = "ad370165e981a4216342287681a7433d5265f4804c6e3bdea5fd4425378cbc3f"
-metafile = true
-
-[[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "18a5b572a9afdb84b24f5c58c4a53022158f8db746dde95531b780d4713f3fc8"
 metafile = true
@@ -98,11 +93,6 @@ metafile = true
 [[files]]
 file = "mods/brandons-core.pw.toml"
 hash = "e86ba611faf7caeed1ea1191e17d6f396e9467a055facf94ab106ef87c24b305"
-metafile = true
-
-[[files]]
-file = "mods/building-gadget-refined-storage.pw.toml"
-hash = "a9349a585486df9faffc4aadcda5005d534762ae91fe90dc39f8839aa9136820"
 metafile = true
 
 [[files]]
@@ -211,11 +201,6 @@ hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
 metafile = true
 
 [[files]]
-file = "mods/create-ultimine.pw.toml"
-hash = "579800a69ca3296dae0563f50fb2605b4f6ca65633b50b8493fb68782a657314"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
@@ -286,11 +271,6 @@ hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
-file = "mods/epic-fight-curios-compat-extended.pw.toml"
-hash = "6c7c75e5de2a0069e5ceaf9fa8bd773d551819eff8304bc55f6c0866a90ebadc"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
 metafile = true
@@ -328,16 +308,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "2a75b3fb887f2b973ce82a1881ac811eea35dfe194d4e321f3e2565815e94448"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-optimizer.pw.toml"
-hash = "130923cea74d38f39b996ff5884dbfe91dde3f46f2efe330af2ae54d731f6481"
-metafile = true
-
-[[files]]
-file = "mods/ftbchunksaerospace.pw.toml"
-hash = "2001df493febbb65b823cc435da6707d2883592024283a546a3b3642109a7dd4"
 metafile = true
 
 [[files]]
@@ -431,21 +401,6 @@ hash = "bfdc9d198e69d32ab9bff94fe73a5c7e8d71c93089d602ad77d1f2d3bfb3f352"
 metafile = true
 
 [[files]]
-file = "mods/irons-spell-n-ftb-teams.pw.toml"
-hash = "49ffba4780f55b051d3c6025dfcaeb16e3a3baee1b25648c6ed66e845ff586b7"
-metafile = true
-
-[[files]]
-file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "76f6ec0d8429c4e25430c356563bc3d51b6baf6fc500469f5ec75eb2ae7039a1"
-metafile = true
-
-[[files]]
-file = "mods/jauml.pw.toml"
-hash = "070a439c26d6908f0fde994787d16f02a6a7f42be9a58c247598b8243facfcfc"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "b5c564cf55a73d7c5118ecf841bffa18c148e025170ab6370112fdfa8b6b6ab9"
 metafile = true
@@ -471,23 +426,8 @@ hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
 metafile = true
 
 [[files]]
-file = "mods/kiwi.pw.toml"
-hash = "84f4b09b7ef3ef75478cfa6d126951958444d612375c99b1c4e7e6bdbef28c1c"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
-metafile = true
-
-[[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml"
-hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
 metafile = true
 
 [[files]]
@@ -511,16 +451,6 @@ hash = "a0a2036a901c1d61589768d62bc92d0cd630a40e9dfe92f45aefdc835c0c808d"
 metafile = true
 
 [[files]]
-file = "mods/lychee.pw.toml"
-hash = "d8e057c3f772b99246c4a4c1a57a5d9b41ab12a97dddd172cfd479662633f7aa"
-metafile = true
-
-[[files]]
-file = "mods/manascore.pw.toml"
-hash = "a2a5fda644987e017368bcc3bba3e3281fdedf88825d6645c21ad654593e3287"
-metafile = true
-
-[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
 metafile = true
@@ -536,18 +466,8 @@ hash = "b1779a709774591e3aae1d4f6ed6e308f944f903f93cf409cf25009bcdd8d401"
 metafile = true
 
 [[files]]
-file = "mods/modern-ui.pw.toml"
-hash = "1a4bbd8ae2d938b514eee771d68e531a9b1acd6f65bf759fd18e7977aff23baa"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
-metafile = true
-
-[[files]]
-file = "mods/modpack-core-essentials.pw.toml"
-hash = "00cb25a2ee05e1282287de493c6215c0bd204bff80644d75008aba00587dfef5"
 metafile = true
 
 [[files]]
@@ -586,16 +506,6 @@ hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
 
 [[files]]
-file = "mods/no-moon-network-fix.pw.toml"
-hash = "63554b12b09b2e97bca9df4800164da6f78cb3c8a3a9223c96ca260a44753d65"
-metafile = true
-
-[[files]]
-file = "mods/no_moon.jar.pw.toml"
-hash = "ff47a6dc5871a31b3729187e967eab236138bf8b772a712e9a10ec9ed3cb945e"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
 metafile = true
@@ -616,16 +526,6 @@ hash = "b586f666162c916d768532cbb98f390aa66f4998ca9ab0999bc4a9b7de5bb83f"
 metafile = true
 
 [[files]]
-file = "mods/paper-plane.pw.toml"
-hash = "3c52223cdf1376c4c4dd80ac40b35580091ae05ca10628bf6e5fb83c4b70e745"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
-metafile = true
-
-[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
 metafile = true
@@ -643,16 +543,6 @@ metafile = true
 [[files]]
 file = "mods/polylib.pw.toml"
 hash = "bb53e2c30a71e477476f8964b9a8c5294207969659c755b5c9993bca94139385"
-metafile = true
-
-[[files]]
-file = "mods/polymorphic-refined-storage.pw.toml"
-hash = "00f6f19038a3a5f234598da8b911502a03a01c3570c3cebd6132cd4309f81ac7"
-metafile = true
-
-[[files]]
-file = "mods/ponder.pw.toml"
-hash = "5ead8d8bc26cdbe1a17dc055f7f0fe762a08254d0199d6ea8fcc58839ab274f2"
 metafile = true
 
 [[files]]
@@ -781,23 +671,8 @@ hash = "999eb26238fb860f71662e67b70b916f9b2799f86be812094706999b0d36cc9a"
 metafile = true
 
 [[files]]
-file = "mods/tensura-compat-ftb.pw.toml"
-hash = "28cc1ee926e5395b88e08184e0c852464bee4ca602a19317941584ae9cb44bd0"
-metafile = true
-
-[[files]]
-file = "mods/tensura-reincarnated.pw.toml"
-hash = "5c418e44bc21ba3f3e02ca5de10e25ef6298e0603414c16ede194c7220f83d80"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
-metafile = true
-
-[[files]]
-file = "mods/the-twilight-forest-dungeons-villages.pw.toml"
-hash = "07d66394c90772cbdfbe1c165e12de9e0e10f3798681b95183e4189a1c7215a3"
 metafile = true
 
 [[files]]
@@ -833,11 +708,6 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "7389025d1fa215f56e9ecabf6f84e4092271322de1ec28f3a835b9e7b13238bb"
-metafile = true
-
-[[files]]
-file = "mods/visible-energy.pw.toml"
-hash = "bb0fca049cfe2e0fbf20215e03ff743442d81ce6f0d1ff7233672d0a69cf4340"
 metafile = true
 
 [[files]]
