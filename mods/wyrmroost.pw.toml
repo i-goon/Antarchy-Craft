@@ -1,0 +1,13 @@
+name = "Wyrmroost"
+filename = "wyrmroost-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8dYAmpGw/versions/vPphGFMZ/wyrmroost-1.3.3.jar"
+hash-format = "sha512"
+hash = "e23c8ffb002bbb9e5941cdbfe783b0f5ccc82a899287a2c1a514d2830e05e2f3814781f6d143bedfdd9da289798f1fdf13c5329a31479f221273f2474083d29f"
+
+[update]
+[update.modrinth]
+mod-id = "8dYAmpGw"
+version = "vPphGFMZ"

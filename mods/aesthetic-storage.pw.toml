@@ -1,0 +1,13 @@
+name = "Aesthetic Storage"
+filename = "aestheticstorage-1.21.1_neoforge_v2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZOgCd8lk/versions/rj8pLDL8/aestheticstorage-1.21.1_neoforge_v2.0.0.jar"
+hash-format = "sha512"
+hash = "62f0f1badfdef984c833dfac11bc09758e6eb6c61c336f19c74cfad9a1562e58e44f1a86c266a76ba14676afbe70e66138edc5260f3398a5e1b4d993f2a79b51"
+
+[update]
+[update.modrinth]
+mod-id = "ZOgCd8lk"
+version = "rj8pLDL8"

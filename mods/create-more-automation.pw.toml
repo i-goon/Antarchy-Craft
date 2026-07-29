@@ -1,0 +1,13 @@
+name = "Create More Automation"
+filename = "create_more_automation-0.5.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7iJ65LNI/versions/en1TN4J7/create_more_automation-0.5.2-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "01df8317a0316f70b85b3cf0fc5cd7925117367e72de4a43e0f8699590aff727d5bf98656271b61b644c3b92a19d0d4142d1739b54f7bb0a54ff910af32ea3f9"
+
+[update]
+[update.modrinth]
+mod-id = "7iJ65LNI"
+version = "en1TN4J7"

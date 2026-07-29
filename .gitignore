@@ -1,0 +1,20 @@
+# Logs
+logs/
+*.log
+
+# Packwiz cache
+.packwiz/
+packwiz_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+# Personal data - never commit
+overrides/config/jei/world/
+overrides/config/sodium-fingerprint.json
+*.bak

@@ -1,0 +1,13 @@
+name = "Industrial Foregoing：More Upgrade Plugins"
+filename = "ifmup-1.0.1-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q5o9rW0B/versions/9Uk6eJxC/ifmup-1.0.1-mc1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "14a9b07caa9816e36c2493e0eb9416941bf9f50c46fe4f65eb4e0743606fb5a815164665da3f24c5b992eea8d56df3de6202e9e48bd5fc5e5c172effa7095634"
+
+[update]
+[update.modrinth]
+mod-id = "Q5o9rW0B"
+version = "9Uk6eJxC"

@@ -1,0 +1,13 @@
+name = "Waystones"
+filename = "waystones-neoforge-1.21.1-21.1.38.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/OL8Mnbav/waystones-neoforge-1.21.1-21.1.38.jar"
+hash-format = "sha512"
+hash = "56dc6f6d220106338b5f3825de9e2f3379eeebaaf52120adfcfbedabae068af2cc502349d05c0ed1d798926659eae31b37875bd6b07c49e648f0b9914376d2cb"
+
+[update]
+[update.modrinth]
+mod-id = "LOpKHB2A"
+version = "OL8Mnbav"

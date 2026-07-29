@@ -1,0 +1,13 @@
+name = "Industrial Foregoing: Additional"
+filename = "industrialforegoingadditional-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JgGKnHow/versions/CQPdYcyR/industrialforegoingadditional-1.2.1.jar"
+hash-format = "sha512"
+hash = "629fc0e03ff8a7538f1c16b8b58702c579df08564cbfdcc67915741dd47412899b2478db72a0ad3cb3987230179f7933dbeae7e02a21e0fcf2806aee22030ada"
+
+[update]
+[update.modrinth]
+mod-id = "JgGKnHow"
+version = "CQPdYcyR"

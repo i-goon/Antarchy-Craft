@@ -1,0 +1,13 @@
+name = "Visible Energy"
+filename = "visible_energy-v0.0.2-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OVVSdCoo/versions/Jzc6My6u/visible_energy-v0.0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "6a760c8f2d1ede505f996b5982dacc76936c7a43cd6294b3b9e3d0bd334135117d175ec3b0f122ce48d92c3d97244c7f1cee54f2db44a2e28985a80ea7061665"
+
+[update]
+[update.modrinth]
+mod-id = "OVVSdCoo"
+version = "Jzc6My6u"

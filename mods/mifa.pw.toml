@@ -1,0 +1,13 @@
+name = "More Industrial Foregoing Addons (MIFA)"
+filename = "mifa-neoforge-1.21.x-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ig6QciUH/versions/vZO6UvRA/mifa-neoforge-1.21.x-2.1.0.jar"
+hash-format = "sha512"
+hash = "f34c2cc855d610469534594e18434bb848184c956130d57a6f6472bbe79ccfd1c3e8bf22665613714df3a168a29c1c07fd77d1ff7b067ef73bcb472f4b6d0e90"
+
+[update]
+[update.modrinth]
+mod-id = "Ig6QciUH"
+version = "vZO6UvRA"

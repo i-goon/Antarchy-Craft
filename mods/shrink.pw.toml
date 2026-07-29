@@ -1,0 +1,13 @@
+name = "Shrink"
+filename = "shrink-2.0.2.53-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jzaTHh0C/versions/RJlQkOpr/shrink-2.0.2.53-neoforge.jar"
+hash-format = "sha512"
+hash = "f7940ab05efa27216b73680c63a84b7b3b8a06fff754e0af40573e1805011c4c66d067dbbfb51d9f7605acb6b42bf2b992e407a9ae836f1099edb0ff40f91626"
+
+[update]
+[update.modrinth]
+mod-id = "jzaTHh0C"
+version = "RJlQkOpr"

@@ -1,0 +1,13 @@
+name = "Cyclic"
+filename = "cyclic-1.21.1-1.14.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UcVTWyCI/versions/Q2iFX2rX/cyclic-1.21.1-1.14.1.jar"
+hash-format = "sha512"
+hash = "18cbb6f16599bc3450e8194bea95236d29aa408ad43e785942715df899c7d83248488ffd90ee2fa2177de12ebb04f466f98fadddd3869dec038287401f119bc7"
+
+[update]
+[update.modrinth]
+mod-id = "UcVTWyCI"
+version = "Q2iFX2rX"

@@ -1,0 +1,13 @@
+name = "Reliquary Reincarnations"
+filename = "reliquary-1.21.1-2.0.77.1537.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fQO83PId/versions/Ore7iCX1/reliquary-1.21.1-2.0.77.1537.jar"
+hash-format = "sha512"
+hash = "ba57e2df99458b47dbf867d49dc69d3c176cbef47f4fd090c179444d2e27d3fbdba694e5a9db764c4e40404af536c2430cfe498525435d31ad89b2d7eb28c47f"
+
+[update]
+[update.modrinth]
+mod-id = "fQO83PId"
+version = "Ore7iCX1"

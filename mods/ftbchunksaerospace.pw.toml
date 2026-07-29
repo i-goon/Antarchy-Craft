@@ -1,0 +1,13 @@
+name = "FTB Chunks: Sable Aerospace"
+filename = "ftbchunksaerospace-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aDOJNNsW/versions/zy8ymgWP/ftbchunksaerospace-1.0.1.jar"
+hash-format = "sha512"
+hash = "09311c87c644bfede11b28d69389c296468a2281eb8f1097424d82d1ae7aa25dc30cbeb568b27e8d493ad12cb64b32e2958b6e3269202d26481ee15b64633003"
+
+[update]
+[update.modrinth]
+mod-id = "aDOJNNsW"
+version = "zy8ymgWP"

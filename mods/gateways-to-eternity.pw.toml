@@ -1,0 +1,13 @@
+name = "Gateways to Eternity"
+filename = "GatewaysToEternity-1.21.1-5.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8OIeAukW/versions/FNtkt80G/GatewaysToEternity-1.21.1-5.1.0.jar"
+hash-format = "sha512"
+hash = "83448ff2215b9a5d645bf9b0e0a0babfdfb04e60a2d9ca07783c962575b5770d095fdbfdd8ab6cb861871b98ecbc29204af3be14cb830623b442ad9894d462fb"
+
+[update]
+[update.modrinth]
+mod-id = "8OIeAukW"
+version = "FNtkt80G"

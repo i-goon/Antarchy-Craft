@@ -1,0 +1,13 @@
+name = "Create: Diesel Generators x TFMG"
+filename = "tfmg Diesel Generators.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DqEhiZRm/versions/1Bv8KdkN/tfmg%20Diesel%20Generators.zip"
+hash-format = "sha512"
+hash = "d6e6eead4f1ef19504c5aec5f60488ce7792c9b02632d635402f9f318e1ada83546f2b121320074513e77236a29088e210d8ba75d6552cad2e6b6d9988d3d6e5"
+
+[update]
+[update.modrinth]
+mod-id = "DqEhiZRm"
+version = "1Bv8KdkN"

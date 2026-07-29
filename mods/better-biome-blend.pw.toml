@@ -1,0 +1,13 @@
+name = "Better Biome Blend"
+filename = "betterbiomeblend-neoforge-1.21.1-1.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rs6c7WyL/versions/qmc1SklW/betterbiomeblend-neoforge-1.21.1-1.4.1.jar"
+hash-format = "sha512"
+hash = "54e3a0d71fcc7daab447bec67726808694e08e8800efe7cd191cf1560dbcdcff06afff7aabf504dd14aa001d6c8f7aebc59313bd4ccdcd2c0276d6b64e009d98"
+
+[update]
+[update.modrinth]
+mod-id = "Rs6c7WyL"
+version = "qmc1SklW"
