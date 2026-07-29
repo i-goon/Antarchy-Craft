@@ -11,6 +11,16 @@ hash = "18a5b572a9afdb84b24f5c58c4a53022158f8db746dde95531b780d4713f3fc8"
 metafile = true
 
 [[files]]
+file = "mods/alex-s-mobs.pw.toml"
+hash = "53f84ce254727847b883721d277b855275a6747c18ff77548525f5d453ddb8ee"
+metafile = true
+
+[[files]]
+file = "mods/antarchy-core.pw.toml"
+hash = "f7d0ac3f1ba9dc05c661a31b793e6a2c48743ce84ecedc1cfa9c06ec5c851944"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "b3fd9ed67784f143014d3d53826614eef8cc22f1d0ed3e339a4d848aff4c11bd"
 metafile = true
@@ -708,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "7389025d1fa215f56e9ecabf6f84e4092271322de1ec28f3a835b9e7b13238bb"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "430ecd19869d1481232c9ab0c4a362ad2c71d91f013531206d692b820ba07306"
 metafile = true
 
 [[files]]

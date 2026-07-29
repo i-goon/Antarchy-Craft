@@ -1,0 +1,8 @@
+name = "Voxy"
+filename = "voxy-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/i-goon/Antarchy-Craft/master/custom-mods/voxy-1.0.0.jar"
+hash-format = "sha256"
+hash = "26a400ec99199ad5a54259b50699296936556e61e8fc8e10f6fc61d546a164d1"
