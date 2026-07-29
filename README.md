@@ -1,3 +1,5 @@
+<p align="center"><img src="antarchy_craft.png" alt="Antarchy Craft" width="600"></p>
+
 - [Akashic Tome](https://modrinth.com/mod/akashic-tome) by Vazkii, MoreThanHidden, Uraneptus
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) by Alexthe668, Carro1001, Paint\_Ninja, Raguto
 - [Antarchy](https://modrinth.com/mod/antarchy) by CraisinLord
