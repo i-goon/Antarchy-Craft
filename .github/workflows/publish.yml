@@ -1,0 +1,34 @@
+name: Publish to Modrinth
+
+on:
+  workflow_dispatch:  # manual trigger
+  push:
+    tags:
+      - "v*"           # auto-publish on version tags
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.23"
+
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Export .mrpack
+        run: packwiz modrinth export
+
+      - name: Publish to Modrinth
+        uses: Kir-Antipov/mc-publish@v3
+        with:
+          modrinth-id: PLACEHOLDER      # replace after creating project
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          files: |
+            *.mrpack
+          loaders: neoforge
+          game-versions: "1.21.1"
+          changelog: "See commits for changes"
