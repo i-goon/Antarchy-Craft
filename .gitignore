@@ -18,3 +18,5 @@ Thumbs.db
 overrides/config/jei/world/
 overrides/config/sodium-fingerprint.json
 *.bak
+*.mrpack
+
