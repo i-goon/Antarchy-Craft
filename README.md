@@ -2,7 +2,7 @@
 
 A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated. 170+ mods spanning tech, magic, exploration, and chaos.
 
-<p align="center"><img src="antarchy_craft.png" alt="Antarchy Craft" width="600"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/i-goon/Antarchy-Craft/master/antarchy_craft.png" alt="Antarchy Craft" width="600"></p>
 
 ## Included Mods
 
