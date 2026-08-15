@@ -140,6 +140,11 @@ hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "c8c78d6b861d3bf2053ac58bb00439d85231b9fdbf72d1ea03fd9035ce09edb7"
 metafile = true
@@ -605,6 +610,11 @@ hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
 metafile = true
@@ -710,6 +720,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
+metafile = true
+
+[[files]]
 file = "mods/shatterbyte-lib.pw.toml"
 hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
 metafile = true
@@ -747,6 +762,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "f1ac2f9ecce242d0f193db475dba673da2bd5ee04b59d3e750699e7b7c4d1f39"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
