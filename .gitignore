@@ -24,7 +24,7 @@ errors.png
 
 
 # Pack exports
-!overrides/shaderpacks/*.zip
 *.zip
+!overrides/shaderpacks/*.zip
 *.mrpack
 
