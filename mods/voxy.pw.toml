@@ -1,6 +1,6 @@
 name = "Voxy"
 filename = "voxy-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/i-goon/Antarchy-Craft/master/custom-mods/voxy-1.0.0.jar"
