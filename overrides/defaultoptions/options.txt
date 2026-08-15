@@ -1,0 +1,4 @@
+entityShadows:false
+particles:1
+mipmapLevels:3
+simulationDistance:6
