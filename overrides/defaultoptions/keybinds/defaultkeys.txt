@@ -1,0 +1,3 @@
+# Default keybinds shipped with Antarchy Craft
+key_key.ftbquests.gui_editor.select_all:key.keyboard.unknown
+key_key.ftbquests.gui_editor.select_none:key.keyboard.unknown
