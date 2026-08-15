@@ -1,15 +1,11 @@
 # Default keybinds shipped with Antarchy Craft
-# Zoom is the only action bound to C
+# Zoom is the only GAMEPLAY action bound to C.
+# UI-only controls keep their natural C binds.
 key_justzoom.keybinds.keybind.zoom:key.keyboard.c
 key_key.ftbquests.gui_editor.select_all:key.keyboard.unknown
 key_key.ftbquests.gui_editor.select_none:key.keyboard.unknown
-key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.projecte.extra_function:key.keyboard.unknown
 key_key.ars_nouveau.open_book:key.keyboard.unknown
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
 key_key.cataclysm.helmet_ability:key.keyboard.unknown
-key_key.journeymap.fullscreen_chat_position:key.keyboard.unknown
-key_key.draconicevolution.tool_config:key.keyboard.unknown
-key_key.easy_villagers.cycle_trades:key.keyboard.unknown
-key_key.modularrouters.configure:key.keyboard.unknown
