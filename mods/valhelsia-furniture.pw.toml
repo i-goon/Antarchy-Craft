@@ -1,0 +1,13 @@
+name = "Valhelsia Furniture"
+filename = "valhelsia_furniture-neoforge-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qmCh2PxS/versions/SZm6bDvf/valhelsia_furniture-neoforge-1.21.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "89825870e1f598346797d8f54ae6f4150cd38c89f34c29fd70c6f518bfaf873185eefaaeeefe0e1f39084ec89732c2a815b8d183d71280c132b6b1cd906284a5"
+
+[update]
+[update.modrinth]
+mod-id = "qmCh2PxS"
+version = "SZm6bDvf"
