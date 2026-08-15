@@ -93,7 +93,7 @@ breeding-cap:
   # ► range = The range it will check for entities of the same type.
   # ► unlimited-height = Whether to ignore the vertical distance when checking for entities of the same type.
   villagers:
-    limit: 32
+    limit: 96
     range: 64
     unlimited-height: false
 
@@ -101,7 +101,7 @@ breeding-cap:
   # Note that this cap only checks for animals of the same type.
   # If the limit is 32 you can still breed 32 cows and 32 pigs next to each other.
   animals:
-    limit: 32
+    limit: 128
     range: 64
     unlimited-height: false
 
