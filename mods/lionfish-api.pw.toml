@@ -11,3 +11,7 @@ hash = "fdd90f19d0424c3a837111291d6ac1547d62cbcedd43b74d3a8946912f9c5212a5ea239a
 [update.modrinth]
 mod-id = "FoVacERa"
 version = "fTRMVgyZ"
+
+[update.curseforge]
+file-id = 8345326
+project-id = 1001614

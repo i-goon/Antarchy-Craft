@@ -11,3 +11,7 @@ hash = "944821c20be19c2e55262f606de392ce491ab4998fe3469030fb00fc95d47f3e1c87389c
 [update.modrinth]
 mod-id = "DWIEOniQ"
 version = "Dag6lNGT"
+
+[update.curseforge]
+file-id = 7105279
+project-id = 284497

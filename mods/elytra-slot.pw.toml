@@ -11,3 +11,7 @@ hash = "257af1e8de11634c561e617ac64ce2c452aebd86bd0a6ba2c4d164cee9746a30c093aa5e
 [update.modrinth]
 mod-id = "mSQF1NpT"
 version = "RX6A02W1"
+
+[update.curseforge]
+file-id = 5778461
+project-id = 317716

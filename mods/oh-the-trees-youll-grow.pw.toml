@@ -11,3 +11,7 @@ hash = "1a1bf395c5ec7366b938f1891a6b6666ab0cac9da8f5e7fbc8c07a3518b568759772a7ce
 [update.modrinth]
 mod-id = "g8NOG5OR"
 version = "ozzakIcu"
+
+[update.curseforge]
+file-id = 8096180
+project-id = 962544

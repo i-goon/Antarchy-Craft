@@ -11,3 +11,7 @@ hash = "4a65d6c2d098e4db61237ff83b68f7d03d5dcd16572c6c12d159c9c1f2f49c7abcc17924
 [update.modrinth]
 mod-id = "BbrHg80P"
 version = "iDxzdaLT"
+
+[update.curseforge]
+file-id = 6159037
+project-id = 245174

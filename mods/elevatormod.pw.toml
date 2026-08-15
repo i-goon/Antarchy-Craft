@@ -11,3 +11,7 @@ hash = "2b13e5daf0e54d7d004a1fbdcfbd75909f32c83527df727f708106b7d5770b790d35facb
 [update.modrinth]
 mod-id = "hi2dSXTu"
 version = "NKEMiRIu"
+
+[update.curseforge]
+file-id = 6199696
+project-id = 250832

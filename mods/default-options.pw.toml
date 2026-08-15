@@ -11,3 +11,7 @@ hash = "29f66777068d92b1e149630d569441e5176ac40ec5cb4ee6c63c565aa7d475587a5097f5
 [update.modrinth]
 mod-id = "WEg59z5b"
 version = "1zt17WsC"
+
+[update.curseforge]
+file-id = 8498229
+project-id = 232131

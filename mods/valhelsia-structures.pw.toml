@@ -11,3 +11,7 @@ hash = "d8a7d94f3b8e49f2d1271b3f03c17687cf34ed214776d281635b5b58a7324404d7fbd0fb
 [update.modrinth]
 mod-id = "T21szC0a"
 version = "etDLE3xP"
+
+[update.curseforge]
+file-id = 6814480
+project-id = 347488

@@ -11,3 +11,7 @@ hash = "1cb070827a20f776fd2a037f3a1a057d525b4da064808b0409fdd799a0139e8d8e27c455
 [update.modrinth]
 mod-id = "p19vrgc2"
 version = "YFLRVIpy"
+
+[update.curseforge]
+file-id = 8534792
+project-id = 854949

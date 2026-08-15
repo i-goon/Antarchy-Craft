@@ -11,3 +11,7 @@ hash = "30b94771ef3879e8bbdecaebb7cd49e5fcd1503efd33eb4f2cdd17eeffa6dd85f9cb4bfc
 [update.modrinth]
 mod-id = "rOUBggPv"
 version = "Bw2Pdrfn"
+
+[update.curseforge]
+file-id = 8526794
+project-id = 454372

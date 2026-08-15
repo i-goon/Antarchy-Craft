@@ -11,3 +11,7 @@ hash = "1c634b9cc769b5e9e95ef7e45b8cbdd9814423dccd660e7de862985c81abb62789fc2a3e
 [update.modrinth]
 mod-id = "EuTS81Z3"
 version = "wcfqOJTo"
+
+[update.curseforge]
+file-id = 8478801
+project-id = 250294

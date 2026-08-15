@@ -11,3 +11,7 @@ hash = "71bb7806789bba9a15a8dce9e5b111b1fcdb058419039d668ed4cb5fd1d36604feadf048
 [update.modrinth]
 mod-id = "dzb1a5WV"
 version = "LxesD770"
+
+[update.curseforge]
+file-id = 8532254
+project-id = 1216624

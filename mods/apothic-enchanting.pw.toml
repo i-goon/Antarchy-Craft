@@ -11,3 +11,7 @@ hash = "33dfdc186a9afd7bf410e146eac650103fceb570273752fcaf08cbd9b914db36f022a468
 [update.modrinth]
 mod-id = "pL8MtgqY"
 version = "HpSrSsv3"
+
+[update.curseforge]
+file-id = 8469450
+project-id = 1063926

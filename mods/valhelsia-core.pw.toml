@@ -11,3 +11,7 @@ hash = "787de5659b46ddb188e2960582cb236255e8e4c2dc6d3bfdd033ab1c00bbf61351a38a4f
 [update.modrinth]
 mod-id = "HsdNFinx"
 version = "cttRekq9"
+
+[update.curseforge]
+file-id = 5847440
+project-id = 416935

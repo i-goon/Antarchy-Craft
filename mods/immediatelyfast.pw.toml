@@ -11,3 +11,7 @@ hash = "9f6a8d2f90f076cccbb40b519dcb014c832c0fbc28c3995fb9cb5e69e016eb3b8c9bf74c
 [update.modrinth]
 mod-id = "5ZwdcRci"
 version = "zxT50PTW"
+
+[update.curseforge]
+file-id = 8348515
+project-id = 686911

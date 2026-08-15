@@ -11,3 +11,7 @@ hash = "17f54c31bfef52152f2f54ed147b2f809c45f632bdb45846ddf0680dd5e95c0481cec4e8
 [update.modrinth]
 mod-id = "pl0jGXIx"
 version = "31EVEM35"
+
+[update.curseforge]
+file-id = 8515974
+project-id = 256247

@@ -11,3 +11,7 @@ hash = "b07e68cdee9529aac5e232e2b4a696aa01e4e25895ea3277c2ed991e29342657e9a594e3
 [update.modrinth]
 mod-id = "rqFWfVlz"
 version = "sLyTVplu"
+
+[update.curseforge]
+file-id = 8525273
+project-id = 313970

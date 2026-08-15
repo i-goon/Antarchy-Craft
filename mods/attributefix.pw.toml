@@ -11,3 +11,7 @@ hash = "09e1ff6012d5b7bef7bb701d38feaaab41db4f2fc8b9f669b820fc2c91e53098e093e401
 [update.modrinth]
 mod-id = "lOOpEntO"
 version = "TyNITLDY"
+
+[update.curseforge]
+file-id = 7115922
+project-id = 280510

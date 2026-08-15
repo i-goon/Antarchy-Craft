@@ -11,3 +11,7 @@ hash = "9d929cf8e0a0ff2c806e007571b10cd9b81cd508826519f55e25f0390149109c7c126051
 [update.modrinth]
 mod-id = "MPCX6s5C"
 version = "eYNogep3"
+
+[update.curseforge]
+file-id = 8274908
+project-id = 433760

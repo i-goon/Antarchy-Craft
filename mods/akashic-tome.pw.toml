@@ -11,3 +11,7 @@ hash = "c0061c263e1d701e71a75355c3db11c9a975dd1e47da0fe6592973bf12d4f5b44aa476f5
 [update.modrinth]
 mod-id = "JBthPdnp"
 version = "MRro5nPG"
+
+[update.curseforge]
+file-id = 7773841
+project-id = 250577

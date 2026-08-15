@@ -3,6 +3,6 @@ filename = "antarchy-1.0.3+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/i-goon/Antarchy-Craft/master/custom-mods/antarchy-1.0.3+1.21.1-neoforge.jar"
+url = "https://github.com/i-goon/Antarchy-Craft/releases/download/custom-mods/antarchy-1.0.3+1.21.1-neoforge.jar"
 hash-format = "sha256"
 hash = "88ba00d723aedc3e52a818b58dc9479d13ea12a3e12b1ae9eb36d531cc21c280"

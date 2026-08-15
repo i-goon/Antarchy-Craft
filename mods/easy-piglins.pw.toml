@@ -11,3 +11,7 @@ hash = "22a1069a339f5f87760adea1a14ac98fef052f1a92ea59297ad4e0db078482b315d6e4cf
 [update.modrinth]
 mod-id = "l6n94pax"
 version = "C0ZG4QHo"
+
+[update.curseforge]
+file-id = 6213612
+project-id = 419372

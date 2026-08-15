@@ -11,3 +11,7 @@ hash = "e23c8ffb002bbb9e5941cdbfe783b0f5ccc82a899287a2c1a514d2830e05e2f3814781f6
 [update.modrinth]
 mod-id = "8dYAmpGw"
 version = "vPphGFMZ"
+
+[update.curseforge]
+file-id = 8407006
+project-id = 340333

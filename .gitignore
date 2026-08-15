@@ -22,3 +22,8 @@ overrides/config/sodium-fingerprint.json
 
 errors.png
 
+
+# Pack exports
+*.zip
+*.mrpack
+

@@ -11,3 +11,7 @@ hash = "2a689e1b1e16acc790c011b42ec21958956207c3b49cb99cb5c006e639786adf1cc36559
 [update.modrinth]
 mod-id = "AANobbMI"
 version = "S3DUMfBo"
+
+[update.curseforge]
+file-id = 8382328
+project-id = 394468

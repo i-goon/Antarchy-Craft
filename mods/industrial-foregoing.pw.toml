@@ -11,3 +11,7 @@ hash = "a8a52f0e79fe019d8b77cc50a8b04b36d5532c92f75dff51bc528e70fb23eb67f8a9bfd3
 [update.modrinth]
 mod-id = "lWxpUd04"
 version = "7otXKx1D"
+
+[update.curseforge]
+file-id = 8370717
+project-id = 266515

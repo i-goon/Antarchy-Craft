@@ -11,3 +11,7 @@ hash = "3664a18ab0f55ea63664d057f1cea8653daca7bd05ed629c0f3c7ecc091589846617eef5
 [update.modrinth]
 mod-id = "SISoSFPP"
 version = "HJxTPhTM"
+
+[update.curseforge]
+file-id = 6060028
+project-id = 930131

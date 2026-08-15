@@ -11,3 +11,7 @@ hash = "41d616d3d944faaee2cde4d15b3fc35cdd154690169f43d8436e6432df50db90355ca5fe
 [update.modrinth]
 mod-id = "KZO4S4DO"
 version = "1prWLuga"
+
+[update.curseforge]
+file-id = 8011715
+project-id = 633483

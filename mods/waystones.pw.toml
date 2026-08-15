@@ -11,3 +11,7 @@ hash = "56dc6f6d220106338b5f3825de9e2f3379eeebaaf52120adfcfbedabae068af2cc502349
 [update.modrinth]
 mod-id = "LOpKHB2A"
 version = "OL8Mnbav"
+
+[update.curseforge]
+file-id = 8498220
+project-id = 245755

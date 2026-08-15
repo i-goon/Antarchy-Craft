@@ -11,3 +11,7 @@ hash = "df97b8b5053a902264a236a71e7585b78d9d48a0bce585033aa8b169896d775f6fda462c
 [update.modrinth]
 mod-id = "guitPqEi"
 version = "px0CCB06"
+
+[update.curseforge]
+file-id = 6995432
+project-id = 223852

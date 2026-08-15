@@ -11,3 +11,7 @@ hash = "bd01b2a38a869ea38e5f2a8fcd601e67ea9b132b9883c6ae752bc35dff6e94f6d47b965e
 [update.modrinth]
 mod-id = "xv94TkTM"
 version = "FaNppCJJ"
+
+[update.curseforge]
+file-id = 6368976
+project-id = 250398

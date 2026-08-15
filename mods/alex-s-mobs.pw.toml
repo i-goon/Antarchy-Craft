@@ -3,6 +3,6 @@ filename = "alexsmobs-1.22.17.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/i-goon/Antarchy-Craft/master/custom-mods/alexsmobs-1.22.17.jar"
+url = "https://github.com/i-goon/Antarchy-Craft/releases/download/custom-mods/alexsmobs-1.22.17.jar"
 hash-format = "sha256"
 hash = "0c21eb760e645103f945e857cae534c959469e86ab33f8f8593de7318d822015"
