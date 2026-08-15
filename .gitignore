@@ -20,3 +20,5 @@ overrides/config/sodium-fingerprint.json
 *.bak
 *.mrpack
 
+errors.png
+
