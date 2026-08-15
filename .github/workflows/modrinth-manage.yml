@@ -1,0 +1,42 @@
+name: Manage Modrinth versions
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: "Action to perform"
+        required: true
+        default: "delete"
+        type: choice
+        options:
+          - list
+          - delete
+      keep_version:
+        description: "Version number to KEEP (delete mode)"
+        required: false
+        default: "1.0.23"
+        type: string
+
+jobs:
+  manage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: List versions
+        env:
+          MR_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+        run: |
+          curl -s -H "Authorization: $MR_TOKEN" "https://api.modrinth.com/v2/project/EHj9agqR/version" > versions.json
+          jq -r '.[] | "\(.id) | \(.version_number) | \(.version_type) | \(.date_published) | listed=\(.listed) | downloads=\(.downloads)"' versions.json
+
+      - name: Delete old versions
+        if: ${{ github.event.inputs.action == 'delete' }}
+        env:
+          MR_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+          KEEP: ${{ github.event.inputs.keep_version }}
+        run: |
+          for id in $(jq -r --arg keep "$KEEP" '.[] | select(.version_number != $keep) | .id' versions.json); do
+            num=$(jq -r --arg id "$id" '.[] | select(.id == $id) | .version_number' versions.json)
+            echo "Deleting version $num ($id)..."
+            curl -s -o /dev/null -w "  HTTP %{http_code}\n" -X DELETE -H "Authorization: $MR_TOKEN" "https://api.modrinth.com/v2/version/$id"
+          done
+          echo "Done."
