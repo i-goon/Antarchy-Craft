@@ -23,9 +23,12 @@ jobs:
         env:
           CF_KEY: ${{ secrets.CURSEFORGE_TOKEN }}
         run: |
-          curl -s -H "x-api-key: $CF_KEY" "https://api.curseforge.com/v1/mods/1653892/files?pageSize=50" > cf-files.json
+          echo "=== HTTP STATUS ==="
+          curl -s -o cf-files.json -w "%{http_code}\n" -H "x-api-key: $CF_KEY" "https://api.curseforge.com/v1/mods/1653892/files?pageSize=50"
           echo "=== RAW RESPONSE ==="
           cat cf-files.json
+          echo "=== ALSO TRY mod endpoint ==="
+          curl -s -w "\nHTTP %{http_code}\n" -H "x-api-key: $CF_KEY" "https://api.curseforge.com/v1/mods/1653892"
           echo "=== PARSED ==="
           jq -r '.data[] | "\(.id) | \(.displayName) | \(.fileName) | \(.fileDate) | len=\(.fileLength)"' cf-files.json
 
