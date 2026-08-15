@@ -1582,7 +1582,7 @@ hash = "fede2239a8566281381e13f863d6a30a326ea4a89bca5c7b5badad75f9536fd4"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "5b91acae98284286abb16b340d19205dd0ef2e52793138a27f9a8355fcbd50bb"
+hash = "0e64e5af2a3a41d4eecc16eca65d2ac36b80c0e8afaee501bac9fee12f34528a"
 
 [[files]]
 file = "config/dungeon_crawl.toml"
@@ -2721,6 +2721,16 @@ metafile = true
 [[files]]
 file = "mods/iron-jetpacks.pw.toml"
 hash = "b5d1570b03d20bfc07b05365a4dc7a4d307f6d3a3126277a6d55c83499462c8d"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
 
 [[files]]
