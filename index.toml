@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/publish.yml"
+hash = "c0cee4c2eeb1202c37476712d9d28c3f5a28b3b4d7a6a3a660fb16abf9e32d66"
+
+[[files]]
 file = "README.md"
-hash = "0714055fbf32aca89e0fe0219a0c399ee2d5ff9cd310b596662881ee2719e6a8"
+hash = "2651eef02fc1594a993a903fc3a6af36a99d4d3416fa5bc93b088d93d4d0ea4d"
 
 [[files]]
 file = "antarchy_craft.png"
@@ -67,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
 
 [[files]]
@@ -126,6 +130,11 @@ hash = "e86ba611faf7caeed1ea1191e17d6f396e9467a055facf94ab106ef87c24b305"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
@@ -166,6 +175,11 @@ hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "dfc42a26ddd76ee99cad6f023e0c14c82cbb91d2338f7eeac678a05e3e2a13fa"
 metafile = true
@@ -198,6 +212,16 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "456f66abd180b3f5765473cda5e8acb1a6ea8b15b7ee34442be9a7af414cfc63"
 metafile = true
 
 [[files]]
@@ -238,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/cucumber.pw.toml"
 hash = "b2059d79bf6e41281a26b5b75a8f0cb20804079fe49a22042a26aa5ce28ba7f5"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "6e6e089e208a0f1309fd704a2733e644c86ecce953b4ec31e7d0f1bdef6005d4"
 metafile = true
 
 [[files]]
@@ -321,6 +350,11 @@ hash = "6c7d9121b4720ae25ef88481fe7fdd2356876367708f7a69cc7a18d3f626ffcf"
 metafile = true
 
 [[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
+metafile = true
+
+[[files]]
 file = "mods/forbidden-arcanus.pw.toml"
 hash = "1781b20756b9c2b0bd930e18bbe7cd8c66d822018d95d74b5ffbbfac19aa94ff"
 metafile = true
@@ -333,6 +367,36 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
+metafile = true
+
+[[files]]
+file = "mods/ftb-chunks-forge.pw.toml"
+hash = "0922cfee3b7351e62fb22ccc6e5a59f35fd99fe80737dc861ada3b5407ecdf87"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "6fa984dc1b5905ae909b417ed1cd92d6b536ba4832ed8c8d95aa9d424ad789df"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "276e79d919c3a698ab2881d784544b7e60bef69b43f44808353bb65d38633cb3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "e08ffd391c473a9b108eb5d4033fe511560155b6243033e776caf8d56e6e9b53"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
 metafile = true
 
 [[files]]
@@ -453,6 +517,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "1adf24c4207f2e7c99be3b5d4aaef206fbc3725441c14e1f7ea77d2648fc10ee"
 metafile = true
 
 [[files]]
@@ -706,6 +775,11 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "5b6a8b957c193e3433593c71b2e397698c5216cce763ee973e60b1f48d79a052"
 metafile = true
@@ -742,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "430ecd19869d1481232c9ab0c4a362ad2c71d91f013531206d692b820ba07306"
+hash = "acb5d4fc6cad412f7b58cdbe8432f279d5b8117be710a8c9924076c9081a6007"
 metafile = true
 
 [[files]]
