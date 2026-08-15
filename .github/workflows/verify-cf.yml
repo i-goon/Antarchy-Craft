@@ -1,0 +1,59 @@
+name: Verify CurseForge upload
+
+on:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.23"
+
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: Export CurseForge zip locally
+        run: packwiz curseforge export
+
+      - name: List CF files
+        env:
+          CF_KEY: ${{ secrets.CURSEFORGE_TOKEN }}
+        run: |
+          curl -s -H "x-api-key: $CF_KEY" "https://api.curseforge.com/v1/mods/1653892/files?pageSize=50" > cf-files.json
+          jq -r '.data[] | "\(.id) | \(.displayName) | \(.fileName) | \(.fileDate) | len=\(.fileLength)"' cf-files.json
+
+      - name: Download latest CF file
+        env:
+          CF_KEY: ${{ secrets.CURSEFORGE_TOKEN }}
+        run: |
+          FILEID=$(jq -r '[.data[]] | sort_by(.fileDate) | reverse | .[0].id' cf-files.json)
+          FILENAME=$(jq -r '[.data[]] | sort_by(.fileDate) | reverse | .[0].fileName' cf-files.json)
+          echo "Latest CF file: $FILENAME (id $FILEID)"
+          URL=$(curl -s -X POST -H "x-api-key: $CF_KEY" "https://api.curseforge.com/v1/mods/1653892/files/$FILEID/download-url" | jq -r '.data // empty')
+          echo "Download URL: $URL"
+          curl -sL "$URL" -o cf-latest.zip
+          ls -la cf-latest.zip
+
+      - name: Compare trees
+        run: |
+          mkdir -p local cf
+          unzip -q "Antarchy Craft-*.zip" -d local
+          unzip -q cf-latest.zip -d cf
+          echo "=== Local export tree ==="
+          (cd local && find . -type f | sort) > local-files.txt
+          echo "=== CF-downloaded tree ==="
+          (cd cf && find . -type f | sort) > cf-files.txt
+          wc -l local-files.txt cf-files.txt
+          echo "--- Files only in local export ---"
+          comm -23 local-files.txt cf-files.txt
+          echo "--- Files only in CF upload ---"
+          comm -13 local-files.txt cf-files.txt
+          echo "--- manifest.json mod count: local vs CF ---"
+          jq '.files | length' local/manifest.json
+          jq '.files | length' cf/manifest.json
+          echo "--- manifest diff (projectID/fileID pairs) ---"
+          diff <(jq -S '.files' local/manifest.json) <(jq -S '.files' cf/manifest.json) && echo "MANIFESTS IDENTICAL"
