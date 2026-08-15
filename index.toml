@@ -2978,6 +2978,14 @@ file = "overrides/config/reliquary-common.toml"
 hash = "8881d6cf6a3c93917acf9358954991da15a1557778fcc86f6dca60925176058b"
 
 [[files]]
+file = "overrides/config/servercore/config.yml"
+hash = "7ba0b87a771e19aff26f03561789267b71593405d339b0cd5415888e37756178"
+
+[[files]]
+file = "overrides/config/servercore/optimizations.yml"
+hash = "f192ee6eadc75922796643808c9a9a53ad28ce944c08ba08754c486ca73619d5"
+
+[[files]]
 file = "overrides/config/shrink.json5"
 hash = "f425d766957c85beb2a952855341b93ba2992dfb39a7cab079d685a720fcf961"
 
@@ -3144,6 +3152,14 @@ hash = "446714abc6b3dcdfc37c7719d377d45127e0fd13b375b7f425c386eb2d533164"
 [[files]]
 file = "overrides/defaultconfigs/ftbessentials-server.snbt"
 hash = "e63fbc2d25ccd2d86eb887562d3f5f544dadcb75b0c68dd7cc152f7197a1e2d7"
+
+[[files]]
+file = "overrides/defaultoptions/keybinds/defaultkeys.txt"
+hash = "5b91acae98284286abb16b340d19205dd0ef2e52793138a27f9a8355fcbd50bb"
+
+[[files]]
+file = "overrides/server.properties"
+hash = "136a1360b8872655518c01f747c3a1cd9e87ff94d5fbd038f61ecdba21cbbbc8"
 
 [[files]]
 file = "resourcepacks/create-diesel-generators-tfmg-style.pw.toml"
