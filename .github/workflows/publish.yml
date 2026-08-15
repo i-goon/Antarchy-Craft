@@ -1,4 +1,4 @@
-name: Publish to Modrinth
+name: Publish
 
 on:
   workflow_dispatch:  # manual trigger
@@ -19,8 +19,11 @@ jobs:
       - name: Install packwiz
         run: go install github.com/packwiz/packwiz@latest
 
-      - name: Export .mrpack
+      - name: Export .mrpack (Modrinth)
         run: packwiz modrinth export
+
+      - name: Export .zip (CurseForge)
+        run: packwiz curseforge export
 
       - name: Publish to Modrinth
         uses: Kir-Antipov/mc-publish@v3
@@ -29,6 +32,17 @@ jobs:
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           files: |
             *.mrpack
+          loaders: neoforge
+          game-versions: "1.21.1"
+          changelog: "See commits for changes"
+
+      - name: Publish to CurseForge
+        uses: Kir-Antipov/mc-publish@v3
+        with:
+          curseforge-id: 1653892
+          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+          files: |
+            *.zip
           loaders: neoforge
           game-versions: "1.21.1"
           changelog: "See commits for changes"
