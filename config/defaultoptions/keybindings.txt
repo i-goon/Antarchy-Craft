@@ -9,3 +9,5 @@ key_key.ars_nouveau.open_book:key.keyboard.unknown
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
 key_key.cataclysm.helmet_ability:key.keyboard.unknown
+key_key.draconicevolution.tool_config:key.keyboard.unknown
+key_key.draconicevolution.tool_modules:key.keyboard.unknown
