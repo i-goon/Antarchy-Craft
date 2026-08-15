@@ -33,6 +33,11 @@ hash = "32d23a06308b6297ddc57d9dc85553cf75b4a5c5f3cd9498b9ffd34b1f219be3"
 metafile = true
 
 [[files]]
+file = "mods/antarchy.pw.toml"
+hash = "ad83709b8d11b9c39677b631adc09ed9458591f37934109daff1568cf4d89ebd"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "bb73cb9a5cc9b7c2a184e2844226f92c90d38d602c7997bb71aa200785887d11"
 metafile = true
