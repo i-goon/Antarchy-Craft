@@ -1,6 +1,6 @@
 name = "YUNG's Extras"
 filename = "YungsExtras-1.21.1-NeoForge-5.1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZYgyPyfq/versions/N2EpMhR7/YungsExtras-1.21.1-NeoForge-5.1.1.jar"

@@ -1,6 +1,6 @@
 name = "Oh The Trees You'll Grow"
 filename = "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/g8NOG5OR/versions/ozzakIcu/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar"

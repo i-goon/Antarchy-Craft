@@ -1,6 +1,6 @@
 name = "YUNG's Bridges"
 filename = "YungsBridges-1.21.1-NeoForge-5.1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ht4BfYp6/versions/urkCzBf6/YungsBridges-1.21.1-NeoForge-5.1.1.jar"
