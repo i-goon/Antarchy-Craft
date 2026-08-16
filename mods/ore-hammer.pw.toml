@@ -1,0 +1,13 @@
+name = "Ore Hammer"
+filename = "ore_hammer-2.2.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ik4HlYeI/versions/BKJO8flz/ore_hammer-2.2.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "551f3920cd9b19eeaadee4cf3e512b963a7ec385abff9c811c436414651b4dcf238cc0e8736bffbd222381b466535f25cc2c4a1a16dc2b7f3fd8d0f2b72fe59d"
+
+[update]
+[update.modrinth]
+mod-id = "Ik4HlYeI"
+version = "BKJO8flz"

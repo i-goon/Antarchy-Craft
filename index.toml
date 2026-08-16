@@ -2869,6 +2869,11 @@ hash = "d7e9ed0512af985567a9154de389123c27367f72578536d6661e9bee35c52ab7"
 metafile = true
 
 [[files]]
+file = "mods/ore-hammer.pw.toml"
+hash = "e1ff28d7b9985373cf210bd779809ae4d2dbb99c4627095b6709a74ce94ab5d9"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "4b9fc7bca0ca278b0a8dca152ecc75515225226eec3720ae20456f1b6e7f66e7"
 metafile = true
