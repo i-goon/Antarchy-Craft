@@ -11,3 +11,7 @@ hash = "9d4b2a1be5139c0fb2fad92ed21805b17d9e83b6ea48e637e018bb14063c1823a2063907
 [update.modrinth]
 mod-id = "kkmrDlKT"
 version = "6e8GCrLb"
+
+[update.curseforge]
+project-id = 940057
+file-id = 6054947

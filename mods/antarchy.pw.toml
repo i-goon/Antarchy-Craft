@@ -11,3 +11,7 @@ hash = "e31cd15e0261cac5a91472839238291561cedeeb47f95f3fb79a58a2a7a27087da081bd5
 [update.modrinth]
 mod-id = "bnrJEOg5"
 version = "WOtbxCZ2"
+
+[update.curseforge]
+project-id = 1504802
+file-id = 8518509

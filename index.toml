@@ -2265,7 +2265,7 @@ metafile = true
 
 [[files]]
 file = "mods/antarchy.pw.toml"
-hash = "ad83709b8d11b9c39677b631adc09ed9458591f37934109daff1568cf4d89ebd"
+hash = "0af26ac2adb6cf24280e4e1cd49783a814ddae621b14580310c0ab8584924240"
 metafile = true
 
 [[files]]
@@ -2435,7 +2435,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "b607b4c0f30caa94f29f1624a5f58eb8673040bd50845145e5f0533fd9e9b6b8"
+hash = "afd94618f44ea8777f38f804264bb8596d96974142210ae5a8eccb702285c85d"
 metafile = true
 
 [[files]]
@@ -2725,12 +2725,12 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
-hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+hash = "b8cd6931ce96c85682b3259d32e39ed62fdc57ec28b47fcf855d82d723c0cc92"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
+hash = "f79eee7826f141f6b9d750af339bcafb5a284d17c1dd502d115323d34464d3a4"
 metafile = true
 
 [[files]]
@@ -2870,7 +2870,7 @@ metafile = true
 
 [[files]]
 file = "mods/ore-hammer.pw.toml"
-hash = "e1ff28d7b9985373cf210bd779809ae4d2dbb99c4627095b6709a74ce94ab5d9"
+hash = "1f1d11f85aef1e61cde46718bd92d457b62197beb8a7a3a06935c269826ac98b"
 metafile = true
 
 [[files]]
@@ -3035,7 +3035,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+hash = "a91e00ee8520225f596af313fac99f5b6cbd144dcfa12d8c4de6c9418341e1ee"
 metafile = true
 
 [[files]]
@@ -3065,7 +3065,7 @@ metafile = true
 
 [[files]]
 file = "mods/trashslot.pw.toml"
-hash = "c1e0c805d5ccd49535a6820aa8a2461a516437f90312fcadd393f928e3ce7bf2"
+hash = "f0972c1335d75b74e007d54667a59ff3e039c0587f2ff5a62663a45799ad18f6"
 metafile = true
 
 [[files]]
@@ -3080,7 +3080,7 @@ metafile = true
 
 [[files]]
 file = "mods/valhelsia-furniture.pw.toml"
-hash = "e32edf3089c8b5c395fb9665f415254dc0e627dad6ab0dd26d85168b665aa024"
+hash = "4de4a9413c8a0ad88b9fba7a3de5d968581fa5cc653284708c6e9d31f585e63d"
 metafile = true
 
 [[files]]
@@ -3155,7 +3155,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/create-diesel-generators-tfmg-style.pw.toml"
-hash = "dea1d44fc7ad4d15dcb376365d731aa41f5cb1e6a85dd522e619b975610f5911"
+hash = "8c239d018336e440663b9171b0459d194381acb8428ca5cb31a0b97354953260"
 metafile = true
 
 [[files]]
