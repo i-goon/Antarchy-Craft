@@ -1,12 +1,12 @@
 name = "Antarchy Craft"
 author = "JAB-dev"
-version = "1.0.26"
+version = "1.0.27"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "40f4b027f299ffdf40f895d1406a05475c29c46c770f8389eb06c37e88ac469c"
+hash = "1e891236348929c647b3f6e06d4ce3d5c81439f7ad902c9d647d0a9ff418501e"
 
 [versions]
 minecraft = "1.21.1"

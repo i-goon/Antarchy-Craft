@@ -2504,6 +2504,11 @@ hash = "431aeedad576349dc4a7c5e12da0555e1c38da04aa0e9bbfec3fbc240e675703"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "e8c1d5e53e6abf1842f4d6b097b2ed28d6a9e22cd0f9185f4618dc5b369add17"
+metafile = true
+
+[[files]]
 file = "mods/cyclic.pw.toml"
 hash = "eacb79638bb789a5dc5d8192c758362ff1b5ce470ef91cc27477ae46f3cabdd7"
 metafile = true
@@ -2526,6 +2531,11 @@ metafile = true
 [[files]]
 file = "mods/dungeoncrawl.pw.toml"
 hash = "de9ad4fa6967eef567c8b3379f1e4650ae2988efe01cbe38a41e10cd4959436d"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "ef1bb3ff2263dba1ebc31661f1c3fe854ecfc03e03859f8ee615ef0225633a2d"
 metafile = true
 
 [[files]]
