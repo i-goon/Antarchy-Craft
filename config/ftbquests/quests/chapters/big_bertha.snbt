@@ -1,0 +1,428 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "big_bertha"
+	group: ""
+	icon: {
+		id: "antarchy:big_bertha"
+	}
+	id: "16B34C63AD765C1B"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Smelt uranium ore."]
+			id: "370881E9F5E0C794"
+			tasks: [{
+				id: "6F22EFB2A91DBAEA"
+				item: { count: 1, id: "antarchy:uranium_ingot" }
+				type: "item"
+			}]
+			title: "Uranium Ingot"
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			description: ["Smelt titanium ore."]
+			id: "5F5E45EFACDCE9A6"
+			tasks: [{
+				id: "14B844C8D8C9B8A6"
+				item: { count: 1, id: "antarchy:titanium_ingot" }
+				type: "item"
+			}]
+			title: "Titanium Ingot"
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			id: "5DA1AD8E6FEBCD1F"
+			tasks: [{
+				id: "0D0BF75AAC01C887"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				type: "item"
+			}]
+			title: "Netherite Ingot"
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["370881E9F5E0C794", "5F5E45EFACDCE9A6", "5DA1AD8E6FEBCD1F"]
+			description: ["It forms the core of Big Bertha's blade."]
+			id: "10845E332C012581"
+			tasks: [{
+				id: "46AB419269529D41"
+				item: { count: 1, id: "antarchy:ultimate_sword" }
+				type: "item"
+			}]
+			title: "The Ultimate Sword"
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			description: [
+				"Dropped by the Lucid.",
+				"You will need a second one later for the Gravity Gun!"
+			]
+			id: "0592D3DABACD0CE6"
+			tasks: [{
+				id: "501443CEB7E26C14"
+				item: { count: 1, id: "antarchy:lucid_eye" }
+				type: "item"
+			}]
+			title: "Eye of Dreams"
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			description: ["Dropped by the Basilisk."]
+			id: "1D2BC6C9E7FCD9DD"
+			tasks: [{
+				id: "64A963E21EC52B6E"
+				item: { count: 1, id: "antarchy:basilisk_fang" }
+				type: "item"
+			}]
+			title: "Basilisk Fang"
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			description: ["Dropped by the Emperor Scorpion."]
+			id: "4F15A97C2B78C20C"
+			tasks: [{
+				id: "41447979C7C5F92F"
+				item: { count: 1, id: "antarchy:emperor_scorpion_stinger" }
+				type: "item"
+			}]
+			title: "Emperor Scorpion Stinger"
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			description: ["Dropped by the Cloud Shark."]
+			id: "29BA664EB777443C"
+			tasks: [{
+				id: "602826C5FD49148A"
+				item: { count: 1, id: "antarchy:cloud_shark_fin" }
+				type: "item"
+			}]
+			title: "Cloud Shark Fin"
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			description: ["The Kraken drops both Tentacles and Teeth - you need one of each."]
+			id: "54F000B24088BB6C"
+			tasks: [
+				{
+					id: "344A367944806882"
+					item: { count: 1, id: "antarchy:kraken_tentacle" }
+					type: "item"
+				}
+				{
+					id: "54C3BD21222618FE"
+					item: { count: 1, id: "antarchy:kraken_tooth" }
+					type: "item"
+				}
+			]
+			title: "Release the Kraken"
+			x: 6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"10845E332C012581",
+				"0592D3DABACD0CE6",
+				"1D2BC6C9E7FCD9DD",
+				"4F15A97C2B78C20C",
+				"29BA664EB777443C",
+				"54F000B24088BB6C"
+			]
+			id: "61CF2F9D4B616419"
+			tasks: [{
+				id: "12277A711F2E7311"
+				item: { count: 1, id: "antarchy:big_bertha_blade" }
+				type: "item"
+			}]
+			title: "Big Bertha Blade"
+			x: 8.5d
+			y: 0.5d
+		}
+		{
+			description: ["Dropped by the Nightmare."]
+			id: "61384D5A42B93834"
+			tasks: [{
+				id: "1BA2486561F74DFF"
+				item: { count: 1, id: "antarchy:nightmare_scale" }
+				type: "item"
+			}]
+			title: "Nightmare Scale"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			description: ["Dropped by Molevore."]
+			id: "00DAC838C785004F"
+			tasks: [{
+				id: "067EB9A520B3CEEC"
+				item: { count: 1, id: "antarchy:molevore_nose" }
+				type: "item"
+			}]
+			title: "Molevore Nose"
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			description: ["Dropped by Jerry."]
+			id: "401952145436BB91"
+			tasks: [{
+				id: "71AAAFBF7C6118F8"
+				item: { count: 1, id: "antarchy:jerry_nucleus" }
+				type: "item"
+			}]
+			title: "Jerry Nucleus"
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			description: ["Dropped by the Hercules Beetle."]
+			id: "7F8D2F3FBC9C28BE"
+			tasks: [{
+				id: "531565D1C88682DF"
+				item: { count: 1, id: "antarchy:hercules_horn" }
+				type: "item"
+			}]
+			title: "Hercules Horn"
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			description: ["Dropped by the Jumpy Bug."]
+			id: "041794122D484661"
+			tasks: [{
+				id: "67F1F1DE7409DAEF"
+				item: { count: 1, id: "antarchy:jumpy_bug_leg" }
+				type: "item"
+			}]
+			title: "Jumpy Bug Leg"
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			description: ["Dropped by Toreterror."]
+			id: "6B10301A0D908130"
+			tasks: [{
+				id: "43E9D2805C13B97B"
+				item: { count: 1, id: "antarchy:primordial_scute" }
+				type: "item"
+			}]
+			title: "Primordial Scute"
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			id: "20536A6C1E21C77A"
+			tasks: [{
+				id: "05F97B484652C99E"
+				item: { count: 1, id: "minecraft:sugar" }
+				type: "item"
+			}]
+			title: "Sugar"
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "707341E3F0EEAE0C"
+			tasks: [{
+				id: "777E2E5EF6FF43A2"
+				item: { count: 1, id: "antarchy:uranium_nugget" }
+				type: "item"
+			}]
+			title: "Uranium Nugget"
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			id: "74371D87F77252BF"
+			tasks: [{
+				id: "6ACEDC10CEA1756E"
+				item: { count: 1, id: "antarchy:high_fructose_corn_syrup" }
+				type: "item"
+			}]
+			title: "High Fructose Corn Syrup"
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["20536A6C1E21C77A", "707341E3F0EEAE0C", "74371D87F77252BF"]
+			description: ["Also found in Trayaurus Lab chests."]
+			id: "3B68BB08293B5042"
+			tasks: [{
+				id: "1CA343C1796A8F0D"
+				item: { count: 1, id: "antarchy:rainbow_sugar" }
+				type: "item"
+			}]
+			title: "Rainbow Sugar"
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"61384D5A42B93834",
+				"00DAC838C785004F",
+				"401952145436BB91",
+				"7F8D2F3FBC9C28BE",
+				"041794122D484661",
+				"6B10301A0D908130",
+				"3B68BB08293B5042"
+			]
+			id: "4DA1CB466F30CB23"
+			tasks: [{
+				id: "0077AADA69F3F4A4"
+				item: { count: 1, id: "antarchy:big_bertha_hilt" }
+				type: "item"
+			}]
+			title: "Big Bertha Hilt"
+			x: 8.5d
+			y: 5.0d
+		}
+		{
+			description: ["Dropped by Praying Mantises - Alpha Mantises drop them too."]
+			id: "7B48AA1D703B5B22"
+			tasks: [{
+				id: "29AAC91B72B3ECC7"
+				item: { count: 1, id: "antarchy:mantis_claw" }
+				type: "item"
+			}]
+			title: "Mantis Claw"
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			description: ["Dropped by the Brutalfly."]
+			id: "4D924EDBBBAA90E2"
+			tasks: [{
+				id: "67B07D58D0EE81DD"
+				item: { count: 1, id: "antarchy:brutalfly_wing" }
+				type: "item"
+			}]
+			title: "Brutalfly Wing"
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			description: ["Dropped by Triffids."]
+			id: "231BE396EEC568E4"
+			tasks: [{
+				id: "239CBE781E97D851"
+				item: { count: 1, id: "antarchy:triffid_goo" }
+				type: "item"
+			}]
+			title: "Triffid Goo"
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			id: "38F236E6B00C58C8"
+			tasks: [{
+				id: "2A41930DD4E0D821"
+				item: { count: 1, id: "antarchy:raw_corndog" }
+				type: "item"
+			}]
+			title: "Raw Corndog"
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["38F236E6B00C58C8"]
+			description: ["yum"]
+			id: "7E2BB82AF06BA4A5"
+			tasks: [{
+				id: "638092BAC19F9505"
+				item: { count: 1, id: "antarchy:cooked_corndog" }
+				type: "item"
+			}]
+			title: "Cooked Corndog"
+			x: 3.5d
+			y: 9.0d
+		}
+		{
+			id: "41E2CC6B056CB704"
+			tasks: [{
+				id: "3921D859712DA022"
+				item: { count: 1, id: "minecraft:comparator" }
+				type: "item"
+			}]
+			title: "Comparator"
+			x: 2.0d
+			y: 10.5d
+		}
+		{
+			id: "099B848E75ABBBCE"
+			tasks: [{
+				id: "2C4B4A364E4678B0"
+				item: { count: 1, id: "antarchy:bluestone_comparator" }
+				type: "item"
+			}]
+			title: "Bluestone Comparator"
+			x: 3.5d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"41E2CC6B056CB704",
+				"099B848E75ABBBCE",
+				"0592D3DABACD0CE6",
+				"370881E9F5E0C794",
+				"5F5E45EFACDCE9A6",
+				"5DA1AD8E6FEBCD1F"
+			]
+			id: "468AC41BFA2FBD23"
+			tasks: [{
+				id: "010F67912911F2F8"
+				item: { count: 1, id: "antarchy:gravity_gun" }
+				type: "item"
+			}]
+			title: "Gravity Gun"
+			x: 6.0d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"7B48AA1D703B5B22",
+				"4D924EDBBBAA90E2",
+				"231BE396EEC568E4",
+				"7E2BB82AF06BA4A5",
+				"468AC41BFA2FBD23"
+			]
+			id: "5C87B4ED20485B96"
+			tasks: [{
+				id: "122F5BA05E06CFD5"
+				item: { count: 1, id: "antarchy:big_bertha_handle" }
+				type: "item"
+			}]
+			title: "Big Bertha Handle"
+			x: 8.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["61CF2F9D4B616419", "4DA1CB466F30CB23", "5C87B4ED20485B96"]
+			description: [
+				"Shift + use to cycle boss modes:",
+				"Basilisk paralyzes and poisons, Lucid inverts gravity, Nightmare spreads dread,",
+				"Kraken slams and calls lightning, Hercules launches foes skyward,",
+				"Molevore drills through blocks, Toreterror crashes down with an AOE shockwave."
+			]
+			id: "6C3CC466DF3D88BE"
+			tasks: [{
+				id: "1507DA6ACB0E8BB7"
+				item: { count: 1, id: "antarchy:big_bertha" }
+				type: "item"
+			}]
+			title: "BIG BERTHA"
+			x: 11.0d
+			y: 5.0d
+		}
+	]
+	title: "Big Bertha"
+}
