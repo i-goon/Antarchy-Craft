@@ -1697,6 +1697,10 @@ file = "config/ftbquests/quests/chapters/big_bertha.snbt"
 hash = "b97cdf583fef1767f083405d461d0b41cf9dd06a8311614259c857c01fc25857"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/bosses.snbt"
+hash = "dfbad866ca19c3a817489b52ffdffc0f5560aeb749549dd52806a08085b7a7b6"
+
+[[files]]
 file = "config/ftbteams-server.snbt"
 hash = "2ef5e2dca3a653ced3f3981a85a32832fb3716caa5fa05e233f50ab16044a2c4"
 

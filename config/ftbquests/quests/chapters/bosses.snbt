@@ -1,0 +1,47 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bosses"
+	group: ""
+	icon: "minecraft:dragon_head"
+	id: "4AE831F245E4DD6A"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"In The End, you'll find the final boss of Vanilla Minecraft: The Ender Dragon.",
+				"At the top of each pillar of Obsidian, you'll find an End Crystal that heals the Dragon. Make sure to take those out first! They also do a lot of damage, so make sure to create some distance!",
+				"Once defeated, a Dragon Egg spawns at the top of the Exit Portal. This cannot be mined like normal blocks, but is affected by gravity."
+			]
+			id: "BE2E67BC9B225895"
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "C01F126BA414D75C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Kill the Ender Dragon"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Now the actual fight starts, he has two health bars both need to get taken to 0 to get the Chaos Shards. Don't get too close or he'll hit you with a barrage of Fireballs!",
+				"(BTW in older versions the Chaos Guardian could even kill someone in Creative mode! Fortunately it can't anymore)"
+			]
+			id: "17BE13E24CD644E5"
+			tasks: [{
+				entity: "draconicevolution:draconic_guardian"
+				id: "1B2158A48954F76A"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Kill the Chaos Guardian"
+			x: 3.5d
+			y: 0.0d
+		}
+	]
+	title: "Bosses"
+}
