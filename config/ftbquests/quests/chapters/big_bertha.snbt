@@ -16,7 +16,7 @@
 			id: "370881E9F5E0C794"
 			tasks: [{
 				id: "6F22EFB2A91DBAEA"
-				item: { count: 1, id: "antarchy:uranium_ingot" }
+				item: "antarchy:uranium_ingot"
 				type: "item"
 			}]
 			title: "Uranium Ingot"
@@ -28,7 +28,7 @@
 			id: "5F5E45EFACDCE9A6"
 			tasks: [{
 				id: "14B844C8D8C9B8A6"
-				item: { count: 1, id: "antarchy:titanium_ingot" }
+				item: "antarchy:titanium_ingot"
 				type: "item"
 			}]
 			title: "Titanium Ingot"
@@ -39,7 +39,7 @@
 			id: "5DA1AD8E6FEBCD1F"
 			tasks: [{
 				id: "0D0BF75AAC01C887"
-				item: { count: 1, id: "minecraft:netherite_ingot" }
+				item: "minecraft:netherite_ingot"
 				type: "item"
 			}]
 			title: "Netherite Ingot"
@@ -52,7 +52,7 @@
 			id: "10845E332C012581"
 			tasks: [{
 				id: "46AB419269529D41"
-				item: { count: 1, id: "antarchy:ultimate_sword" }
+				item: "antarchy:ultimate_sword"
 				type: "item"
 			}]
 			title: "The Ultimate Sword"
@@ -67,7 +67,7 @@
 			id: "0592D3DABACD0CE6"
 			tasks: [{
 				id: "501443CEB7E26C14"
-				item: { count: 1, id: "antarchy:lucid_eye" }
+				item: "antarchy:lucid_eye"
 				type: "item"
 			}]
 			title: "Eye of Dreams"
@@ -79,7 +79,7 @@
 			id: "1D2BC6C9E7FCD9DD"
 			tasks: [{
 				id: "64A963E21EC52B6E"
-				item: { count: 1, id: "antarchy:basilisk_fang" }
+				item: "antarchy:basilisk_fang"
 				type: "item"
 			}]
 			title: "Basilisk Fang"
@@ -91,7 +91,7 @@
 			id: "4F15A97C2B78C20C"
 			tasks: [{
 				id: "41447979C7C5F92F"
-				item: { count: 1, id: "antarchy:emperor_scorpion_stinger" }
+				item: "antarchy:emperor_scorpion_stinger"
 				type: "item"
 			}]
 			title: "Emperor Scorpion Stinger"
@@ -103,7 +103,7 @@
 			id: "29BA664EB777443C"
 			tasks: [{
 				id: "602826C5FD49148A"
-				item: { count: 1, id: "antarchy:cloud_shark_fin" }
+				item: "antarchy:cloud_shark_fin"
 				type: "item"
 			}]
 			title: "Cloud Shark Fin"
@@ -116,12 +116,12 @@
 			tasks: [
 				{
 					id: "344A367944806882"
-					item: { count: 1, id: "antarchy:kraken_tentacle" }
+					item: "antarchy:kraken_tentacle"
 					type: "item"
 				}
 				{
 					id: "54C3BD21222618FE"
-					item: { count: 1, id: "antarchy:kraken_tooth" }
+					item: "antarchy:kraken_tooth"
 					type: "item"
 				}
 			]
@@ -141,7 +141,7 @@
 			id: "61CF2F9D4B616419"
 			tasks: [{
 				id: "12277A711F2E7311"
-				item: { count: 1, id: "antarchy:big_bertha_blade" }
+				item: "antarchy:big_bertha_blade"
 				type: "item"
 			}]
 			title: "Big Bertha Blade"
@@ -153,7 +153,7 @@
 			id: "61384D5A42B93834"
 			tasks: [{
 				id: "1BA2486561F74DFF"
-				item: { count: 1, id: "antarchy:nightmare_scale" }
+				item: "antarchy:nightmare_scale"
 				type: "item"
 			}]
 			title: "Nightmare Scale"
@@ -165,7 +165,7 @@
 			id: "00DAC838C785004F"
 			tasks: [{
 				id: "067EB9A520B3CEEC"
-				item: { count: 1, id: "antarchy:molevore_nose" }
+				item: "antarchy:molevore_nose"
 				type: "item"
 			}]
 			title: "Molevore Nose"
@@ -177,7 +177,7 @@
 			id: "401952145436BB91"
 			tasks: [{
 				id: "71AAAFBF7C6118F8"
-				item: { count: 1, id: "antarchy:jerry_nucleus" }
+				item: "antarchy:jerry_nucleus"
 				type: "item"
 			}]
 			title: "Jerry Nucleus"
@@ -189,7 +189,7 @@
 			id: "7F8D2F3FBC9C28BE"
 			tasks: [{
 				id: "531565D1C88682DF"
-				item: { count: 1, id: "antarchy:hercules_horn" }
+				item: "antarchy:hercules_horn"
 				type: "item"
 			}]
 			title: "Hercules Horn"
@@ -201,7 +201,7 @@
 			id: "041794122D484661"
 			tasks: [{
 				id: "67F1F1DE7409DAEF"
-				item: { count: 1, id: "antarchy:jumpy_bug_leg" }
+				item: "antarchy:jumpy_bug_leg"
 				type: "item"
 			}]
 			title: "Jumpy Bug Leg"
@@ -213,7 +213,7 @@
 			id: "6B10301A0D908130"
 			tasks: [{
 				id: "43E9D2805C13B97B"
-				item: { count: 1, id: "antarchy:primordial_scute" }
+				item: "antarchy:primordial_scute"
 				type: "item"
 			}]
 			title: "Primordial Scute"
@@ -224,7 +224,7 @@
 			id: "20536A6C1E21C77A"
 			tasks: [{
 				id: "05F97B484652C99E"
-				item: { count: 1, id: "minecraft:sugar" }
+				item: "minecraft:sugar"
 				type: "item"
 			}]
 			title: "Sugar"
@@ -235,7 +235,7 @@
 			id: "707341E3F0EEAE0C"
 			tasks: [{
 				id: "777E2E5EF6FF43A2"
-				item: { count: 1, id: "antarchy:uranium_nugget" }
+				item: "antarchy:uranium_nugget"
 				type: "item"
 			}]
 			title: "Uranium Nugget"
@@ -246,7 +246,7 @@
 			id: "74371D87F77252BF"
 			tasks: [{
 				id: "6ACEDC10CEA1756E"
-				item: { count: 1, id: "antarchy:high_fructose_corn_syrup" }
+				item: "antarchy:high_fructose_corn_syrup"
 				type: "item"
 			}]
 			title: "High Fructose Corn Syrup"
@@ -259,7 +259,7 @@
 			id: "3B68BB08293B5042"
 			tasks: [{
 				id: "1CA343C1796A8F0D"
-				item: { count: 1, id: "antarchy:rainbow_sugar" }
+				item: "antarchy:rainbow_sugar"
 				type: "item"
 			}]
 			title: "Rainbow Sugar"
@@ -279,7 +279,7 @@
 			id: "4DA1CB466F30CB23"
 			tasks: [{
 				id: "0077AADA69F3F4A4"
-				item: { count: 1, id: "antarchy:big_bertha_hilt" }
+				item: "antarchy:big_bertha_hilt"
 				type: "item"
 			}]
 			title: "Big Bertha Hilt"
@@ -291,7 +291,7 @@
 			id: "7B48AA1D703B5B22"
 			tasks: [{
 				id: "29AAC91B72B3ECC7"
-				item: { count: 1, id: "antarchy:mantis_claw" }
+				item: "antarchy:mantis_claw"
 				type: "item"
 			}]
 			title: "Mantis Claw"
@@ -303,7 +303,7 @@
 			id: "4D924EDBBBAA90E2"
 			tasks: [{
 				id: "67B07D58D0EE81DD"
-				item: { count: 1, id: "antarchy:brutalfly_wing" }
+				item: "antarchy:brutalfly_wing"
 				type: "item"
 			}]
 			title: "Brutalfly Wing"
@@ -315,7 +315,7 @@
 			id: "231BE396EEC568E4"
 			tasks: [{
 				id: "239CBE781E97D851"
-				item: { count: 1, id: "antarchy:triffid_goo" }
+				item: "antarchy:triffid_goo"
 				type: "item"
 			}]
 			title: "Triffid Goo"
@@ -326,7 +326,7 @@
 			id: "38F236E6B00C58C8"
 			tasks: [{
 				id: "2A41930DD4E0D821"
-				item: { count: 1, id: "antarchy:raw_corndog" }
+				item: "antarchy:raw_corndog"
 				type: "item"
 			}]
 			title: "Raw Corndog"
@@ -339,7 +339,7 @@
 			id: "7E2BB82AF06BA4A5"
 			tasks: [{
 				id: "638092BAC19F9505"
-				item: { count: 1, id: "antarchy:cooked_corndog" }
+				item: "antarchy:cooked_corndog"
 				type: "item"
 			}]
 			title: "Cooked Corndog"
@@ -350,7 +350,7 @@
 			id: "41E2CC6B056CB704"
 			tasks: [{
 				id: "3921D859712DA022"
-				item: { count: 1, id: "minecraft:comparator" }
+				item: "minecraft:comparator"
 				type: "item"
 			}]
 			title: "Comparator"
@@ -361,7 +361,7 @@
 			id: "099B848E75ABBBCE"
 			tasks: [{
 				id: "2C4B4A364E4678B0"
-				item: { count: 1, id: "antarchy:bluestone_comparator" }
+				item: "antarchy:bluestone_comparator"
 				type: "item"
 			}]
 			title: "Bluestone Comparator"
@@ -380,7 +380,7 @@
 			id: "468AC41BFA2FBD23"
 			tasks: [{
 				id: "010F67912911F2F8"
-				item: { count: 1, id: "antarchy:gravity_gun" }
+				item: "antarchy:gravity_gun"
 				type: "item"
 			}]
 			title: "Gravity Gun"
@@ -398,7 +398,7 @@
 			id: "5C87B4ED20485B96"
 			tasks: [{
 				id: "122F5BA05E06CFD5"
-				item: { count: 1, id: "antarchy:big_bertha_handle" }
+				item: "antarchy:big_bertha_handle"
 				type: "item"
 			}]
 			title: "Big Bertha Handle"
@@ -416,7 +416,7 @@
 			id: "6C3CC466DF3D88BE"
 			tasks: [{
 				id: "1507DA6ACB0E8BB7"
-				item: { count: 1, id: "antarchy:big_bertha" }
+				item: "antarchy:big_bertha"
 				type: "item"
 			}]
 			title: "BIG BERTHA"

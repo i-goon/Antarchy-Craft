@@ -1694,7 +1694,7 @@ hash = "122a0205ec0cbf63f1db42f24f6c5c6095f54083f2c4f985c473acd2e228988f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/big_bertha.snbt"
-hash = "b1f553705a0af67e22291ad321c93a071229639927ac708a16a7d5dfcc6f8ca0"
+hash = "b97cdf583fef1767f083405d461d0b41cf9dd06a8311614259c857c01fc25857"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -2645,6 +2645,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
+metafile = true
+
+[[files]]
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "ee6795bb97cc74a55f3ae364ea60b754b725102b752b72ac7f62159de5e6b191"
 metafile = true
 
 [[files]]
