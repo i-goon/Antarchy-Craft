@@ -181,22 +181,10 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [lionfishapi](https://modrinth.com/mod/lionfish-api) by L\_Ender
 - [storagenetwork](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network) by Lothrazar
 
-## Distribution & Publishing Status
+## Distribution
 
-The pack ships automatically to both platforms on every `v*` git tag via GitHub Actions (`mc-publish`).
-
-| Platform | Project | Status |
-| --- | --- | --- |
-| Modrinth | `EHj9agqR` (Antarchy Craft) | Published, versions auto-upload. Several mods require **permission** before they can be distributed there — see below. |
-| CurseForge | `1653892` ("Our Antarchy Craft") | Submitted, currently **in review** by CurseForge staff. |
-
-### Modrinth permission-flagged mods
-
-Modrinth blocks distribution of these until permissions are granted:
-
-- **FTB suite** (FTB Backups 2, Chunks, Essentials, Library, Quests, Teams, Ultimine) — All Rights Reserved. Requires explicit permission from the FTB Team. Contact: [Discord](https://discord.com/invite/X5UGvBs), [forums](https://forum.feed-the-beast.com), or GitHub issues. No public grant exists yet.
-- **Twilight Forest** — LGPL 2.1 (code) + CC BY-NC-SA 4.0 (assets). Can be disputed with this evidence: [LICENSE](https://github.com/TeamTwilight/twilightforest/blob/latest/LICENSE), [ASSET_LICENSE](https://github.com/TeamTwilight/twilightforest/blob/latest/ASSET_LICENSE).
-- **Connectivity + Cupboard** — All Rights Reserved on CurseForge; permission requested via Modrinth's request system, pending.
+- **CurseForge:** https://www.curseforge.com/minecraft/modpacks/our-antarchy-craft — live
+- **Modrinth:** https://modrinth.com/modpack/antarchy-craft — pending approval
 
 ## Releasing a new version
 
