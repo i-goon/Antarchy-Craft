@@ -187,8 +187,8 @@ The pack ships automatically to both platforms on every `v*` git tag via GitHub 
 
 | Platform | Project | Status |
 | --- | --- | --- |
-| Modrinth | `EHj9agqR` (Antarchy Craft) | Published, versions auto-upload. Several mods require **permission** before they can be distributed there — see below. |
-| CurseForge | `1653892` ("Our Antarchy Craft") | Submitted, currently **in review** by CurseForge staff. |
+| Modrinth | `EHj9agqR` ([Antarchy Craft](https://modrinth.com/modpack/antarchy-craft)) | Published, versions auto-upload. Some mods need permission — see below. |
+| CurseForge | `1653892` ([Our Antarchy Craft](https://www.curseforge.com/minecraft/modpacks/our-antarchy-craft)) | Live, versions auto-upload via `v*` tag. |
 
 ### Modrinth permission-flagged mods
 
