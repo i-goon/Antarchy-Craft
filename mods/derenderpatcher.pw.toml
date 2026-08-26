@@ -1,0 +1,17 @@
+name = "Draconic Evolution Render Patcher"
+filename = "derenderpatcher-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BNhriTkm/versions/qVGpp8dZ/derenderpatcher-2.0.0.jar"
+hash-format = "sha512"
+hash = "95182186f1efc81339c6ddba9e0098aa52d49433ebe97cddaa45d68109bb75edb1c18ec1c9c2aa9a60edf1f3cf0d2983f697b07733256683481322cab0df50d8"
+
+[update]
+[update.modrinth]
+mod-id = "BNhriTkm"
+version = "qVGpp8dZ"
+
+[update.curseforge]
+project-id = 1383702
+file-id = 8277268

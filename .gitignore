@@ -23,6 +23,9 @@ overrides/config/sodium-fingerprint.json
 errors.png
 
 
+# Local notes - never commit
+_TODO-*.md
+
 # Pack exports
 *.zip
 !overrides/shaderpacks/*.zip

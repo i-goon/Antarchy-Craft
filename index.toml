@@ -1582,7 +1582,7 @@ hash = "fede2239a8566281381e13f863d6a30a326ea4a89bca5c7b5badad75f9536fd4"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "0e64e5af2a3a41d4eecc16eca65d2ac36b80c0e8afaee501bac9fee12f34528a"
+hash = "81bb1d80f098e96a534c1623ef1b54f3c34bb4a5ac21fe3becddeefc6f7923eb"
 
 [[files]]
 file = "config/dungeon_crawl.toml"
@@ -1699,6 +1699,10 @@ hash = "b97cdf583fef1767f083405d461d0b41cf9dd06a8311614259c857c01fc25857"
 [[files]]
 file = "config/ftbquests/quests/chapters/bosses.snbt"
 hash = "dfbad866ca19c3a817489b52ffdffc0f5560aeb749549dd52806a08085b7a7b6"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/twilight_forest.snbt"
+hash = "33da3883aa73e6d96c00c7eb557d3102826d58e597319b814325c09b04684785"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -2529,6 +2533,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "9ecf684b98054e4036f673edb046e3c43c68e697665034e662860c4117c755e5"
+metafile = true
+
+[[files]]
+file = "mods/derenderpatcher.pw.toml"
+hash = "afbe27f6be6cedba4a8b28a6562e6df31819c6a078e1c5a662c1911a31a10bfb"
 metafile = true
 
 [[files]]
