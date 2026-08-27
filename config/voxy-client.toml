@@ -6,9 +6,9 @@ enableRendering = true
 ingestEnabled = true
 #LOD section render distance (multiplied by 32 for actual chunk distance)
 #Example: 16 = 512 chunks render distance
-# Default: 16
+# Default: 16 (pack default: 4 = 128 chunks for performance)
 # Range: 2 ~ 64
-sectionRenderDistance = 16
+sectionRenderDistance = 4
 #Number of background threads for LOD processing
 #Default is based on CPU core count.
 # Default: 4
