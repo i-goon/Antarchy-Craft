@@ -2,6 +2,13 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.33] - 2026-09-07
+### Added
+- JourneyMap Integration 1.9 (client-side) — FTB claim overlay on the map, Waystone markers, auto-disables conflicting FTB map features.
+
+### Changed
+- JourneyMap 6.0.2 → 6.0.7.
+
 ## [1.0.32] - 2026-09-07
 ### Added
 - Reliquified Artifacts 1.0.8 (Artifacts addon); Artifacts 13.2.1 → 13.2.3.

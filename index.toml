@@ -2218,11 +2218,11 @@ hash = "02196a0ed21a5ce6b9d0044d5e18cd9e1e73940fd3d59b101c0129e7fbbd096b"
 
 [[files]]
 file = "config/voxy-client.toml"
-hash = "da58bbdfe0c916bc40cc733210d74deaceaa2e9b8c3411e2e9d233b9ae21164b"
+hash = "029577f3d64c4258a5bb24a5dfccfa36b5cca2f00dff91b8a98d0afbf06d32d8"
 
 [[files]]
 file = "config/voxy-config.json"
-hash = "4a78c60a6636b50b29e94dfc2e7d46ef888b126fdec91ebc715760a76b5a1158"
+hash = "b4d0405394174fed6556e65476219ea94f9dc244a6928c237f86ba73ca58d3f6"
 
 [[files]]
 file = "config/waystones-common.toml"
@@ -2317,7 +2317,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "878b6e4d12648465257e008b1f632fed9cea3e8804fbb69b9e9adb440955697c"
+hash = "6ae2cd305d49bb79b5597796ee4f34ea271f1cc47349dee6a79256a532416f5c"
 metafile = true
 
 [[files]]
@@ -2771,8 +2771,13 @@ hash = "37eaede3d42fbabf9b5d60acf4a024a33f275520bec5a5346cc0bad23ffcd44a"
 metafile = true
 
 [[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "15327db7a370663c0c951165dee4f35ced3ccc1a424888573e637f23f993e652"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
-hash = "e301c2e8ba564e4e8bc46af47525ce1a2dd7e673a3dd278871b0f5f90ba536a0"
+hash = "b735b6a8856113ebf34ec8e0a82ea13fd947eea9b013eb3a08e779d9aaf7fd0e"
 metafile = true
 
 [[files]]
@@ -2987,7 +2992,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliquified-artifacts.pw.toml"
-hash = "5a1735e91c8538f67f735adede7b4fdb8b4e44a0f42bd89c191c88cbb7af859f"
+hash = "90381952924585ae6881efb693b446ba0694b0a1301235d5fdcf12ca5745c8f5"
 metafile = true
 
 [[files]]

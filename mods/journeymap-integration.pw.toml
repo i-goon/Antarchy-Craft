@@ -1,0 +1,17 @@
+name = "JourneyMap Integration"
+filename = "jmi-neoforge-1.21.1-1.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M1ZKbfkJ/versions/x1p0RNwd/jmi-neoforge-1.21.1-1.9.jar"
+hash-format = "sha512"
+hash = "1e2d32012d76be0ac50aa80da07b12a2e4c38710ff15f3db66519cf9c0071c80a5cadf3410d248318a65443e436c7610c241fc48a119761f3fadc8fb1a12f7b2"
+
+[update]
+[update.modrinth]
+mod-id = "M1ZKbfkJ"
+version = "x1p0RNwd"
+
+[update.curseforge]
+file-id = 6508946
+project-id = 525447
