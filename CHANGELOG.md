@@ -2,6 +2,13 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.32] - 2026-09-07
+### Added
+- Reliquified Artifacts 1.0.8 (Artifacts addon); Artifacts 13.2.1 → 13.2.3.
+
+### Changed
+- Voxy default LOD distance 512 → 128 chunks (`sectionRenderDistance` 16 → 4) for FPS — raise in-game via `/voxy distance`.
+
 ## [1.0.31] - 2026-08-26
 ### Added
 - Twilight Forest quests — follow the boss progression from the Naga to the Snow Queen.

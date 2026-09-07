@@ -8,7 +8,8 @@ ingestEnabled = true
 #Example: 16 = 512 chunks render distance
 # Default: 16
 # Range: 2 ~ 64
-sectionRenderDistance = 16
+# Pack default: 4 (= 128 chunks) for FPS; raise in-game if you have VRAM to spare
+sectionRenderDistance = 4
 #Number of background threads for LOD processing
 #Default is based on CPU core count.
 # Default: 4

@@ -2317,7 +2317,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "73b4fa5b057f3bbb4241b3a806e9dc461ce102b3d6054c8f68a3c083f5937cbe"
+hash = "878b6e4d12648465257e008b1f632fed9cea3e8804fbb69b9e9adb440955697c"
 metafile = true
 
 [[files]]
@@ -2983,6 +2983,11 @@ metafile = true
 [[files]]
 file = "mods/reliquary-reincarnations.pw.toml"
 hash = "9e77daad5c6f91b1ea822c1d738a4e266c5648ee445a01ab468960bf8d345cba"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-artifacts.pw.toml"
+hash = "5a1735e91c8538f67f735adede7b4fdb8b4e44a0f42bd89c191c88cbb7af859f"
 metafile = true
 
 [[files]]
