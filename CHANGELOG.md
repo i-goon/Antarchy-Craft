@@ -2,6 +2,17 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.35] - 2026-09-12
+### Added
+- Inline + Inline Tooltips (client-side): furnace burn time, durability, and attribute icons right on item tooltips.
+- Bosses tab overhaul: End, Elythia, Thoraxis, and Cavaryn dimension hubs gating 14 boss kills (Ender Dragon, Chaos Guardian, Nightmare, Basilisk, Emperor Scorpion, Kraken, Toreterror, Brutalfly, Alpha Mantis, Hercules Beetle, Lucid, Bed Bug, Molevore, Cloud Shark) with animated mob-soul icons plus a Minibosses section.
+- XP rewards on all 31 Big Bertha ingredient quests, so pickups ping a notification.
+- Boss descs with real mechanics: horde-spawned Hercules Beetle, Cloud Shark cloud seas, Thoraxis gravity flipping.
+- New Logistics quest chapters (100+ quests): Basic Logistics (Pipez, Mekanism, Modular Routers, Create, Flux Networks), Basic Storage (drawers, Sophisticated Storage, backpacks, Simple Storage Network), plus full Refined Storage and Applied Energistics 2 chapters.
+- Big Bertha: missing descriptions filled in for all parts and ingredients.
+### Changed
+- Removed King/Queen Scale standby quests.
+
 ## [1.0.34] - 2026-09-12
 ### Added
 - Sophisticated Storage 1.5.91 (chests/barrels join the backpacks).
