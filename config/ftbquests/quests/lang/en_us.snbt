@@ -2,7 +2,6 @@
 	chapter.16B34C63AD765C1B.title: "Big Bertha"
 	chapter.38D12879C55C1F1A.title: "The Twilight Forest"
 	chapter.4AE831F245E4DD6A.title: "Bosses"
-	chapter.70CF56DEF9C52484.title: "Elythia"
 	quest.00DAC838C785004F.quest_desc: ["Dropped by Molevore."]
 	quest.00DAC838C785004F.title: "Molevore Nose"
 	quest.041794122D484661.quest_desc: ["Dropped by the Jumpy Bug."]
@@ -79,14 +78,7 @@
 	quest.401952145436BB91.quest_desc: ["Dropped by Jerry."]
 	quest.401952145436BB91.title: "Jerry Nucleus"
 	quest.41E2CC6B056CB704.title: "Comparator"
-	quest.45E07B5F73AEFB8A.quest_desc: [
-		"The Brutalfly rules Elythia's skies. Take it down."
-		"Its wing feeds the Big Bertha weapon line, so don't lose it."
-	]
-	quest.45E07B5F73AEFB8A.title: "Kill the Brutalfly"
 	quest.468AC41BFA2FBD23.title: "Gravity Gun"
-	quest.4A5B316F3F26BB5D.quest_desc: ["Right-click a brown ant and you'll be pulled into Elythia."]
-	quest.4A5B316F3F26BB5D.title: "Enter Elythia"
 	quest.4D924EDBBBAA90E2.quest_desc: ["Dropped by the Brutalfly."]
 	quest.4D924EDBBBAA90E2.title: "Brutalfly Wing"
 	quest.4DA1CB466F30CB23.title: "Big Bertha Hilt"
