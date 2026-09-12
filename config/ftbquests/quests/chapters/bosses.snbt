@@ -3,7 +3,6 @@
 	default_quest_shape: ""
 	filename: "bosses"
 	group: ""
-	icon: "minecraft:dragon_head"
 	id: "4AE831F245E4DD6A"
 	images: [ ]
 	order_index: 1
@@ -11,36 +10,283 @@
 	quests: [
 		{
 			description: [
-				"In The End, you'll find the final boss of Vanilla Minecraft: The Ender Dragon.",
-				"At the top of each pillar of Obsidian, you'll find an End Crystal that heals the Dragon. Make sure to take those out first! They also do a lot of damage, so make sure to create some distance!",
+				"Beyond the stronghold portal."
+			]
+			icon: {
+				id: "minecraft:end_stone"
+			}
+			icon_scale: 1.75d
+			id: "13C330FC9C38F2CF"
+			description: [
+				"Beyond the stronghold portal."
+			]
+			title: "The End"
+			rewards: [{
+				id: "4AAFEE8B41B23114"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "66D8AFBF8281D7AB"
+				type: "dimension"
+			}]
+			title: "The End"
+			x: 1.75d
+			y: -1.5d
+		}
+		{
+			description: [
+				"Right-click a brown ant to be pulled into Elythia, hunting ground of the Brutalfly and the Toreterror."
+			]
+			icon: {
+				id: "antarchy:brown_ant_nest"
+			}
+			icon_scale: 1.75d
+			id: "53DB7377C211654A"
+			description: [
+				"Right-click a brown ant to get there."
+			]
+			title: "Elythia"
+			rewards: [{
+				id: "1E29378D9C0582F0"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "none"
+			tasks: [{
+				dimension: "antarchy:elythia"
+				id: "416897CC5E6A7683"
+				type: "dimension"
+			}]
+			title: "Elythia"
+			x: 3.5d
+			y: 6.0d
+		}
+		{
+			icon: {
+				components: {
+					"draconicevolution:soul_id": "minecraft:ender_dragon"
+				}
+				id: "draconicevolution:mob_soul"
+			}
+			icon_scale: 2.0d
+			dependencies: ["13C330FC9C38F2CF"]
+			id: "6D8CD5CBA8CE7BFA"
+			description: [
+				"In The End, you'll find the final boss of Vanilla Minecraft: The Ender Dragon."
+				"At the top of each pillar of Obsidian, you'll find an End Crystal that heals the Dragon. Make sure to take those out first! They also do a lot of damage, so make sure to create some distance!"
 				"Once defeated, a Dragon Egg spawns at the top of the Exit Portal. This cannot be mined like normal blocks, but is affected by gravity."
 			]
-			id: "BE2E67BC9B225895"
+			title: "Kill the Ender Dragon"
 			tasks: [{
 				entity: "minecraft:ender_dragon"
-				id: "C01F126BA414D75C"
+				id: "0F5C2C0D440FECAD"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Kill the Ender Dragon"
 			x: 0.0d
 			y: 0.0d
 		}
 		{
+			icon: {
+				components: {
+					"draconicevolution:soul_id": "draconicevolution:draconic_guardian"
+				}
+				id: "draconicevolution:mob_soul"
+			}
+			icon_scale: 2.0d
+			dependencies: ["13C330FC9C38F2CF"]
+			id: "17BE13E24CD644E5"
 			description: [
-				"Now the actual fight starts, he has two health bars both need to get taken to 0 to get the Chaos Shards. Don't get too close or he'll hit you with a barrage of Fireballs!",
+				"Now the actual fight starts, he has two health bars both need to get taken to 0 to get the Chaos Shards. Don't get too close or he'll hit you with a barrage of Fireballs!"
 				"(BTW in older versions the Chaos Guardian could even kill someone in Creative mode! Fortunately it can't anymore)"
 			]
-			id: "17BE13E24CD644E5"
+			title: "Kill the Chaos Guardian"
 			tasks: [{
 				entity: "draconicevolution:draconic_guardian"
 				id: "1B2158A48954F76A"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Kill the Chaos Guardian"
 			x: 3.5d
 			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"draconicevolution:soul_id": "antarchy:nightmare"
+				}
+				id: "draconicevolution:mob_soul"
+			}
+			icon_scale: 2.0d
+			id: "6B1F8FD97675DF68"
+			description: [
+				"The Nightmare stalks the dark."
+				"Its scale feeds the Big Bertha hilt."
+			]
+			title: "Kill the Nightmare"
+			rewards: [{
+				id: "009535C2454FE708"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "antarchy:nightmare"
+				id: "6F8ADA7287CF74AE"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"draconicevolution:soul_id": "antarchy:basilisk"
+				}
+				id: "draconicevolution:mob_soul"
+			}
+			icon_scale: 2.0d
+			id: "17E93A365DAB380D"
+			description: [
+				"Don't meet its gaze."
+				"Its fang feeds the Big Bertha blade."
+			]
+			title: "Kill the Basilisk"
+			rewards: [{
+				id: "41E713D9E306026D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "antarchy:basilisk"
+				id: "11AC06B7C3B8DC5F"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"draconicevolution:soul_id": "antarchy:emperor_scorpion"
+				}
+				id: "draconicevolution:mob_soul"
+			}
+			icon_scale: 2.0d
+			id: "46FDE1053D1ED4E6"
+			description: [
+				"The desert's crowned terror."
+				"Its stinger feeds the Big Bertha blade."
+			]
+			title: "Kill the Emperor Scorpion"
+			rewards: [{
+				id: "692947E456F070DF"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "antarchy:emperor_scorpion"
+				id: "0C95DD2F7D50C08B"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			icon: {
+				components: {
+					"draconicevolution:soul_id": "antarchy:kraken"
+				}
+				id: "draconicevolution:mob_soul"
+			}
+			icon_scale: 2.0d
+			id: "6858822C00824705"
+			description: [
+				"Uh, no. Don't. (Do.)"
+				"Tentacle and tooth feed the Big Bertha blade."
+			]
+			title: "Kill the Kraken"
+			rewards: [{
+				id: "0376FC68161B3A66"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "antarchy:kraken"
+				id: "128EF3CDA11BB12E"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["53DB7377C211654A"]
+			icon: {
+				components: {
+					"draconicevolution:soul_id": "antarchy:toreterror"
+				}
+				id: "draconicevolution:mob_soul"
+			}
+			icon_scale: 2.0d
+			id: "53689B826F46C9AF"
+			description: [
+				"It guards its arena in the Elythia ocean."
+				"Its scute feeds the Big Bertha hilt."
+			]
+			title: "Kill the Toreterror"
+			rewards: [{
+				id: "5F8E38118D52B833"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "antarchy:toreterror"
+				id: "0CE49A21732793A2"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["53DB7377C211654A"]
+			description: [
+				"The Brutalfly rules Elythia's skies. Take it down."
+				"Its wing feeds the Big Bertha weapon line, so don't lose it."
+			]
+			icon: {
+				components: {
+					"draconicevolution:soul_id": "antarchy:brutalfly"
+				}
+				id: "draconicevolution:mob_soul"
+			}
+			icon_scale: 2.0d
+			id: "0CF6EE642D83E1E8"
+			description: [
+				"The Brutalfly rules Elythia's skies. Take it down."
+				"Its wing feeds the Big Bertha weapon line, so don't lose it."
+			]
+			title: "Kill the Brutalfly"
+			rewards: [{
+				id: "2C99B42895909C93"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				entity: "antarchy:brutalfly"
+				id: "093BE4F14A03B52C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Kill the Brutalfly"
+			x: 7.0d
+			y: 6.0d
 		}
 	]
 	title: "Bosses"

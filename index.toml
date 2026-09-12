@@ -1585,6 +1585,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "81bb1d80f098e96a534c1623ef1b54f3c34bb4a5ac21fe3becddeefc6f7923eb"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "21afc39675c7aa19a59547e7752e77c102a5f1307643376d1f4404e7ded1cdab"
+
+[[files]]
 file = "config/dungeon_crawl.toml"
 hash = "75c2c57214717c4a4c903df30780999571f82dd0ac63a43f31e3407d1cc7cbd4"
 
@@ -1694,15 +1698,19 @@ hash = "122a0205ec0cbf63f1db42f24f6c5c6095f54083f2c4f985c473acd2e228988f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/big_bertha.snbt"
-hash = "b97cdf583fef1767f083405d461d0b41cf9dd06a8311614259c857c01fc25857"
+hash = "17ab6495323f408deeddf31370f745e7bda814c8ac639835dd1a9d9e91921305"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/bosses.snbt"
-hash = "dfbad866ca19c3a817489b52ffdffc0f5560aeb749549dd52806a08085b7a7b6"
+hash = "dbd574c58c24c448daa59058f1c319a15e21ead56150d5de19c99b40b4ac6c08"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/twilight_forest.snbt"
-hash = "33da3883aa73e6d96c00c7eb557d3102826d58e597319b814325c09b04684785"
+hash = "5495bf12393bb18397d3296c177322c49c97a016f664d782c66894cc9de17ba2"
+
+[[files]]
+file = "config/ftbquests/quests/lang/en_us.snbt"
+hash = "01931ac6d7672e1f694312e5cabcc3e1e2969390984879fbd6164f36d902f120"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -2277,7 +2285,7 @@ metafile = true
 
 [[files]]
 file = "mods/antarchy.pw.toml"
-hash = "0af26ac2adb6cf24280e4e1cd49783a814ddae621b14580310c0ab8584924240"
+hash = "a85bfa9946e0d1a6a18a195d6394c44d2794b50670bca6a2d511acd7c4faef14"
 metafile = true
 
 [[files]]
@@ -2731,6 +2739,11 @@ hash = "25c0b97762fde29084acf7cccc6d3b848d2cf93f95ffffda1234de2af35969a9"
 metafile = true
 
 [[files]]
+file = "mods/infinite-dimensions.pw.toml"
+hash = "6a885ecb35fd206fc5cc9201a81deeb51fa2ae9d2de80d334031eefc7b2f4f5a"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "ea12567f504f0db818431b5b769943c0f1c15447e444bb7649465991ffec99e8"
 metafile = true
@@ -2803,6 +2816,11 @@ metafile = true
 [[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
 hash = "cbbfd809d227fcf1169e98ebaa8a809529db26a6b09345061780821db8c4d3b1"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "1e4c0702d4ede23cbfb47d2d9ff629f3de83699eb7a6f6969c9ccce078f2e2bd"
 metafile = true
 
 [[files]]
@@ -3043,6 +3061,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "cba88ac3cba41229e07c8fbd6f2e9e808f61799771809332ded5926328b8d365"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "6d629ad05c1e66d09a97c0740d76b9858b972f4abbdf748e315dab065e935c9a"
 metafile = true
 
 [[files]]

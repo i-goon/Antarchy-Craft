@@ -2,6 +2,17 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.34] - 2026-09-12
+### Added
+- Sophisticated Storage 1.5.91 (chests/barrels join the backpacks).
+- LambDynamicLights 4.8.11 (held torches and entities light up).
+- Infinite Dimensions 2.7.2 (required by Antarchy 1.1.1).
+- Boss tab overhaul: Overworld/End/Elythia dimension hubs gating 8 boss kills (Dragon, Chaos Guardian, Brutalfly, Toreterror, Nightmare, Basilisk, Emperor Scorpion, Kraken) with animated soul icons.
+
+### Changed
+- Antarchy 1.0.3 → 1.1.1.
+- GUI scale defaults to 3x on fresh installs.
+
 ## [1.0.33] - 2026-09-07
 ### Added
 - JourneyMap Integration 1.9 (client-side) — FTB claim overlay on the map, Waystone markers, auto-disables conflicting FTB map features.
