@@ -1,0 +1,17 @@
+name = "Inline Tooltips"
+filename = "inline_tooltips-1.7.2+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TVOgzXyj/versions/vR6D77gA/inline_tooltips-1.7.2%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "ee5b4a7cf95b498557578246daabad06ecece0e880e9d1c6a0767226eabd7f5267c10292bc75c153e10651c02026a89cf60dd31ea52dafbe9e0fe9f9a0acbbd5"
+
+[update]
+[update.modrinth]
+mod-id = "TVOgzXyj"
+version = "vR6D77gA"
+
+[update.curseforge]
+file-id = 8633913
+project-id = 1368324

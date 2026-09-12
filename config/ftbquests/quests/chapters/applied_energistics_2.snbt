@@ -1,0 +1,316 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "applied_energistics_2"
+	group: ""
+	icon: {
+		id: "ae2:controller"
+	}
+	id: "37ECEF63B062F0C3"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "ae2:controller"
+			}
+			id: "0438E6DA6F4D3F5A"
+			rewards: [{
+				count: 8
+				id: "4DF4F637CFA20FAD"
+				item: {
+					count: 1
+					id: "ae2:quartz_fiber"
+				}
+				type: "item"
+			}]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				id: "6A62F25DAD8A4A08"
+				item: { count: 1, id: "ae2:controller" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "ae2:inscriber"
+			}
+			id: "7DC64DC3FE15A9D9"
+			rewards: [{
+				id: "75165440F852DCE2"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7F51CA9EC17A58F8"
+				item: { count: 1, id: "ae2:inscriber" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "ae2:drive"
+			}
+			id: "4A9C9D5C3303E80E"
+			rewards: [{
+				id: "2ADA1D3CB720DFCA"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "5375827F94DABC7E"
+				item: { count: 1, id: "ae2:drive" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4A9C9D5C3303E80E"]
+			icon: {
+				id: "ae2:terminal"
+			}
+			id: "66902790EAFD0729"
+			rewards: [{
+				id: "37CA400F6A4BE639"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "28E96A571E23A238"
+				item: { count: 1, id: "ae2:terminal" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "ae2:crafting_terminal"
+			}
+			id: "58E9F2D694C5AACF"
+			rewards: [{
+				id: "73B5DBCED0C600CC"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "40A01B9901428BBD"
+				item: { count: 1, id: "ae2:crafting_terminal" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			icon: {
+				id: "ae2:pattern_provider"
+			}
+			id: "7F85B0D935283536"
+			rewards: [{
+				id: "42CAE994078F3DE9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "19564C4D6190F837"
+				item: { count: 1, id: "ae2:pattern_provider" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7F85B0D935283536"]
+			icon: {
+				id: "ae2:molecular_assembler"
+			}
+			id: "475DDABE8D57F989"
+			rewards: [{
+				id: "1E32A1EAD8A2B618"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "1137FE32CBE46F77"
+				item: { count: 1, id: "ae2:molecular_assembler" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			icon: {
+				id: "ae2:import_bus"
+			}
+			id: "3D2C5B304E8D62E8"
+			rewards: [{
+				id: "372285790A8225BD"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "5F45008225CAAF73"
+				item: { count: 1, id: "ae2:import_bus" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "ae2:export_bus"
+			}
+			id: "2E01DB27775963D4"
+			rewards: [{
+				id: "4E4775622036B7CD"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "78CCD62FCD2A502B"
+				item: { count: 1, id: "ae2:export_bus" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4A9C9D5C3303E80E"]
+			icon: {
+				id: "ae2:item_storage_cell_1k"
+			}
+			id: "22EB680B8211E199"
+			rewards: [{
+				id: "6BA345AFA41F3D9E"
+				item: {
+					count: 1
+					id: "ae2:item_storage_cell_4k"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5B97A28D636EB484"
+				item: { count: 1, id: "ae2:item_storage_cell_1k" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["22EB680B8211E199"]
+			icon: {
+				id: "ae2:item_storage_cell_4k"
+			}
+			id: "0055C7B329D3F955"
+			rewards: [{
+				id: "0969C767C6D903EC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "559FD08F91F99A39"
+				item: { count: 1, id: "ae2:item_storage_cell_4k" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "ae2:energy_acceptor"
+			}
+			id: "0BA163F30788EA2E"
+			rewards: [{
+				id: "39A16809FC8CE2DB"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "66053F30AF622A8E"
+				item: { count: 1, id: "ae2:energy_acceptor" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "ae2:terminal"
+			}
+			id: "30A8D4C9CA631D60"
+			rewards: [{
+				id: "25B64D39CC61CD6E"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "196ABA4E8CA4D30C"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0055C7B329D3F955"]
+			icon: {
+				id: "ae2:item_storage_cell_16k"
+			}
+			id: "0462A21DD17BB720"
+			rewards: [{
+				id: "3C09C26735C962F3"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "64DB1947412DB70F"
+				item: { count: 1, id: "ae2:item_storage_cell_16k" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			icon: {
+				id: "ae2:item_storage_cell_64k"
+			}
+			id: "641CF9A9B2EFF048"
+			rewards: [{
+				id: "7183AB3186E7598C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "66EC160A2492D1D8"
+				item: { count: 1, id: "ae2:item_storage_cell_64k" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "ae2:item_storage_cell_256k"
+			}
+			id: "55A4EED273996F9B"
+			rewards: [{
+				id: "4072F67B64F7FF9A"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "4CE51BE7D692CD8B"
+				item: { count: 1, id: "ae2:item_storage_cell_256k" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 10.5d
+		}
+	]
+}

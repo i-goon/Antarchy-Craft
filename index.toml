@@ -1586,7 +1586,7 @@ hash = "81bb1d80f098e96a534c1623ef1b54f3c34bb4a5ac21fe3becddeefc6f7923eb"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "21afc39675c7aa19a59547e7752e77c102a5f1307643376d1f4404e7ded1cdab"
+hash = "b45b20bf2df7ff8e024a05587b97addc497ddf96b119b1dc835937dcdff56948"
 
 [[files]]
 file = "config/dungeon_crawl.toml"
@@ -1697,12 +1697,28 @@ file = "config/ftbquests-client.snbt"
 hash = "122a0205ec0cbf63f1db42f24f6c5c6095f54083f2c4f985c473acd2e228988f"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/applied_energistics_2.snbt"
+hash = "3fae881ab61109b296d6303440be56112cf96e117844987826010e9c28595473"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/basic_logistics.snbt"
+hash = "34bb7e2c08637ec20bb23d48666d7b822cd5964550c183be16c56d8b0e4a9af4"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/big_bertha.snbt"
-hash = "17ab6495323f408deeddf31370f745e7bda814c8ac639835dd1a9d9e91921305"
+hash = "5a462d960d2d02474abd68c1ebd50b8eb6b306b8019ccf43d65556495e0aff7d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/bosses.snbt"
-hash = "dbd574c58c24c448daa59058f1c319a15e21ead56150d5de19c99b40b4ac6c08"
+hash = "7e5acc520ac060af8d2a8b7ad52d126eef7c861644d02e4ba93194c81bf26eeb"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/refined_storage.snbt"
+hash = "79189af1cde7d82f58091f0fd176f4cf251e888b2f041a846a7c21da1472cb96"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/storage.snbt"
+hash = "6e7ba315f75017260ddff757240b9e390e4ade484c9da06b39874923b627c181"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/twilight_forest.snbt"
@@ -1710,7 +1726,7 @@ hash = "5495bf12393bb18397d3296c177322c49c97a016f664d782c66894cc9de17ba2"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "01931ac6d7672e1f694312e5cabcc3e1e2969390984879fbd6164f36d902f120"
+hash = "7a3634c79a737763c5fdbec349d677b4d615f8521085b7e5531087b7b490c6eb"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -2285,7 +2301,7 @@ metafile = true
 
 [[files]]
 file = "mods/antarchy.pw.toml"
-hash = "a85bfa9946e0d1a6a18a195d6394c44d2794b50670bca6a2d511acd7c4faef14"
+hash = "41fd5369b6ebc4bc549bdcfd81dcfdbef113e4572427f54efc9f8017ce5a94e4"
 metafile = true
 
 [[files]]
@@ -2740,7 +2756,17 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "6a885ecb35fd206fc5cc9201a81deeb51fa2ae9d2de80d334031eefc7b2f4f5a"
+hash = "e5fbfc6c8d4674b0566828f69ba0da41de5e6c38d4b9061107214dc2c9b3ac12"
+metafile = true
+
+[[files]]
+file = "mods/inline-tooltips.pw.toml"
+hash = "e9348de7a7690e6af80c16800124e30c07aa921c9c34ce0cf762b7db3c3014be"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "7ff1bacaedffc27ba3c8028f1377e2b16ef7627857c26975744ce3cef4a0e284"
 metafile = true
 
 [[files]]
@@ -2820,7 +2846,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "1e4c0702d4ede23cbfb47d2d9ff629f3de83699eb7a6f6969c9ccce078f2e2bd"
+hash = "8782987b4c2aa4ccd6bbd72b0ce4f171ec8e78e2fab54ed3d04649d40a5ab12d"
 metafile = true
 
 [[files]]
@@ -3065,7 +3091,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "6d629ad05c1e66d09a97c0740d76b9858b972f4abbdf748e315dab065e935c9a"
+hash = "3b7451cd32100f1c64a9df2ea65397acc32c8e3e98ff86140dac6f2c346237ca"
 metafile = true
 
 [[files]]
