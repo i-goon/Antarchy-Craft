@@ -1,0 +1,119 @@
+{
+	chapter.16B34C63AD765C1B.title: "Big Bertha"
+	chapter.38D12879C55C1F1A.title: "The Twilight Forest"
+	chapter.4AE831F245E4DD6A.title: "Bosses"
+	quest.00DAC838C785004F.quest_desc: ["Dropped by Molevore."]
+	quest.00DAC838C785004F.title: "Molevore Nose"
+	quest.041794122D484661.quest_desc: ["Dropped by the Jumpy Bug."]
+	quest.041794122D484661.title: "Jumpy Bug Leg"
+	quest.0592D3DABACD0CE6.quest_desc: [
+		"Dropped by the Lucid."
+		"You will need a second one later for the Gravity Gun!"
+	]
+	quest.0592D3DABACD0CE6.title: "Eye of Dreams"
+	quest.0868EBA4A64D1353.quest_desc: ["The Queen hasn't arrived in Antarchy yet. Standby."]
+	quest.0868EBA4A64D1353.title: "Queen Scale"
+	quest.099B848E75ABBBCE.title: "Bluestone Comparator"
+	quest.1001AABBCCDDEEFF.quest_desc: [
+		"The first boss of the Twilight Forest."
+		"Find the Naga Courtyard in the forest. The Naga circles the arena and charges through blocks. Bring a shield and keep moving."
+	]
+	quest.1001AABBCCDDEEFF.title: "The Naga"
+	quest.1002AABBCCDDEEFF.quest_desc: [
+		"At the top of the Lich Tower."
+		"Three phases. Reflect his Ender Pearl shots to break the shields, melee him when he summons zombies, then finish him when he swaps to a sword."
+	]
+	quest.1002AABBCCDDEEFF.title: "The Twilight Lich"
+	quest.1003AABBCCDDEEFF.quest_desc: [
+		"The Labyrinth under the Swamp."
+		"Use a Maze Map or follow the walls to find the Minoshroom. Eat the Meef Stroganoff it drops to unlock the Fire Swamp."
+	]
+	quest.1003AABBCCDDEEFF.title: "Minoshroom"
+	quest.1004AABBCCDDEEFF.quest_desc: [
+		"In the Fire Swamp."
+		"The Hydra has many heads. Ranged is weak so fight up close and keep moving to avoid fire. Defeating it opens the Dark Forest."
+	]
+	quest.1004AABBCCDDEEFF.title: "Hydra"
+	quest.1005AABBCCDDEEFF.quest_desc: [
+		"Inside the Dark Forest Stronghold."
+		"Place any boss trophy on the pedestal to enter. Six Knight Phantoms fight together on the third layer."
+	]
+	quest.1005AABBCCDDEEFF.title: "Knight Phantoms"
+	quest.1006AABBCCDDEEFF.quest_desc: [
+		"At the top of the Dark Tower."
+		"Find the reappearing blocks at the base to climb the maze. Ghast traps powered by Ghastlings can help, a bow works too."
+	]
+	quest.1006AABBCCDDEEFF.title: "Ur-Ghast"
+	quest.1007AABBCCDDEEFF.quest_desc: [
+		"In the Snowy Forest."
+		"Find the large Yeti Cave. The Alpha Yeti throws ice blocks, a bow helps."
+	]
+	quest.1007AABBCCDDEEFF.title: "Alpha Yeti"
+	quest.1008AABBCCDDEEFF.quest_desc: [
+		"At the top of the Aurora Palace in the Glacier."
+		"She summons ice crystals and slams ice that breaks the floor. Hit her upper half while dodging. Defeating her unlocks the Highlands."
+	]
+	quest.1008AABBCCDDEEFF.title: "Snow Queen"
+	quest.10845E332C012581.quest_desc: ["It forms the core of Big Bertha's blade."]
+	quest.10845E332C012581.title: "The Ultimate Sword"
+	quest.17BE13E24CD644E5.quest_desc: [
+		"Now the actual fight starts, he has two health bars both need to get taken to 0 to get the Chaos Shards. Don't get too close or he'll hit you with a barrage of Fireballs!"
+		"(BTW in older versions the Chaos Guardian could even kill someone in Creative mode! Fortunately it can't anymore)"
+	]
+	quest.17BE13E24CD644E5.title: "Kill the Chaos Guardian"
+	quest.1D2BC6C9E7FCD9DD.quest_desc: ["Dropped by the Basilisk."]
+	quest.1D2BC6C9E7FCD9DD.title: "Basilisk Fang"
+	quest.20536A6C1E21C77A.title: "Sugar"
+	quest.231BE396EEC568E4.quest_desc: ["Dropped by Triffids."]
+	quest.231BE396EEC568E4.title: "Triffid Goo"
+	quest.29BA664EB777443C.quest_desc: ["Dropped by the Cloud Shark."]
+	quest.29BA664EB777443C.title: "Cloud Shark Fin"
+	quest.370881E9F5E0C794.quest_desc: ["Smelt uranium ore."]
+	quest.370881E9F5E0C794.title: "Uranium Ingot"
+	quest.38D352CE65297047.quest_desc: ["The King hasn't arrived in Antarchy yet. Standby."]
+	quest.38D352CE65297047.title: "King Scale"
+	quest.38F236E6B00C58C8.title: "Raw Corndog"
+	quest.3B68BB08293B5042.quest_desc: ["Also found in Trayaurus Lab chests."]
+	quest.3B68BB08293B5042.title: "Rainbow Sugar"
+	quest.401952145436BB91.quest_desc: ["Dropped by Jerry."]
+	quest.401952145436BB91.title: "Jerry Nucleus"
+	quest.41E2CC6B056CB704.title: "Comparator"
+	quest.468AC41BFA2FBD23.title: "Gravity Gun"
+	quest.4D924EDBBBAA90E2.quest_desc: ["Dropped by the Brutalfly."]
+	quest.4D924EDBBBAA90E2.title: "Brutalfly Wing"
+	quest.4DA1CB466F30CB23.title: "Big Bertha Hilt"
+	quest.4F15A97C2B78C20C.quest_desc: ["Dropped by the Emperor Scorpion."]
+	quest.4F15A97C2B78C20C.title: "Emperor Scorpion Stinger"
+	quest.54F000B24088BB6C.quest_desc: ["The Kraken drops both Tentacles and Teeth - you need one of each."]
+	quest.54F000B24088BB6C.title: "Release the Kraken"
+	quest.5C87B4ED20485B96.title: "Big Bertha Handle"
+	quest.5DA1AD8E6FEBCD1F.title: "Netherite Ingot"
+	quest.5F5E45EFACDCE9A6.quest_desc: ["Smelt titanium ore."]
+	quest.5F5E45EFACDCE9A6.title: "Titanium Ingot"
+	quest.61384D5A42B93834.quest_desc: ["Dropped by the Nightmare."]
+	quest.61384D5A42B93834.title: "Nightmare Scale"
+	quest.61CF2F9D4B616419.title: "Big Bertha Blade"
+	quest.6B10301A0D908130.quest_desc: ["Dropped by Toreterror."]
+	quest.6B10301A0D908130.title: "Primordial Scute"
+	quest.6C3CC466DF3D88BE.quest_desc: [
+		"Shift + use to cycle boss modes:"
+		"Basilisk paralyzes and poisons, Lucid inverts gravity, Nightmare spreads dread,"
+		"Kraken slams and calls lightning, Hercules launches foes skyward,"
+		"Molevore drills through blocks, Toreterror crashes down with an AOE shockwave."
+	]
+	quest.6C3CC466DF3D88BE.title: "BIG BERTHA"
+	quest.6D8CD5CBA8CE7BFA.quest_desc: [
+		"In The End, you'll find the final boss of Vanilla Minecraft: The Ender Dragon."
+		"At the top of each pillar of Obsidian, you'll find an End Crystal that heals the Dragon. Make sure to take those out first! They also do a lot of damage, so make sure to create some distance!"
+		"Once defeated, a Dragon Egg spawns at the top of the Exit Portal. This cannot be mined like normal blocks, but is affected by gravity."
+	]
+	quest.6D8CD5CBA8CE7BFA.title: "Kill the Ender Dragon"
+	quest.707341E3F0EEAE0C.title: "Uranium Nugget"
+	quest.74371D87F77252BF.title: "High Fructose Corn Syrup"
+	quest.7B48AA1D703B5B22.quest_desc: ["Dropped by Praying Mantises - Alpha Mantises drop them too."]
+	quest.7B48AA1D703B5B22.title: "Mantis Claw"
+	quest.7E2BB82AF06BA4A5.quest_desc: ["yum"]
+	quest.7E2BB82AF06BA4A5.title: "Cooked Corndog"
+	quest.7F8D2F3FBC9C28BE.quest_desc: ["Dropped by the Hercules Beetle."]
+	quest.7F8D2F3FBC9C28BE.title: "Hercules Horn"
+}
