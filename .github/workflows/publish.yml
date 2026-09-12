@@ -19,8 +19,13 @@ jobs:
       - name: Install packwiz
         run: go install github.com/packwiz/packwiz@latest
 
-      - name: Export .mrpack (Modrinth)
-        run: packwiz modrinth export
+      # TODO(1.0.35): Modrinth publishing TEMPORARILY disabled — the Modrinth CDN
+      # currently serves bytes that fail our recorded hashes (Antarchy 1.1.1,
+      # Reliquified Artifacts 1.0.8: re-uploaded upstream without version bumps),
+      # so `packwiz modrinth export` fails and would block the CurseForge publish.
+      # Re-pin both mods and re-enable these two steps to restore Modrinth.
+      # - name: Export .mrpack (Modrinth)
+      #   run: packwiz modrinth export
 
       - name: Export .zip (CurseForge)
         run: packwiz curseforge export
@@ -57,16 +62,17 @@ jobs:
           cat "$OUT"
           echo "changelog-file=$OUT" >> "$GITHUB_OUTPUT"
 
-      - name: Publish to Modrinth
-        uses: Kir-Antipov/mc-publish@v3
-        with:
-          modrinth-id: EHj9agqR
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files: |
-            *.mrpack
-          loaders: neoforge
-          game-versions: "1.21.1"
-          changelog-file: ${{ steps.changelog.outputs.changelog-file }}
+      # TODO(1.0.35): see above — re-enable together with the export step.
+      # - name: Publish to Modrinth
+      #   uses: Kir-Antipov/mc-publish@v3
+      #   with:
+      #     modrinth-id: EHj9agqR
+      #     modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+      #     files: |
+      #       *.mrpack
+      #     loaders: neoforge
+      #     game-versions: "1.21.1"
+      #     changelog-file: ${{ steps.changelog.outputs.changelog-file }}
 
       - name: Publish to CurseForge
         uses: Kir-Antipov/mc-publish@v3
