@@ -2290,7 +2290,7 @@ hash = "e63fbc2d25ccd2d86eb887562d3f5f544dadcb75b0c68dd7cc152f7197a1e2d7"
 
 [[files]]
 file = "kubejs/server_scripts/reconstructed_wands.js"
-hash = "fcd174d85f78961fd2f3d468a4a2b1afeadc674de57204aacdaff067cad9a412"
+hash = "9eff2ef624ab170cab5991fdfd515d7f604bc3a6708542a4ef32f45c948e2144"
 
 [[files]]
 file = "mods/ae2.pw.toml"
