@@ -2,6 +2,13 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.36] - 2026-09-13
+### Added
+- Builders, rejoice. Working recipes for every construction wand and core.
+- Fuel tooltips show exact burn times.
+- KubeJS scripting is in, so broken recipes like these can be patched pack side going forward.
+- Better Advanced Tooltips: tooltips now show handy extras like tags and component info.
+
 ## [1.0.35] - 2026-09-12
 ### Added
 - Inline + Inline Tooltips (client-side): furnace burn time, durability, and attribute icons right on item tooltips.
