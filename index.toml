@@ -2285,6 +2285,10 @@ file = "defaultconfigs/ftbessentials-server.snbt"
 hash = "e63fbc2d25ccd2d86eb887562d3f5f544dadcb75b0c68dd7cc152f7197a1e2d7"
 
 [[files]]
+file = "kubejs/server_scripts/reconstructed_wands.js"
+hash = "9ed9c340ae5e2635988a3d6059f284040355afdae18703e63ce6141ec0b5ca86"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "d4f92de899e93ce33f750a8abd07a3e102aa740296f8c1e8f057e5b1cb4fc632"
 metafile = true
@@ -2352,6 +2356,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "ab50d1e2efb92cdba5e1a77d9b9238c63b4126449b6754a9c60183c841851fb7"
+metafile = true
+
+[[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "3fbd7b9bd2f38e55484768505cf46272bc31a6fca47de20b9c5d245b003be470"
 metafile = true
 
 [[files]]
@@ -2761,12 +2770,12 @@ metafile = true
 
 [[files]]
 file = "mods/inline-tooltips.pw.toml"
-hash = "e9348de7a7690e6af80c16800124e30c07aa921c9c34ce0cf762b7db3c3014be"
+hash = "7a14447bde4f610555f8e55aad137846a0462677bf7bc97b32c53bd14fba3e71"
 metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "7ff1bacaedffc27ba3c8028f1377e2b16ef7627857c26975744ce3cef4a0e284"
+hash = "8210a9952d6415d662efb846eb2c30bde96c888af2c8b2d86ad5df39bfc3f1bd"
 metafile = true
 
 [[files]]
@@ -2837,6 +2846,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "9b521fb1391c3a075208bfe793c37884abc1fdc0bb8d88f12cfc747f509f8214"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "5dfa512f6de5fbf079980f28aa3119c0364377feb17417f4061d0d27e3bbbf8b"
 metafile = true
 
 [[files]]
@@ -3037,6 +3051,11 @@ metafile = true
 [[files]]
 file = "mods/reliquified-artifacts.pw.toml"
 hash = "90381952924585ae6881efb693b446ba0694b0a1301235d5fdcf12ca5745c8f5"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "9bfa54a8160e8bf750a5f036b5c783d5dd45a4e4d79a5f2099ec5f3f23f87b60"
 metafile = true
 
 [[files]]
