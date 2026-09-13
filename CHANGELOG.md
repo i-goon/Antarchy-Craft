@@ -2,6 +2,10 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.37] - 2026-09-13
+### Fixed
+- Dynamic lighting tuned for performance. Rebuilds skip hidden chunks and distant lights slow down sooner, so lit up bases stay smooth.
+
 ## [1.0.36] - 2026-09-13
 ### Added
 - Builders, rejoice. Working recipes for every construction wand and core.

@@ -1953,6 +1953,10 @@ file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
+file = "config/lambdynlights.toml"
+hash = "fdb86a6a2335ee20971b9c15aee543f83020035c93858ef2a9407f09e376994e"
+
+[[files]]
 file = "config/legendarytooltips.toml"
 hash = "3ee86b7d3db0c11d9e4288110804777e598f49a8445fa63d7fbec00f74a0f92f"
 
@@ -2286,7 +2290,7 @@ hash = "e63fbc2d25ccd2d86eb887562d3f5f544dadcb75b0c68dd7cc152f7197a1e2d7"
 
 [[files]]
 file = "kubejs/server_scripts/reconstructed_wands.js"
-hash = "9eff2ef624ab170cab5991fdfd515d7f604bc3a6708542a4ef32f45c948e2144"
+hash = "fcd174d85f78961fd2f3d468a4a2b1afeadc674de57204aacdaff067cad9a412"
 
 [[files]]
 file = "mods/ae2.pw.toml"
