@@ -8,7 +8,7 @@ All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is 
 - New Mystical Agriculture chapter. 167 quests covering all seven essence tiers, machines, souls, and every seed that grows in this pack.
 - Patchouli is in to support the MA guide book, which the first quest hands you.
 ### Fixed
-- Storage quest tab loads again. It was failing silently next to the new chapter. Both fixed.
+- Storage quest tab loads again.
 
 ## [1.0.37] - 2026-09-13
 ### Fixed
