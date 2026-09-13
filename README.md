@@ -183,20 +183,11 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 
 ## Distribution & Publishing Status
 
-The pack ships automatically to both platforms on every `v*` git tag via GitHub Actions (`mc-publish`).
+The pack ships automatically to CurseForge on every `v*` git tag via GitHub Actions (`mc-publish`).
 
 | Platform | Project | Status |
 | --- | --- | --- |
-| Modrinth | `EHj9agqR` ([Antarchy Craft](https://modrinth.com/modpack/antarchy-craft)) | Published, versions auto-upload. Some mods need permission — see below. |
 | CurseForge | `1653892` ([Our Antarchy Craft](https://www.curseforge.com/minecraft/modpacks/our-antarchy-craft)) | Live, versions auto-upload via `v*` tag. |
-
-### Modrinth permission-flagged mods
-
-Modrinth blocks distribution of these until permissions are granted:
-
-- **FTB suite** (FTB Backups 2, Chunks, Essentials, Library, Quests, Teams, Ultimine) — All Rights Reserved. Requires explicit permission from the FTB Team. Contact: [Discord](https://discord.com/invite/X5UGvBs), [forums](https://forum.feed-the-beast.com), or GitHub issues. No public grant exists yet.
-- **Twilight Forest** — LGPL 2.1 (code) + CC BY-NC-SA 4.0 (assets). Can be disputed with this evidence: [LICENSE](https://github.com/TeamTwilight/twilightforest/blob/latest/LICENSE), [ASSET_LICENSE](https://github.com/TeamTwilight/twilightforest/blob/latest/ASSET_LICENSE).
-- **Connectivity + Cupboard** — All Rights Reserved on CurseForge; permission requested via Modrinth's request system, pending.
 
 ## Releasing a new version
 
@@ -205,4 +196,4 @@ git tag v1.0.XX
 git push origin v1.0.XX
 ```
 
-The workflow exports `.mrpack` (Modrinth) and `.zip` (CurseForge) from this packwiz repo and uploads both.
+The workflow exports a `.zip` (CurseForge) from this packwiz repo and uploads it.
