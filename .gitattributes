@@ -1,0 +1,5 @@
+# packwiz hashes raw file bytes, so line endings must be stable across checkouts.
+# Pin LF for authored script/config paths (Windows autocrlf otherwise flips them
+# on pull and produces phantom hash churn in index.toml, as happened 2026-09-13
+# with kubejs/server_scripts/reconstructed_wands.js).
+kubejs/** text eol=lf
