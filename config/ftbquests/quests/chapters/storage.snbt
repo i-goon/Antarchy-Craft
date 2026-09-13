@@ -53,12 +53,11 @@
 				id: "1C50840EA98F7C87"
 				item: { count: 1, id: "trashcans:liquid_trash_can" }
 				type: "item"
-			{
-
+			}, {
 				id: "66BCC264A9DEF411"
 				item: { count: 1, id: "trashcans:energy_trash_can" }
 				type: "item"
-			}			}]
+			}]
 			x: -2.5d
 			y: 2.0d
 		}
