@@ -1,372 +1,728 @@
 {
 	chapter.16B34C63AD765C1B.title: "Big Bertha"
+	chapter.2DFF14BD26BA8FA4.title: "Basic Storage"
+	chapter.2F000EDEA316675B.title: "Refined Storage"
+	chapter.37ECEF63B062F0C3.title: "Applied Energistics 2"
 	chapter.38D12879C55C1F1A.title: "The Twilight Forest"
 	chapter.4AE831F245E4DD6A.title: "Bosses"
+	chapter.55E30E8414C6EAB5.title: "Basic Logistics"
+	chapter.70CF56DEF9C52484.title: "Elythia"
+	quest.0002325750D8C7CA.quest_desc: ["Disk-based digital storage with autocrafting further down the line.", "Lay cables first. The full network gets its own chapter later."]
+	quest.0002325750D8C7CA.title: "Refined Storage"
+	quest.0055C7B329D3F955.quest_desc: ["Four times the 1k. Keep climbing.", "Cells upgrade in the crafting grid."]
+	quest.0055C7B329D3F955.title: "4k Storage Cell"
 	quest.00DAC838C785004F.quest_desc: ["Dropped by Molevore."]
 	quest.00DAC838C785004F.title: "Molevore Nose"
+	quest.0285038935065C2E.quest_desc: ["A lot more room for activities."]
+	quest.0285038935065C2E.title: "Diamond Chest"
+	quest.02C09C3B97D80D17.quest_desc: ["Carries gases, infusion types, slurries and pigments, everything the other three cannot.", "If it comes out of a Mekanism machine and has no bucket, it probably goes here."]
+	quest.02C09C3B97D80D17.title: "Pressurized Tubes"
+	quest.03C5C48510630644.quest_desc: ["Pulls matching items out of the facing inventory into the router.", "Pair a puller on the source with a sender on the target and the route runs itself."]
+	quest.03C5C48510630644.title: "Puller Module"
 	quest.041794122D484661.quest_desc: ["Dropped by the Jumpy Bug."]
 	quest.041794122D484661.title: "Jumpy Bug Leg"
-	quest.0592D3DABACD0CE6.quest_desc: [
-		"Dropped by the Lucid."
-		"You will need a second one later for the Gravity Gun!"
-	]
+	quest.0438E6DA6F4D3F5A.quest_desc: ["Channel-based digital storage for very large networks.", "The controller is the heart; give it power and room to grow."]
+	quest.0438E6DA6F4D3F5A.title: "Applied Energistics 2"
+	quest.0462A21DD17BB720.quest_desc: ["Sixteen times the 1k cell.", "Cells upgrade in the crafting grid."]
+	quest.0462A21DD17BB720.title: "16k Storage Cell"
+	quest.04708B02C5690266.quest_desc: ["Drawers hold huge stacks of one item each: full blocks come as 1, 2 or 4 slots, halves for tight walls.", "Trim connects everything into one network for the controller below."]
+	quest.04708B02C5690266.title: "Storage Drawers"
+	quest.04DA3A8507BEDB99.quest_desc: ["Chests and barrels that upgrade with metals instead of multiplying across the room.", "Every tier adds slots and an upgrade slot. Start with a plain chest."]
+	quest.04DA3A8507BEDB99.title: "Sophisticated Storage"
+	quest.0592D3DABACD0CE6.quest_desc: ["Dropped by the Lucid.", "You will need a second one later for the Gravity Gun!"]
 	quest.0592D3DABACD0CE6.title: "Eye of Dreams"
+	quest.0604BD805637B627.quest_desc: ["Chutes drop items straight down, faster with each block.", "Smart chutes pull from inventories and filter on the way."]
+	quest.0604BD805637B627.title: "Chutes"
+	quest.08891A0092241756.quest_desc: ["Deep pockets."]
+	quest.08891A0092241756.title: "Diamond Backpack"
+	quest.099B848E75ABBBCE.quest_desc: ["Bluestone torches, quartz and stone.", "Antarchy's answer to redstone, same job."]
 	quest.099B848E75ABBBCE.title: "Bluestone Comparator"
-	quest.1001AABBCCDDEEFF.quest_desc: [
-		"The first boss of the Twilight Forest."
-		"Find the Naga Courtyard in the forest. The Naga circles the arena and charges through blocks. Bring a shield and keep moving."
-	]
+	quest.099EEF71849D646F.quest_desc: ["It drifts over the Lucid Pools of Thoraxis, hurling bolts that invert your gravity.", "You need two Eyes of Dreams: one for the blade, one for the Gravity Gun."]
+	quest.099EEF71849D646F.title: "Kill the Lucid"
+	quest.09B79B6479AE9F31.quest_desc: ["Places blocks from the disks into the world.", "Builders love it more."]
+	quest.09B79B6479AE9F31.title: "Constructor"
+	quest.0BA163F30788EA2E.quest_desc: ["Feeds Forge power into the ME network.", "One per network is usually enough."]
+	quest.0BA163F30788EA2E.title: "Energy Acceptor"
+	quest.0BE25B9BEA5F1E7E.quest_desc: ["A rare sight among the Overworld's mantises.", "Its claw feeds the Big Bertha weapon line."]
+	quest.0BE25B9BEA5F1E7E.title: "Kill the Alpha Mantis"
+	quest.0C1AFCCD54FA31AA.quest_desc: ["Funnels pull from inventories above and push into belts and chutes.", "Brass funnels filter too. Point the spout where things should go."]
+	quest.0C1AFCCD54FA31AA.title: "Funnels"
+	quest.0CF6EE642D83E1E8.quest_desc: ["It hatches from the massive cocoon in Elythia.", "Its wing crafts the Brutalfly Elytra - and feeds the Big Bertha weapon line, so don't lose it."]
+	quest.0CF6EE642D83E1E8.title: "Kill the Brutalfly"
+	quest.0D0EC09FB5E55A96.quest_desc: ["Pushes matching items from the router into the facing inventory.", "Regulate amounts and redstone behavior in the module GUI."]
+	quest.0D0EC09FB5E55A96.title: "Sender Module"
+	quest.0E9821755DE5F440.quest_desc: ["Wireless power: plugs feed the network, points drink from it.", "Configure both with the configurator on the same network name."]
+	quest.0E9821755DE5F440.title: "Flux Networks"
+	quest.0ED597DDAB4D1972.quest_desc: ["A depot stages one stack where belts, funnels and players meet.", "Basins do the same job for processing recipes."]
+	quest.0ED597DDAB4D1972.title: "Depot"
+	quest.0F18276ABF2DDB0E.quest_desc: ["The hunt begins at home."]
+	quest.0F18276ABF2DDB0E.title: "Overworld"
+	quest.1001AABBCCDDEEFF.quest_desc: ["The first boss of the Twilight Forest.", "Find the Naga Courtyard in the forest. The Naga circles the arena and charges through blocks. Bring a shield and keep moving."]
 	quest.1001AABBCCDDEEFF.title: "The Naga"
-	quest.1002AABBCCDDEEFF.quest_desc: [
-		"At the top of the Lich Tower."
-		"Three phases. Reflect his Ender Pearl shots to break the shields, melee him when he summons zombies, then finish him when he swaps to a sword."
-	]
+	quest.1002AABBCCDDEEFF.quest_desc: ["At the top of the Lich Tower.", "Three phases. Reflect his Ender Pearl shots to break the shields, melee him when he summons zombies, then finish him when he swaps to a sword."]
 	quest.1002AABBCCDDEEFF.title: "The Twilight Lich"
-	quest.1003AABBCCDDEEFF.quest_desc: [
-		"The Labyrinth under the Swamp."
-		"Use a Maze Map or follow the walls to find the Minoshroom. Eat the Meef Stroganoff it drops to unlock the Fire Swamp."
-	]
+	quest.1003AABBCCDDEEFF.quest_desc: ["The Labyrinth under the Swamp.", "Use a Maze Map or follow the walls to find the Minoshroom. Eat the Meef Stroganoff it drops to unlock the Fire Swamp."]
 	quest.1003AABBCCDDEEFF.title: "Minoshroom"
-	quest.1004AABBCCDDEEFF.quest_desc: [
-		"In the Fire Swamp."
-		"The Hydra has many heads. Ranged is weak so fight up close and keep moving to avoid fire. Defeating it opens the Dark Forest."
-	]
+	quest.1004AABBCCDDEEFF.quest_desc: ["In the Fire Swamp.", "The Hydra has many heads. Ranged is weak so fight up close and keep moving to avoid fire. Defeating it opens the Dark Forest."]
 	quest.1004AABBCCDDEEFF.title: "Hydra"
-	quest.1005AABBCCDDEEFF.quest_desc: [
-		"Inside the Dark Forest Stronghold."
-		"Place any boss trophy on the pedestal to enter. Six Knight Phantoms fight together on the third layer."
-	]
+	quest.1005AABBCCDDEEFF.quest_desc: ["Inside the Dark Forest Stronghold.", "Place any boss trophy on the pedestal to enter. Six Knight Phantoms fight together on the third layer."]
 	quest.1005AABBCCDDEEFF.title: "Knight Phantoms"
-	quest.1006AABBCCDDEEFF.quest_desc: [
-		"At the top of the Dark Tower."
-		"Find the reappearing blocks at the base to climb the maze. Ghast traps powered by Ghastlings can help, a bow works too."
-	]
+	quest.1006AABBCCDDEEFF.quest_desc: ["At the top of the Dark Tower.", "Find the reappearing blocks at the base to climb the maze. Ghast traps powered by Ghastlings can help, a bow works too."]
 	quest.1006AABBCCDDEEFF.title: "Ur-Ghast"
-	quest.1007AABBCCDDEEFF.quest_desc: [
-		"In the Snowy Forest."
-		"Find the large Yeti Cave. The Alpha Yeti throws ice blocks, a bow helps."
-	]
+	quest.1007AABBCCDDEEFF.quest_desc: ["In the Snowy Forest.", "Find the large Yeti Cave. The Alpha Yeti throws ice blocks, a bow helps."]
 	quest.1007AABBCCDDEEFF.title: "Alpha Yeti"
-	quest.1008AABBCCDDEEFF.quest_desc: [
-		"At the top of the Aurora Palace in the Glacier."
-		"She summons ice crystals and slams ice that breaks the floor. Hit her upper half while dodging. Defeating her unlocks the Highlands."
-	]
+	quest.1008AABBCCDDEEFF.quest_desc: ["At the top of the Aurora Palace in the Glacier.", "She summons ice crystals and slams ice that breaks the floor. Hit her upper half while dodging. Defeating her unlocks the Highlands."]
 	quest.1008AABBCCDDEEFF.title: "Snow Queen"
+	quest.1077E6D8B10D7B23.quest_desc: ["Mekanism power cables, speaking every energy dialect.", "Watch the tier: a basic cable on a power-hungry line throttles it."]
+	quest.1077E6D8B10D7B23.title: "Universal Cables"
 	quest.10845E332C012581.quest_desc: ["It forms the core of Big Bertha's blade."]
 	quest.10845E332C012581.title: "The Ultimate Sword"
-	quest.17BE13E24CD644E5.quest_desc: [
-		"Now the actual fight starts, he has two health bars both need to get taken to 0 to get the Chaos Shards. Don't get too close or he'll hit you with a barrage of Fireballs!"
-		"(BTW in older versions the Chaos Guardian could even kill someone in Creative mode! Fortunately it can't anymore)"
-	]
+	quest.13C330FC9C38F2CF.quest_desc: ["Beyond the stronghold portal."]
+	quest.13C330FC9C38F2CF.title: "The End"
+	quest.147DAAAA0ADF3C20.quest_desc: ["Sucks external inventories into the disks.", "Point the arrow into your storage."]
+	quest.147DAAAA0ADF3C20.title: "Importer"
+	quest.15D0F21CED8A5AD4.quest_desc: ["The biggest pockets in the pack."]
+	quest.15D0F21CED8A5AD4.title: "Netherite Backpack"
+	quest.165007409221A9CC.quest_desc: ["Pulls external inventories into the QIO drives.", "Exporters push back out. Pair them per production line."]
+	quest.165007409221A9CC.title: "QIO Importer"
+	quest.17BE13E24CD644E5.quest_desc: ["Now the actual fight starts, he has two health bars both need to get taken to 0 to get the Chaos Shards. Don't get too close or he'll hit you with a barrage of Fireballs!", "(BTW in older versions the Chaos Guardian could even kill someone in Creative mode! Fortunately it can't anymore)"]
 	quest.17BE13E24CD644E5.title: "Kill the Chaos Guardian"
+	quest.17E93A365DAB380D.quest_desc: ["Its lair hides in Elythia's Ouranwood forests - look for the tiered spawners.", "Don't meet its gaze.", "Its fang feeds the Big Bertha blade."]
+	quest.17E93A365DAB380D.title: "Kill the Basilisk"
+	quest.1808E04439BE57E1.quest_desc: ["Every tech machine runs on FE, and these move it without discrimination.", "Some machines have strict input and output sides, so check the machine GUI if power will not flow."]
+	quest.1808E04439BE57E1.title: "Energy Pipez"
+	quest.183A58E73DF7E824.quest_desc: ["The biggest disk in the line. Sixty-five thousand stacks.", "If this fills up, the problem is you."]
+	quest.183A58E73DF7E824.title: "64k Storage Disk"
+	quest.18CFBA29FFFD9BF3.quest_desc: ["Filters transporter lines by single item with color routing.", "Place it on the line, pick the item, pick the color, done."]
+	quest.18CFBA29FFFD9BF3.title: "Logistical Sorter"
+	quest.1AE19A64C250F3FA.quest_desc: ["Voids overflow instead of clogging the line. Essential on farms that never sleep."]
+	quest.1AE19A64C250F3FA.title: "Void Upgrade"
+	quest.1B539940DB8018D6.quest_desc: ["Breaks world blocks straight into the disks.", "Quarries love it."]
+	quest.1B539940DB8018D6.title: "Destructor"
 	quest.1D2BC6C9E7FCD9DD.quest_desc: ["Dropped by the Basilisk."]
 	quest.1D2BC6C9E7FCD9DD.title: "Basilisk Fang"
+	quest.1DE3FC52AC8A0FDB.quest_desc: ["Both chapters store everything digitally, and nothing stops you running both.", "Refined Storage is the beginner-friendly start: no channels, simpler autocrafting.", "AE2 scales further for later, at real complexity cost."]
+	quest.1DE3FC52AC8A0FDB.title: "Refined or AE2?"
+	quest.1E9CB2FC2EB81A66.quest_desc: ["More room for activities."]
+	quest.1E9CB2FC2EB81A66.title: "Gold Chest"
+	quest.20536A6C1E21C77A.quest_desc: ["Cane or honey bottles, your choice.", "Rainbow Sugar builds on plain sugar."]
 	quest.20536A6C1E21C77A.title: "Sugar"
+	quest.219A23B318F03A5C.quest_desc: ["Two-slot and three-slot drawers auto-convert between nugget, ingot and block as you insert or pull.", "One compacting drawer replaces a whole ingot-block juggling corner."]
+	quest.219A23B318F03A5C.title: "Compacting Drawers"
+	quest.223C933BE42DD7DB.quest_desc: ["Moves water, lava and modded fluids from tank to tank. It cannot pick up source blocks from the world.", "Hook one up to a sink for infinite water."]
+	quest.223C933BE42DD7DB.title: "Fluid Pipez"
+	quest.22EB680B8211E199.quest_desc: ["Your first cell: a thousand item types, roughly.", "Bigger cells build on smaller ones."]
+	quest.22EB680B8211E199.title: "1k Storage Cell"
 	quest.231BE396EEC568E4.quest_desc: ["Dropped by Triffids."]
 	quest.231BE396EEC568E4.title: "Triffid Goo"
+	quest.24AD30F0436C0F9F.quest_desc: ["Chests and tanks that share contents across dimensions on the same color code.", "Right-click with dyes to set the code. Anyone holding your colors reads your stock, so do not use rainbows for valuables."]
+	quest.24AD30F0436C0F9F.title: "Ender Storage"
+	quest.24AF42E4F51502DD.quest_desc: ["A single chest with room to spare. Upgrade placed chests in place, no rebuilding."]
+	quest.24AF42E4F51502DD.title: "Iron Chest"
+	quest.2532BEE407769069.quest_desc: ["Pulls from attached inventories into the network.", "Filters which items may pass."]
+	quest.2532BEE407769069.title: "Import Kabel"
+	quest.26498281C2337FF9.quest_desc: ["The blank all Sophisticated upgrades are built on.", "Keep a stack; everything below eats one."]
+	quest.26498281C2337FF9.title: "Upgrade Base"
+	quest.287C4E1BB1B6DA2D.quest_desc: ["Eats food from the backpack for you. Never carry carrots again."]
+	quest.287C4E1BB1B6DA2D.title: "Feeding Upgrade"
 	quest.29BA664EB777443C.quest_desc: ["Dropped by the Cloud Shark."]
 	quest.29BA664EB777443C.title: "Cloud Shark Fin"
+	quest.2C8724D1B5322F15.quest_desc: ["Ride a red ant out of the Nether - or kill one inside a Nyxite portal frame.", "A nightmare dimension of inverted gravity: plants, geysers and pools fling you skyward.", 		"The Nightmare, the Emperor Scorpion, the Lucid and the Bed Bugs live here."
+		"Nature's Compass tracks Thoraxis biomes by name - try Nightmare Wastes."]
+	quest.2C8724D1B5322F15.title: "Thoraxis"
+	quest.2E01DB27775963D4.quest_desc: ["Pushes cell stock out to machines.", "Crafting cards make it request on demand."]
+	quest.2E01DB27775963D4.title: "Export Bus"
+	quest.30A8D4C9CA631D60.quest_desc: ["Both chapters store everything digitally, and nothing stops you running both.", "AE2 scales furthest but demands channels, presses and power planning.", "For a first digital system, Refined Storage is the gentler start."]
+	quest.30A8D4C9CA631D60.title: "AE2 or Refined?"
+	quest.321275E3D6C51353.quest_desc: ["Channel-based digital storage for very large networks, starting at the inscriber press.", "The full network gets its own chapter later."]
+	quest.321275E3D6C51353.title: "Applied Energistics 2"
+	quest.3315C143CA2C9FC5.quest_desc: ["The cheapest digital storage: one master block plus cables linking every chest.", "No power, no drives, just one searchable inventory."]
+	quest.3315C143CA2C9FC5.title: "Simple Storage Network"
+	quest.337319A85472B250.quest_desc: ["Disk-based digital storage with autocrafting further down the line.", "The controller powers the network; everything hangs off cables."]
+	quest.337319A85472B250.title: "Refined Storage"
+	quest.35507F7C8CD54074.quest_desc: ["Mekanism gases like hydrogen and oxygen refuse every other pipe.", "If a Mekanism recipe involves something that is neither item, fluid nor energy, it goes through gas pipes."]
+	quest.35507F7C8CD54074.title: "Gas Pipez"
 	quest.370881E9F5E0C794.quest_desc: ["Smelt uranium ore."]
 	quest.370881E9F5E0C794.title: "Uranium Ingot"
+	quest.3712F66B8705F3E4.quest_desc: ["It drills straight through blocks in Elythia's Moleworm Caves - and in the Cavaryn hordes.", "Its nose feeds the Big Bertha hilt."]
+	quest.3712F66B8705F3E4.title: "Kill the Molevore"
+	quest.38F236E6B00C58C8.quest_desc: ["Corn, any corndog meat, and a stick.", "Smelt or smoke it for the handle."]
 	quest.38F236E6B00C58C8.title: "Raw Corndog"
 	quest.3B68BB08293B5042.quest_desc: ["Sugar, a uranium nugget and HFCS, shapeless.", "Also found in Trayaurus Lab chests.", "Fed rainbow ants open infinite random dimensions. Easter Bunnies hop around in there, and they lay Kraken eggs."]
 	quest.3B68BB08293B5042.title: "Rainbow Sugar"
+	quest.3C19873B4E2A90FE.quest_desc: ["The brain of the wall. Link drawers with trim and the controller sees them all.", "Double-right-click it to dump matching inventory contents into the network."]
+	quest.3C19873B4E2A90FE.title: "Drawer Controller"
+	quest.3D2A06434070D2A3.quest_desc: ["Docks a minecart contraption and pumps its inventory in or out.", "Two interfaces facing each other bridge moving and static storage."]
+	quest.3D2A06434070D2A3.title: "Portable Storage Interface"
+	quest.3D2C5B304E8D62E8.quest_desc: ["Pulls external inventories into the cells.", "Filtered sides keep loops out."]
+	quest.3D2C5B304E8D62E8.title: "Import Bus"
+	quest.3E34CEDFB7077872.quest_desc: ["Keys tune each drawer: lock keeps its item, quantify shows exact counts, shroud hides the label, personal binds it to you."]
+	quest.3E34CEDFB7077872.title: "Drawer Keys"
+	quest.3EC5E424D3FABDFE.quest_desc: ["One pipe for items, fluids and energy, handy for tight builds.", "Gases still need their own gas pipes."]
+	quest.3EC5E424D3FABDFE.title: "Universal Pipez"
+	quest.3EF864FC1334CE65.quest_desc: ["Pushes power from generators into your network.", "One plug per generator row keeps things tidy."]
+	quest.3EF864FC1334CE65.title: "Flux Plug"
 	quest.401952145436BB91.quest_desc: ["Dropped by Jerry."]
 	quest.401952145436BB91.title: "Jerry Nucleus"
+	quest.40CAEFC8FFA71617.quest_desc: ["Fight through a Cavaryn horde: killing mobs like Creeping Horrors escalates the waves.", "The final wave spawns the Hercules Beetle with a warning. Tameable, if you'd rather keep it.", "Its horn feeds the Big Bertha hilt."]
+	quest.40CAEFC8FFA71617.title: "Kill the Hercules Beetle"
+	quest.41E2CC6B056CB704.quest_desc: ["Quartz, stone and redstone torches, vanilla recipe.", "The Gravity Gun wants real redstone logic."]
 	quest.41E2CC6B056CB704.title: "Comparator"
+	quest.43AE1F89A8B0ECFD.quest_desc: ["The first upgrade."]
+	quest.43AE1F89A8B0ECFD.title: "Iron Backpack"
+	quest.45E07B5F73AEFB8A.quest_desc: ["The Brutalfly rules Elythia's skies. Take it down.", "Its wing feeds the Big Bertha weapon line, so don't lose it."]
+	quest.45E07B5F73AEFB8A.title: "Kill the Brutalfly"
+	quest.468AC41BFA2FBD23.quest_desc: ["Two comparators, two ingots, netherite, and a second Eye of Dreams.", "The blade borrows an eye too, so you must kill two Lucids."]
 	quest.468AC41BFA2FBD23.title: "Gravity Gun"
+	quest.46FDE1053D1ED4E6.quest_desc: ["The crowned terror of Thoraxis's Dream Dunes.", "Its stinger feeds the Big Bertha blade."]
+	quest.46FDE1053D1ED4E6.title: "Kill the Emperor Scorpion"
+	quest.474C9FBAB430E164.quest_desc: ["Teleports items, fluids, gas and energy across dimensions.", "Needs a QIO drive frequency and a lot of power."]
+	quest.474C9FBAB430E164.title: "Quantum Entangloporter"
+	quest.475DDABE8D57F989.quest_desc: ["Crafts patterns on demand for the network.", "Faster with speed cards."]
+	quest.475DDABE8D57F989.title: "Molecular Assembler"
+	quest.483B6AF583A73905.quest_desc: ["Mekanism's item pipes, in four tiers from basic to ultimate.", "Configure both ends with the configurator. The logistical sorter adds single-item routing later."]
+	quest.483B6AF583A73905.title: "Logistical Transporters"
+	quest.49AA40492696BCA0.quest_desc: ["Vacuums nearby drops straight into the backpack. Turn it off before walking past a friend's build site."]
+	quest.49AA40492696BCA0.title: "Magnet Upgrade"
+	quest.4A5B316F3F26BB5D.quest_desc: ["Right-click a brown ant and you'll be pulled into Elythia."]
+	quest.4A5B316F3F26BB5D.title: "Enter Elythia"
+	quest.4A9C9D5C3303E80E.quest_desc: ["Holds ten storage cells where the network keeps items.", "Cells come in tiers; start small."]
+	quest.4A9C9D5C3303E80E.title: "ME Drive"
+	quest.4BDE0496932034F8.quest_desc: ["One block that pushes, pulls and filters with swappable modules, perfect for compact automation.", "It works on the six adjacent blocks out of the box. Range and stack upgrades come later."]
+	quest.4BDE0496932034F8.title: "Modular Routers"
+	quest.4D7B3F935FEBA2AB.quest_desc: ["Your first disk: two thousand items, roughly.", "Bigger disks build on smaller ones."]
+	quest.4D7B3F935FEBA2AB.title: "1k Storage Disk"
+	quest.4D84B1D48D2BC8EC.quest_desc: ["Pulls power out of the network into machines.", "Set limits per point so one hungry machine cannot brown out the base."]
+	quest.4D84B1D48D2BC8EC.title: "Flux Point"
 	quest.4D924EDBBBAA90E2.quest_desc: ["Dropped by the Brutalfly."]
 	quest.4D924EDBBBAA90E2.title: "Brutalfly Wing"
+	quest.4DA1CB466F30CB23.quest_desc: ["Nightmare scale, Molevore nose, Jerry nucleus, Hercules horn, Jumpy leg, Primordial scute, Rainbow Sugar.", "Seven drops, one grip."]
 	quest.4DA1CB466F30CB23.title: "Big Bertha Hilt"
 	quest.4F15A97C2B78C20C.quest_desc: ["Dropped by the Emperor Scorpion."]
 	quest.4F15A97C2B78C20C.title: "Emperor Scorpion Stinger"
+	quest.4FB4D4E4ACC2BC58.quest_desc: ["The biggest chest in the line, with the most upgrade slots."]
+	quest.4FB4D4E4ACC2BC58.title: "Netherite Chest"
+	quest.531A0D00CEB93836.quest_desc: ["Pipes filter with an Advanced Upgrade installed: open the pipe GUI, add a filter, then set item, tag or NBT.", "The destination tool locks a filter to one specific inventory. Whitelist lets only the filter through, blacklist everything but."]
+	quest.531A0D00CEB93836.title: "Pipe Filtering"
+	quest.53689B826F46C9AF.quest_desc: ["It guards its arena in the Elythia ocean.", "Its scute feeds the Big Bertha hilt."]
+	quest.53689B826F46C9AF.title: "Kill the Toreterror"
+	quest.53DB7377C211654A.quest_desc: ["Right-click a brown ant to be pulled into Elythia, hunting ground of the Brutalfly, the Toreterror, the Basilisk, the Molevore and the Cloud Shark."]
+	quest.53DB7377C211654A.title: "Elythia"
+	quest.543BAE83CA014862.quest_desc: ["A crafting grid living inside the chest.", "Stonecutting and smelting variants exist too."]
+	quest.543BAE83CA014862.title: "Crafting Upgrade"
 	quest.54F000B24088BB6C.quest_desc: ["The Kraken drops both Tentacles and Teeth - you need one of each."]
 	quest.54F000B24088BB6C.title: "Release the Kraken"
+	quest.55A4EED273996F9B.quest_desc: ["A quarter-million item types in one cell.", "The end of the line. Probably."]
+	quest.55A4EED273996F9B.title: "256k Storage Cell"
+	quest.567DF821E2727EF2.quest_desc: ["It patrols the cloud seas of Elythia.", "Its fin feeds the Big Bertha blade - and cooks into a fine soup."]
+	quest.567DF821E2727EF2.title: "Kill the Cloud Shark"
+	quest.570FA365734D9D59.quest_desc: ["Moves fluids for machines like the electrolytic separator, which drinks water.", "Higher tiers carry more per tick."]
+	quest.570FA365734D9D59.title: "Mechanical Pipes"
+	quest.574FF91C2BA5B3EE.quest_desc: ["Everything here stores items without power: cans, drawers, chests and backpacks.", "Digital storage closes the chapter for when the chest room overflows."]
+	quest.574FF91C2BA5B3EE.title: "Basic Storage"
+	quest.57DEC97B2439F380.quest_desc: ["Packs up a machine, contents and settings included, for moving day.", "Does not work on everything, but on most things that matter."]
+	quest.57DEC97B2439F380.title: "Cardboard Box"
+	quest.58E9F2D694C5AACF.quest_desc: ["A terminal with crafting built in.", "Craft straight out of the cells."]
+	quest.58E9F2D694C5AACF.title: "Crafting Terminal"
+	quest.59B10BA13662C356.quest_desc: ["Getting rid of the excess. One can each for items, fluids and energy.", "Void upgrades later do the same job inline, but a can by the workbench never hurts."]
+	quest.59B10BA13662C356.title: "Trash Cans"
+	quest.5C87B4ED20485B96.quest_desc: ["Mantis claw, Brutalfly wing, Triffid goo, a cooked corndog, and the whole Gravity Gun.", "Yes, the gun gets consumed. Worth it."]
 	quest.5C87B4ED20485B96.title: "Big Bertha Handle"
+	quest.5DA1AD8E6FEBCD1F.quest_desc: ["Four netherite scrap plus four gold ingots on the crafting grid.", "The blade project needs its backbone metal."]
 	quest.5DA1AD8E6FEBCD1F.title: "Netherite Ingot"
+	quest.5E1B1EDC40B2FDAE.quest_desc: ["Connects two inventories and moves items between them, farm to chest or chest to machine.", "Wrench a pipe to set each side to Pull, Push or Off."]
+	quest.5E1B1EDC40B2FDAE.title: "Item Pipez"
 	quest.5F5E45EFACDCE9A6.quest_desc: ["Smelt titanium ore."]
 	quest.5F5E45EFACDCE9A6.title: "Titanium Ingot"
+	quest.6091AE070476DB48.quest_desc: ["Wireless redstone between contraptions and the base.", "One link transmits, its twin receives, across any distance."]
+	quest.6091AE070476DB48.title: "Redstone Link"
 	quest.61384D5A42B93834.quest_desc: ["Dropped by the Nightmare."]
 	quest.61384D5A42B93834.title: "Nightmare Scale"
+	quest.616EAC0708E2EF90.quest_desc: ["A crafting grid inside the backpack. Smelting, stonecutting and blasting variants exist too."]
+	quest.616EAC0708E2EF90.title: "Crafting Upgrade"
+	quest.619D3C9D28CBCD62.quest_desc: ["Mekanism tanks hold buckets by the dozen and upgrade upward.", "Dynamic tanks scale to multiblock size later."]
+	quest.619D3C9D28CBCD62.title: "Fluid Tanks"
+	quest.61CF2F9D4B616419.quest_desc: ["Ultimate Sword, Lucid eye, Basilisk fang, Emperor stinger, Cloud Shark fin, Kraken tentacle AND tooth.", "Seven rarities, one cutting edge. Do not lose it."]
 	quest.61CF2F9D4B616419.title: "Big Bertha Blade"
+	quest.61DB15007645A618.quest_desc: ["Roomier still."]
+	quest.61DB15007645A618.title: "Gold Backpack"
+	quest.628115E311C3BE81.quest_desc: ["Sixteen times the 1k. Server-grade hoarding.", "One disk can swallow a quarry output."]
+	quest.628115E311C3BE81.title: "16k Storage Disk"
+	quest.62D262AA36968D2D.quest_desc: ["Storage upgrades multiply capacity from iron up through gold, diamond, emerald and netherite.", "Sneak-right-click the controller to feed upgrades into the whole network at once."]
+	quest.62D262AA36968D2D.title: "Drawer Upgrades"
+	quest.641CF9A9B2EFF048.quest_desc: ["Serious bulk storage for serious automation.", "One cell per material network."]
+	quest.641CF9A9B2EFF048.title: "64k Storage Cell"
+	quest.648C33EF5C50D3BF.quest_desc: ["Enchanted gear, damaged tools and anything with extra data does not stack.", "Keep that stuff in chests or bags. Feeding it into a digital system bloats the drive with thousands of unique entries."]
+	quest.648C33EF5C50D3BF.title: "NBT and YOU!"
+	quest.663C8E631F2869C5.quest_desc: ["Four times the 1k. Keep climbing.", "Disks upgrade in place with storage parts."]
+	quest.663C8E631F2869C5.title: "4k Storage Disk"
+	quest.66902790EAFD0729.quest_desc: ["Searches every cell from one screen.", "The face of the system."]
+	quest.66902790EAFD0729.title: "ME Terminal"
+	quest.670F1DFE159F3B33.quest_desc: ["They swarm every corner of Thoraxis, hatching from nests and surface clusters.", "Squash them for the advancement."]
+	quest.670F1DFE159F3B33.title: "Kill a Bed Bug"
+	quest.6858822C00824705.quest_desc: ["Two ways to meet it: killing squids can summon it, so watch where you swing, or find an Easter Bunny in a rainbow-ant dimension and wait for it to lay a Kraken egg.", "The hardest boss in the mod: it flies, calls lightning, and fires Octopus Bombs and Missile Squids.", "Bring one Tentacle and one Tooth for the Big Bertha blade."]
+	quest.6858822C00824705.title: "Kill the Kraken"
 	quest.6B10301A0D908130.quest_desc: ["Dropped by Toreterror."]
 	quest.6B10301A0D908130.title: "Primordial Scute"
-	quest.6C3CC466DF3D88BE.quest_desc: [
-		"Shift + use to cycle boss modes:"
-		"Basilisk paralyzes and poisons, Lucid inverts gravity, Nightmare spreads dread,"
-		"Kraken slams and calls lightning, Hercules launches foes skyward,"
-		"Molevore drills through blocks, Toreterror crashes down with an AOE shockwave."
-	]
+	quest.6B1F8FD97675DF68.quest_desc: ["It haunts the Nightmare Wastes and Umbral Hills of Thoraxis.", "Expect your gravity to flip.", "Its scale feeds the Big Bertha hilt."]
+	quest.6B1F8FD97675DF68.title: "Kill the Nightmare"
+	quest.6B4FE35EC75A476E.quest_desc: ["Treats every connected chest as one big storage, up to 14 blocks out in all directions.", "It doubles as the in and out point for pipes and digital systems."]
+	quest.6B4FE35EC75A476E.title: "Storage Controller"
+	quest.6B9F7D9034C88F24.quest_desc: ["Wirelessly joins far chests into the controller network. Bind with the storage tool: controller first, then chests.", "Same 14-block reach, none of the trim tunnels."]
+	quest.6B9F7D9034C88F24.title: "Storage Link"
+	quest.6C3CC466DF3D88BE.quest_desc: ["Shift + use to cycle boss modes:", "Basilisk paralyzes and poisons, Lucid inverts gravity, Nightmare spreads dread,", "Kraken slams and calls lightning, Hercules launches foes skyward,", "Molevore drills through blocks, Toreterror crashes down with an AOE shockwave."]
 	quest.6C3CC466DF3D88BE.title: "BIG BERTHA"
-	quest.6D8CD5CBA8CE7BFA.quest_desc: [
-		"In The End, you'll find the final boss of Vanilla Minecraft: The Ender Dragon."
-		"At the top of each pillar of Obsidian, you'll find an End Crystal that heals the Dragon. Make sure to take those out first! They also do a lot of damage, so make sure to create some distance!"
-		"Once defeated, a Dragon Egg spawns at the top of the Exit Portal. This cannot be mined like normal blocks, but is affected by gravity."
-	]
+	quest.6C57084B75B0A422.quest_desc: ["Searches every disk from one screen.", "The face of the system."]
+	quest.6C57084B75B0A422.title: "Grid"
+	quest.6D508C05CB7BA59E.quest_desc: ["Pushes network stock into machines and chests.", "The backbone of auto-processing."]
+	quest.6D508C05CB7BA59E.title: "Export Kabel"
+	quest.6D8CD5CBA8CE7BFA.quest_desc: ["In The End, you'll find the final boss of Vanilla Minecraft: The Ender Dragon.", "At the top of each pillar of Obsidian, you'll find an End Crystal that heals the Dragon. Make sure to take those out first! They also do a lot of damage, so make sure to create some distance!", "Once defeated, a Dragon Egg spawns at the top of the Exit Portal. This cannot be mined like normal blocks, but is affected by gravity."]
 	quest.6D8CD5CBA8CE7BFA.title: "Kill the Ender Dragon"
+	quest.6DC3B26B2B88FCB1.quest_desc: ["Upgradable backpacks that ride in the curios back slot and take filters for nifty tricks.", "They dye too, so the whole server can color-code."]
+	quest.6DC3B26B2B88FCB1.title: "Sophisticated Backpacks"
+	quest.707341E3F0EEAE0C.quest_desc: ["Antarchy ores are rarer than diamond and drop a single nugget each.", "Nine make an ingot."]
 	quest.707341E3F0EEAE0C.title: "Uranium Nugget"
+	quest.71902E9FC13770FE.quest_desc: ["A cable that only lets chosen items through.", "Keeps sorted lines sorted."]
+	quest.71902E9FC13770FE.title: "Filter Kabel"
+	quest.728535329B6CABAE.quest_desc: ["Mekanism's own digital storage: hyper-dense drives on one array.", "Importers and exporters wire it into the factory."]
+	quest.728535329B6CABAE.title: "QIO Drive Array"
+	quest.73B7502A7CE903EA.quest_desc: ["Oversees the whole network and buffers transfers.", "Optional until the network grows teeth."]
+	quest.73B7502A7CE903EA.title: "Flux Controller"
+	quest.74371D87F77252BF.quest_desc: ["Nothing crafts or drops it in this Antarchy version, check JEI or go creative.", "Without it, Rainbow Sugar and the whole hilt stall."]
 	quest.74371D87F77252BF.title: "High Fructose Corn Syrup"
+	quest.7526CE7EEA8A7121.quest_desc: ["Smaller horrors, each with its own advancement - and most drop Big Bertha ingredients."]
+	quest.7526CE7EEA8A7121.title: "Minibosses"
+	quest.755A9B6A2486D364.quest_desc: ["Belts, funnels and chutes move items the scenic route, with no power bill.", "Start with belt connectors, then funnel in and out of chests and machines.", "Extend lines with more connectors, and mind the rotation direction."]
+	quest.755A9B6A2486D364.title: "Create"
+	quest.757E0BBF7CF30F7D.quest_desc: ["Every upgrade moves more per operation. Basic adds redstone control, Improved adds routing modes like round-robin, Advanced unlocks filters, Ultimate just moves a lot."]
+	quest.757E0BBF7CF30F7D.title: "Pipe Upgrades"
+	quest.75A00F759323E4AF.quest_desc: ["Moving thousands of items between chests, machines and farms by hand is not a plan.", "This chapter covers the pack's pipes: Pipez for simple runs, Mekanism for its machines, and Modular Routers for clever bits. Grab a wrench to start."]
+	quest.75A00F759323E4AF.title: "Logistics"
+	quest.75FB1CD196158F95.quest_desc: ["A grid with a crafting table built in.", "Craft straight out of the disks."]
+	quest.75FB1CD196158F95.title: "Crafting Grid"
+	quest.77F2BF66E570A12A.quest_desc: ["Holds the storage disks the network actually stores on.", "More drives, more disks, more everything."]
+	quest.77F2BF66E570A12A.title: "Disk Drive"
+	quest.794098D78CD9BD42.quest_desc: ["Moving thousands of items between chests, machines and farms by hand is not a plan.", "This chapter covers the pack's pipes: Pipez for simple runs, Mekanism for its machines, and Modular Routers for clever bits. Grab a wrench to start."]
+	quest.794098D78CD9BD42.title: "Pipez"
+	quest.7983697A655600AE.quest_desc: ["Mekanism machines are picky: each side must be set to input, output or off in the machine GUI.", "The configurator flips sides between pull and push. Get one before laying a single pipe."]
+	quest.7983697A655600AE.title: "Mekanism"
 	quest.7B48AA1D703B5B22.quest_desc: ["Dropped by Praying Mantises - Alpha Mantises drop them too."]
 	quest.7B48AA1D703B5B22.title: "Mantis Claw"
+	quest.7BBC706328090A22.quest_desc: ["An input-output point for the controller network: pipes push in and pull out through it.", "One I/O per wall is usually enough."]
+	quest.7BBC706328090A22.title: "Controller I/O"
+	quest.7C4E406EC577C304.quest_desc: ["Chests vacuum nearby drops into themselves.", "Turn it off before parties."]
+	quest.7C4E406EC577C304.title: "Pickup Upgrade"
+	quest.7DA5527429294D17.quest_desc: ["Pushes network stock out to machines and chests.", "Filters keep the wrong items out."]
+	quest.7DA5527429294D17.title: "Exporter"
+	quest.7DB46DA33E716767.quest_desc: ["Searches the whole cable network from one screen and pulls what you need.", "Pair with the remote to browse your stock from anywhere."]
+	quest.7DB46DA33E716767.title: "Request Tablet"
+	quest.7DC64DC3FE15A9D9.quest_desc: ["Presses circuits for processors and cards.", "Name a press, feed the middle, collect below."]
+	quest.7DC64DC3FE15A9D9.title: "Inscriber"
 	quest.7E2BB82AF06BA4A5.quest_desc: ["yum"]
 	quest.7E2BB82AF06BA4A5.title: "Cooked Corndog"
+	quest.7E7A788DF7806180.quest_desc: ["Single-item bulk storage that upgrades through the tiers.", "A drawer equivalent for the Mekanism corner."]
+	quest.7E7A788DF7806180.title: "Mekanism Bins"
+	quest.7F59786D1353134D.quest_desc: ["Follow a termite - or kill one inside a Myrmite portal frame.", "An infested dimension of escalating hordes.", "The Hercules Beetle, Molevore waves and Jerry eggs wait inside."]
+	quest.7F59786D1353134D.title: "Cavaryn"
+	quest.7F85B0D935283536.quest_desc: ["Offers encoded patterns to the autocrafting network.", "Pair with molecular assemblers."]
+	quest.7F85B0D935283536.title: "Pattern Provider"
 	quest.7F8D2F3FBC9C28BE.quest_desc: ["Dropped by the Hercules Beetle."]
 	quest.7F8D2F3FBC9C28BE.title: "Hercules Horn"
-	quest.794098D78CD9BD42.title: "Pipez"
-	quest.794098D78CD9BD42.quest_desc: ["Moving thousands of items between chests, machines and farms by hand is not a plan.", "This chapter covers the pack's pipes: Pipez for simple runs, Mekanism for its machines, and Modular Routers for clever bits. Grab a wrench to start."]
-	quest.5E1B1EDC40B2FDAE.title: "Item Pipez"
-	quest.5E1B1EDC40B2FDAE.quest_desc: ["Connects two inventories and moves items between them, farm to chest or chest to machine.", "Wrench a pipe to set each side to Pull, Push or Off."]
-	quest.223C933BE42DD7DB.title: "Fluid Pipez"
-	quest.223C933BE42DD7DB.quest_desc: ["Moves water, lava and modded fluids from tank to tank. It cannot pick up source blocks from the world.", "Hook one up to a sink for infinite water."]
-	quest.1808E04439BE57E1.title: "Energy Pipez"
-	quest.1808E04439BE57E1.quest_desc: ["Every tech machine runs on FE, and these move it without discrimination.", "Some machines have strict input and output sides, so check the machine GUI if power will not flow."]
-	quest.35507F7C8CD54074.title: "Gas Pipez"
-	quest.35507F7C8CD54074.quest_desc: ["Mekanism gases like hydrogen and oxygen refuse every other pipe.", "If a Mekanism recipe involves something that is neither item, fluid nor energy, it goes through gas pipes."]
-	quest.3EC5E424D3FABDFE.title: "Universal Pipez"
-	quest.3EC5E424D3FABDFE.quest_desc: ["One pipe for items, fluids and energy, handy for tight builds.", "Gases still need their own gas pipes."]
-	quest.531A0D00CEB93836.title: "Pipe Filtering"
-	quest.531A0D00CEB93836.quest_desc: ["Pipes filter with an Advanced Upgrade installed: open the pipe GUI, add a filter, then set item, tag or NBT.", "The destination tool locks a filter to one specific inventory. Whitelist lets only the filter through, blacklist everything but."]
-	quest.757E0BBF7CF30F7D.title: "Pipe Upgrades"
-	quest.757E0BBF7CF30F7D.quest_desc: ["Every upgrade moves more per operation. Basic adds redstone control, Improved adds routing modes like round-robin, Advanced unlocks filters, Ultimate just moves a lot."]
-	quest.7983697A655600AE.title: "Mekanism"
-	quest.7983697A655600AE.quest_desc: ["Mekanism machines are picky: each side must be set to input, output or off in the machine GUI.", "The configurator flips sides between pull and push. Get one before laying a single pipe."]
-	quest.483B6AF583A73905.title: "Logistical Transporters"
-	quest.483B6AF583A73905.quest_desc: ["Mekanism's item pipes, in four tiers from basic to ultimate.", "Configure both ends with the configurator. The logistical sorter adds single-item routing later."]
-	quest.570FA365734D9D59.title: "Mechanical Pipes"
-	quest.570FA365734D9D59.quest_desc: ["Moves fluids for machines like the electrolytic separator, which drinks water.", "Higher tiers carry more per tick."]
-	quest.1077E6D8B10D7B23.title: "Universal Cables"
-	quest.1077E6D8B10D7B23.quest_desc: ["Mekanism power cables, speaking every energy dialect.", "Watch the tier: a basic cable on a power-hungry line throttles it."]
-	quest.02C09C3B97D80D17.title: "Pressurized Tubes"
-	quest.02C09C3B97D80D17.quest_desc: ["Carries gases, infusion types, slurries and pigments, everything the other three cannot.", "If it comes out of a Mekanism machine and has no bucket, it probably goes here."]
-	quest.18CFBA29FFFD9BF3.title: "Logistical Sorter"
-	quest.18CFBA29FFFD9BF3.quest_desc: ["Filters transporter lines by single item with color routing.", "Place it on the line, pick the item, pick the color, done."]
-	quest.4BDE0496932034F8.title: "Modular Routers"
-	quest.4BDE0496932034F8.quest_desc: ["One block that pushes, pulls and filters with swappable modules, perfect for compact automation.", "It works on the six adjacent blocks out of the box. Range and stack upgrades come later."]
-	quest.0D0EC09FB5E55A96.title: "Sender Module"
-	quest.0D0EC09FB5E55A96.quest_desc: ["Pushes matching items from the router into the facing inventory.", "Regulate amounts and redstone behavior in the module GUI."]
-	quest.03C5C48510630644.title: "Puller Module"
-	quest.03C5C48510630644.quest_desc: ["Pulls matching items out of the facing inventory into the router.", "Pair a puller on the source with a sender on the target and the route runs itself."]
-	quest.75A00F759323E4AF.title: "Logistics"
-	quest.75A00F759323E4AF.quest_desc: ["Moving thousands of items between chests, machines and farms by hand is not a plan.", "This chapter covers the pack's pipes: Pipez for simple runs, Mekanism for its machines, and Modular Routers for clever bits. Grab a wrench to start."]
-	quest.755A9B6A2486D364.title: "Create"
-	quest.755A9B6A2486D364.quest_desc: ["Belts, funnels and chutes move items the scenic route, with no power bill.", "Start with belt connectors, then funnel in and out of chests and machines.", "Extend lines with more connectors, and mind the rotation direction."]
-	quest.0C1AFCCD54FA31AA.title: "Funnels"
-	quest.0C1AFCCD54FA31AA.quest_desc: ["Funnels pull from inventories above and push into belts and chutes.", "Brass funnels filter too. Point the spout where things should go."]
-	quest.0604BD805637B627.title: "Chutes"
-	quest.0604BD805637B627.quest_desc: ["Chutes drop items straight down, faster with each block.", "Smart chutes pull from inventories and filter on the way."]
-	quest.0ED597DDAB4D1972.title: "Depot"
-	quest.0ED597DDAB4D1972.quest_desc: ["A depot stages one stack where belts, funnels and players meet.", "Basins do the same job for processing recipes."]
-	quest.3D2A06434070D2A3.title: "Portable Storage Interface"
-	quest.3D2A06434070D2A3.quest_desc: ["Docks a minecart contraption and pumps its inventory in or out.", "Two interfaces facing each other bridge moving and static storage."]
-	quest.6091AE070476DB48.title: "Redstone Link"
-	quest.6091AE070476DB48.quest_desc: ["Wireless redstone between contraptions and the base.", "One link transmits, its twin receives, across any distance."]
-	quest.0E9821755DE5F440.title: "Flux Networks"
-	quest.0E9821755DE5F440.quest_desc: ["Wireless power: plugs feed the network, points drink from it.", "Configure both with the configurator on the same network name."]
-	quest.3EF864FC1334CE65.title: "Flux Plug"
-	quest.3EF864FC1334CE65.quest_desc: ["Pushes power from generators into your network.", "One plug per generator row keeps things tidy."]
-	quest.4D84B1D48D2BC8EC.title: "Flux Point"
-	quest.4D84B1D48D2BC8EC.quest_desc: ["Pulls power out of the network into machines.", "Set limits per point so one hungry machine cannot brown out the base."]
-	quest.73B7502A7CE903EA.title: "Flux Controller"
-	quest.73B7502A7CE903EA.quest_desc: ["Oversees the whole network and buffers transfers.", "Optional until the network grows teeth."]
-	quest.7E7A788DF7806180.title: "Mekanism Bins"
-	quest.7E7A788DF7806180.quest_desc: ["Single-item bulk storage that upgrades through the tiers.", "A drawer equivalent for the Mekanism corner."]
-	quest.619D3C9D28CBCD62.title: "Fluid Tanks"
-	quest.619D3C9D28CBCD62.quest_desc: ["Mekanism tanks hold buckets by the dozen and upgrade upward.", "Dynamic tanks scale to multiblock size later."]
-	quest.57DEC97B2439F380.title: "Cardboard Box"
-	quest.57DEC97B2439F380.quest_desc: ["Packs up a machine, contents and settings included, for moving day.", "Does not work on everything, but on most things that matter."]
-	quest.474C9FBAB430E164.title: "Quantum Entangloporter"
-	quest.474C9FBAB430E164.quest_desc: ["Teleports items, fluids, gas and energy across dimensions.", "Needs a QIO drive frequency and a lot of power."]
-	quest.728535329B6CABAE.title: "QIO Drive Array"
-	quest.728535329B6CABAE.quest_desc: ["Mekanism's own digital storage: hyper-dense drives on one array.", "Importers and exporters wire it into the factory."]
-	quest.165007409221A9CC.title: "QIO Importer"
-	quest.165007409221A9CC.quest_desc: ["Pulls external inventories into the QIO drives.", "Exporters push back out. Pair them per production line."]
-	chapter.55E30E8414C6EAB5.title: "Basic Logistics"
-	quest.574FF91C2BA5B3EE.title: "Basic Storage"
-	quest.574FF91C2BA5B3EE.quest_desc: ["Everything here stores items without power: cans, drawers, chests and backpacks.", "Digital storage closes the chapter for when the chest room overflows."]
-	quest.59B10BA13662C356.title: "Trash Cans"
-	quest.59B10BA13662C356.quest_desc: ["Getting rid of the excess. One can each for items, fluids and energy.", "Void upgrades later do the same job inline, but a can by the workbench never hurts."]
-	quest.24AD30F0436C0F9F.title: "Ender Storage"
-	quest.24AD30F0436C0F9F.quest_desc: ["Chests and tanks that share contents across dimensions on the same color code.", "Right-click with dyes to set the code. Anyone holding your colors reads your stock, so do not use rainbows for valuables."]
-	quest.648C33EF5C50D3BF.title: "NBT and YOU!"
-	quest.648C33EF5C50D3BF.quest_desc: ["Enchanted gear, damaged tools and anything with extra data does not stack.", "Keep that stuff in chests or bags. Feeding it into a digital system bloats the drive with thousands of unique entries."]
-	quest.04708B02C5690266.title: "Storage Drawers"
-	quest.04708B02C5690266.quest_desc: ["Drawers hold huge stacks of one item each: full blocks come as 1, 2 or 4 slots, halves for tight walls.", "Trim connects everything into one network for the controller below."]
-	quest.3E34CEDFB7077872.title: "Drawer Keys"
-	quest.3E34CEDFB7077872.quest_desc: ["Keys tune each drawer: lock keeps its item, quantify shows exact counts, shroud hides the label, personal binds it to you."]
-	quest.219A23B318F03A5C.title: "Compacting Drawers"
-	quest.219A23B318F03A5C.quest_desc: ["Two-slot and three-slot drawers auto-convert between nugget, ingot and block as you insert or pull.", "One compacting drawer replaces a whole ingot-block juggling corner."]
-	quest.62D262AA36968D2D.title: "Drawer Upgrades"
-	quest.62D262AA36968D2D.quest_desc: ["Storage upgrades multiply capacity from iron up through gold, diamond, emerald and netherite.", "Sneak-right-click the controller to feed upgrades into the whole network at once."]
-	quest.1AE19A64C250F3FA.title: "Void Upgrade"
-	quest.1AE19A64C250F3FA.quest_desc: ["Voids overflow instead of clogging the line. Essential on farms that never sleep."]
-	quest.3C19873B4E2A90FE.title: "Drawer Controller"
-	quest.3C19873B4E2A90FE.quest_desc: ["The brain of the wall. Link drawers with trim and the controller sees them all.", "Double-right-click it to dump matching inventory contents into the network."]
-	quest.7BBC706328090A22.title: "Controller I/O"
-	quest.7BBC706328090A22.quest_desc: ["An input-output point for the controller network: pipes push in and pull out through it.", "One I/O per wall is usually enough."]
-	quest.04DA3A8507BEDB99.title: "Sophisticated Storage"
-	quest.04DA3A8507BEDB99.quest_desc: ["Chests and barrels that upgrade with metals instead of multiplying across the room.", "Every tier adds slots and an upgrade slot. Start with a plain chest."]
-	quest.24AF42E4F51502DD.title: "Iron Chest"
-	quest.24AF42E4F51502DD.quest_desc: ["A single chest with room to spare. Upgrade placed chests in place, no rebuilding."]
-	quest.1E9CB2FC2EB81A66.title: "Gold Chest"
-	quest.1E9CB2FC2EB81A66.quest_desc: ["More room for activities."]
-	quest.0285038935065C2E.title: "Diamond Chest"
-	quest.0285038935065C2E.quest_desc: ["A lot more room for activities."]
-	quest.4FB4D4E4ACC2BC58.title: "Netherite Chest"
-	quest.4FB4D4E4ACC2BC58.quest_desc: ["The biggest chest in the line, with the most upgrade slots."]
-	quest.6B4FE35EC75A476E.title: "Storage Controller"
-	quest.6B4FE35EC75A476E.quest_desc: ["Treats every connected chest as one big storage, up to 14 blocks out in all directions.", "It doubles as the in and out point for pipes and digital systems."]
-	quest.6B9F7D9034C88F24.title: "Storage Link"
-	quest.6B9F7D9034C88F24.quest_desc: ["Wirelessly joins far chests into the controller network. Bind with the storage tool: controller first, then chests.", "Same 14-block reach, none of the trim tunnels."]
-	quest.6DC3B26B2B88FCB1.title: "Sophisticated Backpacks"
-	quest.6DC3B26B2B88FCB1.quest_desc: ["Upgradable backpacks that ride in the curios back slot and take filters for nifty tricks.", "They dye too, so the whole server can color-code."]
-	quest.43AE1F89A8B0ECFD.title: "Iron Backpack"
-	quest.43AE1F89A8B0ECFD.quest_desc: ["The first upgrade."]
-	quest.61DB15007645A618.title: "Gold Backpack"
-	quest.61DB15007645A618.quest_desc: ["Roomier still."]
-	quest.08891A0092241756.title: "Diamond Backpack"
-	quest.08891A0092241756.quest_desc: ["Deep pockets."]
-	quest.15D0F21CED8A5AD4.title: "Netherite Backpack"
-	quest.15D0F21CED8A5AD4.quest_desc: ["The biggest pockets in the pack."]
-	quest.49AA40492696BCA0.title: "Magnet Upgrade"
-	quest.49AA40492696BCA0.quest_desc: ["Vacuums nearby drops straight into the backpack. Turn it off before walking past a friend's build site."]
-	quest.287C4E1BB1B6DA2D.title: "Feeding Upgrade"
-	quest.287C4E1BB1B6DA2D.quest_desc: ["Eats food from the backpack for you. Never carry carrots again."]
-	quest.616EAC0708E2EF90.title: "Crafting Upgrade"
-	quest.616EAC0708E2EF90.quest_desc: ["A crafting grid inside the backpack. Smelting, stonecutting and blasting variants exist too."]
-	quest.3315C143CA2C9FC5.title: "Simple Storage Network"
-	quest.3315C143CA2C9FC5.quest_desc: ["The cheapest digital storage: one master block plus cables linking every chest.", "No power, no drives, just one searchable inventory."]
-	quest.7DB46DA33E716767.title: "Request Tablet"
-	quest.7DB46DA33E716767.quest_desc: ["Searches the whole cable network from one screen and pulls what you need.", "Pair with the remote to browse your stock from anywhere."]
-	quest.0002325750D8C7CA.title: "Refined Storage"
-	quest.0002325750D8C7CA.quest_desc: ["Disk-based digital storage with autocrafting further down the line.", "Lay cables first. The full network gets its own chapter later."]
-	quest.321275E3D6C51353.title: "Applied Energistics 2"
-	quest.321275E3D6C51353.quest_desc: ["Channel-based digital storage for very large networks, starting at the inscriber press.", "The full network gets its own chapter later."]
-	quest.26498281C2337FF9.title: "Upgrade Base"
-	quest.26498281C2337FF9.quest_desc: ["The blank all Sophisticated upgrades are built on.", "Keep a stack; everything below eats one."]
-	quest.7C4E406EC577C304.title: "Pickup Upgrade"
-	quest.7C4E406EC577C304.quest_desc: ["Chests vacuum nearby drops into themselves.", "Turn it off before parties."]
-	quest.9933E458F4431646.title: "Magnet Upgrade"
+	quest.843DB879D75A9841.quest_desc: ["Pulls external inventories into the cells.", "Filtered sides keep loops out."]
+	quest.843DB879D75A9841.title: "Import Bus"
+	quest.8E160E8AA5A249A0.quest_desc: ["Sixteen times the 1k cell.", "Cells upgrade in the crafting grid."]
+	quest.8E160E8AA5A249A0.title: "16k Storage Cell"
 	quest.9933E458F4431646.quest_desc: ["Pulls drops toward the chest from further out.", "Stack with hoppers for full automation."]
-	quest.EDB37F15160E7CF1.title: "Feeding Upgrade"
-	quest.EDB37F15160E7CF1.quest_desc: ["Eats food from the chest for you.", "A kitchen chest by the beds."]
-	quest.CAC2F4DC81958EB4.title: "Compacting Upgrade"
-	quest.CAC2F4DC81958EB4.quest_desc: ["Auto-crafts ingots to blocks and back inside the chest.", "Saves entire walls of crafting."]
-	quest.543BAE83CA014862.title: "Crafting Upgrade"
-	quest.543BAE83CA014862.quest_desc: ["A crafting grid living inside the chest.", "Stonecutting and smelting variants exist too."]
-	quest.C9B2004E9ADEA69D.title: "Stack Upgrade"
-	quest.C9B2004E9ADEA69D.quest_desc: ["Raises stack limits far past 64 per slot.", "Four tiers; each multiplies the last."]
-	quest.2532BEE407769069.title: "Import Kabel"
-	quest.2532BEE407769069.quest_desc: ["Pulls from attached inventories into the network.", "Filters which items may pass."]
-	quest.6D508C05CB7BA59E.title: "Export Kabel"
-	quest.6D508C05CB7BA59E.quest_desc: ["Pushes network stock into machines and chests.", "The backbone of auto-processing."]
-	quest.71902E9FC13770FE.title: "Filter Kabel"
-	quest.71902E9FC13770FE.quest_desc: ["A cable that only lets chosen items through.", "Keeps sorted lines sorted."]
-	quest.B7F6A1192480FEB2.title: "Crafting Remote"
+	quest.9933E458F4431646.title: "Magnet Upgrade"
+	quest.A455AC6851842809.quest_desc: ["Chutes drop items straight down, faster with each block.", "Smart chutes pull from inventories and filter on the way."]
+	quest.A455AC6851842809.title: "Chutes"
+	quest.A6C0AE770E2678B2.quest_desc: ["Holds the storage disks the network actually stores on.", "More drives, more disks, more everything."]
+	quest.A6C0AE770E2678B2.title: "Disk Drive"
+	quest.B16E5C14B9EE6477.quest_desc: ["A terminal with crafting built in.", "Craft straight out of the cells."]
+	quest.B16E5C14B9EE6477.title: "Crafting Terminal"
+	quest.B27B05606C54CE78.quest_desc: ["Both chapters store everything digitally, and nothing stops you running both.", "Refined Storage is the beginner-friendly start: no channels, simpler autocrafting.", "AE2 scales further for later, at real complexity cost."]
+	quest.B27B05606C54CE78.title: "Refined or AE2?"
+	quest.B778DC696ADFA8DF.quest_desc: ["The biggest disk in the line. Sixty-five thousand stacks.", "If this fills up, the problem is you."]
+	quest.B778DC696ADFA8DF.title: "64k Storage Disk"
 	quest.B7F6A1192480FEB2.quest_desc: ["Browse and request from the network anywhere.", "Needs the request tablet first."]
-	chapter.2DFF14BD26BA8FA4.title: "Basic Storage"
-	quest.337319A85472B250.title: "Refined Storage"
-	quest.337319A85472B250.quest_desc: ["Disk-based digital storage with autocrafting further down the line.", "The controller powers the network; everything hangs off cables."]
-	quest.77F2BF66E570A12A.title: "Disk Drive"
-	quest.77F2BF66E570A12A.quest_desc: ["Holds the storage disks the network actually stores on.", "More drives, more disks, more everything."]
-	quest.6C57084B75B0A422.title: "Grid"
-	quest.6C57084B75B0A422.quest_desc: ["Searches every disk from one screen.", "The face of the system."]
-	quest.75FB1CD196158F95.title: "Crafting Grid"
-	quest.75FB1CD196158F95.quest_desc: ["A grid with a crafting table built in.", "Craft straight out of the disks."]
-	quest.4D7B3F935FEBA2AB.title: "1k Storage Disk"
-	quest.4D7B3F935FEBA2AB.quest_desc: ["Your first disk: two thousand items, roughly.", "Bigger disks build on smaller ones."]
-	quest.663C8E631F2869C5.title: "4k Storage Disk"
-	quest.663C8E631F2869C5.quest_desc: ["Four times the 1k. Keep climbing.", "Disks upgrade in place with storage parts."]
-	quest.147DAAAA0ADF3C20.title: "Importer"
-	quest.147DAAAA0ADF3C20.quest_desc: ["Sucks external inventories into the disks.", "Point the arrow into your storage."]
-	quest.7DA5527429294D17.title: "Exporter"
-	quest.7DA5527429294D17.quest_desc: ["Pushes network stock out to machines and chests.", "Filters keep the wrong items out."]
-	quest.1B539940DB8018D6.title: "Destructor"
-	quest.1B539940DB8018D6.quest_desc: ["Breaks world blocks straight into the disks.", "Quarries love it."]
-	quest.09B79B6479AE9F31.title: "Constructor"
-	quest.09B79B6479AE9F31.quest_desc: ["Places blocks from the disks into the world.", "Builders love it more."]
-	quest.1DE3FC52AC8A0FDB.title: "Refined or AE2?"
-	quest.1DE3FC52AC8A0FDB.quest_desc: ["Both chapters store everything digitally, and nothing stops you running both.", "Refined Storage is the beginner-friendly start: no channels, simpler autocrafting.", "AE2 scales further for later, at real complexity cost."]
-	quest.628115E311C3BE81.title: "16k Storage Disk"
-	quest.628115E311C3BE81.quest_desc: ["Sixteen times the 1k. Server-grade hoarding.", "One disk can swallow a quarry output."]
-	quest.183A58E73DF7E824.title: "64k Storage Disk"
-	quest.183A58E73DF7E824.quest_desc: ["The biggest disk in the line. Sixty-five thousand stacks.", "If this fills up, the problem is you."]
-	chapter.2F000EDEA316675B.title: "Refined Storage"
-	quest.0438E6DA6F4D3F5A.title: "Applied Energistics 2"
-	quest.0438E6DA6F4D3F5A.quest_desc: ["Channel-based digital storage for very large networks.", "The controller is the heart; give it power and room to grow."]
-	quest.7DC64DC3FE15A9D9.title: "Inscriber"
-	quest.7DC64DC3FE15A9D9.quest_desc: ["Presses circuits for processors and cards.", "Name a press, feed the middle, collect below."]
-	quest.4A9C9D5C3303E80E.title: "ME Drive"
-	quest.4A9C9D5C3303E80E.quest_desc: ["Holds ten storage cells where the network keeps items.", "Cells come in tiers; start small."]
-	quest.66902790EAFD0729.title: "ME Terminal"
-	quest.66902790EAFD0729.quest_desc: ["Searches every cell from one screen.", "The face of the system."]
-	quest.58E9F2D694C5AACF.title: "Crafting Terminal"
-	quest.58E9F2D694C5AACF.quest_desc: ["A terminal with crafting built in.", "Craft straight out of the cells."]
-	quest.7F85B0D935283536.title: "Pattern Provider"
-	quest.7F85B0D935283536.quest_desc: ["Offers encoded patterns to the autocrafting network.", "Pair with molecular assemblers."]
-	quest.475DDABE8D57F989.title: "Molecular Assembler"
-	quest.475DDABE8D57F989.quest_desc: ["Crafts patterns on demand for the network.", "Faster with speed cards."]
-	quest.3D2C5B304E8D62E8.title: "Import Bus"
-	quest.3D2C5B304E8D62E8.quest_desc: ["Pulls external inventories into the cells.", "Filtered sides keep loops out."]
-	quest.2E01DB27775963D4.title: "Export Bus"
-	quest.2E01DB27775963D4.quest_desc: ["Pushes cell stock out to machines.", "Crafting cards make it request on demand."]
-	quest.22EB680B8211E199.title: "1k Storage Cell"
-	quest.22EB680B8211E199.quest_desc: ["Your first cell: a thousand item types, roughly.", "Bigger cells build on smaller ones."]
-	quest.0055C7B329D3F955.title: "4k Storage Cell"
-	quest.0055C7B329D3F955.quest_desc: ["Four times the 1k. Keep climbing.", "Cells upgrade in the crafting grid."]
-	quest.0BA163F30788EA2E.title: "Energy Acceptor"
-	quest.0BA163F30788EA2E.quest_desc: ["Feeds Forge power into the ME network.", "One per network is usually enough."]
-	quest.30A8D4C9CA631D60.title: "AE2 or Refined?"
-	quest.30A8D4C9CA631D60.quest_desc: ["Both chapters store everything digitally, and nothing stops you running both.", "AE2 scales furthest but demands channels, presses and power planning.", "For a first digital system, Refined Storage is the gentler start."]
-	quest.0462A21DD17BB720.title: "16k Storage Cell"
-	quest.0462A21DD17BB720.quest_desc: ["Sixteen times the 1k cell.", "Cells upgrade in the crafting grid."]
-	quest.641CF9A9B2EFF048.title: "64k Storage Cell"
-	quest.641CF9A9B2EFF048.quest_desc: ["Serious bulk storage for serious automation.", "One cell per material network."]
-	quest.55A4EED273996F9B.title: "256k Storage Cell"
-	quest.55A4EED273996F9B.quest_desc: ["A quarter-million item types in one cell.", "The end of the line. Probably."]
-	chapter.37ECEF63B062F0C3.title: "Applied Energistics 2"
-	quest.5DA1AD8E6FEBCD1F.quest_desc: ["Four netherite scrap plus four gold ingots on the crafting grid.", "The blade project needs its backbone metal."]
-	quest.61CF2F9D4B616419.quest_desc: ["Ultimate Sword, Lucid eye, Basilisk fang, Emperor stinger, Cloud Shark fin, Kraken tentacle AND tooth.", "Seven rarities, one cutting edge. Do not lose it."]
-	quest.20536A6C1E21C77A.quest_desc: ["Cane or honey bottles, your choice.", "Rainbow Sugar builds on plain sugar."]
-	quest.707341E3F0EEAE0C.quest_desc: ["Antarchy ores are rarer than diamond and drop a single nugget each.", "Nine make an ingot."]
-	quest.74371D87F77252BF.quest_desc: ["Nothing crafts or drops it in this Antarchy version, check JEI or go creative.", "Without it, Rainbow Sugar and the whole hilt stall."]
-	quest.4DA1CB466F30CB23.quest_desc: ["Nightmare scale, Molevore nose, Jerry nucleus, Hercules horn, Jumpy leg, Primordial scute, Rainbow Sugar.", "Seven drops, one grip."]
-	quest.38F236E6B00C58C8.quest_desc: ["Corn, any corndog meat, and a stick.", "Smelt or smoke it for the handle."]
-	quest.41E2CC6B056CB704.quest_desc: ["Quartz, stone and redstone torches, vanilla recipe.", "The Gravity Gun wants real redstone logic."]
-	quest.099B848E75ABBBCE.quest_desc: ["Bluestone torches, quartz and stone.", "Antarchy's answer to redstone, same job."]
-	quest.468AC41BFA2FBD23.quest_desc: ["Two comparators, two ingots, netherite, and a second Eye of Dreams.", "The blade borrows an eye too, so you must kill two Lucids."]
-	quest.5C87B4ED20485B96.quest_desc: ["Mantis claw, Brutalfly wing, Triffid goo, a cooked corndog, and the whole Gravity Gun.", "Yes, the gun gets consumed. Worth it."]
-	quest.13C330FC9C38F2CF.title: "The End"
-	quest.13C330FC9C38F2CF.quest_desc: ["Beyond the stronghold portal."]
-	quest.53DB7377C211654A.title: "Elythia"
-	quest.53DB7377C211654A.quest_desc: ["Right-click a brown ant to be pulled into Elythia, hunting ground of the Brutalfly, the Toreterror, the Basilisk, the Molevore and the Cloud Shark."]
-	quest.D774A4FDCAB0FC15.title: "Thoraxis"
-	quest.D774A4FDCAB0FC15.quest_desc: ["Ride a red ant out of the Nether - or kill one inside a Nyxite portal frame.", "A nightmare dimension of inverted gravity: plants, geysers and pools fling you skyward.", "The Nightmare, the Emperor Scorpion, the Lucid and the Bed Bugs live here."]
-	quest.6B1F8FD97675DF68.title: "Kill the Nightmare"
-	quest.6B1F8FD97675DF68.quest_desc: ["It haunts the Nightmare Wastes and Umbral Hills of Thoraxis.", "Ride a red ant to get there - and expect your gravity to flip.", "Its scale feeds the Big Bertha hilt."]
-	quest.17E93A365DAB380D.title: "Kill the Basilisk"
-	quest.17E93A365DAB380D.quest_desc: ["Its lair hides in Elythia's Ouranwood forests - look for the tiered spawners.", "Don't meet its gaze.", "Its fang feeds the Big Bertha blade."]
-	quest.46FDE1053D1ED4E6.title: "Kill the Emperor Scorpion"
-	quest.46FDE1053D1ED4E6.quest_desc: ["The crowned terror of Thoraxis's Dream Dunes.", "Ride a red ant to reach it.", "Its stinger feeds the Big Bertha blade."]
-	quest.6858822C00824705.title: "Kill the Kraken"
-	quest.6858822C00824705.quest_desc: ["Two ways to meet it: killing squids can summon it, so watch where you swing, or find an Easter Bunny in a rainbow-ant dimension and wait for it to lay a Kraken egg.", "The hardest boss in the mod: it flies, calls lightning, and fires Octopus Bombs and Missile Squids.", "Bring one Tentacle and one Tooth for the Big Bertha blade."]
-	quest.53689B826F46C9AF.title: "Kill the Toreterror"
-	quest.53689B826F46C9AF.quest_desc: ["It guards its arena in the Elythia ocean.", "Its scute feeds the Big Bertha hilt."]
-	quest.0CF6EE642D83E1E8.title: "Kill the Brutalfly"
-	quest.0CF6EE642D83E1E8.quest_desc: ["It hatches from the massive cocoon in Elythia.", "Its wing crafts the Brutalfly Elytra - and feeds the Big Bertha weapon line, so don't lose it."]
-	quest.0BE25B9BEA5F1E7E.title: "Kill the Alpha Mantis"
-	quest.0BE25B9BEA5F1E7E.quest_desc: ["A rare sight among the Overworld's mantises.", "Its claw feeds the Big Bertha weapon line."]
-	quest.A927512301CCDC97.title: "Kill the Hercules Beetle"
-	quest.A927512301CCDC97.quest_desc: ["Fight through a Cavaryn horde: killing mobs like Creeping Horrors escalates the waves.", "The final wave spawns the Hercules Beetle with a warning. Tameable, if you'd rather keep it.", "Its horn feeds the Big Bertha hilt."]
-	quest.7F59786D1353134D.title: "Cavaryn"
-	quest.7F59786D1353134D.quest_desc: ["Follow a termite - or kill one inside a Myrmite portal frame.", "An infested dimension of escalating hordes.", "The Hercules Beetle, Molevore waves and Jerry eggs wait inside."]
-	quest.7526CE7EEA8A7121.title: "Minibosses"
-	quest.7526CE7EEA8A7121.quest_desc: ["Smaller horrors, each with its own advancement - and most drop Big Bertha ingredients."]
-	quest.099EEF71849D646F.title: "Kill the Lucid"
-	quest.099EEF71849D646F.quest_desc: ["It drifts over the Lucid Pools of Thoraxis, hurling bolts that invert your gravity.", "You need two Eyes of Dreams: one for the blade, one for the Gravity Gun."]
-	quest.A3B6FF69D0265233.title: "Kill the Bed Bug"
-	quest.A3B6FF69D0265233.quest_desc: ["They swarm every corner of Thoraxis, hatching from nests and surface clusters.", "Squash them for the advancement."]
-	quest.3712F66B8705F3E4.title: "Kill the Molevore"
-	quest.3712F66B8705F3E4.quest_desc: ["It drills straight through blocks in Elythia's Moleworm Caves - and in the Cavaryn hordes.", "Its nose feeds the Big Bertha hilt."]
-	quest.B906C58DA558A273.title: "Kill the Cloud Shark"
-	quest.B906C58DA558A273.quest_desc: ["It patrols the cloud seas of Elythia.", "Its fin feeds the Big Bertha blade - and cooks into a fine soup."]
+	quest.B7F6A1192480FEB2.title: "Crafting Remote"
+	quest.BAF2F09B27CA00FB.quest_desc: ["Breaks world blocks straight into the disks.", "Quarries love it."]
+	quest.BAF2F09B27CA00FB.title: "Destructor"
+	quest.BF079E5D5F70A7CB.quest_desc: ["Places blocks from the disks into the world.", "Builders love it more."]
+	quest.BF079E5D5F70A7CB.title: "Constructor"
+	quest.C65D75DA6984ACA7.quest_desc: ["Crafts patterns on demand for the network.", "Faster with speed cards."]
+	quest.C65D75DA6984ACA7.title: "Molecular Assembler"
+	quest.C9B2004E9ADEA69D.quest_desc: ["Raises stack limits far past 64 per slot.", "Four tiers; each multiplies the last."]
+	quest.C9B2004E9ADEA69D.title: "Stack Upgrade"
+	quest.C9BC7B49CDE922D8.quest_desc: ["Channel-based digital storage for very large networks.", "The controller is the heart; give it power and room to grow."]
+	quest.C9BC7B49CDE922D8.title: "Applied Energistics 2"
+	quest.CAC2F4DC81958EB4.quest_desc: ["Auto-crafts ingots to blocks and back inside the chest.", "Saves entire walls of crafting."]
+	quest.CAC2F4DC81958EB4.title: "Compacting Upgrade"
+	quest.CD46890AE424E032.quest_desc: ["Feeds Forge power into the ME network.", "One per network is usually enough."]
+	quest.CD46890AE424E032.title: "Energy Acceptor"
+	quest.D003E4F1EACCC502.quest_desc: ["Wireless redstone between contraptions and the base.", "One link transmits, its twin receives, across any distance."]
+	quest.D003E4F1EACCC502.title: "Redstone Link"
+	quest.DA8766E1ED0AE346.quest_desc: ["Pushes cell stock out to machines.", "Crafting cards make it request on demand."]
+	quest.DA8766E1ED0AE346.title: "Export Bus"
+	quest.DDD4597C09415D3F.quest_desc: ["Mekanism tanks hold buckets by the dozen and upgrade upward.", "Dynamic tanks scale to multiblock size later."]
+	quest.DDD4597C09415D3F.title: "Fluid Tanks"
+	quest.E9AB0E1046D1ACA1.quest_desc: ["Wireless power: plugs feed the network, points drink from it.", "Configure both with the configurator on the same network name."]
+	quest.E9AB0E1046D1ACA1.title: "Flux Networks"
+	quest.EB2A4A8379A30FFF.quest_desc: ["Serious bulk storage for serious automation.", "One cell per material network."]
+	quest.EB2A4A8379A30FFF.title: "64k Storage Cell"
+	quest.ECFD3150D2347ED6.quest_desc: ["Single-item bulk storage that upgrades through the tiers.", "A drawer equivalent for the Mekanism corner."]
+	quest.ECFD3150D2347ED6.title: "Mekanism Bins"
+	quest.EDB37F15160E7CF1.quest_desc: ["Eats food from the chest for you.", "A kitchen chest by the beds."]
+	quest.EDB37F15160E7CF1.title: "Feeding Upgrade"
+	quest.EDFA7CD0DA33B6AA.quest_desc: ["Sucks external inventories into the disks.", "Point the arrow into your storage."]
+	quest.EDFA7CD0DA33B6AA.title: "Importer"
+	quest.F5C57A4FA9A9F69C.quest_desc: ["Sixteen times the 1k. Server-grade hoarding.", "One disk can swallow a quarry output."]
+	quest.F5C57A4FA9A9F69C.title: "16k Storage Disk"
+	quest.FA383E6C8C809F46.quest_desc: ["Searches every cell from one screen.", "The face of the system."]
+	quest.FA383E6C8C809F46.title: "ME Terminal"
+	quest.FA65D79CD72A0D99.quest_desc: ["Belts, funnels and chutes move items the scenic route, with no power bill.", "Start with a belt, then funnel in and out of chests and machines."]
+	quest.FA65D79CD72A0D99.title: "Create"
+	quest.FEB98368A0EFA473.quest_desc: ["Your first disk: two thousand items, roughly.", "Bigger disks build on smaller ones."]
+	quest.FEB98368A0EFA473.title: "1k Storage Disk"
+	quest.FF0AC404523E7A26.quest_desc: ["Searches every disk from one screen.", "The face of the system."]
+	quest.FF0AC404523E7A26.title: "Grid"
+	quest.3F6637C9AF032549.title: "Minibosses"
+	quest.3F6637C9AF032549.quest_desc: ["Smaller horrors, each with its own advancement - and most drop Big Bertha ingredients."]
+	quest.520D6F3F261DDD59.title: "Overworld Bosses"
+	quest.520D6F3F261DDD59.quest_desc: ["No dimension gate. The Kraken answers squid-kills and Bunny eggs; the Alpha Mantis stalks overworld mantis territory."]
+	chapter.6A00AABBCCDDEEFF.title: "Mystical Agriculture"
+	quest.6A01000000000001.quest_desc: ["Mine it from the ground. Half of every MA recipe starts here."]
+	quest.6A01000000000001.title: "Prosperity Shards"
+	quest.6A01000000000002.quest_desc: ["The in-game manual. Read it before anything else."]
+	quest.6A01000000000002.title: "Mystical Agriculture Guide"
+	quest.6A01000000000003.quest_desc: ["The seed every other seed is built from."]
+	quest.6A01000000000003.title: "Prosperity Seed Base"
+	quest.6A01000000000004.quest_desc: ["One altar, eight pedestals. The seed crafter. Wand or redstone to start."]
+	quest.6A01000000000004.title: "Infusion Altar"
+	quest.6A01000000000005.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000005.title: "Unattuned Augment"
+	quest.6A01000000000006.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000006.title: "Seed Reprocessor"
+	quest.6A01000000000007.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000007.title: "Master Infusion Crystal"
+	quest.6A01000000000008.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000008.title: "Tinkering Table"
+	quest.6A01000000000009.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000009.title: "Soulium Spawner"
+	quest.6A0100000000000A.quest_desc: ["Grows ice. Plant on essence farmland."]
+	quest.6A0100000000000A.title: "Ice Seeds"
+	quest.6A0100000000000B.quest_desc: ["Matching-tier crops can drop bonus seeds here."]
+	quest.6A0100000000000B.title: "Inferium Farmland"
+	quest.6A0100000000000C.quest_desc: ["Grows earth. Plant on essence farmland."]
+	quest.6A0100000000000C.title: "Earth Seeds"
+	quest.6A0100000000000D.quest_desc: ["Grows water. Plant on essence farmland."]
+	quest.6A0100000000000D.title: "Water Seeds"
+	quest.6A0100000000000E.quest_desc: ["Grows dirt. Plant on essence farmland."]
+	quest.6A0100000000000E.title: "Dirt Seeds"
+	quest.6A0100000000000F.quest_desc: ["Grows stone. Plant on essence farmland."]
+	quest.6A0100000000000F.title: "Stone Seeds"
+	quest.6A01000000000010.quest_desc: ["Grows deepslate. Plant on essence farmland."]
+	quest.6A01000000000010.title: "Deepslate Seeds"
+	quest.6A01000000000011.quest_desc: ["Grows fire. Plant on essence farmland."]
+	quest.6A01000000000011.title: "Fire Seeds"
+	quest.6A01000000000012.quest_desc: ["Grows wood. Plant on essence farmland."]
+	quest.6A01000000000012.title: "Wood Seeds"
+	quest.6A01000000000013.quest_desc: ["Kills that fill soul jars. The dagger does the reaping."]
+	quest.6A01000000000013.title: "Soulium Tools"
+	quest.6A01000000000014.quest_desc: ["The first essence. Mine inferium ore to get going."]
+	quest.6A01000000000014.title: "Inferium Essence"
+	quest.6A01000000000015.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000015.title: "Inferium Growth Accelerator"
+	quest.6A01000000000016.quest_desc: ["A filling snack grown from inferium essence."]
+	quest.6A01000000000016.title: "Inferium Apple"
+	quest.6A01000000000017.quest_desc: ["Tough essence armor with an augment slot. Repairs with essence ingots."]
+	quest.6A01000000000017.title: "Inferium Armor"
+	quest.6A01000000000018.quest_desc: ["Any inferium tool counts toward this."]
+	quest.6A01000000000018.title: "Inferium Tools"
+	quest.6A01000000000019.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000019.title: "Infusion Crystal"
+	quest.6A0100000000001A.quest_desc: ["Grows air. Plant on essence farmland."]
+	quest.6A0100000000001A.title: "Air Seeds"
+	quest.6A0100000000001B.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A0100000000001B.title: "Prudentium Farmland"
+	quest.6A0100000000001C.quest_desc: ["Grows coral. Plant on essence farmland."]
+	quest.6A0100000000001C.title: "Coral Seeds"
+	quest.6A0100000000001D.quest_desc: ["Grows coal. Plant on essence farmland."]
+	quest.6A0100000000001D.title: "Coal Seeds"
+	quest.6A0100000000001E.quest_desc: ["Grows dye. Plant on essence farmland."]
+	quest.6A0100000000001E.title: "Dye Seeds"
+	quest.6A0100000000001F.quest_desc: ["Grows aluminum. Plant on essence farmland."]
+	quest.6A0100000000001F.title: "Aluminum Seeds"
+	quest.6A01000000000020.quest_desc: ["Grows honey. Plant on essence farmland."]
+	quest.6A01000000000020.title: "Honey Seeds"
+	quest.6A01000000000021.quest_desc: ["Grows nature. Plant on essence farmland."]
+	quest.6A01000000000021.title: "Nature Seeds"
+	quest.6A01000000000022.quest_desc: ["Grows nether. Plant on essence farmland."]
+	quest.6A01000000000022.title: "Nether Seeds"
+	quest.6A01000000000023.quest_desc: ["A chicken seed. Grows like any other crop."]
+	quest.6A01000000000023.title: "Chicken Seeds"
+	quest.6A01000000000024.quest_desc: ["A squid seed. Grows like any other crop."]
+	quest.6A01000000000024.title: "Squid Seeds"
+	quest.6A01000000000025.quest_desc: ["A cow seed. Grows like any other crop."]
+	quest.6A01000000000025.title: "Cow Seeds"
+	quest.6A01000000000026.quest_desc: ["A pig seed. Grows like any other crop."]
+	quest.6A01000000000026.title: "Pig Seeds"
+	quest.6A01000000000027.quest_desc: ["A sheep seed. Grows like any other crop."]
+	quest.6A01000000000027.title: "Sheep Seeds"
+	quest.6A01000000000028.quest_desc: ["A fish seed. Grows like any other crop."]
+	quest.6A01000000000028.title: "Fish Seeds"
+	quest.6A01000000000029.quest_desc: ["A turtle seed. Grows like any other crop."]
+	quest.6A01000000000029.title: "Turtle Seeds"
+	quest.6A0100000000002A.quest_desc: ["A slime seed. Grows like any other crop."]
+	quest.6A0100000000002A.title: "Slime Seeds"
+	quest.6A0100000000002B.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A0100000000002B.title: "Prudentium Growth Accelerator"
+	quest.6A0100000000002C.quest_desc: ["A filling snack grown from prudentium essence."]
+	quest.6A0100000000002C.title: "Prudentium Apple"
+	quest.6A0100000000002D.quest_desc: ["Tough essence armor with an augment slot. Repairs with essence ingots."]
+	quest.6A0100000000002D.title: "Prudentium Armor"
+	quest.6A0100000000002E.quest_desc: ["From inferium essence. The tier 2 backbone."]
+	quest.6A0100000000002E.title: "Prudentium Essence"
+	quest.6A0100000000002F.quest_desc: ["Any prudentium tool counts toward this."]
+	quest.6A0100000000002F.title: "Prudentium Tools"
+	quest.6A01000000000030.quest_desc: ["Grows amethyst. Plant on essence farmland."]
+	quest.6A01000000000030.title: "Amethyst Seeds"
+	quest.6A01000000000031.quest_desc: ["Grows silicon. Plant on essence farmland."]
+	quest.6A01000000000031.title: "Silicon Seeds"
+	quest.6A01000000000032.quest_desc: ["Grows sulfur. Plant on essence farmland."]
+	quest.6A01000000000032.title: "Sulfur Seeds"
+	quest.6A01000000000033.quest_desc: ["Grows copper. Plant on essence farmland."]
+	quest.6A01000000000033.title: "Copper Seeds"
+	quest.6A01000000000034.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000034.title: "Tertium Farmland"
+	quest.6A01000000000035.quest_desc: ["A rabbit seed. Grows like any other crop."]
+	quest.6A01000000000035.title: "Rabbit Seeds"
+	quest.6A01000000000036.quest_desc: ["A spider seed. Grows like any other crop."]
+	quest.6A01000000000036.title: "Spider Seeds"
+	quest.6A01000000000037.quest_desc: ["A skeleton seed. Grows like any other crop."]
+	quest.6A01000000000037.title: "Skeleton Seeds"
+	quest.6A01000000000038.quest_desc: ["A zombie seed. Grows like any other crop."]
+	quest.6A01000000000038.title: "Zombie Seeds"
+	quest.6A01000000000039.quest_desc: ["A creeper seed. Grows like any other crop."]
+	quest.6A01000000000039.title: "Creeper Seeds"
+	quest.6A0100000000003A.quest_desc: ["Grows iron. Plant on essence farmland."]
+	quest.6A0100000000003A.title: "Iron Seeds"
+	quest.6A0100000000003B.quest_desc: ["Grows tin. Plant on essence farmland."]
+	quest.6A0100000000003B.title: "Tin Seeds"
+	quest.6A0100000000003C.quest_desc: ["Grows silver. Plant on essence farmland."]
+	quest.6A0100000000003C.title: "Silver Seeds"
+	quest.6A0100000000003D.quest_desc: ["Grows lead. Plant on essence farmland."]
+	quest.6A0100000000003D.title: "Lead Seeds"
+	quest.6A0100000000003E.quest_desc: ["Grows zinc. Plant on essence farmland."]
+	quest.6A0100000000003E.title: "Zinc Seeds"
+	quest.6A0100000000003F.quest_desc: ["Grows redstone. Plant on essence farmland."]
+	quest.6A0100000000003F.title: "Redstone Seeds"
+	quest.6A01000000000040.quest_desc: ["Grows glowstone. Plant on essence farmland."]
+	quest.6A01000000000040.title: "Glowstone Seeds"
+	quest.6A01000000000041.quest_desc: ["Grows nether quartz. Plant on essence farmland."]
+	quest.6A01000000000041.title: "Nether Quartz Seeds"
+	quest.6A01000000000042.quest_desc: ["Grows certus quartz. Plant on essence farmland."]
+	quest.6A01000000000042.title: "Certus Quartz Seeds"
+	quest.6A01000000000043.quest_desc: ["Grows obsidian. Plant on essence farmland."]
+	quest.6A01000000000043.title: "Obsidian Seeds"
+	quest.6A01000000000044.quest_desc: ["Grows prismarine. Plant on essence farmland."]
+	quest.6A01000000000044.title: "Prismarine Seeds"
+	quest.6A01000000000045.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000045.title: "Tertium Growth Accelerator"
+	quest.6A01000000000046.quest_desc: ["A filling snack grown from tertium essence."]
+	quest.6A01000000000046.title: "Tertium Apple"
+	quest.6A01000000000047.quest_desc: ["Tough essence armor with an augment slot. Repairs with essence ingots."]
+	quest.6A01000000000047.title: "Tertium Armor"
+	quest.6A01000000000048.quest_desc: ["From prudentium essence. The tier 3 backbone."]
+	quest.6A01000000000048.title: "Tertium Essence"
+	quest.6A01000000000049.quest_desc: ["Any tertium tool counts toward this."]
+	quest.6A01000000000049.title: "Tertium Tools"
+	quest.6A0100000000004A.quest_desc: ["A armadillo seed. Grows like any other crop."]
+	quest.6A0100000000004A.title: "Armadillo Seeds"
+	quest.6A0100000000004B.quest_desc: ["Grows bronze. Plant on essence farmland."]
+	quest.6A0100000000004B.title: "Bronze Seeds"
+	quest.6A0100000000004C.quest_desc: ["Grows brass. Plant on essence farmland."]
+	quest.6A0100000000004C.title: "Brass Seeds"
+	quest.6A0100000000004D.quest_desc: ["Grows graphite. Plant on essence farmland."]
+	quest.6A0100000000004D.title: "Graphite Seeds"
+	quest.6A0100000000004E.quest_desc: ["Grows sky stone. Plant on essence farmland."]
+	quest.6A0100000000004E.title: "Sky Stone Seeds"
+	quest.6A0100000000004F.quest_desc: ["Any diamond tool counts toward this."]
+	quest.6A0100000000004F.title: "Diamond Tools"
+	quest.6A01000000000050.quest_desc: ["Any diamond tool counts toward this."]
+	quest.6A01000000000050.title: "Diamond Tools"
+	quest.6A01000000000051.quest_desc: ["Grows fluorite. Plant on essence farmland."]
+	quest.6A01000000000051.title: "Fluorite Seeds"
+	quest.6A01000000000052.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000052.title: "Imperium Farmland"
+	quest.6A01000000000053.quest_desc: ["A blaze seed. Grows like any other crop."]
+	quest.6A01000000000053.title: "Blaze Seeds"
+	quest.6A01000000000054.quest_desc: ["A ghast seed. Grows like any other crop."]
+	quest.6A01000000000054.title: "Ghast Seeds"
+	quest.6A01000000000055.quest_desc: ["A enderman seed. Grows like any other crop."]
+	quest.6A01000000000055.title: "Enderman Seeds"
+	quest.6A01000000000056.quest_desc: ["Grows experience. Plant on essence farmland."]
+	quest.6A01000000000056.title: "Experience Seeds"
+	quest.6A01000000000057.quest_desc: ["Grows gold. Plant on essence farmland."]
+	quest.6A01000000000057.title: "Gold Seeds"
+	quest.6A01000000000058.quest_desc: ["Grows nickel. Plant on essence farmland."]
+	quest.6A01000000000058.title: "Nickel Seeds"
+	quest.6A01000000000059.quest_desc: ["Grows lapis lazuli. Plant on essence farmland."]
+	quest.6A01000000000059.title: "Lapis Lazuli Seeds"
+	quest.6A0100000000005A.quest_desc: ["Grows osmium. Plant on essence farmland."]
+	quest.6A0100000000005A.title: "Osmium Seeds"
+	quest.6A0100000000005B.quest_desc: ["Grows end. Plant on essence farmland."]
+	quest.6A0100000000005B.title: "End Seeds"
+	quest.6A0100000000005C.quest_desc: ["Grows uranium. Plant on essence farmland."]
+	quest.6A0100000000005C.title: "Uranium Seeds"
+	quest.6A0100000000005D.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A0100000000005D.title: "Imperium Growth Accelerator"
+	quest.6A0100000000005E.quest_desc: ["A filling snack grown from imperium essence."]
+	quest.6A0100000000005E.title: "Imperium Apple"
+	quest.6A0100000000005F.quest_desc: ["Tough essence armor with an augment slot. Repairs with essence ingots."]
+	quest.6A0100000000005F.title: "Imperium Armor"
+	quest.6A01000000000060.quest_desc: ["From tertium essence. The tier 4 backbone."]
+	quest.6A01000000000060.title: "Imperium Essence"
+	quest.6A01000000000061.quest_desc: ["Any imperium tool counts toward this."]
+	quest.6A01000000000061.title: "Imperium Tools"
+	quest.6A01000000000062.quest_desc: ["A breeze seed. Grows like any other crop."]
+	quest.6A01000000000062.title: "Breeze Seeds"
+	quest.6A01000000000063.quest_desc: ["Grows constantan. Plant on essence farmland."]
+	quest.6A01000000000063.title: "Constantan Seeds"
+	quest.6A01000000000064.quest_desc: ["Grows electrum. Plant on essence farmland."]
+	quest.6A01000000000064.title: "Electrum Seeds"
+	quest.6A01000000000065.quest_desc: ["Grows soulium. Plant on essence farmland."]
+	quest.6A01000000000065.title: "Soulium Seeds"
+	quest.6A01000000000066.quest_desc: ["Grows refined glowstone. Plant on essence farmland."]
+	quest.6A01000000000066.title: "Refined Glowstone Seeds"
+	quest.6A01000000000067.quest_desc: ["Grows refined obsidian. Plant on essence farmland."]
+	quest.6A01000000000067.title: "Refined Obsidian Seeds"
+	quest.6A01000000000068.quest_desc: ["Grows fluix. Plant on essence farmland."]
+	quest.6A01000000000068.title: "Fluix Seeds"
+	quest.6A01000000000069.quest_desc: ["Grows energized steel. Plant on essence farmland."]
+	quest.6A01000000000069.title: "Energized Steel Seeds"
+	quest.6A0100000000006A.quest_desc: ["Grows blazing crystal. Plant on essence farmland."]
+	quest.6A0100000000006A.title: "Blazing Crystal Seeds"
+	quest.6A0100000000006B.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A0100000000006B.title: "Supremium Farmland"
+	quest.6A0100000000006C.quest_desc: ["A wither skeleton seed. Grows like any other crop."]
+	quest.6A0100000000006C.title: "Wither Skeleton Seeds"
+	quest.6A0100000000006D.quest_desc: ["Grows uraninite. Plant on essence farmland."]
+	quest.6A0100000000006D.title: "Uraninite Seeds"
+	quest.6A0100000000006E.quest_desc: ["Grows diamond. Plant on essence farmland."]
+	quest.6A0100000000006E.title: "Diamond Seeds"
+	quest.6A0100000000006F.quest_desc: ["Grows emerald. Plant on essence farmland."]
+	quest.6A0100000000006F.title: "Emerald Seeds"
+	quest.6A01000000000070.quest_desc: ["Grows netherite. Plant on essence farmland."]
+	quest.6A01000000000070.title: "Netherite Seeds"
+	quest.6A01000000000071.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000071.title: "Supremium Growth Accelerator"
+	quest.6A01000000000072.quest_desc: ["A filling snack grown from supremium essence."]
+	quest.6A01000000000072.title: "Supremium Apple"
+	quest.6A01000000000073.quest_desc: ["Tough essence armor with an augment slot. Repairs with essence ingots."]
+	quest.6A01000000000073.title: "Supremium Armor"
+	quest.6A01000000000074.quest_desc: ["From imperium essence. The tier 5 backbone."]
+	quest.6A01000000000074.title: "Supremium Essence"
+	quest.6A01000000000075.quest_desc: ["Tough essence armor with an augment slot. Repairs with essence ingots."]
+	quest.6A01000000000075.title: "Awakened Supremium Armor"
+	quest.6A01000000000076.quest_desc: ["Any supremium tool counts toward this."]
+	quest.6A01000000000076.title: "Supremium Tools"
+	quest.6A01000000000077.quest_desc: ["Any awakened supremium tool counts toward this."]
+	quest.6A01000000000077.title: "Awakened Supremium Tools"
+	quest.6A01000000000078.quest_desc: ["From supremium essence. The tier 6 backbone."]
+	quest.6A01000000000078.title: "Awakened Supremium Essence"
+	quest.6A01000000000079.quest_desc: ["One altar, four pedestals, four vessels. Makes awakened supremium."]
+	quest.6A01000000000079.title: "Awakening Altar"
+	quest.6A0100000000007A.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A0100000000007A.title: "Cognizant Dust"
+	quest.6A0100000000007B.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A0100000000007B.title: "Awakened Supremium Growth Accelerator"
+	quest.6A0100000000007C.quest_desc: ["Grows cyanite. Plant on essence farmland."]
+	quest.6A0100000000007C.title: "Cyanite Seeds"
+	quest.6A0100000000007D.quest_desc: ["Grows niotic crystal. Plant on essence farmland."]
+	quest.6A0100000000007D.title: "Niotic Crystal Seeds"
+	quest.6A0100000000007E.quest_desc: ["Grows spirited crystal. Plant on essence farmland."]
+	quest.6A0100000000007E.title: "Spirited Crystal Seeds"
+	quest.6A0100000000007F.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A0100000000007F.title: "Insanium Farmland"
+	quest.6A01000000000080.quest_desc: ["A filling snack grown from insanium essence."]
+	quest.6A01000000000080.title: "Insanium Apple"
+	quest.6A01000000000081.quest_desc: ["From awakened supremium essence. The tier 7 backbone."]
+	quest.6A01000000000081.title: "Insanium Essence"
+	quest.6A01000000000082.quest_desc: ["Needs its crux close by to grow."]
+	quest.6A01000000000082.title: "Nether Star Seeds"
+	quest.6A01000000000083.quest_desc: ["Needs its crux close by to grow."]
+	quest.6A01000000000083.title: "Dragon Egg Seeds"
+	quest.6A01000000000084.quest_desc: ["Needs its crux close by to grow."]
+	quest.6A01000000000084.title: "Nitro Crystal Seeds"
+	quest.6A01000000000085.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000085.title: "Furnace"
+	quest.6A01000000000086.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000086.title: "Watering Can"
+	quest.6A01000000000087.quest_desc: ["Machine upgrades that make MA machines run faster."]
+	quest.6A01000000000087.title: "Essence Upgrade"
+	quest.6A01000000000088.quest_desc: ["Unbreakable by the Wither. Very useful for boss cheese."]
+	quest.6A01000000000088.title: "Witherproof Blocks"
+	quest.6A01000000000089.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000089.title: "Harvester"
+	quest.6A0100000000008A.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A0100000000008A.title: "Mystical Fertilizer"
+	quest.6A0100000000008B.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A0100000000008B.title: "Enchanter"
+	quest.6A0100000000008C.quest_desc: ["Starts the infusion altar. Keep one on you."]
+	quest.6A0100000000008C.title: "Infusion Wand"
+	quest.6A0100000000008D.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A0100000000008D.title: "Soul Extractor"
+	quest.6A0100000000008F.quest_desc: ["For the most absurd crafts in the pack."]
+	quest.6A0100000000008F.title: "Creative Essence"
+	quest.6A01000000000090.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000090.title: "Insanium Coal Block"
+	quest.6A01000000000091.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A01000000000091.title: "Awakened Supremium Ingot Block"
+	quest.6A01000000000093.quest_desc: ["Grows grains of infinity. Plant on essence farmland."]
+	quest.6A01000000000093.title: "Grains Of Infinity Seeds"
+	quest.6A01000000000094.quest_desc: ["Grows saltpeter. Plant on essence farmland."]
+	quest.6A01000000000094.title: "Saltpeter Seeds"
+	quest.6A01000000000095.quest_desc: ["Grows redstone alloy. Plant on essence farmland."]
+	quest.6A01000000000095.title: "Redstone Alloy Seeds"
+	quest.6A01000000000096.quest_desc: ["Grows steeleaf. Plant on essence farmland."]
+	quest.6A01000000000096.title: "Steeleaf Seeds"
+	quest.6A01000000000098.quest_desc: ["Grows copper alloy. Plant on essence farmland."]
+	quest.6A01000000000098.title: "Copper Alloy Seeds"
+	quest.6A01000000000099.quest_desc: ["Grows conductive alloy. Plant on essence farmland."]
+	quest.6A01000000000099.title: "Conductive Alloy Seeds"
+	quest.6A0100000000009A.quest_desc: ["Grows ironwood. Plant on essence farmland."]
+	quest.6A0100000000009A.title: "Ironwood Seeds"
+	quest.6A0100000000009B.quest_desc: ["Grows hop graphite. Plant on essence farmland."]
+	quest.6A0100000000009B.title: "Hop Graphite Seeds"
+	quest.6A0100000000009C.quest_desc: ["Grows dark steel. Plant on essence farmland."]
+	quest.6A0100000000009C.title: "Dark Steel Seeds"
+	quest.6A0100000000009D.quest_desc: ["Grows energetic alloy. Plant on essence farmland."]
+	quest.6A0100000000009D.title: "Energetic Alloy Seeds"
+	quest.6A0100000000009E.quest_desc: ["Grows fiery ingot. Plant on essence farmland."]
+	quest.6A0100000000009E.title: "Fiery Ingot Seeds"
+	quest.6A0100000000009F.quest_desc: ["Grows soularium. Plant on essence farmland."]
+	quest.6A0100000000009F.title: "Soularium Seeds"
+	quest.6A010000000000A0.quest_desc: ["Grows pulsating alloy. Plant on essence farmland."]
+	quest.6A010000000000A0.title: "Pulsating Alloy Seeds"
+	quest.6A010000000000A1.quest_desc: ["Grows knightmetal. Plant on essence farmland."]
+	quest.6A010000000000A1.title: "Knightmetal Seeds"
+	quest.6A010000000000A2.quest_desc: ["Grows end steel. Plant on essence farmland."]
+	quest.6A010000000000A2.title: "End Steel Seeds"
+	quest.6A010000000000A3.quest_desc: ["Grows vibrant alloy. Plant on essence farmland."]
+	quest.6A010000000000A3.title: "Vibrant Alloy Seeds"
+	quest.6A010000000000A6.quest_desc: ["Grows limestone. Plant on essence farmland."]
+	quest.6A010000000000A6.title: "Limestone Seeds"
+	quest.6A010000000000A7.quest_desc: ["Grows quartz enriched iron. Plant on essence farmland."]
+	quest.6A010000000000A7.title: "Quartz Enriched Iron Seeds"
+	quest.6A010000000000A8.quest_desc: ["Grows phantom. Plant on essence farmland."]
+	quest.6A010000000000A8.title: "Phantom Seeds"
+	quest.6A010000000000A9.quest_desc: ["Grows steel. Plant on essence farmland."]
+	quest.6A010000000000A9.title: "Steel Seeds"
+	quest.6A010000000000AA.quest_desc: ["Grows draconium. Plant on essence farmland."]
+	quest.6A010000000000AA.title: "Draconium Seeds"
+	quest.6A010000000000AB.quest_desc: ["Grows yellorium. Plant on essence farmland."]
+	quest.6A010000000000AB.title: "Yellorium Seeds"
+	quest.6A010000000000AC.quest_desc: ["Needs its crux close by to grow."]
+	quest.6A010000000000AC.title: "Awakened Draconium Seeds"
 }

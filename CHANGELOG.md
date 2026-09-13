@@ -2,6 +2,14 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.38] - 2026-09-13
+### Added
+- Buy seeds and saplings at the Market. Farming for Blockheads is in, so growing anything is a trip to the Market away.
+- New Mystical Agriculture chapter. 167 quests covering all seven essence tiers, machines, souls, and every seed that grows in this pack.
+- Patchouli is in to support the MA guide book, which the first quest hands you.
+### Fixed
+- Storage quest tab loads again.
+
 ## [1.0.37] - 2026-09-13
 ### Fixed
 - Dynamic lighting tuned for performance. Rebuilds skip hidden chunks and distant lights slow down sooner, so lit up bases stay smooth.

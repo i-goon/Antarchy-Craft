@@ -1713,12 +1713,16 @@ file = "config/ftbquests/quests/chapters/bosses.snbt"
 hash = "7e5acc520ac060af8d2a8b7ad52d126eef7c861644d02e4ba93194c81bf26eeb"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/mystical_agriculture.snbt"
+hash = "1f86830d2e2d6e76b191abeb44a3239260d30692f96600e577dd08f40db5df63"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/refined_storage.snbt"
 hash = "79189af1cde7d82f58091f0fd176f4cf251e888b2f041a846a7c21da1472cb96"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/storage.snbt"
-hash = "6e7ba315f75017260ddff757240b9e390e4ade484c9da06b39874923b627c181"
+hash = "4c28a6a8cc394c19edda8b2fe523906fe520999e13fc8ed886a2d2f0a0aa4dcd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/twilight_forest.snbt"
@@ -1726,7 +1730,7 @@ hash = "5495bf12393bb18397d3296c177322c49c97a016f664d782c66894cc9de17ba2"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "7a3634c79a737763c5fdbec349d677b4d615f8521085b7e5531087b7b490c6eb"
+hash = "c861857c606769cebc9090bec1e745aa08e19e2b3b46a0bb211e847cb1b95575"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -2638,6 +2642,11 @@ hash = "8687285001fd7934f55d5913f96f78c6ee73211458222549db32af7c6f616d58"
 metafile = true
 
 [[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "26b60aed4c0cc5633dd108d29b68b299f41a53f76a026da51d2279955835c23a"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4fb45dd5a6e38a6a54fd8f60ae6b2311ad53b5660deda514482c108d45aeed8c"
 metafile = true
@@ -2970,6 +2979,11 @@ metafile = true
 [[files]]
 file = "mods/ore-hammer.pw.toml"
 hash = "1f1d11f85aef1e61cde46718bd92d457b62197beb8a7a3a06935c269826ac98b"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "62a5fae85abded834ba61dbbd4eefc4ec2a5b466911aef560321282638739af6"
 metafile = true
 
 [[files]]
