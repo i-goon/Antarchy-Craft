@@ -1,5 +1,3 @@
-// Reconstructed Wands: the mod's own recipes use bare-string ingredients that
-// vanilla rejects, so none of them load. Re-register them here correctly.
 ServerEvents.recipes(event => {
   event.shaped('reconstructedwands:stone_wand', ['  S', ' I ', 'I  '], {
     S: 'minecraft:stone', I: 'minecraft:stick'
