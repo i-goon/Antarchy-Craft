@@ -4,9 +4,9 @@ All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is 
 
 ## [1.0.36] - 2026-09-13
 ### Added
-- KubeJS 2101.7.2-build.377 + Rhino 2101.2.8-build.91 (server scripting stack).
-- Better Advanced Tooltips 2101.1.0-build.5 (modded tooltips parity).
-- Reconstructed Wands fix: corrected all 7 wand/core recipes (bare-string ingredients rejected by vanilla) via `kubejs/server_scripts/reconstructed_wands.js`.
+- Builders, rejoice. Working recipes for every construction wand and core.
+- KubeJS scripting is in, so broken recipes like these can be patched pack side going forward.
+- Better Advanced Tooltips: tooltips now show handy extras like fuel values, tags and component info.
 
 ## [1.0.35] - 2026-09-12
 ### Added
