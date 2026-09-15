@@ -7,6 +7,7 @@
 	chapter.4AE831F245E4DD6A.title: "Bosses"
 	chapter.55E30E8414C6EAB5.title: "Basic Logistics"
 	chapter.70CF56DEF9C52484.title: "Elythia"
+	chapter.6A04AABBCCDDEEFF.title: "Ars Nouveau"
 	quest.0002325750D8C7CA.quest_desc: ["Disk-based digital storage with autocrafting further down the line.", "Lay cables first. The full network gets its own chapter later."]
 	quest.0002325750D8C7CA.title: "Refined Storage"
 	quest.0055C7B329D3F955.quest_desc: ["Four times the 1k. Keep climbing.", "Cells upgrade in the crafting grid."]
@@ -288,10 +289,8 @@
 	quest.728535329B6CABAE.title: "QIO Drive Array"
 	quest.73B7502A7CE903EA.quest_desc: ["Oversees the whole network and buffers transfers.", "Optional until the network grows teeth."]
 	quest.73B7502A7CE903EA.title: "Flux Controller"
-	quest.74371D87F77252BF.quest_desc: ["Nothing crafts or drops it in this Antarchy version, check JEI or go creative.", "Without it, Rainbow Sugar and the whole hilt stall."]
+	quest.74371D87F77252BF.quest_desc: ["Brewed from corn. One goes into every Rainbow Sugar, and Rainbow Sugar feeds the Big Bertha hilt."]
 	quest.74371D87F77252BF.title: "High Fructose Corn Syrup"
-	quest.7526CE7EEA8A7121.quest_desc: ["Smaller horrors, each with its own advancement - and most drop Big Bertha ingredients."]
-	quest.7526CE7EEA8A7121.title: "Minibosses"
 	quest.755A9B6A2486D364.quest_desc: ["Belts, funnels and chutes move items the scenic route, with no power bill.", "Start with belt connectors, then funnel in and out of chests and machines.", "Extend lines with more connectors, and mind the rotation direction."]
 	quest.755A9B6A2486D364.title: "Create"
 	quest.757E0BBF7CF30F7D.quest_desc: ["Every upgrade moves more per operation. Basic adds redstone control, Improved adds routing modes like round-robin, Advanced unlocks filters, Ultimate just moves a lot."]
@@ -332,8 +331,6 @@
 	quest.843DB879D75A9841.title: "Import Bus"
 	quest.8E160E8AA5A249A0.quest_desc: ["Sixteen times the 1k cell.", "Cells upgrade in the crafting grid."]
 	quest.8E160E8AA5A249A0.title: "16k Storage Cell"
-	quest.9933E458F4431646.quest_desc: ["Pulls drops toward the chest from further out.", "Stack with hoppers for full automation."]
-	quest.9933E458F4431646.title: "Magnet Upgrade"
 	quest.A455AC6851842809.quest_desc: ["Chutes drop items straight down, faster with each block.", "Smart chutes pull from inventories and filter on the way."]
 	quest.A455AC6851842809.title: "Chutes"
 	quest.A6C0AE770E2678B2.quest_desc: ["Holds the storage disks the network actually stores on.", "More drives, more disks, more everything."]
@@ -344,20 +341,14 @@
 	quest.B27B05606C54CE78.title: "Refined or AE2?"
 	quest.B778DC696ADFA8DF.quest_desc: ["The biggest disk in the line. Sixty-five thousand stacks.", "If this fills up, the problem is you."]
 	quest.B778DC696ADFA8DF.title: "64k Storage Disk"
-	quest.B7F6A1192480FEB2.quest_desc: ["Browse and request from the network anywhere.", "Needs the request tablet first."]
-	quest.B7F6A1192480FEB2.title: "Crafting Remote"
 	quest.BAF2F09B27CA00FB.quest_desc: ["Breaks world blocks straight into the disks.", "Quarries love it."]
 	quest.BAF2F09B27CA00FB.title: "Destructor"
 	quest.BF079E5D5F70A7CB.quest_desc: ["Places blocks from the disks into the world.", "Builders love it more."]
 	quest.BF079E5D5F70A7CB.title: "Constructor"
 	quest.C65D75DA6984ACA7.quest_desc: ["Crafts patterns on demand for the network.", "Faster with speed cards."]
 	quest.C65D75DA6984ACA7.title: "Molecular Assembler"
-	quest.C9B2004E9ADEA69D.quest_desc: ["Raises stack limits far past 64 per slot.", "Four tiers; each multiplies the last."]
-	quest.C9B2004E9ADEA69D.title: "Stack Upgrade"
 	quest.C9BC7B49CDE922D8.quest_desc: ["Channel-based digital storage for very large networks.", "The controller is the heart; give it power and room to grow."]
 	quest.C9BC7B49CDE922D8.title: "Applied Energistics 2"
-	quest.CAC2F4DC81958EB4.quest_desc: ["Auto-crafts ingots to blocks and back inside the chest.", "Saves entire walls of crafting."]
-	quest.CAC2F4DC81958EB4.title: "Compacting Upgrade"
 	quest.CD46890AE424E032.quest_desc: ["Feeds Forge power into the ME network.", "One per network is usually enough."]
 	quest.CD46890AE424E032.title: "Energy Acceptor"
 	quest.D003E4F1EACCC502.quest_desc: ["Wireless redstone between contraptions and the base.", "One link transmits, its twin receives, across any distance."]
@@ -372,8 +363,6 @@
 	quest.EB2A4A8379A30FFF.title: "64k Storage Cell"
 	quest.ECFD3150D2347ED6.quest_desc: ["Single-item bulk storage that upgrades through the tiers.", "A drawer equivalent for the Mekanism corner."]
 	quest.ECFD3150D2347ED6.title: "Mekanism Bins"
-	quest.EDB37F15160E7CF1.quest_desc: ["Eats food from the chest for you.", "A kitchen chest by the beds."]
-	quest.EDB37F15160E7CF1.title: "Feeding Upgrade"
 	quest.EDFA7CD0DA33B6AA.quest_desc: ["Sucks external inventories into the disks.", "Point the arrow into your storage."]
 	quest.EDFA7CD0DA33B6AA.title: "Importer"
 	quest.F5C57A4FA9A9F69C.quest_desc: ["Sixteen times the 1k. Server-grade hoarding.", "One disk can swallow a quarry output."]
@@ -633,7 +622,7 @@
 	quest.6A01000000000078.title: "Awakened Supremium Essence"
 	quest.6A01000000000079.quest_desc: ["One altar, four pedestals, four vessels. Makes awakened supremium."]
 	quest.6A01000000000079.title: "Awakening Altar"
-	quest.6A0100000000007A.quest_desc: ["A Mystical Agriculture milestone."]
+	quest.6A0100000000007A.quest_desc: ["Wither and Ender Dragon drop it, but only to an Essence Weapon enchanted with Mystical Enlightenment."]
 	quest.6A0100000000007A.title: "Cognizant Dust"
 	quest.6A0100000000007B.quest_desc: ["A Mystical Agriculture milestone."]
 	quest.6A0100000000007B.title: "Awakened Supremium Growth Accelerator"
@@ -725,4 +714,115 @@
 	quest.6A010000000000AB.title: "Yellorium Seeds"
 	quest.6A010000000000AC.quest_desc: ["Needs its crux close by to grow."]
 	quest.6A010000000000AC.title: "Awakened Draconium Seeds"
+	quest.6A05000000000001.quest_desc: ["Read it: the whole chapter is indexed inside. If the Open Book key is unbound: Options, Controls, Ars Nouveau."]
+	quest.6A05000000000001.title: "Tattered Tome"
+	quest.6A05000000000002.quest_desc: ["Where spells are assembled. Tier 1 glyphs only."]
+	quest.6A05000000000002.title: "Novice Spell Book"
+	quest.6A05000000000003.quest_desc: ["Unlocks glyphs - they are scribed here, not crafted. Parchment on the table, spell book in hand, pick the glyph and pay its items and XP."]
+	quest.6A05000000000003.title: "Scribe's Table"
+	quest.6A05000000000005.quest_desc: ["Dashes you in the direction you are looking. Amplify goes further."]
+	quest.6A05000000000005.title: "Leap"
+	quest.6A05000000000006.quest_desc: ["Throws its target upward. Cast on yourself to go straight up."]
+	quest.6A05000000000006.title: "Launch"
+	quest.6A05000000000007.quest_desc: ["Pushes targets and blocks away. Sensitive stops it launching blocks."]
+	quest.6A05000000000007.title: "Knockback"
+	quest.6A05000000000008.quest_desc: ["Targets the block under your feet instead of where you look."]
+	quest.6A05000000000008.title: "Underfoot"
+	quest.6A05000000000009.quest_desc: ["Applies Slow Fall."]
+	quest.6A05000000000009.title: "Slowfall"
+	quest.6A0500000000000A.quest_desc: ["Teleports you where you are looking, through anything in the way."]
+	quest.6A0500000000000A.title: "Blink"
+	quest.6A0500000000000B.quest_desc: ["Fly as if you were wearing an elytra.", "Scribing it consumes one, so this glyph waits for the End."]
+	quest.6A0500000000000B.title: "Glide"
+	quest.6A0500000000000C.quest_desc: ["Lapis imbued in the Imbuement Chamber. The rawest form of Source."]
+	quest.6A0500000000000C.title: "Source Gem"
+	quest.6A0500000000000D.quest_desc: ["Where Source starts: lapis in, Source Gem and Source out."]
+	quest.6A0500000000000D.title: "Imbuement Chamber"
+	quest.6A0500000000000E.quest_desc: ["The building block for every Source device."]
+	quest.6A0500000000000E.title: "Sourcestone"
+	quest.6A0500000000000F.quest_desc: ["Holds Source for nearby machines."]
+	quest.6A0500000000000F.title: "Source Jar"
+	quest.6A05000000000010.quest_desc: ["Hold the items a craft consumes. They must be within 3 blocks of the apparatus."]
+	quest.6A05000000000010.title: "Arcane Pedestals"
+	quest.6A05000000000011.quest_desc: ["Load the pedestals, then use the middle item on the apparatus."]
+	quest.6A05000000000011.title: "Enchanting Apparatus"
+	quest.6A05000000000012.quest_desc: ["Must sit flush against the apparatus base or nothing crafts."]
+	quest.6A05000000000012.title: "Arcane Core"
+	quest.6A05000000000013.quest_desc: ["Hold jump to rise and hover. It drains mana the whole time you float."]
+	quest.6A05000000000013.title: "Belt of Levitation"
+	quest.6A05000000000014.title: "Jar of Light"
+	quest.6A05000000000015.quest_desc: ["Cheaper spells, so more flight per mana bar."]
+	quest.6A05000000000015.title: "Ring of Lesser Discount"
+	quest.6A05000000000016.quest_desc: ["Raises your mana ceiling."]
+	quest.6A05000000000016.title: "Amulet of Mana Boost"
+	quest.6A05000000000017.quest_desc: ["Rituals run here: a tablet plus reagents placed around it."]
+	quest.6A05000000000017.title: "Ritual Brazier"
+	quest.6A05000000000018.quest_desc: ["Bursts of creative flight - jump to start, refreshed while you stay near. Drinks Source from nearby jars."]
+	quest.6A05000000000018.title: "Ritual of Flight"
+	quest.6A05000000000019.quest_desc: ["Moves everything near the brazier to the spot on a Warp Scroll, which must be inscribed first."]
+	quest.6A05000000000019.title: "Ritual of Warping"
+	quest.4A0E000000000001.quest_desc: ["Finds structures up to thirty thousand blocks out.", "Uncraftable until the dragon is dead."]
+	quest.4A0E000000000001.title: "The Explorer's Compass"
+	quest.6A0500000000001A.quest_desc: ["Second tier: more mana, faster regeneration, and it opens Tier 2 glyphs. Upgrading carries your learned glyphs across."]
+	quest.6A0500000000001A.title: "Mage's Spell Book"
+	quest.6A0500000000001B.quest_desc: ["Third tier, the largest mana pool and fastest regeneration, and the only book that opens Tier 3 glyphs."]
+	quest.6A0500000000001B.title: "Archmage Spell Book"
+	quest.6A0500000000001C.quest_desc: ["Makes Source from crop and tree growth within 15 blocks. Bonemeal does not count."]
+	quest.6A0500000000001C.title: "Agronomic Sourcelink"
+	quest.6A0500000000001D.quest_desc: ["Turns nearby food into Source, and Source Berry food is worth far more than ordinary food."]
+	quest.6A0500000000001D.title: "Mycelial Sourcelink"
+	quest.6A0500000000001E.quest_desc: ["Burns burnable items for Source: Archwood logs pay bonus, Blazing Archwood the most."]
+	quest.6A0500000000001E.title: "Volcanic Sourcelink"
+	quest.6A0500000000001F.quest_desc: ["Drinks potions out of adjacent potion jars. Complex potions pay far more."]
+	quest.6A0500000000001F.title: "Alchemical Sourcelink"
+	quest.6A05000000000020.quest_desc: ["Makes Source from mob deaths and animal breeding nearby."]
+	quest.6A05000000000020.title: "Vitalic Sourcelink"
+	quest.6A05000000000021.quest_desc: ["Costs you hunger, and it damages undead instead of healing them."]
+	quest.6A05000000000021.title: "Heal"
+	quest.6A05000000000022.quest_desc: ["Works on blocks out in the world, not just on items."]
+	quest.6A05000000000022.title: "Smelt"
+	quest.6A05000000000023.title: "Harvest"
+	quest.6A05000000000024.quest_desc: ["On a block it leaves a permanent light; on yourself it grants night vision."]
+	quest.6A05000000000024.title: "Conjure Magelight"
+	quest.6A05000000000025.quest_desc: ["Raises the power of most effects, and the harvest level of Break."]
+	quest.6A05000000000025.title: "Amplify"
+	quest.6A05000000000026.title: "AOE"
+	quest.6A05000000000027.quest_desc: ["Only useful on Projectile: shots carry on after a hit and can strike again."]
+	quest.6A05000000000027.title: "Pierce"
+	quest.6A05000000000028.quest_desc: ["Holds the effects to its right for a moment. Extend Time stretches the wait, Duration Down shortens it."]
+	quest.6A05000000000028.title: "Delay"
+	quest.6A05000000000029.title: "Extend Time"
+	quest.6A0500000000002A.quest_desc: ["Mobs killed by Damage and blocks broken by Break drop more. Does not combine with Extract."]
+	quest.6A0500000000002A.title: "Luck"
+	quest.6A0500000000002B.quest_desc: ["On a witch at half health she vanishes and leaves a Wixie shard, and your own summons go back to their charms."]
+	quest.6A0500000000002B.title: "Dispel"
+	quest.6A0500000000002C.quest_desc: ["Leaves targets Shocked, which makes the next bolt hit harder and stacks to III."]
+	quest.6A0500000000002C.title: "Lightning"
+	quest.6A0500000000002D.quest_desc: ["With mana in the tank its arrows cast the inscribed spell on whatever they hit."]
+	quest.6A0500000000002D.title: "Enchanter's Bow"
+	quest.6A0500000000002E.title: "Amulet of Mana Regen"
+	quest.6A0500000000002F.quest_desc: ["Cuts spell costs harder than the lesser ring, and keeps the small mana and regeneration bonus."]
+	quest.6A0500000000002F.title: "Ring of Greater Discount"
+	quest.6A05000000000030.quest_desc: ["Configures Source Relays and binds familiars: use it on the source, then on the destination. Sneak use clears a connection."]
+	quest.6A05000000000030.title: "Dominion Wand"
+	quest.6A05000000000031.quest_desc: ["Wand it then a chest to make it deliver, wand a chest then it to make it collect."]
+	quest.6A05000000000031.title: "Starbuncle Charm"
+	quest.6A05000000000032.quest_desc: ["Farms the monsters and animals around its henge for drops and experience gems without harming them."]
+	quest.6A05000000000032.title: "Drygmy Charm"
+	quest.6A05000000000033.quest_desc: ["Breeds nearby animals on a timer, and stops once twenty are in range."]
+	quest.6A05000000000033.title: "Ritual of Fertility"
+	quest.6A05000000000034.quest_desc: ["Bone meals the ground around the brazier; a Bone Block augment grows baby animals instead."]
+	quest.6A05000000000034.title: "Ritual of Overgrowth"
+	quest.6A05000000000035.title: "Ritual of Sunrise"
+
+	quest.1677FB65E0EE4DF9.title: "Magnet Upgrade"
+	quest.1677FB65E0EE4DF9.quest_desc: ["Pulls drops toward the chest from further out.", "Stack with hoppers for full automation."]
+	quest.3FDCEC14022469F5.title: "Feeding Upgrade"
+	quest.3FDCEC14022469F5.quest_desc: ["Eats food from the chest for you.", "A kitchen chest by the beds."]
+	quest.46F3E981F6E5F083.title: "Compacting Upgrade"
+	quest.46F3E981F6E5F083.quest_desc: ["Auto-crafts ingots to blocks and back inside the chest.", "Saves entire walls of crafting."]
+	quest.35AF776078BDEE51.title: "Stack Upgrade"
+	quest.35AF776078BDEE51.quest_desc: ["Raises stack limits far past 64 per slot.", "Four tiers; each multiplies the last."]
+	quest.7883FA1F55A9A03E.title: "Crafting Remote"
+	quest.7883FA1F55A9A03E.quest_desc: ["Browse and request from the network anywhere.", "Needs the request tablet first."]
 }

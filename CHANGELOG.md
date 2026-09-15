@@ -2,6 +2,17 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.39] - 2026-09-15
+### Added
+- Grow trees in Botany Pots
+- New Ars Nouveau Quests!
+- Find any structure with the Explorer's Compass (In current version of Antarchy some bosses are impossible to find without knowing exactly where to go)
+- Middle-click sorts every inventory, not just Sophisticated chests.
+### Fixed
+- Removed keybind conflict so zooming while sneaking is functional
+- Tooltip icons no longer overlap their text.
+- Storage quest fixes
+
 ## [1.0.38] - 2026-09-13
 ### Added
 - Buy seeds and saplings at the Market. Farming for Blockheads is in, so growing anything is a trip to the Market away.

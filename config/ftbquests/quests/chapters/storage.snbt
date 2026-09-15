@@ -8,7 +8,7 @@
 	}
 	id: "2DFF14BD26BA8FA4"
 	images: [ ]
-	order_index: 4
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
@@ -16,13 +16,13 @@
 				id: "minecraft:chest"
 			}
 			id: "574FF91C2BA5B3EE"
-			shape: "gear"
-			size: 2.0d
 			rewards: [{
 				id: "5C4B5126C63D9295"
 				type: "xp"
 				xp: 10
 			}]
+			shape: "gear"
+			size: 2.0d
 			tasks: [{
 				id: "54565D82000A849B"
 				type: "checkmark"
@@ -36,28 +36,38 @@
 				id: "trashcans:item_trash_can"
 			}
 			id: "59B10BA13662C356"
-			rewards: [{
-				id: "A8188CFE42DB55B0"
-				item: { count: 1, id: "trashcans:ultimate_trash_can" }
-				type: "item"
-			}, {
-				id: "0DD39CFC92DDFF48"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "07C8B9AC671D06AA"
-				item: { count: 1, id: "trashcans:item_trash_can" }
-				type: "item"
-			}, {
-				id: "1C50840EA98F7C87"
-				item: { count: 1, id: "trashcans:liquid_trash_can" }
-				type: "item"
-			}, {
-				id: "66BCC264A9DEF411"
-				item: { count: 1, id: "trashcans:energy_trash_can" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "3F2DC96F9032C285"
+					item: {
+						count: 1
+						id: "trashcans:ultimate_trash_can"
+					}
+					type: "item"
+				}
+				{
+					id: "0DD39CFC92DDFF48"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "07C8B9AC671D06AA"
+					item: { count: 1, id: "trashcans:item_trash_can" }
+					type: "item"
+				}
+				{
+					id: "1C50840EA98F7C87"
+					item: { count: 1, id: "trashcans:liquid_trash_can" }
+					type: "item"
+				}
+				{
+					id: "66BCC264A9DEF411"
+					item: { count: 1, id: "trashcans:energy_trash_can" }
+					type: "item"
+				}
+			]
 			x: -2.5d
 			y: 2.0d
 		}
@@ -67,24 +77,33 @@
 				id: "enderstorage:ender_chest"
 			}
 			id: "24AD30F0436C0F9F"
-			rewards: [{
-				id: "68BB45879F33A1B0"
-				item: { count: 1, id: "enderstorage:ender_pouch" }
-				type: "item"
-			}, {
-				id: "5711F4B0DCD87B11"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "7B7A178156E783A1"
-				item: { count: 1, id: "enderstorage:ender_chest" }
-				type: "item"
-			}, {
-				id: "1B5038CEDF317260"
-				item: { count: 1, id: "enderstorage:ender_tank" }
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "68BB45879F33A1B0"
+					item: {
+						count: 1
+						id: "enderstorage:ender_pouch"
+					}
+					type: "item"
+				}
+				{
+					id: "5711F4B0DCD87B11"
+					type: "xp"
+					xp: 10
+				}
+			]
+			tasks: [
+				{
+					id: "7B7A178156E783A1"
+					item: { count: 1, id: "enderstorage:ender_chest" }
+					type: "item"
+				}
+				{
+					id: "1B5038CEDF317260"
+					item: { count: 1, id: "enderstorage:ender_tank" }
+					type: "item"
+				}
+			]
 			x: 0.0d
 			y: 2.0d
 		}
@@ -112,13 +131,13 @@
 				id: "storagedrawers:oak_full_drawers_1"
 			}
 			id: "04708B02C5690266"
-			shape: "rsquare"
-			size: 1.5d
 			rewards: [{
 				id: "180F092C439A14A4"
 				type: "xp"
 				xp: 10
 			}]
+			shape: "rsquare"
+			size: 1.5d
 			tasks: [{
 				id: "258031037767C529"
 				item: { count: 1, id: "storagedrawers:oak_full_drawers_1" }
@@ -209,13 +228,13 @@
 				id: "storagedrawers:controller"
 			}
 			id: "3C19873B4E2A90FE"
-			shape: "gear"
-			size: 1.4d
 			rewards: [{
 				id: "3DB7D11A0EBE61E8"
 				type: "xp"
 				xp: 50
 			}]
+			shape: "gear"
+			size: 1.4d
 			tasks: [{
 				id: "5B234395013E1E27"
 				item: { count: 1, id: "storagedrawers:controller" }
@@ -230,13 +249,13 @@
 				id: "storagedrawers:controller_io"
 			}
 			id: "7BBC706328090A22"
-			shape: "gear"
-			size: 1.3d
 			rewards: [{
 				id: "42D81956280AC868"
 				type: "xp"
 				xp: 50
 			}]
+			shape: "gear"
+			size: 1.3d
 			tasks: [{
 				id: "42762B759C823696"
 				item: { count: 1, id: "storagedrawers:controller_io" }
@@ -251,13 +270,13 @@
 				id: "sophisticatedstorage:chest"
 			}
 			id: "04DA3A8507BEDB99"
-			shape: "rsquare"
-			size: 1.5d
 			rewards: [{
 				id: "6729D0168D89ABAA"
 				type: "xp"
 				xp: 10
 			}]
+			shape: "rsquare"
+			size: 1.5d
 			tasks: [{
 				id: "754BA413BEF98759"
 				item: { count: 1, id: "sophisticatedstorage:chest" }
@@ -348,13 +367,13 @@
 				id: "sophisticatedstorage:controller"
 			}
 			id: "6B4FE35EC75A476E"
-			shape: "gear"
-			size: 1.5d
 			rewards: [{
 				id: "2CE49ABE1CF3C1BE"
 				type: "xp"
 				xp: 50
 			}]
+			shape: "gear"
+			size: 1.5d
 			tasks: [{
 				id: "3C45B7C18EF5677F"
 				item: { count: 1, id: "sophisticatedstorage:controller" }
@@ -388,13 +407,13 @@
 				id: "sophisticatedbackpacks:backpack"
 			}
 			id: "6DC3B26B2B88FCB1"
-			shape: "rsquare"
-			size: 1.5d
 			rewards: [{
 				id: "144321EE81854BFE"
 				type: "xp"
 				xp: 10
 			}]
+			shape: "rsquare"
+			size: 1.5d
 			tasks: [{
 				id: "0DF0EDD8724A729A"
 				item: { count: 1, id: "sophisticatedbackpacks:backpack" }
@@ -610,27 +629,30 @@
 			x: 0.0d
 			y: 12.0d
 		}
-
 		{
 			dependencies: ["04DA3A8507BEDB99"]
 			icon: {
 				id: "sophisticatedstorage:upgrade_base"
 			}
 			id: "26498281C2337FF9"
-			shape: "rsquare"
-			size: 0.9d
 			rewards: [{
-				id: "8937176927C85A2C"
-				item: { count: 3, id: "sophisticatedstorage:upgrade_base" }
+				count: 3
+				id: "6F17908D7A624509"
+				item: {
+					count: 1
+					id: "sophisticatedstorage:upgrade_base"
+				}
 				type: "item"
 			}]
+			shape: "rsquare"
+			size: 0.9d
 			tasks: [{
-				id: "C9DE8B5756C22FD1"
+				id: "0B03250B5DE29E0B"
 				item: { count: 1, id: "sophisticatedstorage:upgrade_base" }
 				type: "item"
 			}]
-			x: 12.50d
-			y: 10.00d
+			x: 12.5d
+			y: 10.0d
 		}
 		{
 			dependencies: ["26498281C2337FF9"]
@@ -648,15 +670,15 @@
 				item: { count: 1, id: "sophisticatedstorage:pickup_upgrade" }
 				type: "item"
 			}]
-			x: 10.00d
-			y: 14.00d
+			x: 10.0d
+			y: 14.0d
 		}
 		{
 			dependencies: ["26498281C2337FF9"]
 			icon: {
 				id: "sophisticatedstorage:magnet_upgrade"
 			}
-			id: "9933E458F4431646"
+			id: "1677FB65E0EE4DF9"
 			rewards: [{
 				id: "29B9AF02B92FEE93"
 				type: "xp"
@@ -667,15 +689,15 @@
 				item: { count: 1, id: "sophisticatedstorage:magnet_upgrade" }
 				type: "item"
 			}]
-			x: 12.50d
-			y: 14.00d
+			x: 12.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["26498281C2337FF9"]
 			icon: {
 				id: "sophisticatedstorage:feeding_upgrade"
 			}
-			id: "EDB37F15160E7CF1"
+			id: "3FDCEC14022469F5"
 			rewards: [{
 				id: "75FDCD0DBD69C81B"
 				type: "xp"
@@ -686,17 +708,17 @@
 				item: { count: 1, id: "sophisticatedstorage:feeding_upgrade" }
 				type: "item"
 			}]
-			x: 10.00d
-			y: 15.50d
+			x: 10.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["26498281C2337FF9"]
 			icon: {
 				id: "sophisticatedstorage:compacting_upgrade"
 			}
-			id: "CAC2F4DC81958EB4"
+			id: "46F3E981F6E5F083"
 			rewards: [{
-				id: "88783153F02A9F70"
+				id: "72BE929DF344D0EF"
 				type: "xp"
 				xp: 10
 			}]
@@ -705,8 +727,8 @@
 				item: { count: 1, id: "sophisticatedstorage:compacting_upgrade" }
 				type: "item"
 			}]
-			x: 12.50d
-			y: 15.50d
+			x: 12.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["26498281C2337FF9"]
@@ -720,19 +742,19 @@
 				xp: 10
 			}]
 			tasks: [{
-				id: "F6DB3A61924CEEE2"
+				id: "0400C0C650B5DC1C"
 				item: { count: 1, id: "sophisticatedstorage:crafting_upgrade" }
 				type: "item"
 			}]
-			x: 10.00d
-			y: 17.00d
+			x: 10.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["26498281C2337FF9"]
 			icon: {
 				id: "sophisticatedstorage:stack_upgrade_tier_1"
 			}
-			id: "C9B2004E9ADEA69D"
+			id: "35AF776078BDEE51"
 			rewards: [{
 				id: "16541417C5F8B31E"
 				type: "xp"
@@ -743,8 +765,8 @@
 				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_tier_1" }
 				type: "item"
 			}]
-			x: 12.50d
-			y: 17.00d
+			x: 12.5d
+			y: 17.0d
 		}
 		{
 			dependencies: ["3315C143CA2C9FC5"]
@@ -762,8 +784,8 @@
 				item: { count: 1, id: "storagenetwork:import_kabel" }
 				type: "item"
 			}]
-			x: -7.50d
-			y: 14.00d
+			x: -7.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["3315C143CA2C9FC5"]
@@ -772,7 +794,7 @@
 			}
 			id: "6D508C05CB7BA59E"
 			rewards: [{
-				id: "F3C6A58CB6B89B64"
+				id: "4B7067E491B6FAD8"
 				type: "xp"
 				xp: 10
 			}]
@@ -781,8 +803,8 @@
 				item: { count: 1, id: "storagenetwork:export_kabel" }
 				type: "item"
 			}]
-			x: -5.00d
-			y: 14.00d
+			x: -5.0d
+			y: 14.0d
 		}
 		{
 			dependencies: ["3315C143CA2C9FC5"]
@@ -800,17 +822,17 @@
 				item: { count: 1, id: "storagenetwork:filter_kabel" }
 				type: "item"
 			}]
-			x: -2.50d
-			y: 14.00d
+			x: -2.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["7DB46DA33E716767"]
 			icon: {
 				id: "storagenetwork:crafting_remote"
 			}
-			id: "B7F6A1192480FEB2"
+			id: "7883FA1F55A9A03E"
 			rewards: [{
-				id: "8C6C45FCFCAD4B45"
+				id: "465B79CEF1F7E018"
 				type: "xp"
 				xp: 25
 			}]
@@ -819,8 +841,8 @@
 				item: { count: 1, id: "storagenetwork:crafting_remote" }
 				type: "item"
 			}]
-			x: -5.00d
-			y: 15.50d
+			x: -5.0d
+			y: 15.5d
 		}
 	]
 }

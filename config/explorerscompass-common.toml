@@ -10,7 +10,7 @@
 	#The maximum radius that will be searched for a structure. Raising this value will increase search accuracy but will potentially make the process more resource intensive.
 	# Default: 10000
 	# Range: 0 ~ 1000000
-	maxRadius = 10000
+	maxRadius = 30000
 	#A list of structures that the compass will not display in the GUI and will not be able to search for. Wildcard character * can be used to match any number of characters, and ? can be used to match one character. Ex: ["minecraft:buried_treasure", "minecraft:end*", "minecraft:*village*"]
 	structureBlacklist = []
 	#The default number of XP levels consumed when searching for a structure. Individual structures can be configured via xpLevelOverrides.
@@ -22,7 +22,7 @@
 	#The maximum number of samples to be taken when searching for a structure.
 	# Default: 100000
 	# Range: 0 ~ 100000000
-	maxSamples = 100000
+	maxSamples = 300000
 	#The number of successful structure searches before the compass breaks and must be repaired. Set to 0 to disable durability.
 	# Default: 0
 	# Range: 0 ~ 10000
