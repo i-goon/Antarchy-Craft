@@ -1582,7 +1582,7 @@ hash = "fede2239a8566281381e13f863d6a30a326ea4a89bca5c7b5badad75f9536fd4"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "81bb1d80f098e96a534c1623ef1b54f3c34bb4a5ac21fe3becddeefc6f7923eb"
+hash = "d43df623c98dcaea0113b8cfa47691b1b311ccbcb0b52e151340e8018a5fb7f9"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -1622,7 +1622,7 @@ hash = "7d005b7e0bbbff0724725b6d801d6d6155b6c76720d14a08ababf6244b9c5661"
 
 [[files]]
 file = "config/explorerscompass-common.toml"
-hash = "4067e50c6833df6619e511f2bc09630f16fa22e61cf250a8abbf3354afbe14f0"
+hash = "40caca2b34de1e328a1af1d3e0afee141fada9b616d5f2216ee5679addc2d0fe"
 
 [[files]]
 file = "config/extremereactors/client.toml"
@@ -1701,6 +1701,10 @@ file = "config/ftbquests/quests/chapters/applied_energistics_2.snbt"
 hash = "3fae881ab61109b296d6303440be56112cf96e117844987826010e9c28595473"
 
 [[files]]
+file = "config/ftbquests/quests/chapters/ars_nouveau.snbt"
+hash = "1e96e389a8bb8b819259364a3e8b5262237c8a41464731af5e6924aab0bc37f7"
+
+[[files]]
 file = "config/ftbquests/quests/chapters/basic_logistics.snbt"
 hash = "34bb7e2c08637ec20bb23d48666d7b822cd5964550c183be16c56d8b0e4a9af4"
 
@@ -1710,7 +1714,7 @@ hash = "5a462d960d2d02474abd68c1ebd50b8eb6b306b8019ccf43d65556495e0aff7d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/bosses.snbt"
-hash = "7e5acc520ac060af8d2a8b7ad52d126eef7c861644d02e4ba93194c81bf26eeb"
+hash = "550e8454e89858f5121e6e43354f2c8c85a9028e2a7bbef91b21ad498988ed36"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mystical_agriculture.snbt"
@@ -1718,11 +1722,11 @@ hash = "1f86830d2e2d6e76b191abeb44a3239260d30692f96600e577dd08f40db5df63"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/refined_storage.snbt"
-hash = "79189af1cde7d82f58091f0fd176f4cf251e888b2f041a846a7c21da1472cb96"
+hash = "d83aeaaaa5ed377cfaa25f5a767d8a715d636a0cf528f68dd2bff28969f775c1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/storage.snbt"
-hash = "4c28a6a8cc394c19edda8b2fe523906fe520999e13fc8ed886a2d2f0a0aa4dcd"
+hash = "55f0c70e354ab1647340d91678710e33703fa98dc8822c0c182d9377de960944"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/twilight_forest.snbt"
@@ -1730,7 +1734,7 @@ hash = "5495bf12393bb18397d3296c177322c49c97a016f664d782c66894cc9de17ba2"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "c861857c606769cebc9090bec1e745aa08e19e2b3b46a0bb211e847cb1b95575"
+hash = "615d96e69a2f7ece8028ba1060fbbd3964d1473c25b42f3beeefd4a560926c22"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -1815,6 +1819,14 @@ hash = "50ca43dc26847bdb3cd318cbfe28a40466dbfeeee0943b8b74b1e65e8ae0e1a8"
 [[files]]
 file = "config/industrialforegoingsouls/industrialforegoing-souls-machines.toml"
 hash = "488ac45f2861e24917fd36d93c3ec006ed5e20c8f1c627aef461c5324f28398b"
+
+[[files]]
+file = "config/inline/client-config.toml"
+hash = "a3ca1cd7feaa30993414670c67645455658a884aad0f653b5ba937c0a4288581"
+
+[[files]]
+file = "config/inline_tooltips.toml"
+hash = "fb3df509a9b99760767b2faec5419439d0ce4383ea97403e04ad9a5410eefa80"
 
 [[files]]
 file = "config/iris-excluded.json"
@@ -2086,7 +2098,7 @@ hash = "aeaedba1a7b7732e561467f71b136e5cade50ae561ae217361271fe5efbf87b2"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "a2d380d4908df370ab38c62c80639c63c0aae58fd20a96158c0f2f6e8d39094a"
+hash = "a8ec25bfe59ec805ed7d4f61724034eb8ca90fc814d0745b376096b54f01e3e7"
 
 [[files]]
 file = "config/reconstructedwands-client.toml"
@@ -2293,6 +2305,10 @@ file = "defaultconfigs/ftbessentials-server.snbt"
 hash = "e63fbc2d25ccd2d86eb887562d3f5f544dadcb75b0c68dd7cc152f7197a1e2d7"
 
 [[files]]
+file = "kubejs/server_scripts/explorers_compass.js"
+hash = "6d333848b68504ca4a356a14edb3f276398e8b8d2ecaba7a100ba59a797a8835"
+
+[[files]]
 file = "kubejs/server_scripts/reconstructed_wands.js"
 hash = "9eff2ef624ab170cab5991fdfd515d7f604bc3a6708542a4ef32f45c948e2144"
 
@@ -2399,6 +2415,11 @@ metafile = true
 [[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "67c3dfdbad48710f8671958eb7eb128ae2ff7a16ce698c4763b04541baf78f58"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "7f48cb4bd84eb8e7df6f752c1ebf696f9b87ab23164348bec470dc2a9b071ced"
 metafile = true
 
 [[files]]
@@ -2643,7 +2664,7 @@ metafile = true
 
 [[files]]
 file = "mods/farming-for-blockheads.pw.toml"
-hash = "26b60aed4c0cc5633dd108d29b68b299f41a53f76a026da51d2279955835c23a"
+hash = "35fb599f913c261b7375cff0642118515d21b80cfe350915e32d784cd1bf3472"
 metafile = true
 
 [[files]]
@@ -2983,7 +3004,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "62a5fae85abded834ba61dbbd4eefc4ec2a5b466911aef560321282638739af6"
+hash = "1198eaa295c7439f40c48f3cba8530810a1593ed65f1cc1a4f0328b8cfa63e99"
 metafile = true
 
 [[files]]

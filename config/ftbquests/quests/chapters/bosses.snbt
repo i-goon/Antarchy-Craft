@@ -5,7 +5,7 @@
 	group: ""
 	id: "4AE831F245E4DD6A"
 	images: [ ]
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
@@ -25,8 +25,8 @@
 				id: "66D8AFBF8281D7AB"
 				type: "dimension"
 			}]
-			x: 1.75d
-			y: -1.5d
+			x: 1.5d
+			y: 0.0d
 		}
 		{
 			icon: {
@@ -45,8 +45,8 @@
 				id: "416897CC5E6A7683"
 				type: "dimension"
 			}]
-			x: 3.5d
-			y: 6.0d
+			x: 12.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["13C330FC9C38F2CF"]
@@ -65,7 +65,29 @@
 				value: 1L
 			}]
 			x: 0.0d
-			y: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6D8CD5CBA8CE7BFA"]
+			icon: {
+				id: "explorerscompass:explorerscompass"
+			}
+			id: "4A0E000000000001"
+			rewards: [{
+				id: "4A0E000000000003"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					id: "explorerscompass:explorerscompass"
+				}
+				id: "4A0E000000000002"
+				item: { count: 1, id: "explorerscompass:explorerscompass" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["13C330FC9C38F2CF"]
@@ -83,38 +105,37 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 3.5d
-			y: 0.0d
+			x: 3.0d
+			y: 1.5d
 		}
 		{
 			icon: {
 				id: "antarchy:red_ant_nest"
 			}
 			icon_scale: 1.75d
-			id: "D774A4FDCAB0FC15"
+			id: "2C8724D1B5322F15"
 			rewards: [{
-				id: "FCD8F7F9EE2B055C"
+				id: "587FE21EC169C74C"
 				type: "xp"
 				xp: 100
 			}]
 			shape: "none"
 			tasks: [{
 				dimension: "antarchy:thoraxis"
-				id: "D5E87AB9061DA56D"
+				id: "0789989F7AD2D452"
 				type: "dimension"
 			}]
-			x: 1.75d
-			y: 1.5d
+			x: 6.5d
+			y: 0.0d
 		}
 		{
-			dependencies: ["D774A4FDCAB0FC15"]
+			dependencies: ["2C8724D1B5322F15"]
 			icon: {
 				components: {
 					"draconicevolution:soul_id": "antarchy:nightmare"
 				}
 				id: "draconicevolution:mob_soul"
 			}
-			icon_scale: 2.0d
 			id: "6B1F8FD97675DF68"
 			rewards: [{
 				id: "009535C2454FE708"
@@ -127,8 +148,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: 3.0d
+			x: 5.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["53DB7377C211654A"]
@@ -138,7 +159,6 @@
 				}
 				id: "draconicevolution:mob_soul"
 			}
-			icon_scale: 2.0d
 			id: "17E93A365DAB380D"
 			rewards: [{
 				id: "41E713D9E306026D"
@@ -151,18 +171,17 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 3.5d
-			y: 3.0d
+			x: 10.5d
+			y: 1.5d
 		}
 		{
-			dependencies: ["D774A4FDCAB0FC15"]
+			dependencies: ["2C8724D1B5322F15"]
 			icon: {
 				components: {
 					"draconicevolution:soul_id": "antarchy:emperor_scorpion"
 				}
 				id: "draconicevolution:mob_soul"
 			}
-			icon_scale: 2.0d
 			id: "46FDE1053D1ED4E6"
 			rewards: [{
 				id: "692947E456F070DF"
@@ -175,8 +194,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: 4.5d
+			x: 8.0d
+			y: 1.5d
 		}
 		{
 			icon: {
@@ -185,7 +204,6 @@
 				}
 				id: "draconicevolution:mob_soul"
 			}
-			icon_scale: 2.0d
 			id: "6858822C00824705"
 			rewards: [{
 				id: "0376FC68161B3A66"
@@ -198,8 +216,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 3.5d
-			y: 4.5d
+			x: 17.0d
+			y: 3.5d
 		}
 		{
 			dependencies: ["53DB7377C211654A"]
@@ -209,7 +227,6 @@
 				}
 				id: "draconicevolution:mob_soul"
 			}
-			icon_scale: 2.0d
 			id: "53689B826F46C9AF"
 			rewards: [{
 				id: "5F8E38118D52B833"
@@ -222,8 +239,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: 6.0d
+			x: 13.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["53DB7377C211654A"]
@@ -233,7 +250,6 @@
 				}
 				id: "draconicevolution:mob_soul"
 			}
-			icon_scale: 2.0d
 			id: "0CF6EE642D83E1E8"
 			rewards: [{
 				id: "2C99B42895909C93"
@@ -246,8 +262,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 7.0d
-			y: 6.0d
+			x: 10.5d
+			y: 3.0d
 		}
 		{
 			icon: {
@@ -256,7 +272,6 @@
 				}
 				id: "draconicevolution:mob_soul"
 			}
-			icon_scale: 2.0d
 			id: "0BE25B9BEA5F1E7E"
 			rewards: [{
 				id: "354DAB9E23FF41BF"
@@ -265,12 +280,12 @@
 			}]
 			tasks: [{
 				entity: "antarchy:alpha_mantis"
-				id: "858BA59CB6382F49"
+				id: "0D1E3DEA1B5A4095"
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: 7.5d
+			x: 17.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["7F59786D1353134D"]
@@ -280,21 +295,20 @@
 				}
 				id: "draconicevolution:mob_soul"
 			}
-			icon_scale: 2.0d
-			id: "A927512301CCDC97"
+			id: "40CAEFC8FFA71617"
 			rewards: [{
-				id: "CE44EE18DE1A8BA7"
+				id: "2081E6EDB6B25DD7"
 				type: "xp_levels"
 				xp_levels: 5
 			}]
 			tasks: [{
 				entity: "antarchy:hercules_beetle"
-				id: "E576F41FFF46BA80"
+				id: "41C2A90EE17776E3"
 				type: "kill"
 				value: 1L
 			}]
-			x: 3.5d
-			y: 7.5d
+			x: 17.0d
+			y: 1.5d
 		}
 		{
 			icon: {
@@ -313,29 +327,17 @@
 				id: "0F10B28D2D1F9B75"
 				type: "dimension"
 			}]
-			x: 1.75d
-			y: 9.0d
+			x: 17.0d
+			y: 0.0d
 		}
 		{
-			icon: {
-				id: "antarchy:lucid_eye"
-			}
-			icon_scale: 1.75d
-			id: "7526CE7EEA8A7121"
-			shape: "none"
-			tasks: [ ]
-			x: 1.75d
-			y: 10.5d
-		}
-		{
-			dependencies: ["D774A4FDCAB0FC15"]
+			dependencies: ["2C8724D1B5322F15"]
 			icon: {
 				components: {
 					"draconicevolution:soul_id": "antarchy:lucid"
 				}
 				id: "draconicevolution:mob_soul"
 			}
-			icon_scale: 2.0d
 			id: "099EEF71849D646F"
 			rewards: [{
 				id: "1EA2976D77FC697D"
@@ -344,23 +346,22 @@
 			}]
 			tasks: [{
 				entity: "antarchy:lucid"
-				id: "9C2235D07E64B529"
+				id: "7FE8DCEEC04240BA"
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: 12.0d
+			x: 5.0d
+			y: 3.0d
 		}
 		{
-			dependencies: ["D774A4FDCAB0FC15"]
+			dependencies: ["2C8724D1B5322F15"]
 			icon: {
 				components: {
 					"draconicevolution:soul_id": "antarchy:bed_bug"
 				}
 				id: "draconicevolution:mob_soul"
 			}
-			icon_scale: 2.0d
-			id: "A3B6FF69D0265233"
+			id: "670F1DFE159F3B33"
 			rewards: [{
 				id: "726A15060E530D76"
 				type: "xp_levels"
@@ -372,8 +373,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 3.5d
-			y: 12.0d
+			x: 8.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["53DB7377C211654A"]
@@ -383,7 +384,6 @@
 				}
 				id: "draconicevolution:mob_soul"
 			}
-			icon_scale: 2.0d
 			id: "3712F66B8705F3E4"
 			rewards: [{
 				id: "4729D97E703FDA7A"
@@ -396,8 +396,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: 13.5d
+			x: 13.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["53DB7377C211654A"]
@@ -407,8 +407,7 @@
 				}
 				id: "draconicevolution:mob_soul"
 			}
-			icon_scale: 2.0d
-			id: "B906C58DA558A273"
+			id: "567DF821E2727EF2"
 			rewards: [{
 				id: "6149896DBDC5E9E8"
 				type: "xp_levels"
@@ -420,9 +419,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 3.5d
-			y: 13.5d
+			x: 12.0d
+			y: 4.5d
 		}
 	]
-
 }

@@ -13,3 +13,6 @@ key_key.draconicevolution.tool_config:key.keyboard.unknown
 key_key.draconicevolution.tool_modules:key.keyboard.unknown
 key_quark.keybind.lock_rotation:key.keyboard.unknown
 key_key.craftingtweaks.compress_stack:key.keyboard.unknown
+# Middle-click sorts the player inventory and the open container.
+key_quark.keybind.sort_player:key.mouse.middle
+key_quark.keybind.sort_container:key.mouse.middle
