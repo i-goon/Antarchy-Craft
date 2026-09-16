@@ -2484,7 +2484,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "dfc42a26ddd76ee99cad6f023e0c14c82cbb91d2338f7eeac678a05e3e2a13fa"
+hash = "64b3e35ebe44edea3009b1c6f8da2de7286c9716f77e053643f8637541e47bb2"
 metafile = true
 
 [[files]]
@@ -2689,7 +2689,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "a0b3083a1577130adb77867a6f8b6cf0c5bdd3c0c8b2995fa8b5fca323ed09a0"
+hash = "f0f7ae9116a7cd7c77c9456a90285d3898510c63b05e83336e2b99d7b7291215"
 metafile = true
 
 [[files]]
@@ -2739,7 +2739,7 @@ metafile = true
 
 [[files]]
 file = "mods/gateways-to-eternity.pw.toml"
-hash = "677912b683eeda568c6e81d235c2411461c1d212608b5440a79d5abbd2c5fc1d"
+hash = "79e6966dee779ade4f4c28534985c850895025806008b895138c8383fd394b75"
 metafile = true
 
 [[files]]
@@ -2864,7 +2864,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
-hash = "bffd4067f92d5d8ed7a8a3acfdae213e9523ba5a518196cbd0a98d05e95fe6b6"
+hash = "bb05aca617c769e87e5c1d2477e75239bc261258d283165ef64ed4797ddcf969"
 metafile = true
 
 [[files]]
@@ -3199,7 +3199,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "fa20fcc5ccc407316719932b62a59b7caa6829c28c28b7fd149ea82aa838b68f"
+hash = "ed5979e37a2dcb48f93e0a3d8021885e90e58be61221501d9ce74c2f3842f573"
 metafile = true
 
 [[files]]
