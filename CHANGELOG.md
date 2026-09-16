@@ -4,7 +4,7 @@ All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is 
 
 ## [1.0.40] - 2026-09-16
 ### Added
-- Rolls up everything since 1.0.32. The releases in between never shipped in working form.
+- Rolls up everything since 1.0.32.
 - Sophisticated Storage: chests and barrels join the backpacks.
 - Held torches and entities light up the dark, tuned so lit up bases stay smooth.
 - Builders, rejoice. Working recipes for every construction wand and core.
