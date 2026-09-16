@@ -3312,9 +3312,5 @@ file = "server.properties"
 hash = "5c09dcc1af2f4ce4483b9dabe8a3c22cec1bbbeffac4698c4575afb4cba435e2"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
-hash = "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
-
-[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
 hash = "b1402ce3df032ffdf940fd75a1db06ce0de262b84ca76a5317a866b43b2cd1c6"

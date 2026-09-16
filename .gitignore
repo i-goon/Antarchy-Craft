@@ -26,8 +26,7 @@ errors.png
 # Local notes - never commit
 _TODO-*.md
 
-# Pack exports
+# Pack exports (no zips ship: shaders were never distributed, 2026-09-16)
 *.zip
-!overrides/shaderpacks/*.zip
 *.mrpack
 
