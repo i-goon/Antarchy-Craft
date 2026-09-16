@@ -191,6 +191,12 @@ The pack ships automatically to CurseForge on every `v*` git tag via GitHub Acti
 
 ## Releasing a new version
 
+> Test with the exact config before triggering a tag publish. Sync the test
+> instance jars to the repo pins, launch it, and confirm the main menu loads
+> before tagging. A tag ships to players with no further checks (1.0.40 fixed
+> a release that could not start because the test instance carried newer jars
+> than the repo pinned).
+
 ```
 git tag v1.0.XX
 git push origin v1.0.XX

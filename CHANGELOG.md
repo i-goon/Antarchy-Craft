@@ -3,8 +3,28 @@
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
 ## [1.0.40] - 2026-09-16
+### Added
+- Rolls up everything since 1.0.32. The releases in between never shipped in working form.
+- Sophisticated Storage: chests and barrels join the backpacks.
+- Held torches and entities light up the dark, tuned so lit up bases stay smooth.
+- Builders, rejoice. Working recipes for every construction wand and core.
+- Buy seeds and saplings at the Market. Growing anything is a trip to the Market away.
+- New Mystical Agriculture chapter. 167 quests covering all seven essence tiers, machines, souls, and every seed that grows in this pack. The first quest hands you the guide book.
+- New Ars Nouveau chapter. 52 quests from spellbooks to familiars and rituals.
+- New Logistics chapters (100+ quests): Pipez, Mekanism, Modular Routers, Create, Flux Networks, plus Storage, Refined Storage, and Applied Energistics 2.
+- Bosses tab overhaul: dimension hubs gating 14 boss kills with animated icons, real mechanics in every description, and XP rewards on Big Bertha pickups.
+- Find any structure with the Explorer's Compass. Some bosses are impossible to find without knowing exactly where to go.
+- Grow trees in Botany Pots.
+- JourneyMap integration: FTB claims on the map plus Waystone markers.
+- Inline tooltips: furnace burn time, durability, and attribute icons right on item tooltips.
+- Fuel tooltips show exact burn times.
+- KubeJS scripting is in, so broken recipes get patched pack side going forward.
+- Antarchy 1.1.1 with Infinite Dimensions.
+### Changed
+- Fresh installs default to 3x GUI scale.
+- Removed leftover King/Queen Scale standby quests.
 ### Fixed
-- The pack launches again. Sophisticated Core and Backpacks are updated to the versions Sophisticated Storage requires, so no more dependency error on startup.
+- The pack launches again. Sophisticated Core and Backpacks are updated to the versions Sophisticated Storage requires.
 
 ## [1.0.39] - 2026-09-15
 ### Added
