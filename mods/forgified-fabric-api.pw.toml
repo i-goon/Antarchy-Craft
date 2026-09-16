@@ -11,3 +11,7 @@ hash = "9dbb0018e68b4efd65abf57f5fc41bb5d3b812e4a3cb75164937cb28ab541225b939fdea
 [update.modrinth]
 mod-id = "Aqlf1Shp"
 version = "dAxle9F7"
+
+[update.curseforge]
+project-id = 889079
+file-id = 8445798
