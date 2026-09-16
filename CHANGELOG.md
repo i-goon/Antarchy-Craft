@@ -2,6 +2,10 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.40] - 2026-09-16
+### Fixed
+- The pack launches again. Sophisticated Core and Backpacks are updated to the versions Sophisticated Storage requires, so no more dependency error on startup.
+
 ## [1.0.39] - 2026-09-15
 ### Added
 - Grow trees in Botany Pots

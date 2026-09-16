@@ -1,5 +1,11 @@
 # packwiz hashes raw file bytes, so line endings must be stable across checkouts.
-# Pin LF for authored script/config paths (Windows autocrlf otherwise flips them
+# Pin LF for everything packwiz tracks (Windows autocrlf otherwise flips files
 # on pull and produces phantom hash churn in index.toml, as happened 2026-09-13
-# with kubejs/server_scripts/reconstructed_wands.js).
+# with kubejs/server_scripts/reconstructed_wands.js and 2026-09-16 with the
+# whole index after a Windows refresh wrote CRLF hashes).
+# Binary paths (jars, zips, search indexes) stay untouched below.
+* text=auto eol=lf
+*.jar binary
+*.zip binary
+config/ars_nouveau/search_index/** binary
 kubejs/** text eol=lf
