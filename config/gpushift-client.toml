@@ -21,7 +21,7 @@ particleBudgetScale = 0.65
 # Range: 16 ~ 512
 entityCullDistance = 96
 #Whether the first-run quick setup screen has already been shown on this client.
-quickSetupShown = false
+quickSetupShown = true
 #Add a GpuShift page to Sodium or Embeddium options when Sodium Options API is installed.
 sodiumOptionsPageEnabled = true
 #Use Governor v2 smart entity culling with importance checks and hysteresis.
