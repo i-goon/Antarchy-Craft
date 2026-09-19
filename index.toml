@@ -73,10 +73,6 @@ file = "config/ProjectE/custom_emc.json"
 hash = "1a93a0cf4e82a238415d1384ff754d62d5e444eecf80143d2172c9d20d273f39"
 
 [[files]]
-file = "config/ProjectE/mapping-1.toml.bak"
-hash = "326e3a2298987f3faf3524dcb49a78b636a0fc7bb25bf2eea6102b3e95916a07"
-
-[[files]]
 file = "config/ProjectE/mapping.toml"
 hash = "33c41a55a8801422bc97a744f531471d4be978947321d01527074823922a082d"
 
@@ -462,19 +458,19 @@ hash = "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8"
 
 [[files]]
 file = "config/antarchy/.config_generation"
-hash = "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+hash = "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
 
 [[files]]
 file = "config/antarchy/antarchy_misc.toml"
-hash = "64a9e84174e65555d9b70f4771c53e5d34b85630111fd7b5e2ad870e922b6f07"
+hash = "fd8e2b3325886cd12b8f406e6a7672a992a4077cab114ec0fbf4add4a01bc7f5"
 
 [[files]]
 file = "config/antarchy/antarchy_mobs.toml"
-hash = "4d4c4d01835c916c6943061b00bf4c29bb763d21d9f8d53e590c85df54a96671"
+hash = "43d46db75b6d4e12fe72a0c663a4420dcded6b9b6f5de1e999ed86f2b7e7ce19"
 
 [[files]]
 file = "config/antarchy/antarchy_tools.toml"
-hash = "932955bf1855f7d43d02782399ce646006c220019c6783469d4cb25ef11c73ff"
+hash = "8daf8f11bf29696e4e68f6295d52e5cbb6b843140ef85a88bfe018f21ef0eed2"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
@@ -859,26 +855,6 @@ hash = "c4d0396bb7394dbd63a9a77fb20889341e375d4090e825bfb3cc2d916d7d82a7"
 [[files]]
 file = "config/ars_nouveau/rewind.toml"
 hash = "cfba46b855cf3bef2c4792b313eb9bdfc28ecdf29792ab8996fb44840d8b3009"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_8.cfe"
-hash = "91bda2c18e8a180e5c34791fd12f439bfb604d24614a6c8b9b0e9b4eed451fb0"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_8.cfs"
-hash = "0c1d5357a1a2f2212011a6954148057d3cc9728fba31bfce6c168e788b164fe3"
-
-[[files]]
-file = "config/ars_nouveau/search_index/_8.si"
-hash = "3e56dd8dbe91baabd6c36b1a86db0248dc384b53283eb6304364e7414a9e068e"
-
-[[files]]
-file = "config/ars_nouveau/search_index/segments_9"
-hash = "9463ed61ed06fff862e736660abca48df45e6d98abcfde6487f9e58cab76eca4"
-
-[[files]]
-file = "config/ars_nouveau/search_index/write.lock"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/ars_nouveau/wololo.toml"
@@ -2263,10 +2239,6 @@ hash = "11cdd50ade194ded67a72c40c95f810ce166760c02d87e9c9deae1ede4ae8f49"
 [[files]]
 file = "config/valhelsia_structures-client.toml"
 hash = "0af8d83ffedf671f008302a67b64e5f75f98207abc659c6885efcb4d5ab27bcd"
-
-[[files]]
-file = "config/voxy-client-1.toml.bak"
-hash = "7082d901da64398bb9b9febe4d0900886efd5bfcb3d0ba8ee730081bec2b49ad"
 
 [[files]]
 file = "config/voxy-client.toml"

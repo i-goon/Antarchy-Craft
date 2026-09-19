@@ -18,13 +18,16 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [Architectury](https://modrinth.com/mod/architectury-api) by shedaniel
 - [Ars Nouveau](https://modrinth.com/mod/ars-nouveau) by Bailey Hollingsworth
 - [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts) by ochotonida
+- [Async](https://modrinth.com/mod/async) by AxalotL, Alchemy, Bliss, FurryMileon, Grider, jediminer543
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) by Darkhax
+- [BadOptimizations](https://modrinth.com/mod/badoptimizations) by Thosea
 - [Balm](https://mods.twelveiterations.com/) by BlayTheNinth
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) by way2muchnoise
 - [Better Biome Blend](https://modrinth.com/mod/better-biome-blend) by FionaTheMortal
 - [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) by Adubbz, Forstride
 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) by Darkhax
 - [Born in Chaos](https://modrinth.com/mod/borninchaos) by Mongoose\_artist, MCreator
+- [Botany Pots: Mystical Agriculture Compat](https://www.curseforge.com/minecraft/mc-mods/botan-pots-mystical-agriculture-compat) by Darkhax
 - [BotanyPots](https://www.curseforge.com/minecraft/mc-mods/botany-pots) by Darkhax
 - [Brandon's Core](https://modrinth.com/mod/brandons-core) by brandon3055
 - [Building Gadgets 2](https://www.curseforge.com/minecraft/mc-mods/building-gadgets) by Direwolf20
@@ -39,8 +42,8 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [Configured Defaults](https://github.com/Fuzss/configureddefaults) by Fuzs
 - [Connectivity Mod](https://www.curseforge.com/minecraft/mc-mods/connectivity) by Someaddon
 - [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) by Jaredlll08
+- [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone/) by Corail31
 - [CorgiLib](https://github.com/CorgiTaco/CorgiLib) by Corgi Taco
-- [Corpse](https://www.curseforge.com/minecraft/mc-mods/corpse) by Max Henkel
 - [CosmeticArmorReworkedForked](https://modrinth.com/mod/cosmetic-armor-reworked-forked)
 - [Crafting Tweaks](https://mods.twelveiterations.com/minecraft/craftingtweaks) by BlayTheNinth
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create) by simibubi
@@ -82,9 +85,11 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [Forgified Fabric API](https://modrinth.com/mod/forgified-fabric-api) by Sinytra, FabricMC
 - [Framework](https://www.curseforge.com/minecraft/mc-mods/framework) by MrCrayfish
 - [Fusion](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) by SuperMartijn642
+- [Fzzy Config](https://modrinth.com/mod/fzzy-config) by fzzyhmstrs
 - [Gateways To Eternity](https://modrinth.com/mod/gateways-to-eternity) by Shadows\_of\_Fire
 - [GeckoLib 4](https://modrinth.com/mod/geckolib) by Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin
 - [GlitchCore](https://www.curseforge.com/minecraft/mc-mods/glitchcore) by Adubbz
+- [GpuShift](https://modrinth.com/mod/gpushift) by orf
 - [GuideME](https://github.com/AppliedEnergistics/GuideME/) by shartte
 - [Hostile Neural Networks](https://modrinth.com/mod/hostile-neural-networks) by Shadows\_of\_Fire
 - [Iceberg](https://anthonyhilyard.com/) by Grend
@@ -105,6 +110,7 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) by way2muchnoise
 - [Just Zoom](https://modrinth.com/mod/just-zoom) by Keksuccino
 - [Konkrete](https://modrinth.com/mod/konkrete) by Keksuccino
+- [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge) by thedarkcolour
 - [L\_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm) by L\_Ender
 - [Legendary Tooltips](https://anthonyhilyard.com/) by Grend
 - [Lithium](https://modrinth.com/mod/lithium) by 2No2Name, JellySquid
@@ -127,6 +133,8 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [OctoLib](https://www.curseforge.com/minecraft/mc-mods/octo-lib) by OctoStudios
 - [Oh The Biomes We've Gone](https://potionstudios.net/) by Joseph T\. McQuigg \(JT122406\), AOCAWOL, YaBoiChips, Corgi Taco
 - [Oh The Trees You'll Grow](https://modrinth.com/mod/oh-the-trees-youll-grow) by Corgi Taco
+- [Packet Fixer](https://modrinth.com/mod/packet-fixer) by TonimatasDEV
+- [Particle Core](https://modrinth.com/mod/particle-core) by fzzyhmstrs
 - [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui/) by Virtuoel
 - [Pipez](https://www.curseforge.com/minecraft/mc-mods/pipez) by Max Henkel
 - [Placebo](https://modrinth.com/mod/placebo) by Shadows\_of\_Fire
@@ -142,6 +150,7 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [Refined Storage](https://refinedmods.com/refined-storage) by Refined Mods
 - [Relics](https://www.curseforge.com/minecraft/mc-mods/relics-mod) by SSKirillSS
 - [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations) by P3pp3rF1y
+- [ScalableLux](https://github.com/RelativityMC/ScalableLux) by Spottedleaf, ishland
 - [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) by Jaredlll08
 - [Shrink](https://modrinth.com/mod/shrink) by Gigabit101
 - [Sinytra Connector](https://modrinth.com/mod/connector)

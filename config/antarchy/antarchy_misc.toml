@@ -37,7 +37,12 @@
 	disableInfinityBookPortalCreation = true
 	#Whether rainbow ants open randomly generated Infinity dimensions.
 	#Only works if the Infinite Dimensions mod is installed.
-	rainbowAntsLeadToInfinityDimensions = false
+	rainbowAntsLeadToInfinityDimensions = true
+	#Chance for a rainbow ant Infinity destination roll to select an Infinity easter egg dimension instead of a normal generated one.
+	#0.01 = 1%, 0 disables easter egg rolls.
+	# Default: 0.01
+	# Range: 0.0 ~ 1.0
+	rainbowAntInfinityEasterEggChance = 0.01
 
 [permanentPortals]
 	#Master toggle for sacrifice-activated permanent portals.

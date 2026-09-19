@@ -6,6 +6,8 @@ antsStealFromChests = true
 	#Reagent tag:        data/antarchy/tags/item/brown_ant_activation_items.json
 	#Breeding foods tag: data/antarchy/tags/item/brown_ant_breeding_foods.json
 	requiresReagent = false
+	#If false, right-clicking brown ants will never teleport players.
+	rightClickDimension = true
 	#Base max health.
 	# Default: 5.0
 	# Range: 0.1 ~ 1024.0
@@ -26,6 +28,8 @@ antsStealFromChests = true
 	#Reagent tag:        data/antarchy/tags/item/red_ant_activation_items.json
 	#Breeding foods tag: data/antarchy/tags/item/red_ant_breeding_foods.json
 	requiresReagent = false
+	#If false, right-clicking red ants will never teleport players.
+	rightClickDimension = true
 	#Base max health.
 	# Default: 5.0
 	# Range: 0.1 ~ 1024.0
@@ -46,6 +50,8 @@ antsStealFromChests = true
 	#Reagent tag:        data/antarchy/tags/item/rainbow_ant_activation_items.json
 	#Breeding foods tag: data/antarchy/tags/item/rainbow_ant_breeding_foods.json
 	requiresReagent = true
+	#If false, right-clicking rainbow ants will never teleport players.
+	rightClickDimension = true
 	#Base max health.
 	# Default: 5.0
 	# Range: 0.1 ~ 1024.0
@@ -66,6 +72,8 @@ antsStealFromChests = true
 	#Reagent tag:        data/antarchy/tags/item/termite_activation_items.json
 	#Breeding foods tag: data/antarchy/tags/item/termite_breeding_foods.json
 	requiresReagent = false
+	#If false, right-clicking termites will never teleport players.
+	rightClickDimension = true
 	#Base max health.
 	# Default: 5.0
 	# Range: 0.1 ~ 1024.0
@@ -141,6 +149,16 @@ antsStealFromChests = true
 	# Range: 0.01 ~ 1.0
 	camouflageAlpha = 0.18
 
+[emperorScorpion]
+	#Range in blocks a player must be within for the Emperor Scorpion to be able to take damage. Prevents cheesing it from outside its aggro range.
+	# Default: 25.0
+	# Range: 1.0 ~ 256.0
+	damageRange = 25.0
+	#Minimum ticks after spawning before the Emperor Scorpion can despawn from being far away. It also never despawns once it has taken damage. 6000 ticks = 5 minutes.
+	# Default: 6000
+	# Range: 0 ~ 1000000
+	minDespawnTicks = 6000
+
 [kraken]
 	#Base max health.
 	# Default: 1500.0
@@ -160,6 +178,14 @@ antsStealFromChests = true
 	massSpawnEnabled = true
 	#If true, the killer must have Bad Omen to summon a single Kraken; chance scales with Bad Omen level. Mass spawn is unaffected by level but still requires Bad Omen when this is on.
 	requireBadOmenToSummon = true
+	#How far the Kraken can see/target players.
+	# Default: 96.0
+	# Range: 1.0 ~ 256.0
+	followRange = 96.0
+	#Range in blocks a player must be within for the Kraken to be able to take damage. Prevents cheesing it from outside its aggro range.
+	# Default: 35.0
+	# Range: 1.0 ~ 256.0
+	damageRange = 35.0
 
 [brutalfly]
 	#Base max health.
@@ -174,6 +200,10 @@ antsStealFromChests = true
 	# Default: 5.0
 	# Range: 0.0 ~ 1024.0
 	spitDamage = 5.0
+	#Range in blocks a player must be within for the Brutalfly to be able to take damage. Prevents cheesing it from outside its aggro range.
+	# Default: 25.0
+	# Range: 1.0 ~ 256.0
+	damageRange = 25.0
 
 [mantis]
 	#Base max health.
@@ -220,6 +250,10 @@ antsStealFromChests = true
 	# Default: 4
 	# Range: 0 ~ 32
 	maxMinions = 4
+	#Range in blocks a player must be within for the Alpha Mantis to be able to take damage. Prevents cheesing it from outside its aggro range.
+	# Default: 25.0
+	# Range: 1.0 ~ 256.0
+	damageRange = 25.0
 
 [rollyPolly]
 	#Base max health.
@@ -272,6 +306,10 @@ antsStealFromChests = true
 	# Default: 15.0
 	# Range: 0.0 ~ 1024.0
 	grabDamage = 15.0
+	#Ticks a given entity is immune to repeat sweep-attack damage attempts after being hit once, so shields/armor absorbing a hit can't be shredded by every tick of the sweep's active window.
+	# Default: 10
+	# Range: 0 ~ 200
+	sweepHitCooldownTicks = 10
 
 [caterpillar]
 	#Time in seconds before a caterpillar emerges from its chrysalis.
@@ -558,12 +596,20 @@ antsStealFromChests = true
 	# Default: 40.0
 	# Range: 0.0 ~ 1024.0
 	chargeDamage = 40.0
+	#Range in blocks a player must be within for the Hercules Beetle to be able to take damage. Prevents cheesing it from outside its aggro range.
+	# Default: 25.0
+	# Range: 1.0 ~ 256.0
+	damageRange = 25.0
 
 [toreterror]
 	#Base max health.
 	# Default: 300.0
 	# Range: 1.0 ~ 32768.0
 	health = 300.0
+	#Range in blocks a player must be within for the Toreterror to be able to take damage. Prevents cheesing it from outside its aggro range.
+	# Default: 25.0
+	# Range: 1.0 ~ 256.0
+	damageRange = 25.0
 	#Damage dealt by the jump shockwave.
 	# Default: 14.0
 	# Range: 0.0 ~ 1024.0
