@@ -1,0 +1,17 @@
+name = "GpuShift"
+filename = "gpushift-universal-1.21.1-1.2.8-bugfix.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BpmMSdoc/versions/CoE44jUx/gpushift-universal-1.21.1-1.2.8-bugfix.2.jar"
+hash-format = "sha512"
+hash = "d9a212e0a9988cb89b50d0cb49a763d854de41999eaba5d9e07637901506da971691330bb446ad17996b1e791c8fa68d390943a1785e72d01d03278385d09d8c"
+
+[update]
+[update.modrinth]
+mod-id = "BpmMSdoc"
+version = "CoE44jUx"
+
+[update.curseforge]
+file-id = 8881861
+project-id = 1533254

@@ -116,7 +116,7 @@
 	#Percent chance of getting Pigshoes from Piglin Bartering. Set to zero to disable.
 	# Default: 0.02500000037252903
 	# Range: 0.0 ~ 1.0
-	tusklinShoesBarteringChance = 0.02500000037252903
+	tusklinShoesBarteringChance = 0.01
 	#The visual zoom of the rainbow pattern on the rainbow glass block. Higher number = bigger pattern.
 	# Default: 16.0
 	# Range: 1.0 ~ 10000.0
