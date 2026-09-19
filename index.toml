@@ -1445,10 +1445,6 @@ file = "config/connector.json"
 hash = "67bee06b2b321ed25e0d4e9b5bac7ab76c8ae76442de6caf11f463ce2ae1ac5e"
 
 [[files]]
-file = "config/corpse-server.toml"
-hash = "ccca6ca427eb813e81abe951caac1c37c8acc3fc55ba848eaef6bd2b303730c1"
-
-[[files]]
 file = "config/cosmeticarmorreworked-client.json"
 hash = "340cd61fabf60cf2f1a2199afb2cac891d567145823d80df25aa0984d9d13d75"
 
@@ -1747,6 +1743,10 @@ hash = "bd0bb47eedb240528f44fefd13e3185de5b452c651163211e05830bb8836f5c6"
 [[files]]
 file = "config/ftbultimine-server.snbt"
 hash = "91cd49539494960b575e2640061961e159b7fdf1cdb4b850830a3e5f3e2ac794"
+
+[[files]]
+file = "config/gpushift-client.toml"
+hash = "41e64ab092e8d3604a2cd2724781a5903796ac6bc7f8599812ea4274d5e8a49f"
 
 [[files]]
 file = "config/guideme.toml"
