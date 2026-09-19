@@ -1,0 +1,61 @@
+#Master switch for GpuShift client-side optimizations.
+enabled = false
+#Optimization profile.
+#Allowed Values: QUALITY, BALANCED, PERFORMANCE
+profile = "BALANCED"
+#Show the GpuShift diagnostic overlay.
+overlayEnabled = false
+#Tighten render budgets when average frame time is high.
+adaptiveMode = false
+#Compatibility mode. AUTO keeps detected render-stack behavior.
+#Allowed Values: AUTO, STANDALONE, SODIUM, EMBEDDIUM, OCULUS, SODIUM_OCULUS, EMBEDDIUM_OCULUS
+compatMode = "AUTO"
+#Enable safe GPU-assist state when no external shader stack is detected.
+shaderAssistEnabled = false
+#Fraction of newly spawned client particles to keep while enabled.
+# Default: 0.65
+# Range: 0.0 ~ 1.0
+particleBudgetScale = 0.65
+#Distance in blocks after which non-player living entities can be skipped.
+# Default: 96
+# Range: 16 ~ 512
+entityCullDistance = 96
+#Whether the first-run quick setup screen has already been shown on this client.
+quickSetupShown = true
+#Add a GpuShift page to Sodium or Embeddium options when Sodium Options API is installed.
+sodiumOptionsPageEnabled = true
+#Use Governor v2 smart entity culling with importance checks and hysteresis.
+smartEntityCulling = false
+#Budget cosmetic particles separately while protecting weather and critical particles.
+particleCategoryBudgeting = true
+#Show Governor v2 skipped/protected counters in the GpuShift overlay.
+governorDebugCounters = false
+#Capture safe cosmetic particles into the GPU Particle Layer.
+gpuParticleLayerEnabled = true
+#SAFE disables GPU Particle Layer under shader stacks; FORCE keeps it enabled.
+#Allowed Values: SAFE, FORCE
+gpuParticleMode = "SAFE"
+#Maximum particles held by the GPU Particle Layer.
+# Default: 8192
+# Range: 256 ~ 65536
+gpuParticleMaxInstances = 8192
+#Show GPU Particle Layer capture/fallback counters in the overlay.
+gpuParticleDebugOverlay = false
+#Skip far decorative vanilla block entity render under frame pressure.
+blockEntityBudgetEnabled = false
+#Distance after which budgetable block entities can be skipped.
+# Default: 96
+# Range: 32 ~ 256
+blockEntityBudgetDistance = 96
+#Skip far ordinary item frame rendering under frame pressure.
+itemFrameBudgetEnabled = false
+#Show block entity/item frame budget counters in the overlay.
+blockEntityBudgetDebugOverlay = false
+#Blur the world behind the draggable GpuShift desktop.
+uiBackgroundBlurEnabled = true
+#Maximum content windows open in the GpuShift desktop.
+# Default: 4
+# Range: 1 ~ 6
+uiMaxOpenWindows = 4
+#Saved draggable desktop window positions.
+uiWindowPositions = ""

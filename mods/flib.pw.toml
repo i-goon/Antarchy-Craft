@@ -1,17 +1,17 @@
 name = "FLIB"
-filename = "flib-1.21.1-0.2.8.jar"
+filename = "flib-1.21.1-0.2.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FAUSd09K/versions/Ba1H0eUh/flib-1.21.1-0.2.8.jar"
+url = "https://cdn.modrinth.com/data/FAUSd09K/versions/i46U23pv/flib-1.21.1-0.2.9.jar"
 hash-format = "sha512"
-hash = "28970dfbdac557a39a8398bcdf38de34aff9bcfd0a4936485fa4a0c5d32027263a6c419c057cf5f7361af3c368447c42db2fe2a4fccbf171a5b90b55b4254921"
+hash = "af545a1bf9db7ff1f4b99d33ae568bdf5305e09739f5af408482dc0731a04dd50494baab66744701726874f8202ab23d1c6ddf6d0d580c5477984f51cd86f829"
 
 [update]
 [update.modrinth]
 mod-id = "FAUSd09K"
-version = "Ba1H0eUh"
+version = "i46U23pv"
 
 [update.curseforge]
-file-id = 8462848
+file-id = 8611586
 project-id = 661261

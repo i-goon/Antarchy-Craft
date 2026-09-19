@@ -1,17 +1,17 @@
 name = "Cyclic"
-filename = "cyclic-1.21.1-1.14.1.jar"
+filename = "cyclic-1.21.1-1.14.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UcVTWyCI/versions/Q2iFX2rX/cyclic-1.21.1-1.14.1.jar"
+url = "https://cdn.modrinth.com/data/UcVTWyCI/versions/9pH2ddA0/cyclic-1.21.1-1.14.2.jar"
 hash-format = "sha512"
-hash = "18cbb6f16599bc3450e8194bea95236d29aa408ad43e785942715df899c7d83248488ffd90ee2fa2177de12ebb04f466f98fadddd3869dec038287401f119bc7"
+hash = "59edb5e2e87f14349021753ea518017748f1510ffad2bf02b7f73c33f7c615a6c30066fc2c6e70dda7b60883ceb27b6b2c234fb247871b7286b766792c86fcad"
 
 [update]
 [update.modrinth]
 mod-id = "UcVTWyCI"
-version = "Q2iFX2rX"
+version = "9pH2ddA0"
 
 [update.curseforge]
-file-id = 8425333
+file-id = 8611876
 project-id = 239286

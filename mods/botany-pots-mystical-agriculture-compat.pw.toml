@@ -1,0 +1,17 @@
+name = "BotanyPots-Mystical"
+filename = "botanypotsmystical-neoforge-1.21.1-21.1.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SaWFztxY/versions/ybz5bJVO/botanypotsmystical-neoforge-1.21.1-21.1.12.jar"
+hash-format = "sha512"
+hash = "e328c7abc75ca2856c3078be082c1bb4651498cf299a2873ae0358b86ee588b561dd9b24aa14bfd68e532c86d8c4982415e28d81f493ba67f99d4039c3157d3a"
+
+[update]
+[update.modrinth]
+mod-id = "SaWFztxY"
+version = "ybz5bJVO"
+
+[update.curseforge]
+file-id = 8177218
+project-id = 1329409

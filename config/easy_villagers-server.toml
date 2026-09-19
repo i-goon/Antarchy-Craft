@@ -8,7 +8,7 @@
 	#The time in ticks the converter takes to convert a villager
 	# Default: 6000
 	# Range: > 20
-	converting_time = 6000
+	converting_time = 600
 
 [farmer]
 	#The chance that a crop grows a stage in a farmer

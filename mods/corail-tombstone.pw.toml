@@ -1,0 +1,17 @@
+name = "Corail Tombstone"
+filename = "tombstone-neoforge-1.21.1-9.5.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YT5K34AB/versions/e68NhQJm/tombstone-neoforge-1.21.1-9.5.6.jar"
+hash-format = "sha512"
+hash = "c987d0321bf9c38107c33882c23761963c2a76bd6b24baf24b83ae846efd56d8f29ecb9bec8a80092f1624910ed10d2b7e3d07cf2dde3984524fb65d894a539c"
+
+[update]
+[update.modrinth]
+mod-id = "YT5K34AB"
+version = "e68NhQJm"
+
+[update.curseforge]
+file-id = 8842741
+project-id = 243707

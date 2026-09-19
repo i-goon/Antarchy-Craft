@@ -200,6 +200,14 @@
 	# Default: 25.0
 	# Range: 0.0 ~ 1000.0
 	lucidModeInvertedDamageBonusPercent = 25.0
+	#Bonus damage percent dealt while no boss mode is selected (the default mode).
+	# Default: 15.0
+	# Range: 0.0 ~ 1000.0
+	noneModeDamageBonusPercent = 15.0
+	#Bonus damage percent from Nightmare mode hits.
+	# Default: 30.0
+	# Range: 0.0 ~ 1000.0
+	nightmareModeDamageBonusPercent = 30.0
 
 [attitudeAdjuster]
 	#Base attack damage of the Attitude Adjuster.
@@ -236,18 +244,18 @@
 	# Default: 100
 	# Range: 1 ~ 72000
 	tentacleDurationTicks = 100
-	#Damage a tentacle deals per damage interval to nearby entities.
-	# Default: 3.0
-	# Range: 0.0 ~ 4096.0
-	tentacleDamage = 3.0
-	#Radius in blocks around a tentacle that it can grab and damage.
+	#Radius in blocks around a tentacle that it can grab and slow.
 	# Default: 3.0
 	# Range: 0.0 ~ 32.0
 	tentacleRadius = 3.0
-	#How often, in ticks, a tentacle damages nearby entities.
-	# Default: 20
+	#Slowness amplifier applied to entities held by a tentacle (0 = Slowness I).
+	# Default: 8
+	# Range: 0 ~ 255
+	tentacleSlownessAmplifier = 8
+	#How often, in ticks, a tentacle refreshes its slowness effect on nearby entities. Kept low so the effect fades quickly once an entity leaves.
+	# Default: 5
 	# Range: 1 ~ 2000
-	tentacleDamageIntervalTicks = 20
+	tentacleSlownessRefreshTicks = 5
 
 [scorpionWhip]
 	#Base lash damage of the Scorpion Stinger Whip.

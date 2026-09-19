@@ -2,6 +2,28 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.41] - 2026-09-19
+### Breaking Changes
+- Loot any old corpse blocks before updating.
+- Corpse has been replaced with Corail Tombstone, and Cyclic's Soulbound has been replaced with Corail's due to a duplication glitch in Cyclic.
+- Old Cyclic soulbound items and books stop working. Corail's Book of Soulbound is how you make new ones.
+
+#### Added mods
+- GpuShift
+- Packet Fixer
+- Async
+- Particle Core
+- Bad Optimizations
+- ScalableLux
+### Changed
+- GpuShift ships switched off. Open it with F9 and run Auto Tune to see whether it helps on your PC.
+- The Easy Villagers converter now takes about 39 seconds instead of five minutes.
+- Ancient Hogshoes are 2.5x rarer from piglin bartering.
+### Fixed
+- Fixed a duplication bug: spamming arrows from a Multi-Bow bow could leave extra copies of the bow in your inventory.
+- Fixed a duplication bug: dying while wearing a Soulbound chestplate could hand you a spare set.
+- Held item and entity lighting no longer lags seconds behind, so a shield in a dark room stops glowing.
+
 ## [1.0.40] - 2026-09-16
 ### Added
 - Rolls up everything since 1.0.32.
