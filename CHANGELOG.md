@@ -16,6 +16,7 @@ All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is 
 - Bad Optimizations
 - ScalableLux
 ### Changed
+- GpuShift ships switched off. Run its Auto Tune to see whether it helps on your PC.
 - The Easy Villagers converter now takes about 39 seconds instead of five minutes.
 - Ancient Hogshoes are 2.5x rarer from piglin bartering.
 ### Fixed

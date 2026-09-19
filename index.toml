@@ -1746,7 +1746,7 @@ hash = "91cd49539494960b575e2640061961e159b7fdf1cdb4b850830a3e5f3e2ac794"
 
 [[files]]
 file = "config/gpushift-client.toml"
-hash = "41e64ab092e8d3604a2cd2724781a5903796ac6bc7f8599812ea4274d5e8a49f"
+hash = "1526b07f8e0c8bbef18466d22cdec0451d27885b0e9492df85667fa38def12a5"
 
 [[files]]
 file = "config/guideme.toml"
