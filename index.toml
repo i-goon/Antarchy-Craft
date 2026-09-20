@@ -2476,6 +2476,11 @@ hash = "d79646a082c0dce5171e3235211cf48e32e266e923879d98832151671aff7226"
 metafile = true
 
 [[files]]
+file = "mods/compact-machines.pw.toml"
+hash = "dc42384932c78a1ee818af8d8535b51ebd836c6d1f13f3171d9bd83985565f04"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "7e8e576cec680b55f63dce0fd28820741ca841278d4717f28efff189a74cd399"
 metafile = true
@@ -3058,11 +3063,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "768cd7c05dc86ea3c83e2bf8ac612ffff0e7c8aa8d44c9cd246b07509dbb0368"
-metafile = true
-
-[[files]]
-file = "mods/pocket-dimension-1.21.1.pw.toml"
-hash = "343de11ae96db157b3731c8609262691f3dc183241d0fdecb4c440fe66995a76"
 metafile = true
 
 [[files]]
