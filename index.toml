@@ -1797,6 +1797,10 @@ file = "config/industrialforegoingsouls/industrialforegoing-souls-machines.toml"
 hash = "d063761b583b9a2c089ee5bb9ea8144ec864efe79111d40cfc657ad64534ceb3"
 
 [[files]]
+file = "config/infinity/amendments.json"
+hash = "20ea6b23c5cef6fa73eeed65acd5afe89827e033554affa9fae9793b9307521d"
+
+[[files]]
 file = "config/inline/client-config.toml"
 hash = "a3ca1cd7feaa30993414670c67645455658a884aad0f653b5ba937c0a4288581"
 
@@ -2629,11 +2633,6 @@ metafile = true
 [[files]]
 file = "mods/elevatormod.pw.toml"
 hash = "9f68a63f20273c90823eefd08d079333ec096fba1b110b4050783758f511dc1b"
-metafile = true
-
-[[files]]
-file = "mods/elytra-slot.pw.toml"
-hash = "e3a5eab677674d06c9504bdf1b8b95d314df2c73d9baf547ec26c11f3d9e3db9"
 metafile = true
 
 [[files]]

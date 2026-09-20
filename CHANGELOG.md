@@ -2,6 +2,12 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.42] - 2026-09-20
+### Removed
+- Elytra Slot. It crashed the game with an index-out-of-bounds error when a Curios slot count desynced (Relics Hunting Belt grants a charm slot; the parallel slot lists disagreed and the player file would no longer load).
+### Fixed
+- Infinity no longer rolls the Antarchy paralyze effect on random dimensions.
+
 ## [1.0.41] - 2026-09-19
 ### Breaking Changes
 - Loot any old corpse blocks before updating.

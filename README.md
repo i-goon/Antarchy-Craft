@@ -66,7 +66,6 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [Easy Piglins](https://www.curseforge.com/minecraft/mc-mods/easy-piglins) by Max Henkel
 - [Easy Villagers](https://www.curseforge.com/minecraft/mc-mods/easy-villagers) by Max Henkel
 - [ElevatorMod](https://github.com/VsnGamer/ElevatorMod) by VsnGamer
-- [Elytra Slot](https://github.com/illusivesoulworks/elytraslot) by Illusive Soulworks
 - [EnchantmentDescriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) by Darkhax
 - [EnderStorage](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8) by ChickenBones, covers1624
 - [EntityCulling](https://modrinth.com/mod/entityculling) by tr7zw
