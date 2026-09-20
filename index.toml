@@ -2636,11 +2636,6 @@ hash = "9f68a63f20273c90823eefd08d079333ec096fba1b110b4050783758f511dc1b"
 metafile = true
 
 [[files]]
-file = "mods/elytra-slot.pw.toml"
-hash = "e3a5eab677674d06c9504bdf1b8b95d314df2c73d9baf547ec26c11f3d9e3db9"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "99624e162836a6e2cc4abc17d4820f4cf3f82a5f1ecb2e90874185860ad881a5"
 metafile = true

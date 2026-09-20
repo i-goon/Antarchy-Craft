@@ -2,6 +2,10 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [Unreleased]
+### Removed
+- Elytra Slot. It crashed the game with an index-out-of-bounds error when a Curios slot count desynced (Relics Hunting Belt grants a charm slot; the parallel slot lists disagreed and the player file would no longer load). Caelus stays, so flight items keep working.
+
 ## [1.0.41] - 2026-09-19
 ### Breaking Changes
 - Loot any old corpse blocks before updating.
