@@ -1,0 +1,8 @@
+name = "Botany Pots: Antarchy Compat"
+filename = "botanypotsantarchy-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/i-goon/Antarchy-Craft/releases/download/custom-mods/botanypotsantarchy-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "e963cecf6bbf5a392a3f1125f13f4eeec93b694d5cd315b7f042b4d60cd9c60a"

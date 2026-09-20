@@ -2411,6 +2411,11 @@ hash = "b3b432cca12c667c2207606840e5909db59f0b65b441f80a1d7c36592f71131e"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots-antarchy-compat.pw.toml"
+hash = "250c4a579062df0a4322bd85a2459289ef4a22a804d3a637a7fb48501d03cbaa"
+metafile = true
+
+[[files]]
 file = "mods/botany-pots-mystical-agriculture-compat.pw.toml"
 hash = "cf38e7f0d0e82032c08d4ba0e05a88ff2fa5e71a20fe394599231ef17fbca814"
 metafile = true
@@ -2471,6 +2476,11 @@ hash = "d79646a082c0dce5171e3235211cf48e32e266e923879d98832151671aff7226"
 metafile = true
 
 [[files]]
+file = "mods/compact-machines.pw.toml"
+hash = "dc42384932c78a1ee818af8d8535b51ebd836c6d1f13f3171d9bd83985565f04"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "7e8e576cec680b55f63dce0fd28820741ca841278d4717f28efff189a74cd399"
 metafile = true
@@ -2493,6 +2503,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a1c6846800a0302a133e77e454888f86302a60bbfbcc9aafc462dc9260cd847"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "5fbf7d211a1794b58b82536ee48d3eb28a6bd602550dfb489b581a8b47876460"
 metafile = true
 
 [[files]]
@@ -2771,6 +2786,11 @@ hash = "3e3235301398118aea6e69542b94c789ea959cfeec8db05de49d4a1a8d5a53c0"
 metafile = true
 
 [[files]]
+file = "mods/hyperbox.pw.toml"
+hash = "81b625eb40b9f6c968a550573d52e41457f4829e99c5f30c6a367a65602ef7c8"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "9485d5f2aaf1701f89c7ac2f261f69ef1f965ea36f9f1e011c9f8a8de13fe99e"
 metafile = true
@@ -2943,6 +2963,11 @@ metafile = true
 [[files]]
 file = "mods/mifa.pw.toml"
 hash = "a820d27e3fe33ceec34fa6ff7b9da0b9dbaa76eb0fd9fe9dd883c3178b57723c"
+metafile = true
+
+[[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "ed334bd8ff25757d72ac569a854f0a846b786d7704c2c36ebd95c00b97c7a6fe"
 metafile = true
 
 [[files]]
