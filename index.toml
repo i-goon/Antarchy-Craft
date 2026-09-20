@@ -2412,7 +2412,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots-antarchy-compat.pw.toml"
-hash = "ef882e949f4320a3655eb1073b0ea7a27455892a6e10e745bdc9178b6d080075"
+hash = "250c4a579062df0a4322bd85a2459289ef4a22a804d3a637a7fb48501d03cbaa"
 metafile = true
 
 [[files]]
@@ -2503,6 +2503,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a1c6846800a0302a133e77e454888f86302a60bbfbcc9aafc462dc9260cd847"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "5fbf7d211a1794b58b82536ee48d3eb28a6bd602550dfb489b581a8b47876460"
 metafile = true
 
 [[files]]

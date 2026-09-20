@@ -7,7 +7,8 @@ All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is 
 - Mob Grinding Utils, for farming mobs that have no Hostile Neural Network model.
 - Hyperbox. One block holds its own pocket dimension, and the dimension goes with the block if you move it.
 - Compact Machines. A room-sized base or farm that fits in a single block.
-- Botany Pots: Antarchy Compat, so corn grows in Botany Pots and hopper pots.
+- Botany Pots: Antarchy Compat, so corn grows in Botany Pots and hopper pots, plus peach, ouranwood and duplicator trees.
+- Cooking for Blockheads, for the Sink and its infinite water.
 ### Removed
 - Elytra Slot. It crashed the game with an index-out-of-bounds error when a Curios slot count desynced (Relics Hunting Belt grants a charm slot; the parallel slot lists disagreed and the player file would no longer load).
 ### Fixed
