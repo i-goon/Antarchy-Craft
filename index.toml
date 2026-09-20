@@ -1797,6 +1797,10 @@ file = "config/industrialforegoingsouls/industrialforegoing-souls-machines.toml"
 hash = "d063761b583b9a2c089ee5bb9ea8144ec864efe79111d40cfc657ad64534ceb3"
 
 [[files]]
+file = "config/infinity/amendments.json"
+hash = "20ea6b23c5cef6fa73eeed65acd5afe89827e033554affa9fae9793b9307521d"
+
+[[files]]
 file = "config/inline/client-config.toml"
 hash = "a3ca1cd7feaa30993414670c67645455658a884aad0f653b5ba937c0a4288581"
 
