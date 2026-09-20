@@ -2411,6 +2411,11 @@ hash = "b3b432cca12c667c2207606840e5909db59f0b65b441f80a1d7c36592f71131e"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots-antarchy-compat.pw.toml"
+hash = "26537fb84724251ab3edea8bba111b39975419408cc36297ad9e28977341016f"
+metafile = true
+
+[[files]]
 file = "mods/botany-pots-mystical-agriculture-compat.pw.toml"
 hash = "cf38e7f0d0e82032c08d4ba0e05a88ff2fa5e71a20fe394599231ef17fbca814"
 metafile = true
@@ -2771,6 +2776,11 @@ hash = "3e3235301398118aea6e69542b94c789ea959cfeec8db05de49d4a1a8d5a53c0"
 metafile = true
 
 [[files]]
+file = "mods/hyperbox.pw.toml"
+hash = "81b625eb40b9f6c968a550573d52e41457f4829e99c5f30c6a367a65602ef7c8"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "9485d5f2aaf1701f89c7ac2f261f69ef1f965ea36f9f1e011c9f8a8de13fe99e"
 metafile = true
@@ -3048,6 +3058,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "768cd7c05dc86ea3c83e2bf8ac612ffff0e7c8aa8d44c9cd246b07509dbb0368"
+metafile = true
+
+[[files]]
+file = "mods/pocket-dimension-1.21.1.pw.toml"
+hash = "343de11ae96db157b3731c8609262691f3dc183241d0fdecb4c440fe66995a76"
 metafile = true
 
 [[files]]
