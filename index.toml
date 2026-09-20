@@ -2412,7 +2412,7 @@ metafile = true
 
 [[files]]
 file = "mods/botany-pots-antarchy-compat.pw.toml"
-hash = "26537fb84724251ab3edea8bba111b39975419408cc36297ad9e28977341016f"
+hash = "ef882e949f4320a3655eb1073b0ea7a27455892a6e10e745bdc9178b6d080075"
 metafile = true
 
 [[files]]
