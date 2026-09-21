@@ -6,7 +6,6 @@ All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is 
 ### Added
 - Mob Grinding Utils, for farming mobs that have no Hostile Neural Network model.
 - Hyperbox. One block holds its own pocket dimension, and the dimension goes with the block if you move it.
-- Compact Machines. A room-sized base or farm that fits in a single block.
 - Botany Pots: Antarchy Compat, so corn grows in Botany Pots and hopper pots, plus peach, ouranwood and duplicator trees.
 - Cooking for Blockheads, for the Sink and its infinite water.
 
