@@ -1,4 +1,28 @@
 #List of slots to create or modify.
 #See documentation for syntax: https://docs.illusivesoulworks.com/curios/configuration#slot-configuration
 #
-slots = []
+#Antarchy Craft pins every slot type here on purpose. This list overrides the slot definitions
+#shipped by mods, so a slot's real size and its cosmetic counterpart can never disagree, which is
+#what crashed Artifacts' arm renderer (and Elytra Slot before it). Sizes are the largest any mod in
+#the pack intended, so nothing is reduced.
+slots = [
+  "id=an_focus;size=1;operation=SET;order=1;icon=curios:slot/empty_curio_slot",
+  "id=back;size=2;operation=SET;order=80;icon=curios:slot/empty_back_slot;add_cosmetic=true",
+  "id=belt;size=2;operation=SET;order=180;icon=curios:slot/empty_belt_slot;add_cosmetic=true",
+  "id=body;size=1;operation=SET;order=100;icon=curios:slot/empty_body_slot",
+  "id=bracelet;size=2;operation=SET;order=120;icon=curios:slot/empty_bracelet_slot",
+  "id=charm;size=4;operation=SET;order=200;icon=curios:slot/empty_charm_slot",
+  "id=curio;size=2;operation=SET;order=20;icon=curios:slot/empty_curio_slot",
+  "id=deep_learner;size=1;operation=SET;icon=hostilenetworks:item/empty_learner_slot;render_toggle=false",
+  "id=feet;size=2;operation=SET;order=190;icon=artifacts:slot/feet;add_cosmetic=true",
+  "id=hands;size=2;operation=SET;order=140;icon=curios:slot/empty_hands_slot;add_cosmetic=true",
+  "id=head;size=2;operation=SET;order=40;icon=curios:slot/empty_head_slot;add_cosmetic=true",
+  "id=klein_star;size=1;operation=SET;icon=projecte:curios/empty_klein_star",
+  "id=necklace;size=1;operation=SET;order=60;icon=curios:slot/empty_necklace_slot;add_cosmetic=true",
+  "id=psd;size=1;operation=SET;icon=compactmachines:slot/empty_psd",
+  "id=quiver;size=2;operation=SET;icon=curios:slot/quiver",
+  "id=ring;size=4;operation=SET;order=160;icon=curios:slot/empty_ring_slot",
+  "id=rings;size=2;operation=SET;order=110;icon=cataclysm:item/empty_ring_slot",
+  "id=talisman;size=0;operation=SET;order=180;icon=cataclysm:item/empty_talisman_slot",
+  "id=waist;size=1;operation=SET;order=170;icon=cataclysm:item/empty_waist_slot",
+]
