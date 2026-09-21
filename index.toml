@@ -1801,6 +1801,10 @@ file = "config/infinity/amendments.json"
 hash = "20ea6b23c5cef6fa73eeed65acd5afe89827e033554affa9fae9793b9307521d"
 
 [[files]]
+file = "config/infinity/modular/relics/items.json"
+hash = "6360b069da9351770d52804fb237f35bc5e599e165650fce485850b84b861279"
+
+[[files]]
 file = "config/inline/client-config.toml"
 hash = "a3ca1cd7feaa30993414670c67645455658a884aad0f653b5ba937c0a4288581"
 
