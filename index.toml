@@ -1530,7 +1530,7 @@ hash = "f1e31eed2ff11e1c6eda6517dc8b24dabd5b752ba1f8a3503c5ce750af1fc7b4"
 
 [[files]]
 file = "config/curios-common.toml"
-hash = "16c71790deac2bbdea0099e39cdf8eb47b3dd7ef6337b69ba9fce793a1bf9674"
+hash = "3c9d162d5c686bac5cb4479acb3efc0d58425ffc234b36731d75d64ae931b577"
 
 [[files]]
 file = "config/curios-server.toml"
@@ -1799,6 +1799,10 @@ hash = "d063761b583b9a2c089ee5bb9ea8144ec864efe79111d40cfc657ad64534ceb3"
 [[files]]
 file = "config/infinity/amendments.json"
 hash = "20ea6b23c5cef6fa73eeed65acd5afe89827e033554affa9fae9793b9307521d"
+
+[[files]]
+file = "config/infinity/modular/relics/items.json"
+hash = "6360b069da9351770d52804fb237f35bc5e599e165650fce485850b84b861279"
 
 [[files]]
 file = "config/inline/client-config.toml"
@@ -2357,7 +2361,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "66229b1f7491add697cf741db5a2cf0ef473e737c947306775bfcd4314a608b4"
+hash = "4fac0651100ce06ce34bf5ef95b644a9dcad7d811e7edd7719476cd205601ce6"
 metafile = true
 
 [[files]]
@@ -2408,6 +2412,11 @@ metafile = true
 [[files]]
 file = "mods/borninchaos.pw.toml"
 hash = "b3b432cca12c667c2207606840e5909db59f0b65b441f80a1d7c36592f71131e"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots-antarchy-compat.pw.toml"
+hash = "250c4a579062df0a4322bd85a2459289ef4a22a804d3a637a7fb48501d03cbaa"
 metafile = true
 
 [[files]]
@@ -2493,6 +2502,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a1c6846800a0302a133e77e454888f86302a60bbfbcc9aafc462dc9260cd847"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "5fbf7d211a1794b58b82536ee48d3eb28a6bd602550dfb489b581a8b47876460"
 metafile = true
 
 [[files]]
@@ -2771,6 +2785,11 @@ hash = "3e3235301398118aea6e69542b94c789ea959cfeec8db05de49d4a1a8d5a53c0"
 metafile = true
 
 [[files]]
+file = "mods/hyperbox.pw.toml"
+hash = "81b625eb40b9f6c968a550573d52e41457f4829e99c5f30c6a367a65602ef7c8"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "9485d5f2aaf1701f89c7ac2f261f69ef1f965ea36f9f1e011c9f8a8de13fe99e"
 metafile = true
@@ -2943,6 +2962,11 @@ metafile = true
 [[files]]
 file = "mods/mifa.pw.toml"
 hash = "a820d27e3fe33ceec34fa6ff7b9da0b9dbaa76eb0fd9fe9dd883c3178b57723c"
+metafile = true
+
+[[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "ed334bd8ff25757d72ac569a854f0a846b786d7704c2c36ebd95c00b97c7a6fe"
 metafile = true
 
 [[files]]

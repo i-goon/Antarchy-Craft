@@ -1,4 +1,7 @@
 #List of slots to create or modify.
 #See documentation for syntax: https://docs.illusivesoulworks.com/curios/configuration#slot-configuration
 #
+#Left empty. Attempts to adjust the charm slot here (both "SET 7" and "ADD 1") made Curios build an
+#inconsistent layout and threw "Slot 6 not in valid range" during player placement, even with no
+#saved Curios data to restore. Do not put entries back without testing a fresh world first.
 slots = []
