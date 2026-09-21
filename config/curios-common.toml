@@ -1,11 +1,9 @@
 #List of slots to create or modify.
 #See documentation for syntax: https://docs.illusivesoulworks.com/curios/configuration#slot-configuration
 #
-#Antarchy Craft pins the charm slot size only. Existing worlds were saved with a 7 wide charm
-#handler (6 base plus a Relics item bonus), while the current mod set builds it at 6, so Curios
-#restores 7 slots of saved data into a 6 slot handler and refuses the player ("Slot 6 not in valid
-#range"). Setting the size explicitly makes the handler 7 wide again. Do NOT add add_cosmetic here:
-#that creates a separate cosmetic handler at the base size and reintroduces the same mismatch.
+#Existing Antarchy Craft worlds stored charm as 7 wide (6 base plus a Relics item bonus) while the
+#current mod set builds the base at 6, and Curios restores the saved width into a base-sized handler
+#and refuses the player. Adding a slot raises the base back to 7 to match those saves.
 slots = [
-  "id=charm;size=7;operation=SET",
+  "id=charm;size=1;operation=ADD",
 ]
