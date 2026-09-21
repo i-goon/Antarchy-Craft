@@ -2357,7 +2357,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "66229b1f7491add697cf741db5a2cf0ef473e737c947306775bfcd4314a608b4"
+hash = "4fac0651100ce06ce34bf5ef95b644a9dcad7d811e7edd7719476cd205601ce6"
 metafile = true
 
 [[files]]
