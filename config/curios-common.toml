@@ -11,7 +11,7 @@ slots = [
   "id=belt;size=2;operation=SET;order=180;icon=curios:slot/empty_belt_slot;add_cosmetic=true",
   "id=body;size=1;operation=SET;order=100;icon=curios:slot/empty_body_slot",
   "id=bracelet;size=2;operation=SET;order=120;icon=curios:slot/empty_bracelet_slot",
-  "id=charm;size=4;operation=SET;order=200;icon=curios:slot/empty_charm_slot",
+  "id=charm;size=7;operation=SET;order=200;icon=curios:slot/empty_charm_slot;add_cosmetic=true",
   "id=curio;size=2;operation=SET;order=20;icon=curios:slot/empty_curio_slot",
   "id=deep_learner;size=1;operation=SET;icon=hostilenetworks:item/empty_learner_slot;render_toggle=false",
   "id=feet;size=2;operation=SET;order=190;icon=artifacts:slot/feet;add_cosmetic=true",

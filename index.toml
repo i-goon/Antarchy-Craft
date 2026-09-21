@@ -1530,7 +1530,7 @@ hash = "f1e31eed2ff11e1c6eda6517dc8b24dabd5b752ba1f8a3503c5ce750af1fc7b4"
 
 [[files]]
 file = "config/curios-common.toml"
-hash = "60a616cff75fb09d7d02a1ed71faae1ffa22383c3e0059993ea6e050bcb2a1d0"
+hash = "f62e204187cb85604d6cb184cc12b3e3da2f6f172207df8df9ebc95718c66f54"
 
 [[files]]
 file = "config/curios-server.toml"
