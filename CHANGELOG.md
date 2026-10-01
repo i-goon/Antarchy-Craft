@@ -3,33 +3,34 @@
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
 ## [1.0.43] - 2026-10-01
+The King and Queen have arrived. Antarchy's La Peace update brings two royal bosses, a whole upside-down world beneath Thoraxis, and a computer that tells you where every boss lives. And by player request: pets that live in your inventory.
+
 ### Breaking Changes
 - Back up your world before updating.
-- Antarchy 2.0 renamed five mobs: Cloud Shark is now Stratoshark, Jumpy Bug is Springbug, Triffid is Flytrap, Creeping Horror is Crawling Blight, and Lurking Terror is Skulking Fright.
-- Your old drops, spawn eggs and mobs carry over under the new names.
-- Vortex Eyes were removed from Antarchy and will disappear from existing worlds.
-- Big Bertha quest progress resets one last time, then stays put in future updates.
+- Five Antarchy mobs have new names: Cloud Shark is now Stratoshark, Jumpy Bug is Springbug, Triffid is Flytrap, Creeping Horror is Crawling Blight, and Lurking Terror is Skulking Fright. Their drops and spawn eggs carry over.
+- Vortex Eyes are gone from Antarchy and will vanish from existing worlds.
+- Big Bertha quest progress resets one last time.
+
 ### Added
-- Antarchy 2.1.1, the La Peace update: the King and Queen bosses, the Thoraxis Underside, and the AntOS Computer.
-- Inventory Pets, a player request. Pets ride along in your inventory and lend you their powers.
-- An Inventory Pets quest chapter, with a ring for each pet family and collection milestones along the top.
-- Boss quests for the King and Queen, and taming quests for the Prince, Princess and Hercules Beetle.
-- A Boss Records quest that points you to the AntOS Computer, where boss disks show where each boss lives.
+- The King waits in his giant tree in Elythia. Break one of his Decrees and your hearts are halved.
+- The Queen rules the Underside of Thoraxis with black holes and bent gravity.
+- Each royal drops an egg that hatches into a Prince or Princess you can raise into a flying mount.
+- The AntOS Computer reads floppy disks that tell you where each boss lives.
+- Inventory Pets: dozens of pets that ride in your inventory and give you powers, with their own quest chapter.
 - Mob Grinding Utils, for farming mobs that have no Hostile Neural Network model.
-- Hyperbox. One block holds its own pocket dimension, and the dimension goes with the block if you move it.
-- Botany Pots: Antarchy Compat, so corn grows in Botany Pots and hopper pots, plus peach, ouranwood and duplicator trees.
+- Hyperbox: one block holds its own pocket dimension and takes it along when you move it.
 - Cooking for Blockheads, for the Sink and its infinite water.
+- Corn, peach, ouranwood and duplicator trees now grow in Botany Pots.
+
 ### Changed
-- Antarchy chapters now open the quest book: Bosses, then Big Bertha, then Inventory Pets.
-- The Bosses chapter is grouped by dimension, with The End and the Explorer's Compass up top for finding boss lairs.
-- The Alpha Mantis quest moved to Elythia, where it guards the Ruined Arena.
-- Refined Storage, Applied Energistics 2 and Basic Logistics quests are laid out cleanly, with every quest linked to its starting quest.
-- AntOS, Infinite Dimensions 2.7.3 and Integrated API 1.8.2 come along, since Antarchy 2.1.1 needs them.
+- The quest book opens with Antarchy: Bosses, Big Bertha, then Inventory Pets.
+- Boss quests are sorted by dimension, with new King, Queen and taming quests.
+- Boss quests point you to the Explorer's Compass for finding lairs.
+- Refined Storage, Applied Energistics 2 and Basic Logistics quests are easier to follow.
+
 ### Fixed
-- Antarchy 2.1.1 fixes the dedicated server crash.
-- Quests for the renamed Antarchy mobs and drops point at the new names.
-- Big Bertha quests no longer lose their progress when the pack updates.
-- Refined Storage now has quests for Cable, External Storage, Interface, Pattern Grid and Autocrafter.
+- Big Bertha quests keep their progress through future updates.
+- Quests for the renamed mobs point at their new names.
 
 ## [1.0.42] - 2026-09-20
 ### Removed
