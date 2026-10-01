@@ -5,12 +5,6 @@ All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is 
 ## [1.0.43] - 2026-10-01
 The King and Queen have arrived. Antarchy's La Peace update brings two royal bosses, the Underside, a vast new region beneath Thoraxis, and a computer that tells you where every boss lives. Plus pets that live in your inventory.
 
-### Breaking Changes
-- Back up your world before updating.
-- Five Antarchy mobs have new names: Cloud Shark is now Stratoshark, Jumpy Bug is Springbug, Triffid is Flytrap, Creeping Horror is Crawling Blight, and Lurking Terror is Skulking Fright. Their drops and spawn eggs carry over.
-- Vortex Eyes are gone from Antarchy and will vanish from existing worlds.
-- Big Bertha quest progress resets one last time.
-
 ### Added
 - The King waits in his giant tree in Elythia. Break one of his Decrees and your hearts are halved.
 - The Queen rules the Underside of Thoraxis with black holes and bent gravity.
@@ -31,6 +25,12 @@ The King and Queen have arrived. Antarchy's La Peace update brings two royal bos
 ### Fixed
 - Big Bertha quests keep their progress through future updates.
 - Quests for the renamed mobs point at their new names.
+
+### Before You Update
+- Consider backing up your world first.
+- Five Antarchy mobs have new names: Cloud Shark is now Stratoshark, Jumpy Bug is Springbug, Triffid is Flytrap, Creeping Horror is Crawling Blight, and Lurking Terror is Skulking Fright.
+- Our own fix carries your old drops, spawn eggs and mobs over under their new names.
+- Big Bertha quest progress resets once, since its quests now use the new drops.
 
 ## [1.0.42] - 2026-09-20
 ### Removed
