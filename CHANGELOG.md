@@ -28,6 +28,7 @@ Consider backing up your world before updating.
 - Async. It could freeze a server when a player teleported into new terrain.
 
 ### Fixed
+- Visiting a King's Tree no longer freezes the server while the tree generates.
 - Big Bertha quests keep their progress through future updates.
 - Quests for the renamed mobs point at their new names.
 

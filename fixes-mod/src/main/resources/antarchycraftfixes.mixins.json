@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.antarchycraft.fixes.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "KingsTreeGridFeatureMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

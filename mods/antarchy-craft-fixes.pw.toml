@@ -1,0 +1,8 @@
+name = "Antarchy Craft Fixes"
+filename = "antarchy-craft-fixes-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/i-goon/Antarchy-Craft/releases/download/custom-mods/antarchy-craft-fixes-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha256"
+hash = "0461dba6d4ab73d5777e181636af29c62c0b5e02ce9a4af51182cfc9553ec769"

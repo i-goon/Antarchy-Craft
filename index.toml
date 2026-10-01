@@ -2336,6 +2336,11 @@ hash = "29691feaa641b17892c10a9e7228c34bade1a83895ef7d85227b1be8d585c87d"
 metafile = true
 
 [[files]]
+file = "mods/antarchy-craft-fixes.pw.toml"
+hash = "5a7fa0e6847d501170353c66f8cfd17a77e58a0c11db89b1b181549f3e8057a0"
+metafile = true
+
+[[files]]
 file = "mods/antarchy.pw.toml"
 hash = "ea412d568de3cab98b2ad583a010f9494b38a56242d676b87d14c3fbb154cf37"
 metafile = true
