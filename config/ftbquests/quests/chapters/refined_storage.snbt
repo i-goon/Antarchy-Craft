@@ -8,7 +8,7 @@
 	}
 	id: "2F000EDEA316675B"
 	images: [ ]
-	order_index: 4
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
@@ -32,7 +32,7 @@
 				item: { count: 1, id: "refinedstorage:controller" }
 				type: "item"
 			}]
-			x: 2.5d
+			x: 6.125d
 			y: 0.0d
 		}
 		{
@@ -52,7 +52,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 2.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["337319A85472B250"]
@@ -70,10 +70,11 @@
 				item: { count: 1, id: "refinedstorage:grid" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 2.0d
+			x: 1.75d
+			y: 2.5d
 		}
 		{
+			dependencies: ["6C57084B75B0A422"]
 			icon: {
 				id: "refinedstorage:crafting_grid"
 			}
@@ -88,10 +89,11 @@
 				item: { count: 1, id: "refinedstorage:crafting_grid" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 2.0d
+			x: 1.75d
+			y: 4.0d
 		}
 		{
+			dependencies: ["77F2BF66E570A12A"]
 			icon: {
 				id: "refinedstorage:1k_storage_disk"
 			}
@@ -113,6 +115,7 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["4D7B3F935FEBA2AB"]
 			icon: {
 				id: "refinedstorage:4k_storage_disk"
 			}
@@ -127,8 +130,8 @@
 				item: { count: 1, id: "refinedstorage:4k_storage_disk" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 4.0d
+			x: 0.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["337319A85472B250"]
@@ -146,8 +149,8 @@
 				item: { count: 1, id: "refinedstorage:importer" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 4.0d
+			x: 7.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["337319A85472B250"]
@@ -165,8 +168,8 @@
 				item: { count: 1, id: "refinedstorage:exporter" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: 4.0d
+			x: 8.75d
+			y: 2.5d
 		}
 		{
 			dependencies: ["337319A85472B250"]
@@ -184,8 +187,8 @@
 				item: { count: 1, id: "refinedstorage:destructor" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 6.0d
+			x: 10.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["337319A85472B250"]
@@ -203,8 +206,8 @@
 				item: { count: 1, id: "refinedstorage:constructor" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: 6.0d
+			x: 12.25d
+			y: 2.5d
 		}
 		{
 			icon: {
@@ -220,8 +223,8 @@
 				id: "1E26C9CBCC1955C2"
 				type: "checkmark"
 			}]
-			x: 2.5d
-			y: -1.5d
+			x: 6.125d
+			y: -1.75d
 		}
 		{
 			dependencies: ["663C8E631F2869C5"]
@@ -239,10 +242,11 @@
 				item: { count: 1, id: "refinedstorage:16k_storage_disk" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 5.5d
+			x: 0.0d
+			y: 7.0d
 		}
 		{
+			dependencies: ["628115E311C3BE81"]
 			icon: {
 				id: "refinedstorage:64k_storage_disk"
 			}
@@ -257,7 +261,105 @@
 				item: { count: 1, id: "refinedstorage:64k_storage_disk" }
 				type: "item"
 			}]
-			x: 2.5d
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["337319A85472B250"]
+			icon: {
+				id: "refinedstorage:cable"
+			}
+			id: "4CB8BC45DA301142"
+			rewards: [{
+				id: "24A187F9698994EF"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1EE62AE38146C77A"
+				item: { count: 1, id: "refinedstorage:cable" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["337319A85472B250"]
+			icon: {
+				id: "refinedstorage:external_storage"
+			}
+			id: "11147A9A0BF6BC26"
+			rewards: [{
+				id: "0912B8E383D833A9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3D54858613DDCD49"
+				item: { count: 1, id: "refinedstorage:external_storage" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"147DAAAA0ADF3C20"
+				"7DA5527429294D17"
+			]
+			icon: {
+				id: "refinedstorage:interface"
+			}
+			id: "4F5AB6B08B90C26B"
+			rewards: [{
+				id: "5FF84D8ABFBB174B"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "700FDB1C5E85D8B3"
+				item: { count: 1, id: "refinedstorage:interface" }
+				type: "item"
+			}]
+			x: 7.875d
+			y: 4.0d
+		}
+		{
+			dependencies: ["75FB1CD196158F95"]
+			icon: {
+				id: "refinedstorage:pattern_grid"
+			}
+			id: "4CCEAB12A6AD72FA"
+			rewards: [{
+				id: "504CDC083DD42D9F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "74F47996AED5CE80"
+				item: { count: 1, id: "refinedstorage:pattern_grid" }
+				type: "item"
+			}]
+			x: 1.75d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4CCEAB12A6AD72FA"]
+			icon: {
+				id: "refinedstorage:autocrafter"
+			}
+			id: "4401780EB32024FE"
+			rewards: [{
+				id: "6C58BCA5BC731DD6"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "37A6333E4E409AF2"
+				item: { count: 1, id: "refinedstorage:autocrafter" }
+				type: "item"
+			}]
+			x: 1.75d
 			y: 7.0d
 		}
 	]

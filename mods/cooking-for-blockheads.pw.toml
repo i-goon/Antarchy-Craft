@@ -1,0 +1,17 @@
+name = "Cooking for Blockheads"
+filename = "cookingforblockheads-neoforge-1.21.1-21.1.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vJnhuDde/versions/MQCIy6VF/cookingforblockheads-neoforge-1.21.1-21.1.24.jar"
+hash-format = "sha512"
+hash = "bec8bb71b9540fd33bd4e5d1e5f151abc03c4fb97f1477f690d222c9710eabed876e5b2380a37bfdbc24649e1f66d8c963f13e6e738a336e9a0fdc88012d8447"
+
+[update]
+[update.modrinth]
+mod-id = "vJnhuDde"
+version = "MQCIy6VF"
+
+[update.curseforge]
+file-id = 8404453
+project-id = 231484

@@ -1,0 +1,100 @@
+{
+  "elements": [
+    {
+      "weight": 1.0,
+      "key": "relics:chef_hat"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:chorus_staff"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:clot_of_time"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:cooked_meatball"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:cut_glass_boot"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:experience_disperser"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:ghostly_mantle"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:glitchy_mantle"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:golden_tooth"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:jellyfish_necklace"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:kinetic_belt"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:leafy_mantle"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:midnight_mantle"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:pet_bone"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:piglin_mask"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:raw_meatball"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:reflective_necklace"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:relic_experience_bottle"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:rider_flute"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:ring_of_the_seven_deadly_sins"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:roller_skate"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:shield_of_retaliation"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:sphere_of_self_sacrifice"
+    },
+    {
+      "weight": 1.0,
+      "key": "relics:springy_boot"
+    }
+  ]
+}

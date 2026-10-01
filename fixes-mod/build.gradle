@@ -1,0 +1,28 @@
+plugins {
+    id "java-library"
+    id "net.neoforged.moddev" version "2.0.148"
+}
+
+version = mod_version
+group = mod_group_id
+base { archivesName = "antarchy-craft-fixes-neoforge-${minecraft_version}" }
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+neoForge {
+    version = neo_version
+    mods {
+        "${mod_id}" { sourceSet(sourceSets.main) }
+    }
+}
+
+dependencies {
+    // The official Antarchy jar, only to compile the mixin against. It is never bundled.
+    compileOnly files("libs/antarchy-2.1.1+1.21.1-neoforge.jar")
+}
+
+tasks.withType(ProcessResources).configureEach {
+    def props = [mod_id: mod_id, mod_name: mod_name, mod_version: mod_version]
+    inputs.properties props
+    filesMatching("META-INF/neoforge.mods.toml") { expand props }
+}

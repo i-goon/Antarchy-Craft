@@ -2,6 +2,39 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.43] - 2026-10-02
+The King and Queen have arrived. Antarchy's La Peace update brings two royal bosses, the Underside, a vast new region beneath Thoraxis, and a computer that tells you where every boss lives. Plus pets that live in your inventory.
+
+Consider backing up your world before updating.
+
+### Added
+- The King waits in his giant tree in Elythia. Break one of his Decrees and your hearts are halved.
+- The Queen rules the Underside of Thoraxis with black holes and bent gravity.
+- Each royal drops an egg that hatches into a Prince or Princess you can raise into a flying mount.
+- The AntOS Computer reads floppy disks that tell you where each boss lives.
+- Inventory Pets: dozens of pets that ride in your inventory and give you powers, with their own quest chapter.
+- Mob Grinding Utils, for farming mobs that have no Hostile Neural Network model.
+- Hyperbox: one block holds its own pocket dimension and takes it along when you move it.
+- Cooking for Blockheads, for the Sink and its infinite water.
+- Corn, peach, ouranwood and duplicator trees now grow in Botany Pots.
+
+### Changed
+- The quest book opens with Antarchy: Bosses, Big Bertha, then Inventory Pets.
+- Boss quests are sorted by dimension, with new King, Queen and taming quests.
+- Boss quests point you to the Explorer's Compass for finding lairs.
+- Refined Storage, Applied Energistics 2 and Basic Logistics quests are easier to follow.
+
+### Removed
+- Async, which could freeze a server while new terrain generated.
+
+### Fixed
+- Big Bertha quests keep their progress through future updates.
+
+### Good to Know
+- Five Antarchy mobs have new names: Cloud Shark is now Stratoshark, Jumpy Bug is Springbug, Triffid is Flytrap, Creeping Horror is Crawling Blight, and Lurking Terror is Skulking Fright.
+- Our own fix carries your old drops, spawn eggs and mobs over under their new names.
+- Big Bertha quest progress resets once, since its quests now use the new drops.
+
 ## [1.0.42] - 2026-09-20
 ### Removed
 - Elytra Slot. It crashed the game with an index-out-of-bounds error when a Curios slot count desynced (Relics Hunting Belt grants a charm slot; the parallel slot lists disagreed and the player file would no longer load).

@@ -1,4 +1,5 @@
 {
+	chapter.03704C221C73A326.title: "Inventory Pets"
 	chapter.16B34C63AD765C1B.title: "Big Bertha"
 	chapter.2DFF14BD26BA8FA4.title: "Basic Storage"
 	chapter.2F000EDEA316675B.title: "Refined Storage"
@@ -18,10 +19,12 @@
 	quest.0285038935065C2E.title: "Diamond Chest"
 	quest.02C09C3B97D80D17.quest_desc: ["Carries gases, infusion types, slurries and pigments, everything the other three cannot.", "If it comes out of a Mekanism machine and has no bucket, it probably goes here."]
 	quest.02C09C3B97D80D17.title: "Pressurized Tubes"
+	quest.034859012442BDB1.quest_desc: ["Collect every one of the utility pets around this quest."]
+	quest.034859012442BDB1.title: "Utility Pets"
 	quest.03C5C48510630644.quest_desc: ["Pulls matching items out of the facing inventory into the router.", "Pair a puller on the source with a sender on the target and the route runs itself."]
 	quest.03C5C48510630644.title: "Puller Module"
-	quest.041794122D484661.quest_desc: ["Dropped by the Jumpy Bug."]
-	quest.041794122D484661.title: "Jumpy Bug Leg"
+	quest.041794122D484661.quest_desc: ["Dropped by the Springbug."]
+	quest.041794122D484661.title: "Springbug Leg"
 	quest.0438E6DA6F4D3F5A.quest_desc: ["Channel-based digital storage for very large networks.", "The controller is the heart; give it power and room to grow."]
 	quest.0438E6DA6F4D3F5A.title: "Applied Energistics 2"
 	quest.0462A21DD17BB720.quest_desc: ["Sixteen times the 1k cell.", "Cells upgrade in the crafting grid."]
@@ -32,6 +35,8 @@
 	quest.04DA3A8507BEDB99.title: "Sophisticated Storage"
 	quest.0592D3DABACD0CE6.quest_desc: ["Dropped by the Lucid.", "You will need a second one later for the Gravity Gun!"]
 	quest.0592D3DABACD0CE6.title: "Eye of Dreams"
+	quest.05FBD6E845323EA0.quest_desc: ["Collect 5 different pets."]
+	quest.05FBD6E845323EA0.title: "Pet Beginner"
 	quest.0604BD805637B627.quest_desc: ["Chutes drop items straight down, faster with each block.", "Smart chutes pull from inventories and filter on the way."]
 	quest.0604BD805637B627.title: "Chutes"
 	quest.08891A0092241756.quest_desc: ["Deep pockets."]
@@ -42,9 +47,15 @@
 	quest.099EEF71849D646F.title: "Kill the Lucid"
 	quest.09B79B6479AE9F31.quest_desc: ["Places blocks from the disks into the world.", "Builders love it more."]
 	quest.09B79B6479AE9F31.title: "Constructor"
+	quest.09D0FEC1B1CFEF03.quest_desc: ["Smelts the first smeltable item in your hotbar."]
+	quest.09D0FEC1B1CFEF03.title: "Furnace Pet"
+	quest.0A0F0008E0D1CC79.quest_desc: ["Damage you deal heals you, and it fires wither skulls."]
+	quest.0A0F0008E0D1CC79.title: "Wither Pet"
+	quest.0B926C1EBC72C321.quest_desc: ["Bonemeals crops and fills empty bowls with mushroom stew."]
+	quest.0B926C1EBC72C321.title: "Mooshroom Pet"
 	quest.0BA163F30788EA2E.quest_desc: ["Feeds Forge power into the ME network.", "One per network is usually enough."]
 	quest.0BA163F30788EA2E.title: "Energy Acceptor"
-	quest.0BE25B9BEA5F1E7E.quest_desc: ["A rare sight among the Overworld's mantises.", "Its claw feeds the Big Bertha weapon line."]
+	quest.0BE25B9BEA5F1E7E.quest_desc: ["It guards the Ruined Arena in Elythia's meadows and Truffalo Forest.", "A few also turn up among Overworld mantises.", "Its claw feeds the Big Bertha weapon line."]
 	quest.0BE25B9BEA5F1E7E.title: "Kill the Alpha Mantis"
 	quest.0C1AFCCD54FA31AA.quest_desc: ["Funnels pull from inventories above and push into belts and chutes.", "Brass funnels filter too. Point the spout where things should go."]
 	quest.0C1AFCCD54FA31AA.title: "Funnels"
@@ -78,8 +89,16 @@
 	quest.1077E6D8B10D7B23.title: "Universal Cables"
 	quest.10845E332C012581.quest_desc: ["It forms the core of Big Bertha's blade."]
 	quest.10845E332C012581.title: "The Ultimate Sword"
+	quest.11147A9A0BF6BC26.quest_desc: ["Put it on a chest, barrel or drawer and the network reads what is inside.", "Your old storage joins the network without moving a thing."]
+	quest.11147A9A0BF6BC26.title: "External Storage"
+	quest.11A8FAFA9EAA3CD7.quest_desc: ["Shoots fireballs."]
+	quest.11A8FAFA9EAA3CD7.title: "Ghast Pet"
+	quest.11CB8DC2DE20DF89.quest_desc: ["Collect every one of the special pets around this quest."]
+	quest.11CB8DC2DE20DF89.title: "Special Pets"
 	quest.13C330FC9C38F2CF.quest_desc: ["Beyond the stronghold portal."]
 	quest.13C330FC9C38F2CF.title: "The End"
+	quest.1478123C2F7C4BC4.quest_desc: ["Plays music discs from your inventory, and can skip or stop them."]
+	quest.1478123C2F7C4BC4.title: "Jukebox Pet"
 	quest.147DAAAA0ADF3C20.quest_desc: ["Sucks external inventories into the disks.", "Point the arrow into your storage."]
 	quest.147DAAAA0ADF3C20.title: "Importer"
 	quest.15D0F21CED8A5AD4.quest_desc: ["The biggest pockets in the pack."]
@@ -96,59 +115,105 @@
 	quest.183A58E73DF7E824.title: "64k Storage Disk"
 	quest.18CFBA29FFFD9BF3.quest_desc: ["Filters transporter lines by single item with color routing.", "Place it on the line, pick the item, pick the color, done."]
 	quest.18CFBA29FFFD9BF3.title: "Logistical Sorter"
+	quest.196602572F217A3D.quest_desc: ["Collect 40 different pets."]
+	quest.196602572F217A3D.title: "Pet Expert"
 	quest.1AE19A64C250F3FA.quest_desc: ["Voids overflow instead of clogging the line. Essential on farms that never sleep."]
 	quest.1AE19A64C250F3FA.title: "Void Upgrade"
 	quest.1B539940DB8018D6.quest_desc: ["Breaks world blocks straight into the disks.", "Quarries love it."]
 	quest.1B539940DB8018D6.title: "Destructor"
+	quest.1CEC818DF0EE4222.quest_desc: ["Right-click to open a portable chest."]
+	quest.1CEC818DF0EE4222.title: "Chest Pet"
 	quest.1D2BC6C9E7FCD9DD.quest_desc: ["Dropped by the Basilisk."]
 	quest.1D2BC6C9E7FCD9DD.title: "Basilisk Fang"
 	quest.1DE3FC52AC8A0FDB.quest_desc: ["Both chapters store everything digitally, and nothing stops you running both.", "Refined Storage is the beginner-friendly start: no channels, simpler autocrafting.", "AE2 scales further for later, at real complexity cost."]
 	quest.1DE3FC52AC8A0FDB.title: "Refined or AE2?"
+	quest.1E2CD94571F3157A.quest_desc: ["Slowly repairs damaged items in your inventory.", "Can summon a living anvil."]
+	quest.1E2CD94571F3157A.title: "Anvil Pet"
 	quest.1E9CB2FC2EB81A66.quest_desc: ["More room for activities."]
 	quest.1E9CB2FC2EB81A66.title: "Gold Chest"
+	quest.202AF58F0D836F49.quest_desc: ["Fast flight, slow descent and lightning strikes."]
+	quest.202AF58F0D836F49.title: "Cloud Pet"
 	quest.20536A6C1E21C77A.quest_desc: ["Cane or honey bottles, your choice.", "Rainbow Sugar builds on plain sugar."]
 	quest.20536A6C1E21C77A.title: "Sugar"
+	quest.20A4643BD1004B56.quest_desc: ["Collect every one of the legendary pets around this quest."]
+	quest.20A4643BD1004B56.title: "Legendary Pets"
+	quest.20D62C31A62D10AA.quest_desc: ["Your ender chest, in your pocket."]
+	quest.20D62C31A62D10AA.title: "Ender Chest Pet"
 	quest.219A23B318F03A5C.quest_desc: ["Two-slot and three-slot drawers auto-convert between nugget, ingot and block as you insert or pull.", "One compacting drawer replaces a whole ingot-block juggling corner."]
 	quest.219A23B318F03A5C.title: "Compacting Drawers"
 	quest.223C933BE42DD7DB.quest_desc: ["Moves water, lava and modded fluids from tank to tank. It cannot pick up source blocks from the world.", "Hook one up to a sink for infinite water."]
 	quest.223C933BE42DD7DB.title: "Fluid Pipez"
+	quest.22C3E995BED50106.quest_desc: ["Stops mobs spawning nearby and flings them into fiery orbit."]
+	quest.22C3E995BED50106.title: "Sun Pet"
 	quest.22EB680B8211E199.quest_desc: ["Your first cell: a thousand item types, roughly.", "Bigger cells build on smaller ones."]
 	quest.22EB680B8211E199.title: "1k Storage Cell"
-	quest.231BE396EEC568E4.quest_desc: ["Dropped by Triffids."]
-	quest.231BE396EEC568E4.title: "Triffid Goo"
+	quest.231BE396EEC568E4.quest_desc: ["Dropped by Flytraps."]
+	quest.231BE396EEC568E4.title: "Flytrap Goo"
 	quest.24AD30F0436C0F9F.quest_desc: ["Chests and tanks that share contents across dimensions on the same color code.", "Right-click with dyes to set the code. Anyone holding your colors reads your stock, so do not use rainbows for valuables."]
 	quest.24AD30F0436C0F9F.title: "Ender Storage"
 	quest.24AF42E4F51502DD.quest_desc: ["A single chest with room to spare. Upgrade placed chests in place, no rebuilding."]
 	quest.24AF42E4F51502DD.title: "Iron Chest"
+	quest.24CB19ADFE73AE3C.quest_desc: ["Speed boost, and it lays eggs for you."]
+	quest.24CB19ADFE73AE3C.title: "Chicken Pet"
 	quest.2532BEE407769069.quest_desc: ["Pulls from attached inventories into the network.", "Filters which items may pass."]
 	quest.2532BEE407769069.title: "Import Kabel"
+	quest.263580EFE40C382D.quest_desc: ["Clears negative potion effects and fills empty buckets with milk."]
+	quest.263580EFE40C382D.title: "Cow Pet"
 	quest.26498281C2337FF9.quest_desc: ["The blank all Sophisticated upgrades are built on.", "Keep a stack; everything below eats one."]
 	quest.26498281C2337FF9.title: "Upgrade Base"
+	quest.28789AC959274591.quest_desc: ["Prevents starvation, lets you eat poisoned food, and gives porkchops."]
+	quest.28789AC959274591.title: "Pig Pet"
 	quest.287C4E1BB1B6DA2D.quest_desc: ["Eats food from the backpack for you. Never carry carrots again."]
 	quest.287C4E1BB1B6DA2D.title: "Feeding Upgrade"
-	quest.29BA664EB777443C.quest_desc: ["Dropped by the Cloud Shark."]
-	quest.29BA664EB777443C.title: "Cloud Shark Fin"
-	quest.2C8724D1B5322F15.quest_desc: ["Ride a red ant out of the Nether - or kill one inside a Nyxite portal frame.", "A nightmare dimension of inverted gravity: plants, geysers and pools fling you skyward.", 		"The Nightmare, the Emperor Scorpion, the Lucid and the Bed Bugs live here."
+	quest.288B83B4EDE8217C.quest_desc: ["Places and absorbs water, and lets you walk on it."]
+	quest.288B83B4EDE8217C.title: "Sponge Pet"
+	quest.29645E8A5730448E.quest_desc: ["Fire resistance and lava walking."]
+	quest.29645E8A5730448E.title: "Magma Cube Pet"
+	quest.29BA664EB777443C.quest_desc: ["Dropped by the Stratoshark."]
+	quest.29BA664EB777443C.title: "Stratoshark Fin"
+	quest.2A18298BCEFDA045.quest_desc: ["Right-click to open a portable double chest."]
+	quest.2A18298BCEFDA045.title: "Double Chest Pet"
+	quest.2B4F57775E452281.quest_desc: ["Knockback, plus a supply of snowballs."]
+	quest.2B4F57775E452281.title: "Snow Golem Pet"
+	quest.2C8724D1B5322F15.quest_desc: ["Ride a red ant out of the Nether - or kill one inside a Nyxite portal frame.", "A nightmare dimension of inverted gravity: plants, geysers and pools fling you skyward.", 		"The Nightmare, the Emperor Scorpion, the Lucid and the Bed Bugs live here. The Queen rules the Underside below."
 		"Nature's Compass tracks Thoraxis biomes by name - try Nightmare Wastes."]
 	quest.2C8724D1B5322F15.title: "Thoraxis"
+	quest.2D8E992843D88ED6.quest_desc: ["Ride a mob, and fly while riding."]
+	quest.2D8E992843D88ED6.title: "Flying Saddle Pet"
+	quest.2DD4D02B05BFFB76.quest_desc: ["Teleports you to the End, and back."]
+	quest.2DD4D02B05BFFB76.title: "End Portal Pet"
+	quest.2DE8C1417D853B24.quest_desc: ["Pick a structure and it points you to the nearest one.", "Crafted from a Biome Pet and a Pingot Pet."]
+	quest.2DE8C1417D853B24.title: "Dingot Pet"
 	quest.2E01DB27775963D4.quest_desc: ["Pushes cell stock out to machines.", "Crafting cards make it request on demand."]
 	quest.2E01DB27775963D4.title: "Export Bus"
+	quest.2EF50D487B76083F.quest_desc: ["Teleport on command.", "Saves you automatically when you drop below half a heart."]
+	quest.2EF50D487B76083F.title: "Enderman Pet"
 	quest.30A8D4C9CA631D60.quest_desc: ["Both chapters store everything digitally, and nothing stops you running both.", "AE2 scales furthest but demands channels, presses and power planning.", "For a first digital system, Refined Storage is the gentler start."]
 	quest.30A8D4C9CA631D60.title: "AE2 or Refined?"
+	quest.31BF2CE22A7C697E.quest_desc: ["Jump boost, wall climbing and string."]
+	quest.31BF2CE22A7C697E.title: "Spider Pet"
 	quest.321275E3D6C51353.quest_desc: ["Channel-based digital storage for very large networks, starting at the inscriber press.", "The full network gets its own chapter later."]
 	quest.321275E3D6C51353.title: "Applied Energistics 2"
 	quest.3315C143CA2C9FC5.quest_desc: ["The cheapest digital storage: one master block plus cables linking every chest.", "No power, no drives, just one searchable inventory."]
 	quest.3315C143CA2C9FC5.title: "Simple Storage Network"
 	quest.337319A85472B250.quest_desc: ["Disk-based digital storage with autocrafting further down the line.", "The controller powers the network; everything hangs off cables."]
 	quest.337319A85472B250.title: "Refined Storage"
+	quest.344416259F08E1D9.quest_desc: ["Night vision, scares off creepers, and catches fish near water."]
+	quest.344416259F08E1D9.title: "Ocelot Pet"
+	quest.3457FE5FD126C5CD.quest_desc: ["Reverses gravity for nearby mobs and items."]
+	quest.3457FE5FD126C5CD.title: "Moon Pet"
 	quest.35507F7C8CD54074.quest_desc: ["Mekanism gases like hydrogen and oxygen refuse every other pipe.", "If a Mekanism recipe involves something that is neither item, fluid nor energy, it goes through gas pipes."]
 	quest.35507F7C8CD54074.title: "Gas Pipez"
+	quest.36AF3D06F7C13920.quest_desc: ["Collect 60 different pets."]
+	quest.36AF3D06F7C13920.title: "Pet Cognoscente"
 	quest.370881E9F5E0C794.quest_desc: ["Smelt uranium ore."]
 	quest.370881E9F5E0C794.title: "Uranium Ingot"
 	quest.3712F66B8705F3E4.quest_desc: ["It drills straight through blocks in Elythia's Moleworm Caves - and in the Cavaryn hordes.", "Its nose feeds the Big Bertha hilt."]
 	quest.3712F66B8705F3E4.title: "Kill the Molevore"
 	quest.38F236E6B00C58C8.quest_desc: ["Corn, any corndog meat, and a stick.", "Smelt or smoke it for the handle."]
 	quest.38F236E6B00C58C8.title: "Raw Corndog"
+	quest.39FB0BF639BAF694.quest_desc: ["Absorbs damage and gives you poppies."]
+	quest.39FB0BF639BAF694.title: "Iron Golem Pet"
 	quest.3B68BB08293B5042.quest_desc: ["Sugar, a uranium nugget and HFCS, shapeless.", "Also found in Trayaurus Lab chests.", "Fed rainbow ants open infinite random dimensions. Easter Bunnies hop around in there, and they lay Kraken eggs."]
 	quest.3B68BB08293B5042.title: "Rainbow Sugar"
 	quest.3C19873B4E2A90FE.quest_desc: ["The brain of the wall. Link drawers with trim and the controller sees them all.", "Double-right-click it to dump matching inventory contents into the network."]
@@ -163,18 +228,40 @@
 	quest.3EC5E424D3FABDFE.title: "Universal Pipez"
 	quest.3EF864FC1334CE65.quest_desc: ["Pushes power from generators into your network.", "One plug per generator row keeps things tidy."]
 	quest.3EF864FC1334CE65.title: "Flux Plug"
+	quest.3F7C17E60A335E1B.quest_desc: ["Heals nearby allies and tamed pets."]
+	quest.3F7C17E60A335E1B.title: "Heart Pet"
+	quest.400B3C383231B9BE.quest_desc: ["Finds ore or dungeons, and can pull out the nearest ore."]
+	quest.400B3C383231B9BE.title: "Pingot Pet"
 	quest.401952145436BB91.quest_desc: ["Dropped by Jerry."]
 	quest.401952145436BB91.title: "Jerry Nucleus"
-	quest.40CAEFC8FFA71617.quest_desc: ["Fight through a Cavaryn horde: killing mobs like Creeping Horrors escalates the waves.", "The final wave spawns the Hercules Beetle with a warning. Tameable, if you'd rather keep it.", "Its horn feeds the Big Bertha hilt."]
+	quest.40CAEFC8FFA71617.quest_desc: ["Fight through a Cavaryn horde: killing mobs like Crawling Blights escalates the waves.", "The final wave spawns the Hercules Beetle with a warning. Tameable instead, if you'd rather keep it.", "Its horn feeds the Big Bertha hilt."]
 	quest.40CAEFC8FFA71617.title: "Kill the Hercules Beetle"
+	quest.410105599B92D2A8.quest_desc: ["Resistance, and the meaning of life."]
+	quest.410105599B92D2A8.title: "Mickerson"
 	quest.41E2CC6B056CB704.quest_desc: ["Quartz, stone and redstone torches, vanilla recipe.", "The Gravity Gun wants real redstone logic."]
 	quest.41E2CC6B056CB704.title: "Comparator"
+	quest.4221D0E01AD435C6.quest_desc: ["Slows time and pulls items toward you."]
+	quest.4221D0E01AD435C6.title: "Black Hole Pet"
+	quest.42374C695F91CBC5.quest_desc: ["A crafting grid you carry around."]
+	quest.42374C695F91CBC5.title: "Crafting Table Pet"
+	quest.429ACC512A7C4219.quest_desc: ["Every pet in the mod. Good luck."]
+	quest.429ACC512A7C4219.title: "Petologist"
+	quest.438F1AA8169CF59A.quest_desc: ["A sound blast that hits everything around you."]
+	quest.438F1AA8169CF59A.title: "Dubstep Pet"
 	quest.43AE1F89A8B0ECFD.quest_desc: ["The first upgrade."]
 	quest.43AE1F89A8B0ECFD.title: "Iron Backpack"
+	quest.4401780EB32024FE.quest_desc: ["Load Patterns in and the network crafts on demand.", "Request an item from the Grid and let it work."]
+	quest.4401780EB32024FE.title: "Autocrafter"
+	quest.45A76C5F674624A5.quest_desc: ["Collect 20 different pets."]
+	quest.45A76C5F674624A5.title: "Pet Collector"
 	quest.45E07B5F73AEFB8A.quest_desc: ["The Brutalfly rules Elythia's skies. Take it down.", "Its wing feeds the Big Bertha weapon line, so don't lose it."]
 	quest.45E07B5F73AEFB8A.title: "Kill the Brutalfly"
+	quest.45E3311A8FC88F72.quest_desc: ["Collect 50 different pets."]
+	quest.45E3311A8FC88F72.title: "Pet Professional"
 	quest.468AC41BFA2FBD23.quest_desc: ["Two comparators, two ingots, netherite, and a second Eye of Dreams.", "The blade borrows an eye too, so you must kill two Lucids."]
 	quest.468AC41BFA2FBD23.title: "Gravity Gun"
+	quest.46DDB9A2E1A8C4E8.quest_desc: ["Collect 10 different pets."]
+	quest.46DDB9A2E1A8C4E8.title: "Pet Researcher"
 	quest.46FDE1053D1ED4E6.quest_desc: ["The crowned terror of Thoraxis's Dream Dunes.", "Its stinger feeds the Big Bertha blade."]
 	quest.46FDE1053D1ED4E6.title: "Kill the Emperor Scorpion"
 	quest.474C9FBAB430E164.quest_desc: ["Teleports items, fluids, gas and energy across dimensions.", "Needs a QIO drive frequency and a lot of power."]
@@ -183,31 +270,53 @@
 	quest.475DDABE8D57F989.title: "Molecular Assembler"
 	quest.483B6AF583A73905.quest_desc: ["Mekanism's item pipes, in four tiers from basic to ultimate.", "Configure both ends with the configurator. The logistical sorter adds single-item routing later."]
 	quest.483B6AF583A73905.title: "Logistical Transporters"
+	quest.48A2A4D44D3E72AB.quest_desc: ["Summons and stows minions that fight for you."]
+	quest.48A2A4D44D3E72AB.title: "Quantum Crystal Monster Pet"
+	quest.48B38A199C0690E6.quest_desc: ["Water breathing, underwater vision and a swim boost."]
+	quest.48B38A199C0690E6.title: "Squid Pet"
 	quest.49AA40492696BCA0.quest_desc: ["Vacuums nearby drops straight into the backpack. Turn it off before walking past a friend's build site."]
 	quest.49AA40492696BCA0.title: "Magnet Upgrade"
+	quest.4A48C9233678C0E2.quest_desc: ["Collect every one of the peaceful pets around this quest."]
+	quest.4A48C9233678C0E2.title: "Peaceful Pets"
 	quest.4A5B316F3F26BB5D.quest_desc: ["Right-click a brown ant and you'll be pulled into Elythia."]
 	quest.4A5B316F3F26BB5D.title: "Enter Elythia"
 	quest.4A9C9D5C3303E80E.quest_desc: ["Holds ten storage cells where the network keeps items.", "Cells come in tiers; start small."]
 	quest.4A9C9D5C3303E80E.title: "ME Drive"
+	quest.4B7A9E79D4CAE2E1.quest_desc: ["Collect every one of the mob pets around this quest."]
+	quest.4B7A9E79D4CAE2E1.title: "Mob Pets"
+	quest.4BC8C8F0B0ADFCA2.quest_desc: ["Explode on command, and stay immune to explosions."]
+	quest.4BC8C8F0B0ADFCA2.title: "Creeper Pet"
 	quest.4BDE0496932034F8.quest_desc: ["One block that pushes, pulls and filters with swappable modules, perfect for compact automation.", "It works on the six adjacent blocks out of the box. Range and stack upgrades come later."]
 	quest.4BDE0496932034F8.title: "Modular Routers"
+	quest.4CB8BC45DA301142.quest_desc: ["Connects every device back to the Controller.", "No channels to count, just run it everywhere."]
+	quest.4CB8BC45DA301142.title: "Cable"
+	quest.4CCEAB12A6AD72FA.quest_desc: ["Writes crafting recipes onto blank Patterns.", "Patterns are what autocrafting runs on."]
+	quest.4CCEAB12A6AD72FA.title: "Pattern Grid"
 	quest.4D7B3F935FEBA2AB.quest_desc: ["Your first disk: two thousand items, roughly.", "Bigger disks build on smaller ones."]
 	quest.4D7B3F935FEBA2AB.title: "1k Storage Disk"
 	quest.4D84B1D48D2BC8EC.quest_desc: ["Pulls power out of the network into machines.", "Set limits per point so one hungry machine cannot brown out the base."]
 	quest.4D84B1D48D2BC8EC.title: "Flux Point"
 	quest.4D924EDBBBAA90E2.quest_desc: ["Dropped by the Brutalfly."]
 	quest.4D924EDBBBAA90E2.title: "Brutalfly Wing"
-	quest.4DA1CB466F30CB23.quest_desc: ["Nightmare scale, Molevore nose, Jerry nucleus, Hercules horn, Jumpy leg, Primordial scute, Rainbow Sugar.", "Seven drops, one grip."]
+	quest.4DA1CB466F30CB23.quest_desc: ["Nightmare scale, Molevore nose, Jerry nucleus, Hercules horn, Springbug leg, Primordial scute, Rainbow Sugar.", "Seven drops, one grip."]
 	quest.4DA1CB466F30CB23.title: "Big Bertha Hilt"
+	quest.4DF4CCA612E87BC1.quest_desc: ["Thirty seconds of insta-shot, plus arrows."]
+	quest.4DF4CCA612E87BC1.title: "Quiver Pet"
 	quest.4F15A97C2B78C20C.quest_desc: ["Dropped by the Emperor Scorpion."]
 	quest.4F15A97C2B78C20C.title: "Emperor Scorpion Stinger"
+	quest.4F5AB6B08B90C26B.quest_desc: ["Import and export in one block.", "Machines can push into it and pull from it like a chest."]
+	quest.4F5AB6B08B90C26B.title: "Interface"
+	quest.4F87D484CF50F980.quest_desc: ["Health regeneration, and fills empty buckets with lava."]
+	quest.4F87D484CF50F980.title: "Purplicious Cow Pet"
 	quest.4FB4D4E4ACC2BC58.quest_desc: ["The biggest chest in the line, with the most upgrade slots."]
 	quest.4FB4D4E4ACC2BC58.title: "Netherite Chest"
+	quest.52135CB13CCC38B7.quest_desc: ["Craft an AntOS Computer and slot in the floppy disks you find.", "Boss records cover where each boss lives and how it fights; the King and Queen records list coordinates.", "Disks turn up in structure chests and from the Computer Scientist villager.", "Once the Ender Dragon is dead, an Explorer's Compass finds the boss lairs faster."]
+	quest.52135CB13CCC38B7.title: "Boss Records"
 	quest.531A0D00CEB93836.quest_desc: ["Pipes filter with an Advanced Upgrade installed: open the pipe GUI, add a filter, then set item, tag or NBT.", "The destination tool locks a filter to one specific inventory. Whitelist lets only the filter through, blacklist everything but."]
 	quest.531A0D00CEB93836.title: "Pipe Filtering"
 	quest.53689B826F46C9AF.quest_desc: ["It guards its arena in the Elythia ocean.", "Its scute feeds the Big Bertha hilt."]
 	quest.53689B826F46C9AF.title: "Kill the Toreterror"
-	quest.53DB7377C211654A.quest_desc: ["Right-click a brown ant to be pulled into Elythia, hunting ground of the Brutalfly, the Toreterror, the Basilisk, the Molevore and the Cloud Shark."]
+	quest.53DB7377C211654A.quest_desc: ["Right-click a brown ant to be pulled into Elythia, hunting ground of the Brutalfly, the Toreterror, the Basilisk, the Molevore, the Stratoshark, the Alpha Mantis and the King."]
 	quest.53DB7377C211654A.title: "Elythia"
 	quest.543BAE83CA014862.quest_desc: ["A crafting grid living inside the chest.", "Stonecutting and smelting variants exist too."]
 	quest.543BAE83CA014862.title: "Crafting Upgrade"
@@ -215,10 +324,14 @@
 	quest.54F000B24088BB6C.title: "Release the Kraken"
 	quest.55A4EED273996F9B.quest_desc: ["A quarter-million item types in one cell.", "The end of the line. Probably."]
 	quest.55A4EED273996F9B.title: "256k Storage Cell"
+	quest.56470DD6A6B6B8AE.quest_desc: ["Slow fall, plus wool."]
+	quest.56470DD6A6B6B8AE.title: "Sheep Pet"
 	quest.567DF821E2727EF2.quest_desc: ["It patrols the cloud seas of Elythia.", "Its fin feeds the Big Bertha blade - and cooks into a fine soup."]
-	quest.567DF821E2727EF2.title: "Kill the Cloud Shark"
+	quest.567DF821E2727EF2.title: "Kill the Stratoshark"
 	quest.570FA365734D9D59.quest_desc: ["Moves fluids for machines like the electrolytic separator, which drinks water.", "Higher tiers carry more per tick."]
 	quest.570FA365734D9D59.title: "Mechanical Pipes"
+	quest.571814A9A148A680.quest_desc: ["Brews a random potion."]
+	quest.571814A9A148A680.title: "Brewing Stand Pet"
 	quest.574FF91C2BA5B3EE.quest_desc: ["Everything here stores items without power: cans, drawers, chests and backpacks.", "Digital storage closes the chapter for when the chest room overflows."]
 	quest.574FF91C2BA5B3EE.title: "Basic Storage"
 	quest.57DEC97B2439F380.quest_desc: ["Packs up a machine, contents and settings included, for moving day.", "Does not work on everything, but on most things that matter."]
@@ -227,12 +340,24 @@
 	quest.58E9F2D694C5AACF.title: "Crafting Terminal"
 	quest.59B10BA13662C356.quest_desc: ["Getting rid of the excess. One can each for items, fluids and energy.", "Void upgrades later do the same job inline, but a can by the workbench never hurts."]
 	quest.59B10BA13662C356.title: "Trash Cans"
-	quest.5C87B4ED20485B96.quest_desc: ["Mantis claw, Brutalfly wing, Triffid goo, a cooked corndog, and the whole Gravity Gun.", "Yes, the gun gets consumed. Worth it."]
+	quest.5A2BB3FE519904B0.quest_desc: ["Throw it, and it comes back on its own."]
+	quest.5A2BB3FE519904B0.title: "Banana Pet"
+	quest.5C87B4ED20485B96.quest_desc: ["Mantis claw, Brutalfly wing, Flytrap goo, a cooked corndog, and the whole Gravity Gun.", "Yes, the gun gets consumed. Worth it."]
 	quest.5C87B4ED20485B96.title: "Big Bertha Handle"
+	quest.5D5293C66B777AB7.quest_desc: ["Protects nearby allies and tamed pets."]
+	quest.5D5293C66B777AB7.title: "Shield Pet"
 	quest.5DA1AD8E6FEBCD1F.quest_desc: ["Four netherite scrap plus four gold ingots on the crafting grid.", "The blade project needs its backbone metal."]
 	quest.5DA1AD8E6FEBCD1F.title: "Netherite Ingot"
+	quest.5DFA0469CBFF181C.quest_desc: ["Leashes and tames a mob."]
+	quest.5DFA0469CBFF181C.title: "Lead Pet"
+	quest.5E0943EE854B447E.quest_desc: ["Sleep anywhere.", "Can summon a living bed."]
+	quest.5E0943EE854B447E.title: "Bed Pet"
 	quest.5E1B1EDC40B2FDAE.quest_desc: ["Connects two inventories and moves items between them, farm to chest or chest to machine.", "Wrench a pipe to set each side to Pull, Push or Off."]
 	quest.5E1B1EDC40B2FDAE.title: "Item Pipez"
+	quest.5E2317898835EEB5.quest_desc: ["Saves you from certain death, and gives slimeballs."]
+	quest.5E2317898835EEB5.title: "Slime Pet"
+	quest.5EFFD7F90347D84C.quest_desc: ["Strength boost, and your attacks set enemies on fire."]
+	quest.5EFFD7F90347D84C.title: "Blaze Pet"
 	quest.5F5E45EFACDCE9A6.quest_desc: ["Smelt titanium ore."]
 	quest.5F5E45EFACDCE9A6.title: "Titanium Ingot"
 	quest.6091AE070476DB48.quest_desc: ["Wireless redstone between contraptions and the base.", "One link transmits, its twin receives, across any distance."]
@@ -243,7 +368,7 @@
 	quest.616EAC0708E2EF90.title: "Crafting Upgrade"
 	quest.619D3C9D28CBCD62.quest_desc: ["Mekanism tanks hold buckets by the dozen and upgrade upward.", "Dynamic tanks scale to multiblock size later."]
 	quest.619D3C9D28CBCD62.title: "Fluid Tanks"
-	quest.61CF2F9D4B616419.quest_desc: ["Ultimate Sword, Lucid eye, Basilisk fang, Emperor stinger, Cloud Shark fin, Kraken tentacle AND tooth.", "Seven rarities, one cutting edge. Do not lose it."]
+	quest.61CF2F9D4B616419.quest_desc: ["Ultimate Sword, Lucid eye, Basilisk fang, Emperor stinger, Stratoshark fin, Kraken tentacle AND tooth.", "Seven rarities, one cutting edge. Do not lose it."]
 	quest.61CF2F9D4B616419.title: "Big Bertha Blade"
 	quest.61DB15007645A618.quest_desc: ["Roomier still."]
 	quest.61DB15007645A618.title: "Gold Backpack"
@@ -255,20 +380,26 @@
 	quest.641CF9A9B2EFF048.title: "64k Storage Cell"
 	quest.648C33EF5C50D3BF.quest_desc: ["Enchanted gear, damaged tools and anything with extra data does not stack.", "Keep that stuff in chests or bags. Feeding it into a digital system bloats the drive with thousands of unique entries."]
 	quest.648C33EF5C50D3BF.title: "NBT and YOU!"
+	quest.649A8D3788538C80.quest_desc: ["Poisons what you hit, and fires a venom blast."]
+	quest.649A8D3788538C80.title: "Pufferfish Pet"
 	quest.663C8E631F2869C5.quest_desc: ["Four times the 1k. Keep climbing.", "Disks upgrade in place with storage parts."]
 	quest.663C8E631F2869C5.title: "4k Storage Disk"
 	quest.66902790EAFD0729.quest_desc: ["Searches every cell from one screen.", "The face of the system."]
 	quest.66902790EAFD0729.title: "ME Terminal"
 	quest.670F1DFE159F3B33.quest_desc: ["They swarm every corner of Thoraxis, hatching from nests and surface clusters.", "Squash them for the advancement."]
 	quest.670F1DFE159F3B33.title: "Kill a Bed Bug"
-	quest.6858822C00824705.quest_desc: ["Two ways to meet it: killing squids can summon it, so watch where you swing, or find an Easter Bunny in a rainbow-ant dimension and wait for it to lay a Kraken egg.", "The hardest boss in the mod: it flies, calls lightning, and fires Octopus Bombs and Missile Squids.", "Bring one Tentacle and one Tooth for the Big Bertha blade."]
+	quest.6858822C00824705.quest_desc: ["Two ways to meet it: killing a squid while you have Bad Omen can summon it, and each Bad Omen level raises the odds, or find an Easter Bunny in a rainbow-ant dimension and wait for it to lay a Kraken egg.", "The hardest boss in the mod: it flies, calls lightning, and fires Octopus Bombs and Missile Squids.", "Bring one Tentacle and one Tooth for the Big Bertha blade."]
 	quest.6858822C00824705.title: "Kill the Kraken"
+	quest.6AA39F9193D053E6.quest_desc: ["Collect every one of the area pets around this quest."]
+	quest.6AA39F9193D053E6.title: "Area Pets"
 	quest.6B10301A0D908130.quest_desc: ["Dropped by Toreterror."]
 	quest.6B10301A0D908130.title: "Primordial Scute"
 	quest.6B1F8FD97675DF68.quest_desc: ["It haunts the Nightmare Wastes and Umbral Hills of Thoraxis.", "Expect your gravity to flip.", "Its scale feeds the Big Bertha hilt."]
 	quest.6B1F8FD97675DF68.title: "Kill the Nightmare"
 	quest.6B4FE35EC75A476E.quest_desc: ["Treats every connected chest as one big storage, up to 14 blocks out in all directions.", "It doubles as the in and out point for pipes and digital systems."]
 	quest.6B4FE35EC75A476E.title: "Storage Controller"
+	quest.6B6129EE83D022CF.quest_desc: ["Enchant on the go."]
+	quest.6B6129EE83D022CF.title: "Enchanting Table Pet"
 	quest.6B9F7D9034C88F24.quest_desc: ["Wirelessly joins far chests into the controller network. Bind with the storage tool: controller first, then chests.", "Same 14-block reach, none of the trim tunnels."]
 	quest.6B9F7D9034C88F24.title: "Storage Link"
 	quest.6C3CC466DF3D88BE.quest_desc: ["Shift + use to cycle boss modes:", "Basilisk paralyzes and poisons, Lucid inverts gravity, Nightmare spreads dread,", "Kraken slams and calls lightning, Hercules launches foes skyward,", "Molevore drills through blocks, Toreterror crashes down with an AOE shockwave."]
@@ -281,6 +412,8 @@
 	quest.6D8CD5CBA8CE7BFA.title: "Kill the Ender Dragon"
 	quest.6DC3B26B2B88FCB1.quest_desc: ["Upgradable backpacks that ride in the curios back slot and take filters for nifty tricks.", "They dye too, so the whole server can color-code."]
 	quest.6DC3B26B2B88FCB1.title: "Sophisticated Backpacks"
+	quest.706ABC3111A615C2.quest_desc: ["Bonus drops from mobs and mining."]
+	quest.706ABC3111A615C2.title: "Loot Pet"
 	quest.707341E3F0EEAE0C.quest_desc: ["Antarchy ores are rarer than diamond and drop a single nugget each.", "Nine make an ingot."]
 	quest.707341E3F0EEAE0C.title: "Uranium Nugget"
 	quest.71902E9FC13770FE.quest_desc: ["A cable that only lets chosen items through.", "Keeps sorted lines sorted."]
@@ -291,6 +424,8 @@
 	quest.73B7502A7CE903EA.title: "Flux Controller"
 	quest.74371D87F77252BF.quest_desc: ["Brewed from corn. One goes into every Rainbow Sugar, and Rainbow Sugar feeds the Big Bertha hilt."]
 	quest.74371D87F77252BF.title: "High Fructose Corn Syrup"
+	quest.7529B626BA315E9A.quest_desc: ["Collect 30 different pets."]
+	quest.7529B626BA315E9A.title: "Pet Scientist"
 	quest.755A9B6A2486D364.quest_desc: ["Belts, funnels and chutes move items the scenic route, with no power bill.", "Start with belt connectors, then funnel in and out of chests and machines.", "Extend lines with more connectors, and mind the rotation direction."]
 	quest.755A9B6A2486D364.title: "Create"
 	quest.757E0BBF7CF30F7D.quest_desc: ["Every upgrade moves more per operation. Basic adds redstone control, Improved adds routing modes like round-robin, Advanced unlocks filters, Ultimate just moves a lot."]
@@ -301,6 +436,8 @@
 	quest.75FB1CD196158F95.title: "Crafting Grid"
 	quest.77F2BF66E570A12A.quest_desc: ["Holds the storage disks the network actually stores on.", "More drives, more disks, more everything."]
 	quest.77F2BF66E570A12A.title: "Disk Drive"
+	quest.7912EAAEAB3E5D3B.quest_desc: ["Made from every other pet, and can transform into any of them."]
+	quest.7912EAAEAB3E5D3B.title: "Meta Pet"
 	quest.794098D78CD9BD42.quest_desc: ["Moving thousands of items between chests, machines and farms by hand is not a plan.", "This chapter covers the pack's pipes: Pipez for simple runs, Mekanism for its machines, and Modular Routers for clever bits. Grab a wrench to start."]
 	quest.794098D78CD9BD42.title: "Pipez"
 	quest.7983697A655600AE.quest_desc: ["Mekanism machines are picky: each side must be set to input, output or off in the machine GUI.", "The configurator flips sides between pull and push. Get one before laying a single pipe."]
@@ -311,6 +448,8 @@
 	quest.7BBC706328090A22.title: "Controller I/O"
 	quest.7C4E406EC577C304.quest_desc: ["Chests vacuum nearby drops into themselves.", "Turn it off before parties."]
 	quest.7C4E406EC577C304.title: "Pickup Upgrade"
+	quest.7D319BB781227B4F.quest_desc: ["Pets are crafted, then work while you carry them.", "Hover a pet to see its powers, controls and favorite food.", "Pets get hungry; Sated versions never do."]
+	quest.7D319BB781227B4F.title: "First Steps"
 	quest.7DA5527429294D17.quest_desc: ["Pushes network stock out to machines and chests.", "Filters keep the wrong items out."]
 	quest.7DA5527429294D17.title: "Exporter"
 	quest.7DB46DA33E716767.quest_desc: ["Searches the whole cable network from one screen and pulls what you need.", "Pair with the remote to browse your stock from anywhere."]
@@ -331,6 +470,12 @@
 	quest.843DB879D75A9841.title: "Import Bus"
 	quest.8E160E8AA5A249A0.quest_desc: ["Sixteen times the 1k cell.", "Cells upgrade in the crafting grid."]
 	quest.8E160E8AA5A249A0.title: "16k Storage Cell"
+	quest.141707DC8770F0B6.quest_desc: ["Hatch the Prince Egg and feed the hatchling golden items until it grows.", "A grown Prince can be tamed and saddled for flight."]
+	quest.141707DC8770F0B6.title: "Long Live the Prince"
+	quest.19635F3E1FC4BE40.quest_desc: ["The Kraken needs no portal, only the sea."]
+	quest.19635F3E1FC4BE40.title: "The Overworld"
+	quest.21CC719DB7052664.quest_desc: ["She rules the Underside of Thoraxis, reached through the gravity throats.", "She bends gravity and time, and her Manticores finish what she starts.", "Drops Queen Scales for Royal Assailant gear, and a Princess Egg."]
+	quest.21CC719DB7052664.title: "Kill the Queen"
 	quest.A455AC6851842809.quest_desc: ["Chutes drop items straight down, faster with each block.", "Smart chutes pull from inventories and filter on the way."]
 	quest.A455AC6851842809.title: "Chutes"
 	quest.A6C0AE770E2678B2.quest_desc: ["Holds the storage disks the network actually stores on.", "More drives, more disks, more everything."]
@@ -353,10 +498,16 @@
 	quest.CD46890AE424E032.title: "Energy Acceptor"
 	quest.D003E4F1EACCC502.quest_desc: ["Wireless redstone between contraptions and the base.", "One link transmits, its twin receives, across any distance."]
 	quest.D003E4F1EACCC502.title: "Redstone Link"
+	quest.52EDD018CBF9952F.quest_desc: ["Wound it in combat, then feed it Broodfruit to pacify it.", "It bonds with whoever fed it."]
+	quest.52EDD018CBF9952F.title: "Tame the Hercules Beetle"
+	quest.575DF7EE5C1FAA9F.quest_desc: ["He rules alone from the King's Tree in Elythia.", "Mid-fight he issues Decrees like KNEEL and DO NOT RUN; break one and your hearts are halved for thirty seconds.", "Drops King Scales for Royal Guardian gear, and a Prince Egg."]
+	quest.575DF7EE5C1FAA9F.title: "Kill the King"
 	quest.DA8766E1ED0AE346.quest_desc: ["Pushes cell stock out to machines.", "Crafting cards make it request on demand."]
 	quest.DA8766E1ED0AE346.title: "Export Bus"
 	quest.DDD4597C09415D3F.quest_desc: ["Mekanism tanks hold buckets by the dozen and upgrade upward.", "Dynamic tanks scale to multiblock size later."]
 	quest.DDD4597C09415D3F.title: "Fluid Tanks"
+	quest.6408726B64551FDF.quest_desc: ["Hatch the Princess Egg and feed the hatchling golden items until it grows.", "A grown Princess can be tamed and saddled, and slows enemies with time-dilation fields."]
+	quest.6408726B64551FDF.title: "Long Live the Princess"
 	quest.E9AB0E1046D1ACA1.quest_desc: ["Wireless power: plugs feed the network, points drink from it.", "Configure both with the configurator on the same network name."]
 	quest.E9AB0E1046D1ACA1.title: "Flux Networks"
 	quest.EB2A4A8379A30FFF.quest_desc: ["Serious bulk storage for serious automation.", "One cell per material network."]
@@ -761,7 +912,7 @@
 	quest.6A05000000000018.title: "Ritual of Flight"
 	quest.6A05000000000019.quest_desc: ["Moves everything near the brazier to the spot on a Warp Scroll, which must be inscribed first."]
 	quest.6A05000000000019.title: "Ritual of Warping"
-	quest.4A0E000000000001.quest_desc: ["Finds structures up to thirty thousand blocks out.", "Uncraftable until the dragon is dead."]
+	quest.4A0E000000000001.quest_desc: ["Finds structures up to thirty thousand blocks out.", "It is the easiest way to track down boss lairs: the King's Tree, the Toreterror Arena, the Basilisk Lair and the Ruined Arena.", "Uncraftable until the dragon is dead."]
 	quest.4A0E000000000001.title: "The Explorer's Compass"
 	quest.6A0500000000001A.quest_desc: ["Second tier: more mana, faster regeneration, and it opens Tier 2 glyphs. Upgrading carries your learned glyphs across."]
 	quest.6A0500000000001A.title: "Mage's Spell Book"

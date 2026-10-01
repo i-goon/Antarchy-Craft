@@ -1,0 +1,31 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "${mod_id}"
+version = "${mod_version}"
+displayName = "${mod_name}"
+authors = "Antarchy Craft"
+description = '''Fixes for Antarchy used by the Antarchy Craft modpack. Contains no Antarchy code.
+
+- The King's Tree no longer freezes the server while it generates.'''
+
+[[mixins]]
+config = "antarchycraftfixes.mixins.json"
+
+[[dependencies.${mod_id}]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+# Pinned to the Antarchy build these mixins were written and tested against. A newer Antarchy
+# refuses to load with this mod, so the fix gets checked again instead of silently misapplying.
+[[dependencies.${mod_id}]]
+modId = "antarchy"
+type = "required"
+versionRange = "[2.1.1,2.1.2)"
+ordering = "AFTER"
+side = "BOTH"
