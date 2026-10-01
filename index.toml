@@ -2386,11 +2386,6 @@ hash = "66229b1f7491add697cf741db5a2cf0ef473e737c947306775bfcd4314a608b4"
 metafile = true
 
 [[files]]
-file = "mods/async.pw.toml"
-hash = "ebc1d209212fe7e54627d64e4fc4c81dc8630380a90252dd02ac682c98b4804f"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ce2478a541b4d9919b5043837281629e9898a9dee59b65e6ce1afd21d0dc0801"
 metafile = true

@@ -24,6 +24,9 @@ Consider backing up your world before updating.
 - Boss quests point you to the Explorer's Compass for finding lairs.
 - Refined Storage, Applied Energistics 2 and Basic Logistics quests are easier to follow.
 
+### Removed
+- Async. It could freeze a server when a player teleported into new terrain.
+
 ### Fixed
 - Big Bertha quests keep their progress through future updates.
 - Quests for the renamed mobs point at their new names.
