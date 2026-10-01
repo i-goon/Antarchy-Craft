@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "id": "inventorypets:pet_loot"
+    },
+    "title": {
+      "translate": "advancement.ip.petach_loot"
+    },
+    "description": {
+      "translate": "advancement.ip.petach_loot.desc"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "inventorypets:dingot",
+  "criteria": {
+    "crafting_table": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "inventorypets:pet_loot"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

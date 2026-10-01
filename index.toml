@@ -2297,8 +2297,16 @@ file = "defaultconfigs/ftbessentials-server.snbt"
 hash = "92b8488b53c40f9be3d5414fe382c3e1c6d45f86850345b3bbcee1d212b5f125"
 
 [[files]]
+file = "kubejs/data/antos/recipe/computer.json"
+hash = "954aa5d9c2729c1a72c7ba42c83f9354bae9026289a872d0fcf415899fa4a99a"
+
+[[files]]
 file = "kubejs/data/cyclic/enchantment/soulbound.json"
 hash = "f007f1aa8be4f2c44955d934540b33af568ac9e2a1574fba1e38e90ca5d00998"
+
+[[files]]
+file = "kubejs/data/inventorypets/advancement/loot.json"
+hash = "aad8b43f9a16a132a740f65ac5804764b53e41101cb988b25ffe63e7496e1106"
 
 [[files]]
 file = "kubejs/server_scripts/explorers_compass.js"
@@ -3154,7 +3162,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliquified-artifacts.pw.toml"
-hash = "5a1735e91c8538f67f735adede7b4fdb8b4e44a0f42bd89c191c88cbb7af859f"
+hash = "357bb964920a039094a8a715ec7d97c603b0338ad0d904a7d1f2ff428af0d95c"
 metafile = true
 
 [[files]]

@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/GnU07giL/versions/x2qoJkgq/reliquified_artifacts-1.21.1-1.0.8.jar"
 hash-format = "sha512"
-hash = "2885b9f4c262f10c9500d9525cd4f82174a462344ced290cb0b129060d629cf4d36e4a680eba345dd90db5dbead1922b3df95d6b7b1d4dc2502eaaa34d9ac87037c"
+hash = "2885b9f4c262f10c9500d9525cd4f82174a462348c4b946627d21a97303469de302c4a487066313a4904d3abb46a7a3433e0deb9855b6d04112a967b1ce947a1"
 
 [update]
 [update.modrinth]
