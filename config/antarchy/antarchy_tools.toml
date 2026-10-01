@@ -445,19 +445,19 @@
 	#Max durability of Blood Crystal Helmet. Default: 92.
 	# Default: 92
 	# Range: 1 ~ 2000
-	helmetDurability = 77
+	helmetDurability = 92
 	#Max durability of Blood Crystal Chestplate. Default: 134.
 	# Default: 134
 	# Range: 1 ~ 2000
-	chestplateDurability = 112
+	chestplateDurability = 134
 	#Max durability of Blood Crystal Leggings. Default: 126.
 	# Default: 126
 	# Range: 1 ~ 2000
-	leggingsDurability = 105
+	leggingsDurability = 126
 	#Max durability of Blood Crystal Boots. Default: 109.
 	# Default: 109
 	# Range: 1 ~ 2000
-	bootsDurability = 91
+	bootsDurability = 109
 
 [squidzooka]
 	#Cooldown in seconds after firing. Set to 0 to disable.

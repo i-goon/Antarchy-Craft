@@ -64,29 +64,29 @@
 	#Minimum maintained speed while ridden without holding W. Set to 0 for manual control.
 	# Default: 0.0
 	# Range: 0.0 ~ 2.0
-	cruiseSpeed = 0.6
+	cruiseSpeed = 0.0
 	#Maximum speed in blocks/tick when W is held. Vanilla rideable minecarts cap at 0.4.
 	# Default: 0.55
 	# Range: 0.05 ~ 2.0
-	maxSpeed = 1.0
+	maxSpeed = 0.55
 	#Speed gained per tick while accelerating.
 	# Default: 0.02
 	# Range: 0.001 ~ 0.5
-	acceleration = 0.03
+	acceleration = 0.02
 	#Speed lost per tick while S is held (active braking).
 	# Default: 0.05
 	# Range: 0.001 ~ 0.5
-	deceleration = 0.04
+	deceleration = 0.05
 	#Speed lost per tick when neither W nor S is held.
 	# Default: 0.02
 	# Range: 0.001 ~ 0.5
-	coastDeceleration = 0.01
+	coastDeceleration = 0.02
 	#Whether the cart damages mobs it hits while moving.
 	mobDamageEnabled = true
 	#Maximum collision damage dealt at full speed if mob damage is enabled.
 	# Default: 4.0
 	# Range: 0.0 ~ 200.0
-	maxMobDamage = 8.0
+	maxMobDamage = 4.0
 
 [world]
 	#If false, duplicator trees do not generate and duplicator saplings produce nothing.

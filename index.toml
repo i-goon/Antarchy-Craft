@@ -462,7 +462,7 @@ hash = "19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7"
 
 [[files]]
 file = "config/antarchy/antarchy_misc.toml"
-hash = "350f28438a73c0c5724b9c35ed7adf89c0ba9e23b2b09a4965fd91423cd0a824"
+hash = "206575fad56fcc4f46915b7af4f7b71a2cd9583438fbc1ef6c792f7e5ee5dd95"
 
 [[files]]
 file = "config/antarchy/antarchy_mobs.toml"
@@ -470,7 +470,7 @@ hash = "69a0c861f510158ff60986b14ef5af85ceff3ffec6d672065177c80300aee7e5"
 
 [[files]]
 file = "config/antarchy/antarchy_tools.toml"
-hash = "918cf1bec51e62d4c7281825b85d1e4013b27ccb37e3e336edf302aabdf36f1f"
+hash = "94eef0c4b3206d659949b1bab974bca0895af7656670da6204874b2507677cba"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
