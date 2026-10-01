@@ -1,0 +1,1294 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "inventory_pets"
+	group: ""
+	icon: {
+		id: "inventorypets:pet_slime"
+	}
+	id: "03704C221C73A326"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "inventorypets:pet_slime"
+			}
+			id: "7D319BB781227B4F"
+			rewards: [{
+				id: "28AE41993A04B486"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				advancement: "inventorypets:1"
+				criterion: ""
+				id: "430E58A3B3E09D36"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D319BB781227B4F"]
+			icon: {
+				id: "inventorypets:petachieve_5"
+			}
+			id: "05FBD6E845323EA0"
+			rewards: [{
+				id: "19E236E75759A20A"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				advancement: "inventorypets:5"
+				criterion: ""
+				id: "11C16993DB5B7140"
+				type: "advancement"
+			}]
+			x: 2.25d
+			y: 0.0d
+		}
+		{
+			dependencies: ["05FBD6E845323EA0"]
+			icon: {
+				id: "inventorypets:petachieve_10"
+			}
+			id: "46DDB9A2E1A8C4E8"
+			rewards: [{
+				id: "30C6D8DBB3E2FEC4"
+				type: "xp_levels"
+				xp_levels: 4
+			}]
+			tasks: [{
+				advancement: "inventorypets:10"
+				criterion: ""
+				id: "78209BE358EA36E1"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["46DDB9A2E1A8C4E8"]
+			icon: {
+				id: "inventorypets:petachieve_20"
+			}
+			id: "45A76C5F674624A5"
+			rewards: [{
+				id: "19D20E11741B4592"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				advancement: "inventorypets:20"
+				criterion: ""
+				id: "3D306CAD27DCB389"
+				type: "advancement"
+			}]
+			x: 6.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45A76C5F674624A5"]
+			icon: {
+				id: "inventorypets:petachieve_30"
+			}
+			id: "7529B626BA315E9A"
+			rewards: [{
+				id: "276CE327A9D8583B"
+				type: "xp_levels"
+				xp_levels: 6
+			}]
+			tasks: [{
+				advancement: "inventorypets:30"
+				criterion: ""
+				id: "0087261A6D258655"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7529B626BA315E9A"]
+			icon: {
+				id: "inventorypets:petachieve_40"
+			}
+			id: "196602572F217A3D"
+			rewards: [{
+				id: "576F87C59A3DEA24"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				advancement: "inventorypets:40"
+				criterion: ""
+				id: "38E15612069E3D35"
+				type: "advancement"
+			}]
+			x: 11.25d
+			y: 0.0d
+		}
+		{
+			dependencies: ["196602572F217A3D"]
+			icon: {
+				id: "inventorypets:petachieve_50"
+			}
+			id: "45E3311A8FC88F72"
+			rewards: [{
+				id: "0CCA15996B187E63"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				advancement: "inventorypets:50"
+				criterion: ""
+				id: "7B5F5D53AA5AC917"
+				type: "advancement"
+			}]
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45E3311A8FC88F72"]
+			icon: {
+				id: "inventorypets:petachieve_60"
+			}
+			id: "36AF3D06F7C13920"
+			rewards: [{
+				id: "125B153693091816"
+				type: "xp_levels"
+				xp_levels: 12
+			}]
+			tasks: [{
+				advancement: "inventorypets:60"
+				criterion: ""
+				id: "306298B3CB9AD756"
+				type: "advancement"
+			}]
+			x: 15.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["36AF3D06F7C13920"]
+			icon: {
+				id: "inventorypets:petachieve_all"
+			}
+			id: "429ACC512A7C4219"
+			rewards: [{
+				id: "7836C84E7F9A2950"
+				type: "xp_levels"
+				xp_levels: 25
+			}]
+			tasks: [{
+				advancement: "inventorypets:all"
+				criterion: ""
+				id: "687DCF4AE79DBEC8"
+				type: "advancement"
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_anvil"
+			}
+			id: "1E2CD94571F3157A"
+			rewards: [{
+				id: "54D49D29620140DB"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:anvil"
+				criterion: ""
+				id: "01558815B964E3CE"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_bed"
+			}
+			id: "5E0943EE854B447E"
+			rewards: [{
+				id: "1A04EF7DE13FD315"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:bed"
+				criterion: ""
+				id: "59E4C1E0CFE9AF7A"
+				type: "advancement"
+			}]
+			x: 2.1d
+			y: 4.93d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_brewing_stand"
+			}
+			id: "571814A9A148A680"
+			rewards: [{
+				id: "75B0B901230F9EB4"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:brewingstand"
+				criterion: ""
+				id: "4DDD781A90CA9C86"
+				type: "advancement"
+			}]
+			x: 3.27d
+			y: 6.1d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_chest"
+			}
+			id: "1CEC818DF0EE4222"
+			rewards: [{
+				id: "2E32F67973CA5FF1"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:chest"
+				criterion: ""
+				id: "058EB5BF17DB9CBD"
+				type: "advancement"
+			}]
+			x: 3.7d
+			y: 7.7d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_crafting_table"
+			}
+			id: "42374C695F91CBC5"
+			rewards: [{
+				id: "5183D0521334BA27"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:craftingtable"
+				criterion: ""
+				id: "2037B0A5C05A1E7F"
+				type: "advancement"
+			}]
+			x: 3.27d
+			y: 9.3d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_double_chest"
+			}
+			id: "2A18298BCEFDA045"
+			rewards: [{
+				id: "77FD968B1DD796F8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:doublechest"
+				criterion: ""
+				id: "1C415F1269D75A95"
+				type: "advancement"
+			}]
+			x: 2.1d
+			y: 10.47d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_enchanting_table"
+			}
+			id: "6B6129EE83D022CF"
+			rewards: [{
+				id: "3EFC5E4DCC32D80B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:enchantingtable"
+				criterion: ""
+				id: "11EFB5CC1817CF37"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 10.9d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_end_portal"
+			}
+			id: "2DD4D02B05BFFB76"
+			rewards: [{
+				id: "03C1554CC227FA5E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:endportal"
+				criterion: ""
+				id: "76C5671060CA02A6"
+				type: "advancement"
+			}]
+			x: -1.1d
+			y: 10.47d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_ender_chest"
+			}
+			id: "20D62C31A62D10AA"
+			rewards: [{
+				id: "1A320CBEE5D63B6B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:enderchest"
+				criterion: ""
+				id: "030B11901D3B4278"
+				type: "advancement"
+			}]
+			x: -2.27d
+			y: 9.3d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_furnace"
+			}
+			id: "09D0FEC1B1CFEF03"
+			rewards: [{
+				id: "2A812497E7DA4A24"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:furnace"
+				criterion: ""
+				id: "49CCA974C5416EDB"
+				type: "advancement"
+			}]
+			x: -2.7d
+			y: 7.7d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_jukebox"
+			}
+			id: "1478123C2F7C4BC4"
+			rewards: [{
+				id: "260A9EDBBE3C6149"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:jukebox"
+				criterion: ""
+				id: "14AF48C25AE56D3F"
+				type: "advancement"
+			}]
+			x: -2.27d
+			y: 6.1d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_lead"
+			}
+			id: "5DFA0469CBFF181C"
+			rewards: [{
+				id: "3A9CD835C3E1D626"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:lead"
+				criterion: ""
+				id: "5B2BA1F3CDA52FB8"
+				type: "advancement"
+			}]
+			x: -1.1d
+			y: 4.93d
+		}
+		{
+			dependencies: [
+				"1E2CD94571F3157A"
+				"5E0943EE854B447E"
+				"571814A9A148A680"
+				"1CEC818DF0EE4222"
+				"42374C695F91CBC5"
+				"2A18298BCEFDA045"
+				"6B6129EE83D022CF"
+				"2DD4D02B05BFFB76"
+				"20D62C31A62D10AA"
+				"09D0FEC1B1CFEF03"
+				"1478123C2F7C4BC4"
+				"5DFA0469CBFF181C"
+			]
+			icon: {
+				id: "inventorypets:pet_chest"
+			}
+			id: "034859012442BDB1"
+			rewards: [{
+				id: "0FE2B2653BD40B30"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				advancement: "inventorypets:utilitarian"
+				criterion: ""
+				id: "68971ACA1FAD3CF6"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 7.7d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_banana"
+			}
+			id: "5A2BB3FE519904B0"
+			rewards: [{
+				id: "7A0B734D49D53B69"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:banana"
+				criterion: ""
+				id: "4052BC600A11FEB8"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 4.6d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_dingot"
+			}
+			id: "2DE8C1417D853B24"
+			rewards: [{
+				id: "02E20EFBEE345C6F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:dingot"
+				criterion: ""
+				id: "71A0C77C78ED5B37"
+				type: "advancement"
+			}]
+			x: 10.68d
+			y: 5.09d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_flying_saddle"
+			}
+			id: "2D8E992843D88ED6"
+			rewards: [{
+				id: "2D75F28ED1AF20CA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:flyingsaddle"
+				criterion: ""
+				id: "1900CD3826DD3E09"
+				type: "advancement"
+			}]
+			x: 11.82d
+			y: 6.41d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_loot"
+			}
+			id: "706ABC3111A615C2"
+			rewards: [{
+				id: "0224756D7E522070"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:loot"
+				criterion: ""
+				id: "5629109B44D3766A"
+				type: "advancement"
+			}]
+			x: 12.07d
+			y: 8.14d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_meta"
+			}
+			id: "7912EAAEAB3E5D3B"
+			rewards: [{
+				id: "341747596D5FDD56"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:meta"
+				criterion: ""
+				id: "4388843803E1A5B0"
+				type: "advancement"
+			}]
+			x: 11.34d
+			y: 9.73d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_mickerson"
+			}
+			id: "410105599B92D2A8"
+			rewards: [{
+				id: "56F4EB239C973603"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:mickerson"
+				criterion: ""
+				id: "6C9B3A02563873A8"
+				type: "advancement"
+			}]
+			x: 9.87d
+			y: 10.67d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_pingot"
+			}
+			id: "400B3C383231B9BE"
+			rewards: [{
+				id: "426BDE8883566346"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:pingot"
+				criterion: ""
+				id: "6BFCDEC97D6C7393"
+				type: "advancement"
+			}]
+			x: 8.13d
+			y: 10.67d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_purplicious_cow"
+			}
+			id: "4F87D484CF50F980"
+			rewards: [{
+				id: "4D1EE9BC7F478C29"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:purpliciouscow"
+				criterion: ""
+				id: "16CE0433FDA5690D"
+				type: "advancement"
+			}]
+			x: 6.66d
+			y: 9.73d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_qcm"
+			}
+			id: "48A2A4D44D3E72AB"
+			rewards: [{
+				id: "1E0D76CC8B61D059"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:qcm"
+				criterion: ""
+				id: "1D58C773A2E4BF5F"
+				type: "advancement"
+			}]
+			x: 5.93d
+			y: 8.14d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_quiver"
+			}
+			id: "4DF4CCA612E87BC1"
+			rewards: [{
+				id: "09D93C2F0F0C937E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:quiver"
+				criterion: ""
+				id: "7AFE5F12AE9B1563"
+				type: "advancement"
+			}]
+			x: 6.18d
+			y: 6.41d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_sponge"
+			}
+			id: "288B83B4EDE8217C"
+			rewards: [{
+				id: "36111787AAAC9D14"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:sponge"
+				criterion: ""
+				id: "115ED37AD30907F3"
+				type: "advancement"
+			}]
+			x: 7.32d
+			y: 5.09d
+		}
+		{
+			dependencies: [
+				"5A2BB3FE519904B0"
+				"2DE8C1417D853B24"
+				"2D8E992843D88ED6"
+				"706ABC3111A615C2"
+				"7912EAAEAB3E5D3B"
+				"410105599B92D2A8"
+				"400B3C383231B9BE"
+				"4F87D484CF50F980"
+				"48A2A4D44D3E72AB"
+				"4DF4CCA612E87BC1"
+				"288B83B4EDE8217C"
+			]
+			icon: {
+				id: "inventorypets:pet_mickerson"
+			}
+			id: "11CB8DC2DE20DF89"
+			rewards: [{
+				id: "65051312B4D24691"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				advancement: "inventorypets:specialist"
+				criterion: ""
+				id: "3D41E84C0D2DDDE4"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 7.7d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_blaze"
+			}
+			id: "5EFFD7F90347D84C"
+			rewards: [{
+				id: "02695A2B2F97FD48"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:blaze"
+				criterion: ""
+				id: "05F03B665480F135"
+				type: "advancement"
+			}]
+			x: 17.5d
+			y: 5.1d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_creeper"
+			}
+			id: "4BC8C8F0B0ADFCA2"
+			rewards: [{
+				id: "46D9019814C5E97D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:creeper"
+				criterion: ""
+				id: "41544159462CF7B3"
+				type: "advancement"
+			}]
+			x: 19.34d
+			y: 5.86d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_enderman"
+			}
+			id: "2EF50D487B76083F"
+			rewards: [{
+				id: "3FB7B9130426EBD8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:enderman"
+				criterion: ""
+				id: "045981728DE009FB"
+				type: "advancement"
+			}]
+			x: 20.1d
+			y: 7.7d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_ghast"
+			}
+			id: "11A8FAFA9EAA3CD7"
+			rewards: [{
+				id: "5A58DAFF4EA2A894"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:ghast"
+				criterion: ""
+				id: "04018F4D53E5E1F4"
+				type: "advancement"
+			}]
+			x: 19.34d
+			y: 9.54d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_iron_golem"
+			}
+			id: "39FB0BF639BAF694"
+			rewards: [{
+				id: "3F685D4C6FD56091"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:irongolem"
+				criterion: ""
+				id: "30CD97D5BF9586B2"
+				type: "advancement"
+			}]
+			x: 17.5d
+			y: 10.3d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_magma_cube"
+			}
+			id: "29645E8A5730448E"
+			rewards: [{
+				id: "64337B3A5DC4F19A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:magmacube"
+				criterion: ""
+				id: "0458AAC63DACF081"
+				type: "advancement"
+			}]
+			x: 15.66d
+			y: 9.54d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_snow_golem"
+			}
+			id: "2B4F57775E452281"
+			rewards: [{
+				id: "557AE0C4DC3F74F6"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:snowgolem"
+				criterion: ""
+				id: "15A12EAEAE23ADD5"
+				type: "advancement"
+			}]
+			x: 14.9d
+			y: 7.7d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_spider"
+			}
+			id: "31BF2CE22A7C697E"
+			rewards: [{
+				id: "60ACA167231EB32B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:spider"
+				criterion: ""
+				id: "620F57FBAB914B20"
+				type: "advancement"
+			}]
+			x: 15.66d
+			y: 5.86d
+		}
+		{
+			dependencies: [
+				"5EFFD7F90347D84C"
+				"4BC8C8F0B0ADFCA2"
+				"2EF50D487B76083F"
+				"11A8FAFA9EAA3CD7"
+				"39FB0BF639BAF694"
+				"29645E8A5730448E"
+				"2B4F57775E452281"
+				"31BF2CE22A7C697E"
+			]
+			icon: {
+				id: "inventorypets:pet_creeper"
+			}
+			id: "4B7A9E79D4CAE2E1"
+			rewards: [{
+				id: "34753DE00C8F5736"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				advancement: "inventorypets:mob"
+				criterion: ""
+				id: "1A4758DDB7A6D5D7"
+				type: "advancement"
+			}]
+			x: 17.5d
+			y: 7.7d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_chicken"
+			}
+			id: "24CB19ADFE73AE3C"
+			rewards: [{
+				id: "56002C75403F4480"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:chicken"
+				criterion: ""
+				id: "5934FE9FA5494DEE"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 13.7d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_cow"
+			}
+			id: "263580EFE40C382D"
+			rewards: [{
+				id: "5AE5D20E70682847"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:cow"
+				criterion: ""
+				id: "60D5B61D4B6A62AE"
+				type: "advancement"
+			}]
+			x: 2.45d
+			y: 14.64d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_mooshroom"
+			}
+			id: "0B926C1EBC72C321"
+			rewards: [{
+				id: "64E2ED1E448EE61A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:mooshroom"
+				criterion: ""
+				id: "3B0CCDF3D07081EE"
+				type: "advancement"
+			}]
+			x: 2.94d
+			y: 16.76d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_ocelot"
+			}
+			id: "344416259F08E1D9"
+			rewards: [{
+				id: "4CA956D1C9EB4C5D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:ocelot"
+				criterion: ""
+				id: "2E02539CB0616D56"
+				type: "advancement"
+			}]
+			x: 1.58d
+			y: 18.45d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_pig"
+			}
+			id: "28789AC959274591"
+			rewards: [{
+				id: "69FB74AF0F464DC5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:pig"
+				criterion: ""
+				id: "6629F3D5348962D7"
+				type: "advancement"
+			}]
+			x: -0.58d
+			y: 18.45d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_sheep"
+			}
+			id: "56470DD6A6B6B8AE"
+			rewards: [{
+				id: "43F1655873F39E5F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:sheep"
+				criterion: ""
+				id: "21873AADBA35C6A1"
+				type: "advancement"
+			}]
+			x: -1.94d
+			y: 16.76d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_squid"
+			}
+			id: "48B38A199C0690E6"
+			rewards: [{
+				id: "3B8419C45E4CE791"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:squid"
+				criterion: ""
+				id: "1E97FE0AE2971A90"
+				type: "advancement"
+			}]
+			x: -1.45d
+			y: 14.64d
+		}
+		{
+			dependencies: [
+				"24CB19ADFE73AE3C"
+				"263580EFE40C382D"
+				"0B926C1EBC72C321"
+				"344416259F08E1D9"
+				"28789AC959274591"
+				"56470DD6A6B6B8AE"
+				"48B38A199C0690E6"
+			]
+			icon: {
+				id: "inventorypets:pet_sheep"
+			}
+			id: "4A48C9233678C0E2"
+			rewards: [{
+				id: "20928758A5B09DCC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				advancement: "inventorypets:peaceful"
+				criterion: ""
+				id: "247C592A8298279C"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 16.2d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_black_hole"
+			}
+			id: "4221D0E01AD435C6"
+			rewards: [{
+				id: "47C55BD17C2CF3B3"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:blackhole"
+				criterion: ""
+				id: "2FF63E4A94A01A0A"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 13.9d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_cloud"
+			}
+			id: "202AF58F0D836F49"
+			rewards: [{
+				id: "5B4250CDBFE6649E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:cloud"
+				criterion: ""
+				id: "7EB49B33B1A1DE5A"
+				type: "advancement"
+			}]
+			x: 10.99d
+			y: 15.05d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_pufferfish"
+			}
+			id: "649A8D3788538C80"
+			rewards: [{
+				id: "31E8AA6ADFE04732"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:pufferfish"
+				criterion: ""
+				id: "3C8E2A6B43356A71"
+				type: "advancement"
+			}]
+			x: 10.99d
+			y: 17.35d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_slime"
+			}
+			id: "5E2317898835EEB5"
+			rewards: [{
+				id: "59FAA436DA9CC9DB"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:slime"
+				criterion: ""
+				id: "27653DF6FF29702B"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 18.5d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_sun"
+			}
+			id: "22C3E995BED50106"
+			rewards: [{
+				id: "7674E52F3297E14B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:sun"
+				criterion: ""
+				id: "652F11E9B250FF05"
+				type: "advancement"
+			}]
+			x: 7.01d
+			y: 17.35d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_wither"
+			}
+			id: "0A0F0008E0D1CC79"
+			rewards: [{
+				id: "7CD97D59F0CAF35F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:wither"
+				criterion: ""
+				id: "3263AE2A41A47982"
+				type: "advancement"
+			}]
+			x: 7.01d
+			y: 15.05d
+		}
+		{
+			dependencies: [
+				"4221D0E01AD435C6"
+				"202AF58F0D836F49"
+				"649A8D3788538C80"
+				"5E2317898835EEB5"
+				"22C3E995BED50106"
+				"0A0F0008E0D1CC79"
+			]
+			icon: {
+				id: "inventorypets:pet_black_hole"
+			}
+			id: "20A4643BD1004B56"
+			rewards: [{
+				id: "3D10A363B07B51F2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				advancement: "inventorypets:legend"
+				criterion: ""
+				id: "0D5C87E8466C117B"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 16.2d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_dubstep"
+			}
+			id: "438F1AA8169CF59A"
+			rewards: [{
+				id: "7815564DCE9DC236"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:dubstep"
+				criterion: ""
+				id: "5076C87D6BC2C5BD"
+				type: "advancement"
+			}]
+			x: 17.5d
+			y: 14.2d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_heart"
+			}
+			id: "3F7C17E60A335E1B"
+			rewards: [{
+				id: "2770A66C6B6DC7BD"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:heart"
+				criterion: ""
+				id: "46E7FCF6906D027A"
+				type: "advancement"
+			}]
+			x: 19.5d
+			y: 16.2d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_moon"
+			}
+			id: "3457FE5FD126C5CD"
+			rewards: [{
+				id: "02281089E793CADE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:moon"
+				criterion: ""
+				id: "58CFDFC757B054C0"
+				type: "advancement"
+			}]
+			x: 17.5d
+			y: 18.2d
+		}
+		{
+			icon: {
+				id: "inventorypets:pet_shield"
+			}
+			id: "5D5293C66B777AB7"
+			rewards: [{
+				id: "3651800A9E65382F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "inventorypets:shield"
+				criterion: ""
+				id: "3955588BE8BB2019"
+				type: "advancement"
+			}]
+			x: 15.5d
+			y: 16.2d
+		}
+		{
+			dependencies: [
+				"438F1AA8169CF59A"
+				"3F7C17E60A335E1B"
+				"3457FE5FD126C5CD"
+				"5D5293C66B777AB7"
+			]
+			icon: {
+				id: "inventorypets:pet_heart"
+			}
+			id: "6AA39F9193D053E6"
+			rewards: [{
+				id: "6CF6C93B01DB147C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				advancement: "inventorypets:aoe"
+				criterion: ""
+				id: "1A697CB0864BFBB7"
+				type: "advancement"
+			}]
+			x: 17.5d
+			y: 16.2d
+		}
+	]
+}

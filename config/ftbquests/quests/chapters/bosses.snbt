@@ -5,7 +5,7 @@
 	group: ""
 	id: "4AE831F245E4DD6A"
 	images: [ ]
-	order_index: 2
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
@@ -25,7 +25,7 @@
 				id: "66D8AFBF8281D7AB"
 				type: "dimension"
 			}]
-			x: 1.5d
+			x: 9.875d
 			y: 0.0d
 		}
 		{
@@ -45,8 +45,8 @@
 				id: "416897CC5E6A7683"
 				type: "dimension"
 			}]
-			x: 12.0d
-			y: 0.0d
+			x: 5.25d
+			y: 6.5d
 		}
 		{
 			dependencies: ["13C330FC9C38F2CF"]
@@ -64,8 +64,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 0.0d
-			y: 1.5d
+			x: 9.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["6D8CD5CBA8CE7BFA"]
@@ -86,8 +86,8 @@
 				item: { count: 1, id: "explorerscompass:explorerscompass" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 3.0d
+			x: 9.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["13C330FC9C38F2CF"]
@@ -105,8 +105,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 3.0d
-			y: 1.5d
+			x: 10.75d
+			y: 2.5d
 		}
 		{
 			icon: {
@@ -125,8 +125,8 @@
 				id: "0789989F7AD2D452"
 				type: "dimension"
 			}]
-			x: 6.5d
-			y: 0.0d
+			x: 16.25d
+			y: 6.5d
 		}
 		{
 			dependencies: ["2C8724D1B5322F15"]
@@ -148,8 +148,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 5.0d
-			y: 1.5d
+			x: 14.5d
+			y: 9.0d
 		}
 		{
 			dependencies: ["53DB7377C211654A"]
@@ -171,8 +171,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 10.5d
-			y: 1.5d
+			x: 1.75d
+			y: 9.0d
 		}
 		{
 			dependencies: ["2C8724D1B5322F15"]
@@ -194,10 +194,11 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 8.0d
-			y: 1.5d
+			x: 16.25d
+			y: 9.0d
 		}
 		{
+			dependencies: ["19635F3E1FC4BE40"]
 			icon: {
 				components: {
 					"draconicevolution:soul_id": "antarchy:kraken"
@@ -216,8 +217,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 17.0d
-			y: 3.5d
+			x: 1.75d
+			y: 2.5d
 		}
 		{
 			dependencies: ["53DB7377C211654A"]
@@ -239,8 +240,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 13.5d
-			y: 1.5d
+			x: 3.5d
+			y: 9.0d
 		}
 		{
 			dependencies: ["53DB7377C211654A"]
@@ -262,10 +263,11 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 10.5d
-			y: 3.0d
+			x: 5.25d
+			y: 9.0d
 		}
 		{
+			dependencies: ["53DB7377C211654A"]
 			icon: {
 				components: {
 					"draconicevolution:soul_id": "antarchy:alpha_mantis"
@@ -284,8 +286,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 17.0d
-			y: 5.0d
+			x: 0.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["7F59786D1353134D"]
@@ -307,8 +309,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 17.0d
-			y: 1.5d
+			x: 17.125d
+			y: 2.5d
 		}
 		{
 			icon: {
@@ -327,7 +329,7 @@
 				id: "0F10B28D2D1F9B75"
 				type: "dimension"
 			}]
-			x: 17.0d
+			x: 18.0d
 			y: 0.0d
 		}
 		{
@@ -350,8 +352,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 5.0d
-			y: 3.0d
+			x: 18.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["2C8724D1B5322F15"]
@@ -373,8 +375,8 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 8.0d
-			y: 3.0d
+			x: 19.75d
+			y: 9.0d
 		}
 		{
 			dependencies: ["53DB7377C211654A"]
@@ -396,14 +398,14 @@
 				type: "kill"
 				value: 1L
 			}]
-			x: 13.5d
-			y: 3.0d
+			x: 7.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["53DB7377C211654A"]
 			icon: {
 				components: {
-					"draconicevolution:soul_id": "antarchy:cloud_shark"
+					"draconicevolution:soul_id": "antarchy:stratoshark"
 				}
 				id: "draconicevolution:mob_soul"
 			}
@@ -414,13 +416,162 @@
 				xp_levels: 3
 			}]
 			tasks: [{
-				entity: "antarchy:cloud_shark"
+				entity: "antarchy:stratoshark"
 				id: "14373A8B581124EB"
 				type: "kill"
 				value: 1L
 			}]
-			x: 12.0d
-			y: 4.5d
+			x: 8.75d
+			y: 9.0d
+		}
+		{
+			icon: {
+				id: "antos:computer"
+			}
+			id: "52135CB13CCC38B7"
+			shape: "gear"
+			size: 1.5d
+			rewards: [{
+				id: "3BB0D683C286C20E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "302F0AE02661DDFE"
+				item: { count: 1, id: "antos:computer" }
+				type: "item"
+			}]
+			x: 9.875d
+			y: -2.5d
+		}
+		{
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "19635F3E1FC4BE40"
+			shape: "none"
+			rewards: [{
+				id: "098A4DF022E3F570"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "2D000EAC13F329C0"
+				type: "dimension"
+			}]
+			x: 1.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["53DB7377C211654A"]
+			icon: {
+				components: {
+					"draconicevolution:soul_id": "antarchy:king"
+				}
+				id: "draconicevolution:mob_soul"
+			}
+			id: "575DF7EE5C1FAA9F"
+			shape: "hexagon"
+			size: 1.25d
+			rewards: [{
+				id: "610F65E67678CC69"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				entity: "antarchy:king"
+				id: "2FCB5832E466E705"
+				type: "kill"
+				value: 1L
+			}]
+			x: 10.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["575DF7EE5C1FAA9F"]
+			icon: {
+				id: "antarchy:prince_egg"
+			}
+			id: "141707DC8770F0B6"
+			rewards: [{
+				id: "10913A1F31064483"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				advancement: "antarchy:long_live_the_prince"
+				criterion: ""
+				id: "572D2D7E36BF7FEC"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: 10.75d
+		}
+		{
+			dependencies: ["2C8724D1B5322F15"]
+			icon: {
+				components: {
+					"draconicevolution:soul_id": "antarchy:queen"
+				}
+				id: "draconicevolution:mob_soul"
+			}
+			id: "21CC719DB7052664"
+			shape: "hexagon"
+			size: 1.25d
+			rewards: [{
+				id: "50C95E2C411BFF12"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				entity: "antarchy:queen"
+				id: "44856780E2563E4B"
+				type: "kill"
+				value: 1L
+			}]
+			x: 12.75d
+			y: 9.0d
+		}
+		{
+			dependencies: ["21CC719DB7052664"]
+			icon: {
+				id: "antarchy:princess_egg"
+			}
+			id: "6408726B64551FDF"
+			rewards: [{
+				id: "42041FF7E990B3EA"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				advancement: "antarchy:long_live_the_princess"
+				criterion: ""
+				id: "4E0BD65B6406D27D"
+				type: "advancement"
+			}]
+			x: 12.75d
+			y: 10.75d
+		}
+		{
+			dependencies: ["7F59786D1353134D"]
+			icon: {
+				id: "antarchy:broodfruit"
+			}
+			id: "52EDD018CBF9952F"
+			rewards: [{
+				id: "5C4BCC230697B18C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				advancement: "antarchy:beetle_buddies"
+				criterion: ""
+				id: "50060E38340466FA"
+				type: "advancement"
+			}]
+			x: 18.875d
+			y: 2.5d
 		}
 	]
 }

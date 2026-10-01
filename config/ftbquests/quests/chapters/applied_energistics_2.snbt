@@ -8,7 +8,7 @@
 	}
 	id: "37ECEF63B062F0C3"
 	images: [ ]
-	order_index: 5
+	order_index: 7
 	quest_links: [ ]
 	quests: [
 		{
@@ -32,10 +32,11 @@
 				item: { count: 1, id: "ae2:controller" }
 				type: "item"
 			}]
-			x: 2.5d
+			x: 5.25d
 			y: 0.0d
 		}
 		{
+			dependencies: ["0438E6DA6F4D3F5A"]
 			icon: {
 				id: "ae2:inscriber"
 			}
@@ -50,10 +51,11 @@
 				item: { count: 1, id: "ae2:inscriber" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 2.0d
+			x: 3.5d
+			y: 2.5d
 		}
 		{
+			dependencies: ["0438E6DA6F4D3F5A"]
 			icon: {
 				id: "ae2:drive"
 			}
@@ -68,11 +70,11 @@
 				item: { count: 1, id: "ae2:drive" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 2.0d
+			x: 0.0d
+			y: 2.5d
 		}
 		{
-			dependencies: ["4A9C9D5C3303E80E"]
+			dependencies: ["0438E6DA6F4D3F5A"]
 			icon: {
 				id: "ae2:terminal"
 			}
@@ -87,10 +89,11 @@
 				item: { count: 1, id: "ae2:terminal" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 2.0d
+			x: 1.75d
+			y: 2.5d
 		}
 		{
+			dependencies: ["66902790EAFD0729"]
 			icon: {
 				id: "ae2:crafting_terminal"
 			}
@@ -105,10 +108,11 @@
 				item: { count: 1, id: "ae2:crafting_terminal" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 1.75d
 			y: 4.0d
 		}
 		{
+			dependencies: ["0438E6DA6F4D3F5A"]
 			icon: {
 				id: "ae2:pattern_provider"
 			}
@@ -123,8 +127,8 @@
 				item: { count: 1, id: "ae2:pattern_provider" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 4.0d
+			x: 10.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["7F85B0D935283536"]
@@ -142,10 +146,11 @@
 				item: { count: 1, id: "ae2:molecular_assembler" }
 				type: "item"
 			}]
-			x: 2.5d
+			x: 10.5d
 			y: 4.0d
 		}
 		{
+			dependencies: ["0438E6DA6F4D3F5A"]
 			icon: {
 				id: "ae2:import_bus"
 			}
@@ -160,10 +165,11 @@
 				item: { count: 1, id: "ae2:import_bus" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: 2.0d
+			x: 7.0d
+			y: 2.5d
 		}
 		{
+			dependencies: ["0438E6DA6F4D3F5A"]
 			icon: {
 				id: "ae2:export_bus"
 			}
@@ -178,8 +184,8 @@
 				item: { count: 1, id: "ae2:export_bus" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: 4.0d
+			x: 8.75d
+			y: 2.5d
 		}
 		{
 			dependencies: ["4A9C9D5C3303E80E"]
@@ -201,7 +207,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 6.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["22EB680B8211E199"]
@@ -219,10 +225,11 @@
 				item: { count: 1, id: "ae2:item_storage_cell_4k" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 6.0d
+			x: 0.0d
+			y: 5.5d
 		}
 		{
+			dependencies: ["0438E6DA6F4D3F5A"]
 			icon: {
 				id: "ae2:energy_acceptor"
 			}
@@ -237,8 +244,8 @@
 				item: { count: 1, id: "ae2:energy_acceptor" }
 				type: "item"
 			}]
-			x: 5.0d
-			y: 6.0d
+			x: 5.25d
+			y: 2.5d
 		}
 		{
 			icon: {
@@ -254,8 +261,8 @@
 				id: "196ABA4E8CA4D30C"
 				type: "checkmark"
 			}]
-			x: 2.5d
-			y: -1.5d
+			x: 5.25d
+			y: -1.75d
 		}
 		{
 			dependencies: ["0055C7B329D3F955"]
@@ -273,10 +280,11 @@
 				item: { count: 1, id: "ae2:item_storage_cell_16k" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 7.5d
+			x: 0.0d
+			y: 7.0d
 		}
 		{
+			dependencies: ["0462A21DD17BB720"]
 			icon: {
 				id: "ae2:item_storage_cell_64k"
 			}
@@ -291,10 +299,11 @@
 				item: { count: 1, id: "ae2:item_storage_cell_64k" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 9.0d
+			x: 0.0d
+			y: 8.5d
 		}
 		{
+			dependencies: ["641CF9A9B2EFF048"]
 			icon: {
 				id: "ae2:item_storage_cell_256k"
 			}
@@ -309,8 +318,8 @@
 				item: { count: 1, id: "ae2:item_storage_cell_256k" }
 				type: "item"
 			}]
-			x: 2.5d
-			y: 10.5d
+			x: 0.0d
+			y: 10.0d
 		}
 	]
 }

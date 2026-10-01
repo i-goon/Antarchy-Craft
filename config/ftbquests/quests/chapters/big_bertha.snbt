@@ -8,7 +8,7 @@
 	}
 	id: "16B34C63AD765C1B"
 	images: [ ]
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -29,7 +29,7 @@
 		{
 			id: "5F5E45EFACDCE9A6"
 			rewards: [{
-				id: "DD29BD81A11273D0"
+				id: "5D29BD81A11273D0"
 				type: "xp"
 				xp: 25
 			}]
@@ -44,7 +44,7 @@
 		{
 			id: "5DA1AD8E6FEBCD1F"
 			rewards: [{
-				id: "B0485F2A2CB731F2"
+				id: "30485F2A2CB731F2"
 				type: "xp"
 				xp: 25
 			}]
@@ -64,7 +64,7 @@
 			]
 			id: "10845E332C012581"
 			rewards: [{
-				id: "EB302011B76D60E4"
+				id: "6B302011B76D60E4"
 				type: "xp"
 				xp: 50
 			}]
@@ -79,7 +79,7 @@
 		{
 			id: "0592D3DABACD0CE6"
 			rewards: [{
-				id: "8AA7C83D311EE64A"
+				id: "0AA7C83D311EE64A"
 				type: "xp"
 				xp: 50
 			}]
@@ -94,7 +94,7 @@
 		{
 			id: "1D2BC6C9E7FCD9DD"
 			rewards: [{
-				id: "89E818D093FB034B"
+				id: "09E818D093FB034B"
 				type: "xp"
 				xp: 50
 			}]
@@ -109,7 +109,7 @@
 		{
 			id: "4F15A97C2B78C20C"
 			rewards: [{
-				id: "D1333915F6EC1763"
+				id: "51333915F6EC1763"
 				type: "xp"
 				xp: 50
 			}]
@@ -130,7 +130,7 @@
 			}]
 			tasks: [{
 				id: "602826C5FD49148A"
-				item: { count: 1, id: "antarchy:cloud_shark_fin" }
+				item: { count: 1, id: "antarchy:stratoshark_fin" }
 				type: "item"
 			}]
 			x: 6.0d
@@ -169,7 +169,7 @@
 			]
 			id: "61CF2F9D4B616419"
 			rewards: [{
-				id: "AA83061F67D506F7"
+				id: "2A83061F67D506F7"
 				type: "xp"
 				xp: 100
 			}]
@@ -214,7 +214,7 @@
 		{
 			id: "401952145436BB91"
 			rewards: [{
-				id: "85E841BF3E3526E8"
+				id: "05E841BF3E3526E8"
 				type: "xp"
 				xp: 50
 			}]
@@ -229,7 +229,7 @@
 		{
 			id: "7F8D2F3FBC9C28BE"
 			rewards: [{
-				id: "A6694ED4A83486A6"
+				id: "26694ED4A83486A6"
 				type: "xp"
 				xp: 50
 			}]
@@ -244,13 +244,13 @@
 		{
 			id: "041794122D484661"
 			rewards: [{
-				id: "BD9A97F3193EFC7C"
+				id: "3D9A97F3193EFC7C"
 				type: "xp"
 				xp: 50
 			}]
 			tasks: [{
 				id: "67F1F1DE7409DAEF"
-				item: { count: 1, id: "antarchy:jumpy_bug_leg" }
+				item: { count: 1, id: "antarchy:springbug_leg" }
 				type: "item"
 			}]
 			x: 2.0d
@@ -274,7 +274,7 @@
 		{
 			id: "20536A6C1E21C77A"
 			rewards: [{
-				id: "D934C53DDCB2A4D2"
+				id: "5934C53DDCB2A4D2"
 				type: "xp"
 				xp: 25
 			}]
@@ -289,7 +289,7 @@
 		{
 			id: "707341E3F0EEAE0C"
 			rewards: [{
-				id: "F4F0FA4E25F2B236"
+				id: "74F0FA4E25F2B236"
 				type: "xp"
 				xp: 25
 			}]
@@ -304,7 +304,7 @@
 		{
 			id: "74371D87F77252BF"
 			rewards: [{
-				id: "FA53D8039DF20EBB"
+				id: "7A53D8039DF20EBB"
 				type: "xp"
 				xp: 25
 			}]
@@ -324,7 +324,7 @@
 			]
 			id: "3B68BB08293B5042"
 			rewards: [{
-				id: "C5DE81B853346C8C"
+				id: "45DE81B853346C8C"
 				type: "xp"
 				xp: 50
 			}]
@@ -348,7 +348,7 @@
 			]
 			id: "4DA1CB466F30CB23"
 			rewards: [{
-				id: "F79A1BB34349A285"
+				id: "779A1BB34349A285"
 				type: "xp"
 				xp: 100
 			}]
@@ -363,7 +363,7 @@
 		{
 			id: "7B48AA1D703B5B22"
 			rewards: [{
-				id: "F289B1523C372C5D"
+				id: "7289B1523C372C5D"
 				type: "xp"
 				xp: 50
 			}]
@@ -399,7 +399,7 @@
 			}]
 			tasks: [{
 				id: "239CBE781E97D851"
-				item: { count: 1, id: "antarchy:triffid_goo" }
+				item: { count: 1, id: "antarchy:flytrap_goo" }
 				type: "item"
 			}]
 			x: 0.0d
@@ -477,7 +477,7 @@
 			]
 			id: "468AC41BFA2FBD23"
 			rewards: [{
-				id: "B11DE77C09DB4783"
+				id: "311DE77C09DB4783"
 				type: "xp"
 				xp: 50
 			}]
@@ -499,7 +499,7 @@
 			]
 			id: "5C87B4ED20485B96"
 			rewards: [{
-				id: "A895C4F4C2631F70"
+				id: "2895C4F4C2631F70"
 				type: "xp"
 				xp: 100
 			}]
@@ -519,7 +519,7 @@
 			]
 			id: "6C3CC466DF3D88BE"
 			rewards: [{
-				id: "B3CBE00DB8A49B6C"
+				id: "33CBE00DB8A49B6C"
 				type: "xp"
 				xp: 250
 			}]
