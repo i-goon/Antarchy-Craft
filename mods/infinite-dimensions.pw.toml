@@ -1,17 +1,17 @@
 name = "Infinite Dimensions"
-filename = "infinity-2.7.2+1.21.1-neoforge.jar"
+filename = "infinity-2.7.3+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KgKqTqPj/versions/gsGU5AUf/infinity-2.7.2%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/KgKqTqPj/versions/xYRChlab/infinity-2.7.3%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "a0ab81a2b93a80c63cb239b094b99a3bcd5c6dd95be6952ba718c75de2490177709b683af878226aaa1d9800621fcad1a14974ae5411f247f337d31e4c4e8979"
+hash = "40a78d9cfe3208ef824e808d55b4f47075c2dd762e7e9ef24f172efcd6ad885c959d1542e45102cea1cc2e87a6138d10ffa921f8a5a715fe581b1380d2f0984c"
 
 [update]
 [update.modrinth]
 mod-id = "KgKqTqPj"
-version = "gsGU5AUf"
+version = "xYRChlab"
 
 [update.curseforge]
-file-id = 8409189
+file-id = 8899025
 project-id = 981829

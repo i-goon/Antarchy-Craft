@@ -17,10 +17,10 @@
 	# Default: 7.0
 	# Range: 0.0 ~ 60.0
 	effectDurationSeconds = 7.0
-	#Multiplier applied to fall damage after dream sand low gravity.
+	#Multiplier applied to dream sand's own falling-block gravity (how slowly it falls as a block, distinct from the player low-gravity effect).
 	# Default: 0.4
 	# Range: 0.0 ~ 16.0
-	fallDamageMultiplier = 0.4
+	fallingBlockGravityMultiplier = 0.4
 
 [ichor]
 	#If true, players submerged in ichor receive a Wither effect.
@@ -57,34 +57,34 @@
 	cavarynPortalEnabled = true
 
 [diamondMinecart]
-	#Master toggle. If false, acts like a regular minecart.
+	#Master toggle for the diamond minecart's custom propulsion and rail-laying behavior.
 	enabled = true
-	#Whether the cart automatically places rails from the rider's inventory.
+	#Whether the cart automatically places normal rails from the rider's inventory.
 	placesRails = true
-	#Cruise speed in blocks/tick while ridden (even without holding W).
-	# Default: 0.6
-	# Range: 0.05 ~ 2.0
+	#Minimum maintained speed while ridden without holding W. Set to 0 for manual control.
+	# Default: 0.0
+	# Range: 0.0 ~ 2.0
 	cruiseSpeed = 0.6
-	#Maximum boosted speed in blocks/tick when W is held. Vanilla cap is 0.4.
-	# Default: 1.0
+	#Maximum speed in blocks/tick when W is held. Vanilla rideable minecarts cap at 0.4.
+	# Default: 0.55
 	# Range: 0.05 ~ 2.0
 	maxSpeed = 1.0
 	#Speed gained per tick while accelerating.
-	# Default: 0.03
+	# Default: 0.02
 	# Range: 0.001 ~ 0.5
 	acceleration = 0.03
 	#Speed lost per tick while S is held (active braking).
-	# Default: 0.04
+	# Default: 0.05
 	# Range: 0.001 ~ 0.5
 	deceleration = 0.04
-	#Speed lost per tick when neither W nor S is held (coasting friction).
-	# Default: 0.01
+	#Speed lost per tick when neither W nor S is held.
+	# Default: 0.02
 	# Range: 0.001 ~ 0.5
 	coastDeceleration = 0.01
-	#Whether the cart deals damage to mobs it collides with at speed.
+	#Whether the cart damages mobs it hits while moving.
 	mobDamageEnabled = true
-	#Maximum damage dealt at full speed. Scales linearly with current speed.
-	# Default: 8.0
+	#Maximum collision damage dealt at full speed if mob damage is enabled.
+	# Default: 4.0
 	# Range: 0.0 ~ 200.0
 	maxMobDamage = 8.0
 
@@ -93,11 +93,19 @@
 	duplicatorTreeEnabled = true
 	#Whether glow vines can be placed and survive when attached under leaf blocks.
 	glowVinesUnderLeaves = true
-	#If true, torchflowers use the glowing behavior.
-	glowingTorchflowers = true
 	#If true, empty collision plants like grass do not block melee target picking.
 	swingThroughGrassEnabled = true
 	fabricKeybindingConflictFixEnabled = true
 	experimentalSettingsPopupDisabled = true
 	#If true, burning entities use soul fire / dream fire overlays where appropriate.
 	entitySpecificFireOverlayEnabled = true
+
+[hoverboard]
+	#Maximum hoverboard speed in blocks/tick while moving forward.
+	# Default: 6.0
+	# Range: 0.05 ~ 12.0
+	maxSpeed = 6.0
+	#Hoverboard speed gained per tick while moving forward. Lower values take longer to reach top speed.
+	# Default: 0.05
+	# Range: 0.001 ~ 1.0
+	acceleration = 0.05

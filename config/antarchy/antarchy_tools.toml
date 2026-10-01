@@ -290,14 +290,6 @@
 	# Default: 0.45
 	# Range: 0.0 ~ 8.0
 	selfPullMultiplier = 0.45
-	#Cooldown after reeling with the whip, in ticks.
-	# Default: 10
-	# Range: 0 ~ 72000
-	reelCooldownTicks = 10
-	#Cooldown after snapping the whip, in ticks.
-	# Default: 30
-	# Range: 0 ~ 72000
-	snapCooldownTicks = 30
 
 [bloodCrystalKatana]
 	#Attack damage of the Blood Crystal Katana.
@@ -312,6 +304,18 @@
 	# Default: 12
 	# Range: 0 ~ 200
 	trailDurationTicks = 12
+	#Extra entity interaction range in blocks while held in main hand. Lets a swing reach (and dash toward) a target you are looking at from farther away.
+	# Default: 4.0
+	# Range: 0.0 ~ 32.0
+	reachBonus = 4.0
+	#Full-immunity window granted after a full-strength swing dash, in ticks (0 disables).
+	# Default: 8
+	# Range: 0 ~ 200
+	invulnTicks = 8
+	#Minimum ticks between katana dashes.
+	# Default: 4
+	# Range: 0 ~ 200
+	dashCooldownTicks = 4
 
 [nightmareArmor]
 	#Armor points of the Nightmare Helmet. (Netherite default: 3)
@@ -354,10 +358,22 @@
 	# Default: 0.5
 	# Range: 0.0 ~ 16.0
 	primordialArmorKnockbackPerPiece = 0.5
-	#Additional Dread aura range added by each Nightmare armor piece.
-	# Default: 2.0
-	# Range: 0.0 ~ 64.0
-	dreadAuraRangePerPiece = 2.0
+	#Chance for the Nightmare Helmet to double an incoming hit's damage.
+	# Default: 0.04
+	# Range: 0.0 ~ 1.0
+	helmetDoubleDamageChance = 0.04
+	#Chance for the Nightmare Chestplate to double an incoming hit's damage.
+	# Default: 0.06
+	# Range: 0.0 ~ 1.0
+	chestplateDoubleDamageChance = 0.06
+	#Chance for the Nightmare Leggings to double an incoming hit's damage.
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	leggingsDoubleDamageChance = 0.05
+	#Chance for the Nightmare Boots to double an incoming hit's damage.
+	# Default: 0.03
+	# Range: 0.0 ~ 1.0
+	bootsDoubleDamageChance = 0.03
 
 [nightmareSword]
 	#Base attack damage. Also the minimum damage at full health.
@@ -426,20 +442,20 @@
 	# Default: 0.0
 	# Range: 0.0 ~ 20.0
 	armorToughness = 0.0
-	#Max durability of Blood Crystal Helmet. Default: 77 (gold).
-	# Default: 77
+	#Max durability of Blood Crystal Helmet. Default: 92.
+	# Default: 92
 	# Range: 1 ~ 2000
 	helmetDurability = 77
-	#Max durability of Blood Crystal Chestplate. Default: 112 (gold).
-	# Default: 112
+	#Max durability of Blood Crystal Chestplate. Default: 134.
+	# Default: 134
 	# Range: 1 ~ 2000
 	chestplateDurability = 112
-	#Max durability of Blood Crystal Leggings. Default: 105 (gold).
-	# Default: 105
+	#Max durability of Blood Crystal Leggings. Default: 126.
+	# Default: 126
 	# Range: 1 ~ 2000
 	leggingsDurability = 105
-	#Max durability of Blood Crystal Boots. Default: 91 (gold).
-	# Default: 91
+	#Max durability of Blood Crystal Boots. Default: 109.
+	# Default: 109
 	# Range: 1 ~ 2000
 	bootsDurability = 91
 
@@ -602,15 +618,226 @@
 	regenerationAmplifier = 0
 
 [moggles]
-	#Radius used by Moggles cave detection.
+	#Search radius (in blocks) used by Moggles cave detection.
 	# Default: 20.0
 	# Range: 1.0 ~ 128.0
 	visionRadius = 20.0
-	#Maximum block light level counted as dark enough for Moggles.
-	# Default: 7
-	# Range: 0 ~ 15
-	visionMaxLight = 7
-	#Overlay alpha used by Moggles vision rendering.
-	# Default: 0.65
+
+[royalGear]
+	comesEnchanted = true
+	# Default: 10
+	# Range: 0 ~ 100
+	protectionLevel = 10
+	# Default: 30
+	# Range: 0 ~ 100
+	enchantability = 30
+	# Default: 93
+	# Range: 0 ~ 1000
+	durabilityMultiplier = 93
+	# Default: 5
+	# Range: 0 ~ 100
+	guardianHelmetArmor = 5
+	# Default: 10
+	# Range: 0 ~ 100
+	guardianChestplateArmor = 10
+	# Default: 8
+	# Range: 0 ~ 100
+	guardianLeggingsArmor = 8
+	# Default: 5
+	# Range: 0 ~ 100
+	guardianBootsArmor = 5
+	# Default: 4.0
+	# Range: 0.0 ~ 100.0
+	guardianArmorToughness = 4.0
+	# Default: 0.15
 	# Range: 0.0 ~ 1.0
-	visionAlpha = 0.65
+	guardianArmorKnockbackResistance = 0.15
+	# Default: 0.06
+	# Range: 0.0 ~ 10.0
+	guardianHelmetJudgmentBonus = 0.06
+	# Default: 0.08
+	# Range: 0.0 ~ 10.0
+	guardianChestplateJudgmentBonus = 0.08
+	# Default: 0.07
+	# Range: 0.0 ~ 10.0
+	guardianLeggingsJudgmentBonus = 0.07
+	# Default: 0.05
+	# Range: 0.0 ~ 10.0
+	guardianBootsJudgmentBonus = 0.05
+	# Default: 160
+	# Range: 1 ~ 72000
+	guardianJudgmentDurationTicks = 160
+	# Default: 5
+	# Range: 0 ~ 100
+	assailantHelmetArmor = 5
+	# Default: 10
+	# Range: 0 ~ 100
+	assailantChestplateArmor = 10
+	# Default: 8
+	# Range: 0 ~ 100
+	assailantLeggingsArmor = 8
+	# Default: 5
+	# Range: 0 ~ 100
+	assailantBootsArmor = 5
+	# Default: 3.0
+	# Range: 0.0 ~ 100.0
+	assailantArmorToughness = 3.0
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	assailantArmorKnockbackResistance = 0.15
+	# Default: 0.06
+	# Range: 0.0 ~ 1.0
+	assailantHelmetDoubleDamageChance = 0.06
+	# Default: 0.08
+	# Range: 0.0 ~ 1.0
+	assailantChestplateDoubleDamageChance = 0.08
+	# Default: 0.07
+	# Range: 0.0 ~ 1.0
+	assailantLeggingsDoubleDamageChance = 0.07
+	# Default: 0.05
+	# Range: 0.0 ~ 1.0
+	assailantBootsDoubleDamageChance = 0.05
+	# Default: 111.0
+	# Range: 0.0 ~ 4096.0
+	guardianSwordAttackDamage = 111.0
+	# Default: 50.0
+	# Range: 0.0 ~ 4096.0
+	giantFryingPanAttackDamage = 50.0
+	# Default: 200
+	# Range: 1 ~ 72000
+	giantFryingPanCookTimeTicks = 200
+	# Default: -2.5
+	# Range: -10.0 ~ 10.0
+	guardianSwordAttackSpeed = -2.5
+	# Default: 120
+	# Range: 0 ~ 72000
+	guardianSwordElementalCooldownTicks = 120
+	# Default: 22.0
+	# Range: 0.0 ~ 4096.0
+	guardianSwordFirePrimaryDamage = 22.0
+	# Default: 14.0
+	# Range: 0.0 ~ 4096.0
+	guardianSwordFireSplashDamage = 14.0
+	# Default: 9.0
+	# Range: 0.0 ~ 4096.0
+	guardianSwordFrostSpikeDamage = 9.0
+	# Default: 16.0
+	# Range: 0.0 ~ 4096.0
+	guardianSwordStormPrimaryDamage = 16.0
+	# Default: 14.0
+	# Range: 0.0 ~ 4096.0
+	guardianSwordStormJumpDamage = 14.0
+	# Default: 4
+	# Range: 0 ~ 64
+	guardianSwordStormMaxJumps = 4
+	# Default: 9.0
+	# Range: 0.0 ~ 128.0
+	guardianSwordStormJumpRange = 9.0
+	# Default: 151.0
+	# Range: 0.0 ~ 4096.0
+	assailantBattleAxeAttackDamage = 151.0
+	# Default: -2.9
+	# Range: -10.0 ~ 10.0
+	assailantBattleAxeAttackSpeed = -2.9
+	# Default: 3.2
+	# Range: 0.0 ~ 32.0
+	weaponAttackReachBonus = 3.2
+	# Default: 1.0
+	# Range: 0.0 ~ 32.0
+	weaponAttackKnockbackBonus = 1.0
+	# Default: 4608
+	# Range: 1 ~ 100000
+	weaponDurability = 4608
+	# Default: 30
+	# Range: 0 ~ 100
+	weaponEnchantability = 30
+	# Default: 1008
+	# Range: 1 ~ 100000
+	guardianShieldDurability = 1008
+	# Default: 16.0
+	# Range: 0.0 ~ 128.0
+	guardianMusterRange = 16.0
+	# Default: 1200
+	# Range: 1 ~ 72000
+	guardianMusterDurationTicks = 1200
+	# Default: 500
+	# Range: 0 ~ 72000
+	guardianMusterCooldownTicks = 500
+	# Default: 3
+	# Range: 0 ~ 64
+	guardianMusterMobCap = 3
+	# Default: 0.4
+	# Range: 0.0 ~ 1.0
+	guardianMusterDamageReduction = 0.4
+	# Default: 0.5
+	# Range: 0.0 ~ 10.0
+	guardianMusterAttackBonus = 0.5
+	# Default: 0.25
+	# Range: 0.0 ~ 10.0
+	guardianMusterSpeedBonus = 0.25
+	# Default: 3.0
+	# Range: 0.0 ~ 1024.0
+	guardianMusterPassiveDamageFloor = 3.0
+	# Default: 9.0
+	# Range: 0.5 ~ 128.0
+	guardianBoundaryRadius = 9.0
+	# Default: 120
+	# Range: 1 ~ 72000
+	guardianBoundaryDurationTicks = 120
+	# Default: 700
+	# Range: 0 ~ 72000
+	guardianBoundaryCooldownTicks = 700
+	# Default: 1
+	# Range: 0 ~ 255
+	guardianBoundaryStrengthAmplifier = 1
+	# Default: 20
+	# Range: 0 ~ 1200
+	guardianBoundaryArrestTicks = 20
+	# Default: 8
+	# Range: 0 ~ 1200
+	guardianBoundaryDropTicks = 8
+	# Default: 64
+	# Range: 0 ~ 4096
+	guardianBoundaryProjectileCap = 64
+
+[eyeOfTheStorm]
+	enabled = true
+	# Default: 40
+	# Range: 0 ~ 20000
+	updraftCooldownTicks = 40
+	# Default: 1.15
+	# Range: 0.0 ~ 16.0
+	updraftLaunchStrength = 1.15
+	# Default: 4.0
+	# Range: 0.0 ~ 128.0
+	updraftHeight = 4.0
+	# Default: 1.3
+	# Range: 0.0 ~ 64.0
+	updraftRadius = 1.3
+	# Default: 32
+	# Range: 0 ~ 20000
+	updraftDurationTicks = 32
+	# Default: 70
+	# Range: 0 ~ 20000
+	surgeCooldownTicks = 70
+	# Default: 16.0
+	# Range: 0.0 ~ 256.0
+	surgeRange = 16.0
+	# Default: 300
+	# Range: 0 ~ 20000
+	surgeDurationTicks = 300
+	# Default: 4.0
+	# Range: 0.0 ~ 128.0
+	surgeRadius = 4.0
+	# Default: 6.0
+	# Range: 0.0 ~ 128.0
+	surgeHeight = 6.0
+	# Default: 0.85
+	# Range: 0.0 ~ 16.0
+	surgePullStrength = 0.85
+	# Default: 1.4
+	# Range: 0.0 ~ 16.0
+	surgeReturnStrength = 1.4
+	# Default: 5.0
+	# Range: 0.0 ~ 1024.0
+	surgeDamage = 5.0

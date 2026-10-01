@@ -458,19 +458,19 @@ hash = "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8"
 
 [[files]]
 file = "config/antarchy/.config_generation"
-hash = "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+hash = "19581e27de7ced00ff1ce50b2047e7a567c76b1cbaebabe5ef03f7c3017bb5b7"
 
 [[files]]
 file = "config/antarchy/antarchy_misc.toml"
-hash = "fd8e2b3325886cd12b8f406e6a7672a992a4077cab114ec0fbf4add4a01bc7f5"
+hash = "350f28438a73c0c5724b9c35ed7adf89c0ba9e23b2b09a4965fd91423cd0a824"
 
 [[files]]
 file = "config/antarchy/antarchy_mobs.toml"
-hash = "43d46db75b6d4e12fe72a0c663a4420dcded6b9b6f5de1e999ed86f2b7e7ce19"
+hash = "69a0c861f510158ff60986b14ef5af85ceff3ffec6d672065177c80300aee7e5"
 
 [[files]]
 file = "config/antarchy/antarchy_tools.toml"
-hash = "8daf8f11bf29696e4e68f6295d52e5cbb6b843140ef85a88bfe018f21ef0eed2"
+hash = "918cf1bec51e62d4c7281825b85d1e4013b27ccb37e3e336edf302aabdf36f1f"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
@@ -490,7 +490,7 @@ hash = "73247cc6fdcc1121b35391eaca5c37d5ead8f4615063458dfeafb68a9f2d9729"
 
 [[files]]
 file = "config/apotheosis/name_generation.cfg"
-hash = "8efb4f0550d5e2839b05f284d460f268b678d3d6bb720dabe352edb6a2de3b7c"
+hash = "f08376fbb9d9c5982fe3eaa9701cb6755b64e4cc0c575e0729435b667cae43b8"
 
 [[files]]
 file = "config/apothic_spawners.cfg"
@@ -1650,7 +1650,7 @@ hash = "9ce7d3fb74b9a6602eb422636f827770f6444f2852f2652944d0d5d8d9530c7f"
 
 [[files]]
 file = "config/ftbchunks-client.snbt"
-hash = "acb0e54e6a4af464c221d3d117b6c9485c924162b8b0bf59682a183381308cb3"
+hash = "39217078c4f8e4ddfeefbe435fc572daf4b107c2ff3f889b0a2977e491737cdc"
 
 [[files]]
 file = "config/ftbchunks-world.snbt"
@@ -1670,43 +1670,47 @@ hash = "26e85b4c9ab530ffd686a8ed8a1ca9e4a7e861343c08d5ee812f7a0908181532"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/applied_energistics_2.snbt"
-hash = "50eb4bf840a08968f06944f2a301d4f3abde5ef30422e40e49ad5ce9962dfba9"
+hash = "c5aed32a9554f5761a41442f68dad155cddd65c8548ee986dd84aef530877056"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ars_nouveau.snbt"
-hash = "dbd8aedb25408709163ec618fcd880bf2eca7b78e5ce87a1e9154c874daa8b1b"
+hash = "f47dadf32528651bce32f33ee774cc63f2e6478539963ccf108d705bf79552fb"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/basic_logistics.snbt"
-hash = "66464f0dc164ee156d723b57b424fda72389ee2fb1ab84c038c678e16f8d09b0"
+hash = "2eba5bc19db4dd7f6a03886b26b6c1bc4292e6f99de5ffa1c254d7fdbfb9b099"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/big_bertha.snbt"
-hash = "f039806e61dad294da3acff55c713ed9e69e580fbd90e765d0628836e92709ac"
+hash = "d417560a293c7d0f29b6061aaf35e69ac0b1dcebb2ddfb315aa2e24279916b4c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/bosses.snbt"
-hash = "48db5793b7d9a05a1c41710146d8ace4c5dfeaee5bc2d5fab2997866b5a57866"
+hash = "1802442a67ecc54941d415f8d28918a4075d4e1217f9179088657a7311e910d7"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/inventory_pets.snbt"
+hash = "73e7b796dd190d709bf6b01beaa6cd5da24a0ceb3062f3181d12f0308f7189c3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mystical_agriculture.snbt"
-hash = "054e5cb38e584a6807f2d28079bb068b4c3b48e6aa162f50f3a07f23f57cbf46"
+hash = "e39aed80a342793fc1ca649d289dbd1f0d1971f161a23256fdb49549d28f1696"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/refined_storage.snbt"
-hash = "e530913ff67e88c62c579d36143d5ed655ebce68a90b438404a8a9edfc4ee51c"
+hash = "d0e6eb02351b8316481a8a2bbc07470fad18d79e3e2c4532ee709a00053f795d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/storage.snbt"
-hash = "c52913b4cef1b67c0229ea42f52ccc1416646a14961e73837a2007fc48d280af"
+hash = "baf670269cd44cb3045a2473bae7e2c2b0bcabb769a30b8a615ffea285bb147b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/twilight_forest.snbt"
-hash = "55fbbba09f5f5672c30764586fb474fad629fa81d35bf12aa624f6a70852251a"
+hash = "b33f5420ad1bb7d3cf670fc93e9fd1d3260734134b0c568b587902ae8dadc3a6"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "646b61986f88afcec7283e17b671d1d8d2e05b71fa333b43a113019b8fac2660"
+hash = "1a09cd039968566ca12ed894fc14a66eca2eddf28944908573f98b9273d501b9"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -2305,6 +2309,10 @@ file = "kubejs/server_scripts/reconstructed_wands.js"
 hash = "9eff2ef624ab170cab5991fdfd515d7f604bc3a6708542a4ef32f45c948e2144"
 
 [[files]]
+file = "kubejs/startup_scripts/antarchy_renames.js"
+hash = "07a318a0d12a85bfc985dd1314cb28205b76b15c7314be42dc64bf80194069a5"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "e747d405357d4b2bfa16d6f4d73356df56b53ebf2b1b56375637b944e52c58ff"
 metafile = true
@@ -2321,7 +2329,12 @@ metafile = true
 
 [[files]]
 file = "mods/antarchy.pw.toml"
-hash = "a85bfa9946e0d1a6a18a195d6394c44d2794b50670bca6a2d511acd7c4faef14"
+hash = "ea412d568de3cab98b2ad583a010f9494b38a56242d676b87d14c3fbb154cf37"
+metafile = true
+
+[[files]]
+file = "mods/antos.pw.toml"
+hash = "20eda67ff237a29df8363ac48f17eb8ac80914031af401ec6fd2a7ef194c16fe"
 metafile = true
 
 [[files]]
@@ -2826,7 +2839,7 @@ metafile = true
 
 [[files]]
 file = "mods/infinite-dimensions.pw.toml"
-hash = "6a885ecb35fd206fc5cc9201a81deeb51fa2ae9d2de80d334031eefc7b2f4f5a"
+hash = "099a0a37f5f9449ccda749b0290bd25c079c474227eef404ff3f50981cbeb53d"
 metafile = true
 
 [[files]]
@@ -2841,7 +2854,12 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-api.pw.toml"
-hash = "1902a3647452e80f854fb75eb5962a28a7e6d4ea4f3886249ba42b3e9c4b0521"
+hash = "eb22677575ee9861b1ca038ad99cdb205895745fd0a4e553f97f4ae431ca3335"
+metafile = true
+
+[[files]]
+file = "mods/inventory-pets.pw.toml"
+hash = "d61554c7a8c966bf6c83df38107264c429bc5eaedbe2bd8afff35ce8c577a751"
 metafile = true
 
 [[files]]
