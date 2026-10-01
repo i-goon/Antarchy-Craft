@@ -25,12 +25,10 @@ Consider backing up your world before updating.
 - Refined Storage, Applied Energistics 2 and Basic Logistics quests are easier to follow.
 
 ### Removed
-- Async. It could freeze a server when a player teleported into new terrain.
+- Async, which could freeze a server while new terrain generated.
 
 ### Fixed
-- Visiting a King's Tree no longer freezes the server while the tree generates.
 - Big Bertha quests keep their progress through future updates.
-- Quests for the renamed mobs point at their new names.
 
 ### Good to Know
 - Five Antarchy mobs have new names: Cloud Shark is now Stratoshark, Jumpy Bug is Springbug, Triffid is Flytrap, Creeping Horror is Crawling Blight, and Lurking Terror is Skulking Fright.
