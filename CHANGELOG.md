@@ -3,7 +3,7 @@
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
 ## [1.0.43] - 2026-10-01
-The King and Queen have arrived. Antarchy's La Peace update brings two royal bosses, a whole upside-down world beneath Thoraxis, and a computer that tells you where every boss lives. And by player request: pets that live in your inventory.
+The King and Queen have arrived. Antarchy's La Peace update brings two royal bosses, the Underside, a vast new region beneath Thoraxis, and a computer that tells you where every boss lives. Plus pets that live in your inventory.
 
 ### Breaking Changes
 - Back up your world before updating.
