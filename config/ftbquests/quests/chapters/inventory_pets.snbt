@@ -202,12 +202,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:anvil"
-				criterion: ""
-				id: "01558815B964E3CE"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "01558815B964E3CE"
+					item: { count: 1, id: "inventorypets:pet_anvil" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 4.5d
 		}
@@ -221,12 +223,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:bed"
-				criterion: ""
-				id: "59E4C1E0CFE9AF7A"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "59E4C1E0CFE9AF7A"
+					item: { count: 1, id: "inventorypets:pet_bed" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 2.1d
 			y: 4.93d
 		}
@@ -240,12 +244,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:brewingstand"
-				criterion: ""
-				id: "4DDD781A90CA9C86"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "4DDD781A90CA9C86"
+					item: { count: 1, id: "inventorypets:pet_brewing_stand" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 3.27d
 			y: 6.1d
 		}
@@ -259,12 +265,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:chest"
-				criterion: ""
-				id: "058EB5BF17DB9CBD"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "058EB5BF17DB9CBD"
+					item: { count: 1, id: "inventorypets:pet_chest" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 3.7d
 			y: 7.7d
 		}
@@ -278,12 +286,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:craftingtable"
-				criterion: ""
-				id: "2037B0A5C05A1E7F"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "2037B0A5C05A1E7F"
+					item: { count: 1, id: "inventorypets:pet_crafting_table" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 3.27d
 			y: 9.3d
 		}
@@ -297,12 +307,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:doublechest"
-				criterion: ""
-				id: "1C415F1269D75A95"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "1C415F1269D75A95"
+					item: { count: 1, id: "inventorypets:pet_double_chest" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 2.1d
 			y: 10.47d
 		}
@@ -316,12 +328,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:enchantingtable"
-				criterion: ""
-				id: "11EFB5CC1817CF37"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "11EFB5CC1817CF37"
+					item: { count: 1, id: "inventorypets:pet_enchanting_table" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 10.9d
 		}
@@ -335,12 +349,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:endportal"
-				criterion: ""
-				id: "76C5671060CA02A6"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "76C5671060CA02A6"
+					item: { count: 1, id: "inventorypets:pet_end_portal" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: -1.1d
 			y: 10.47d
 		}
@@ -354,12 +370,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:enderchest"
-				criterion: ""
-				id: "030B11901D3B4278"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "030B11901D3B4278"
+					item: { count: 1, id: "inventorypets:pet_ender_chest" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: -2.27d
 			y: 9.3d
 		}
@@ -373,12 +391,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:furnace"
-				criterion: ""
-				id: "49CCA974C5416EDB"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "49CCA974C5416EDB"
+					item: { count: 1, id: "inventorypets:pet_furnace" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: -2.7d
 			y: 7.7d
 		}
@@ -392,12 +412,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:jukebox"
-				criterion: ""
-				id: "14AF48C25AE56D3F"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "14AF48C25AE56D3F"
+					item: { count: 1, id: "inventorypets:pet_jukebox" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: -2.27d
 			y: 6.1d
 		}
@@ -411,12 +433,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:lead"
-				criterion: ""
-				id: "5B2BA1F3CDA52FB8"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "5B2BA1F3CDA52FB8"
+					item: { count: 1, id: "inventorypets:pet_lead" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: -1.1d
 			y: 4.93d
 		}
@@ -446,12 +470,92 @@
 			}]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				advancement: "inventorypets:utilitarian"
-				criterion: ""
-				id: "68971ACA1FAD3CF6"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "68971ACA1FAD3CF6"
+					item: { count: 1, id: "inventorypets:pet_bed" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "17E9FEFAA5BF91C9"
+					item: { count: 1, id: "inventorypets:pet_chest" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "2A024CB81486F3F6"
+					item: { count: 1, id: "inventorypets:pet_double_chest" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "2192346B84ECC4FF"
+					item: { count: 1, id: "inventorypets:pet_end_portal" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "083C39052A30C44B"
+					item: { count: 1, id: "inventorypets:pet_ender_chest" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "55EFC6B549AE1B3C"
+					item: { count: 1, id: "inventorypets:pet_furnace" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "2CB9220336FE6054"
+					item: { count: 1, id: "inventorypets:pet_crafting_table" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "40B84D33BB7FDE8A"
+					item: { count: 1, id: "inventorypets:pet_enchanting_table" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "76BE5D7F627515C2"
+					item: { count: 1, id: "inventorypets:pet_jukebox" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "1C9E13433B1F59F5"
+					item: { count: 1, id: "inventorypets:pet_anvil" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "3B1E3BC5AD85EC7A"
+					item: { count: 1, id: "inventorypets:pet_lead" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "69D54D2E0364CBF2"
+					item: { count: 1, id: "inventorypets:pet_saddle" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "6525783E390D3EE1"
+					item: { count: 1, id: "inventorypets:pet_brewing_stand" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "09001BE97DEA573B"
+					item: { count: 1, id: "inventorypets:pet_nether_portal" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 7.7d
 		}
@@ -465,12 +569,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:banana"
-				criterion: ""
-				id: "4052BC600A11FEB8"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "4052BC600A11FEB8"
+					item: { count: 1, id: "inventorypets:pet_banana" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 9.0d
 			y: 4.6d
 		}
@@ -484,12 +590,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:dingot"
-				criterion: ""
-				id: "71A0C77C78ED5B37"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "71A0C77C78ED5B37"
+					item: { count: 1, id: "inventorypets:pet_dingot" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 10.68d
 			y: 5.09d
 		}
@@ -503,12 +611,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:flyingsaddle"
-				criterion: ""
-				id: "1900CD3826DD3E09"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "1900CD3826DD3E09"
+					item: { count: 1, id: "inventorypets:pet_flying_saddle" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 11.82d
 			y: 6.41d
 		}
@@ -522,12 +632,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:loot"
-				criterion: ""
-				id: "5629109B44D3766A"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "5629109B44D3766A"
+					item: { count: 1, id: "inventorypets:pet_loot" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 12.07d
 			y: 8.14d
 		}
@@ -541,12 +653,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:meta"
-				criterion: ""
-				id: "4388843803E1A5B0"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "4388843803E1A5B0"
+					item: { count: 1, id: "inventorypets:pet_meta" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 11.34d
 			y: 9.73d
 		}
@@ -560,12 +674,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:mickerson"
-				criterion: ""
-				id: "6C9B3A02563873A8"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "6C9B3A02563873A8"
+					item: { count: 1, id: "inventorypets:pet_mickerson" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 9.87d
 			y: 10.67d
 		}
@@ -579,12 +695,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:pingot"
-				criterion: ""
-				id: "6BFCDEC97D6C7393"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "6BFCDEC97D6C7393"
+					item: { count: 1, id: "inventorypets:pet_pingot" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 8.13d
 			y: 10.67d
 		}
@@ -598,12 +716,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:purpliciouscow"
-				criterion: ""
-				id: "16CE0433FDA5690D"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "16CE0433FDA5690D"
+					item: { count: 1, id: "inventorypets:pet_purplicious_cow" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 6.66d
 			y: 9.73d
 		}
@@ -617,12 +737,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:qcm"
-				criterion: ""
-				id: "1D58C773A2E4BF5F"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "1D58C773A2E4BF5F"
+					item: { count: 1, id: "inventorypets:pet_qcm" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 5.93d
 			y: 8.14d
 		}
@@ -636,12 +758,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:quiver"
-				criterion: ""
-				id: "7AFE5F12AE9B1563"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "7AFE5F12AE9B1563"
+					item: { count: 1, id: "inventorypets:pet_quiver" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 6.18d
 			y: 6.41d
 		}
@@ -655,12 +779,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:sponge"
-				criterion: ""
-				id: "115ED37AD30907F3"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "115ED37AD30907F3"
+					item: { count: 1, id: "inventorypets:pet_sponge" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 7.32d
 			y: 5.09d
 		}
@@ -689,12 +815,74 @@
 			}]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				advancement: "inventorypets:specialist"
-				criterion: ""
-				id: "3D41E84C0D2DDDE4"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "3D41E84C0D2DDDE4"
+					item: { count: 1, id: "inventorypets:pet_sponge" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "0CED2E5A1C1C034E"
+					item: { count: 1, id: "inventorypets:pet_purplicious_cow" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "28F0BDCB6044BD99"
+					item: { count: 1, id: "inventorypets:pet_mickerson" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "5893902E8E9561AB"
+					item: { count: 1, id: "inventorypets:pet_pingot" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "6CDAACDF607BFAB0"
+					item: { count: 1, id: "inventorypets:pet_qcm" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "446A62AF8B9821D9"
+					item: { count: 1, id: "inventorypets:pet_banana" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "5592EF5DBCA26E97"
+					item: { count: 1, id: "inventorypets:pet_loot" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "6A65408D2A91AE72"
+					item: { count: 1, id: "inventorypets:pet_meta" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "0CBF727C97AB303B"
+					item: { count: 1, id: "inventorypets:pet_dingot" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "67AAE9CE716762E3"
+					item: { count: 1, id: "inventorypets:pet_flying_saddle" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "65F7894477DFFEE3"
+					item: { count: 1, id: "inventorypets:pet_quiver" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 9.0d
 			y: 7.7d
 		}
@@ -708,12 +896,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:blaze"
-				criterion: ""
-				id: "05F03B665480F135"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "05F03B665480F135"
+					item: { count: 1, id: "inventorypets:pet_blaze" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 17.5d
 			y: 5.1d
 		}
@@ -727,12 +917,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:creeper"
-				criterion: ""
-				id: "41544159462CF7B3"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "41544159462CF7B3"
+					item: { count: 1, id: "inventorypets:pet_creeper" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 19.34d
 			y: 5.86d
 		}
@@ -746,12 +938,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:enderman"
-				criterion: ""
-				id: "045981728DE009FB"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "045981728DE009FB"
+					item: { count: 1, id: "inventorypets:pet_enderman" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 20.1d
 			y: 7.7d
 		}
@@ -765,12 +959,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:ghast"
-				criterion: ""
-				id: "04018F4D53E5E1F4"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "04018F4D53E5E1F4"
+					item: { count: 1, id: "inventorypets:pet_ghast" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 19.34d
 			y: 9.54d
 		}
@@ -784,12 +980,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:irongolem"
-				criterion: ""
-				id: "30CD97D5BF9586B2"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "30CD97D5BF9586B2"
+					item: { count: 1, id: "inventorypets:pet_iron_golem" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 17.5d
 			y: 10.3d
 		}
@@ -803,12 +1001,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:magmacube"
-				criterion: ""
-				id: "0458AAC63DACF081"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "0458AAC63DACF081"
+					item: { count: 1, id: "inventorypets:pet_magma_cube" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 15.66d
 			y: 9.54d
 		}
@@ -822,12 +1022,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:snowgolem"
-				criterion: ""
-				id: "15A12EAEAE23ADD5"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "15A12EAEAE23ADD5"
+					item: { count: 1, id: "inventorypets:pet_snow_golem" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 14.9d
 			y: 7.7d
 		}
@@ -841,12 +1043,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:spider"
-				criterion: ""
-				id: "620F57FBAB914B20"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "620F57FBAB914B20"
+					item: { count: 1, id: "inventorypets:pet_spider" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 15.66d
 			y: 5.86d
 		}
@@ -872,12 +1076,56 @@
 			}]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				advancement: "inventorypets:mob"
-				criterion: ""
-				id: "1A4758DDB7A6D5D7"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "1A4758DDB7A6D5D7"
+					item: { count: 1, id: "inventorypets:pet_ghast" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "5B3AD0AAF9CE9A44"
+					item: { count: 1, id: "inventorypets:pet_spider" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "402121808B6CC7B5"
+					item: { count: 1, id: "inventorypets:pet_iron_golem" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "09A4A813B4C94E07"
+					item: { count: 1, id: "inventorypets:pet_snow_golem" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "3DE861B284415CD2"
+					item: { count: 1, id: "inventorypets:pet_enderman" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "79B838E412D52474"
+					item: { count: 1, id: "inventorypets:pet_creeper" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "402F0A387F40FF4F"
+					item: { count: 1, id: "inventorypets:pet_magma_cube" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "68F2E69D37883F34"
+					item: { count: 1, id: "inventorypets:pet_blaze" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 17.5d
 			y: 7.7d
 		}
@@ -891,12 +1139,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:chicken"
-				criterion: ""
-				id: "5934FE9FA5494DEE"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "5934FE9FA5494DEE"
+					item: { count: 1, id: "inventorypets:pet_chicken" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 13.7d
 		}
@@ -910,12 +1160,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:cow"
-				criterion: ""
-				id: "60D5B61D4B6A62AE"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "60D5B61D4B6A62AE"
+					item: { count: 1, id: "inventorypets:pet_cow" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 2.45d
 			y: 14.64d
 		}
@@ -929,12 +1181,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:mooshroom"
-				criterion: ""
-				id: "3B0CCDF3D07081EE"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "3B0CCDF3D07081EE"
+					item: { count: 1, id: "inventorypets:pet_mooshroom" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 2.94d
 			y: 16.76d
 		}
@@ -948,12 +1202,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:ocelot"
-				criterion: ""
-				id: "2E02539CB0616D56"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "2E02539CB0616D56"
+					item: { count: 1, id: "inventorypets:pet_ocelot" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 1.58d
 			y: 18.45d
 		}
@@ -967,12 +1223,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:pig"
-				criterion: ""
-				id: "6629F3D5348962D7"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "6629F3D5348962D7"
+					item: { count: 1, id: "inventorypets:pet_pig" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: -0.58d
 			y: 18.45d
 		}
@@ -986,12 +1244,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:sheep"
-				criterion: ""
-				id: "21873AADBA35C6A1"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "21873AADBA35C6A1"
+					item: { count: 1, id: "inventorypets:pet_sheep" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: -1.94d
 			y: 16.76d
 		}
@@ -1005,12 +1265,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:squid"
-				criterion: ""
-				id: "1E97FE0AE2971A90"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "1E97FE0AE2971A90"
+					item: { count: 1, id: "inventorypets:pet_squid" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: -1.45d
 			y: 14.64d
 		}
@@ -1035,12 +1297,50 @@
 			}]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				advancement: "inventorypets:peaceful"
-				criterion: ""
-				id: "247C592A8298279C"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "247C592A8298279C"
+					item: { count: 1, id: "inventorypets:pet_chicken" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "1A3638A5098E034F"
+					item: { count: 1, id: "inventorypets:pet_cow" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "4B3AB4491F7F38C3"
+					item: { count: 1, id: "inventorypets:pet_ocelot" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "4800BBAFEB2B1A93"
+					item: { count: 1, id: "inventorypets:pet_pig" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "119E74E52AC330F1"
+					item: { count: 1, id: "inventorypets:pet_sheep" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "6BFCE11FE252024B"
+					item: { count: 1, id: "inventorypets:pet_squid" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "6451937B3A6F3591"
+					item: { count: 1, id: "inventorypets:pet_mooshroom" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 0.5d
 			y: 16.2d
 		}
@@ -1054,12 +1354,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:blackhole"
-				criterion: ""
-				id: "2FF63E4A94A01A0A"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "2FF63E4A94A01A0A"
+					item: { count: 1, id: "inventorypets:pet_black_hole" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 9.0d
 			y: 13.9d
 		}
@@ -1073,12 +1375,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:cloud"
-				criterion: ""
-				id: "7EB49B33B1A1DE5A"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "7EB49B33B1A1DE5A"
+					item: { count: 1, id: "inventorypets:pet_cloud" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 10.99d
 			y: 15.05d
 		}
@@ -1092,12 +1396,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:pufferfish"
-				criterion: ""
-				id: "3C8E2A6B43356A71"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "3C8E2A6B43356A71"
+					item: { count: 1, id: "inventorypets:pet_pufferfish" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 10.99d
 			y: 17.35d
 		}
@@ -1111,12 +1417,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:slime"
-				criterion: ""
-				id: "27653DF6FF29702B"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "27653DF6FF29702B"
+					item: { count: 1, id: "inventorypets:pet_slime" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 9.0d
 			y: 18.5d
 		}
@@ -1130,12 +1438,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:sun"
-				criterion: ""
-				id: "652F11E9B250FF05"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "652F11E9B250FF05"
+					item: { count: 1, id: "inventorypets:pet_sun" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 7.01d
 			y: 17.35d
 		}
@@ -1149,12 +1459,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:wither"
-				criterion: ""
-				id: "3263AE2A41A47982"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "3263AE2A41A47982"
+					item: { count: 1, id: "inventorypets:pet_wither" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 7.01d
 			y: 15.05d
 		}
@@ -1178,12 +1490,44 @@
 			}]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				advancement: "inventorypets:legend"
-				criterion: ""
-				id: "0D5C87E8466C117B"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "0D5C87E8466C117B"
+					item: { count: 1, id: "inventorypets:pet_pufferfish" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "01A1926C6DDDB425"
+					item: { count: 1, id: "inventorypets:pet_black_hole" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "51B61665B737F3D2"
+					item: { count: 1, id: "inventorypets:pet_slime" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "663F8DBE192B26A7"
+					item: { count: 1, id: "inventorypets:pet_sun" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "31E151D6358BE721"
+					item: { count: 1, id: "inventorypets:pet_wither" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "097C132E49028592"
+					item: { count: 1, id: "inventorypets:pet_cloud" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 9.0d
 			y: 16.2d
 		}
@@ -1197,12 +1541,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:dubstep"
-				criterion: ""
-				id: "5076C87D6BC2C5BD"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "5076C87D6BC2C5BD"
+					item: { count: 1, id: "inventorypets:pet_dubstep" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 17.5d
 			y: 14.2d
 		}
@@ -1216,12 +1562,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:heart"
-				criterion: ""
-				id: "46E7FCF6906D027A"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "46E7FCF6906D027A"
+					item: { count: 1, id: "inventorypets:pet_heart" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 19.5d
 			y: 16.2d
 		}
@@ -1235,12 +1583,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:moon"
-				criterion: ""
-				id: "58CFDFC757B054C0"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "58CFDFC757B054C0"
+					item: { count: 1, id: "inventorypets:pet_moon" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 17.5d
 			y: 18.2d
 		}
@@ -1254,12 +1604,14 @@
 				type: "xp"
 				xp: 50
 			}]
-			tasks: [{
-				advancement: "inventorypets:shield"
-				criterion: ""
-				id: "3955588BE8BB2019"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "3955588BE8BB2019"
+					item: { count: 1, id: "inventorypets:pet_shield" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 15.5d
 			y: 16.2d
 		}
@@ -1281,12 +1633,32 @@
 			}]
 			shape: "hexagon"
 			size: 1.5d
-			tasks: [{
-				advancement: "inventorypets:aoe"
-				criterion: ""
-				id: "1A697CB0864BFBB7"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					id: "1A697CB0864BFBB7"
+					item: { count: 1, id: "inventorypets:pet_heart" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "64DDACDA188678E9"
+					item: { count: 1, id: "inventorypets:pet_moon" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "7BF8C878319AEB38"
+					item: { count: 1, id: "inventorypets:pet_shield" }
+					match_components: "none"
+					type: "item"
+				}
+				{
+					id: "68903E06AF434DFB"
+					item: { count: 1, id: "inventorypets:pet_dubstep" }
+					match_components: "none"
+					type: "item"
+				}
+			]
 			x: 17.5d
 			y: 16.2d
 		}

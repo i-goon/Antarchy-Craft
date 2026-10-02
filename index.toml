@@ -1690,7 +1690,7 @@ hash = "1802442a67ecc54941d415f8d28918a4075d4e1217f9179088657a7311e910d7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/inventory_pets.snbt"
-hash = "73e7b796dd190d709bf6b01beaa6cd5da24a0ceb3062f3181d12f0308f7189c3"
+hash = "7b08b96f13b1f81e5bda4dc08345573217310808c3b8f8d8b9e6a7c29873758a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mystical_agriculture.snbt"
@@ -1702,7 +1702,7 @@ hash = "d0e6eb02351b8316481a8a2bbc07470fad18d79e3e2c4532ee709a00053f795d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/storage.snbt"
-hash = "baf670269cd44cb3045a2473bae7e2c2b0bcabb769a30b8a615ffea285bb147b"
+hash = "eb06da8c83f84e34cdc497dfae1fa837101b9bbaca5cdb909b3913a9696f32e9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/twilight_forest.snbt"
@@ -2696,6 +2696,11 @@ hash = "10bc26a74571cc69352b7271a397c023dc0c8eb50cb8e9dd81d5a6f6b6d8577e"
 metafile = true
 
 [[files]]
+file = "mods/extreme-sound-muffler.pw.toml"
+hash = "c8dc552aab96bc9ab2fcaa0ae5a240f47ae828c934f8eeb5269cfe642ff8ceb5"
+metafile = true
+
+[[files]]
 file = "mods/farming-for-blockheads.pw.toml"
 hash = "26b60aed4c0cc5633dd108d29b68b299f41a53f76a026da51d2279955835c23a"
 metafile = true
@@ -3138,6 +3143,11 @@ metafile = true
 [[files]]
 file = "mods/reconstructed-wands.pw.toml"
 hash = "696a8198ea5a92736d5779d38199e2ae829415898ab39f2b3b232dc89ba4dd89"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-jei-integration.pw.toml"
+hash = "4ef51a87a42bf93295c8af21e543d41b204a7b604a810a2329923937362d2e61"
 metafile = true
 
 [[files]]

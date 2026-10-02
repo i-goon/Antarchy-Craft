@@ -268,6 +268,7 @@
 			dependencies: ["574FF91C2BA5B3EE"]
 			icon: {
 				id: "sophisticatedstorage:chest"
+				components: { "sophisticatedstorage:wood_type": "oak" }
 			}
 			id: "04DA3A8507BEDB99"
 			rewards: [{
@@ -279,7 +280,8 @@
 			size: 1.5d
 			tasks: [{
 				id: "754BA413BEF98759"
-				item: { count: 1, id: "sophisticatedstorage:chest" }
+				item: { count: 1, components: { "sophisticatedstorage:wood_type": "oak" }, id: "sophisticatedstorage:chest" }
+				match_components: "none"
 				type: "item"
 			}]
 			x: 2.5d
@@ -289,6 +291,7 @@
 			dependencies: ["04DA3A8507BEDB99"]
 			icon: {
 				id: "sophisticatedstorage:iron_chest"
+				components: { "sophisticatedstorage:wood_type": "oak" }
 			}
 			id: "24AF42E4F51502DD"
 			rewards: [{
@@ -298,7 +301,8 @@
 			}]
 			tasks: [{
 				id: "5729E4BE0F7A028B"
-				item: { count: 1, id: "sophisticatedstorage:iron_chest" }
+				item: { count: 1, components: { "sophisticatedstorage:wood_type": "oak" }, id: "sophisticatedstorage:iron_chest" }
+				match_components: "none"
 				type: "item"
 			}]
 			x: 2.5d
@@ -308,6 +312,7 @@
 			dependencies: ["24AF42E4F51502DD"]
 			icon: {
 				id: "sophisticatedstorage:gold_chest"
+				components: { "sophisticatedstorage:wood_type": "oak" }
 			}
 			id: "1E9CB2FC2EB81A66"
 			rewards: [{
@@ -317,7 +322,8 @@
 			}]
 			tasks: [{
 				id: "7990BC5F4DF4DB3E"
-				item: { count: 1, id: "sophisticatedstorage:gold_chest" }
+				item: { count: 1, components: { "sophisticatedstorage:wood_type": "oak" }, id: "sophisticatedstorage:gold_chest" }
+				match_components: "none"
 				type: "item"
 			}]
 			x: 5.0d
@@ -327,6 +333,7 @@
 			dependencies: ["1E9CB2FC2EB81A66"]
 			icon: {
 				id: "sophisticatedstorage:diamond_chest"
+				components: { "sophisticatedstorage:wood_type": "oak" }
 			}
 			id: "0285038935065C2E"
 			rewards: [{
@@ -336,7 +343,8 @@
 			}]
 			tasks: [{
 				id: "19692FD95E940A71"
-				item: { count: 1, id: "sophisticatedstorage:diamond_chest" }
+				item: { count: 1, components: { "sophisticatedstorage:wood_type": "oak" }, id: "sophisticatedstorage:diamond_chest" }
+				match_components: "none"
 				type: "item"
 			}]
 			x: 7.5d
@@ -346,6 +354,7 @@
 			dependencies: ["0285038935065C2E"]
 			icon: {
 				id: "sophisticatedstorage:netherite_chest"
+				components: { "sophisticatedstorage:wood_type": "oak" }
 			}
 			id: "4FB4D4E4ACC2BC58"
 			rewards: [{
@@ -355,7 +364,8 @@
 			}]
 			tasks: [{
 				id: "14070BF67AA1D420"
-				item: { count: 1, id: "sophisticatedstorage:netherite_chest" }
+				item: { count: 1, components: { "sophisticatedstorage:wood_type": "oak" }, id: "sophisticatedstorage:netherite_chest" }
+				match_components: "none"
 				type: "item"
 			}]
 			x: 10.0d
