@@ -2,7 +2,7 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
-## [Unreleased]
+## [1.0.44] - 2026-10-02
 
 ### Added
 - Extreme Sound Muffler lets you quiet noisy farms and villagers, everywhere or just in one area.
