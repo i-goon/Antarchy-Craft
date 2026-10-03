@@ -2,6 +2,19 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.44] - 2026-10-03
+Refined Storage grids now fill recipes straight from JEI, noisy farms can finally be muted, and more quests show you how to craft what they ask for.
+
+Coming from 1.0.42 or earlier? You also get everything from 1.0.43: the King and Queen, the Underside beneath Thoraxis, the AntOS Computer and Inventory Pets. Read the 1.0.43 notes too, and consider backing up your world before updating.
+
+### Added
+- Extreme Sound Muffler lets you quiet noisy farms and villagers, everywhere or just in one area.
+
+### Fixed
+- Refined Storage crafting grids now work with JEI. Click + on a recipe to fill the grid straight from your storage.
+- Inventory Pets quests now show each pet's recipe when you click them.
+- The Sophisticated Storage chest quests show a recipe, and a chest of any wood counts.
+
 ## [1.0.43] - 2026-10-02
 The King and Queen have arrived. Antarchy's La Peace update brings two royal bosses, the Underside, a vast new region beneath Thoraxis, and a computer that tells you where every boss lives. Plus pets that live in your inventory.
 
