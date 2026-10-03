@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "82bb367d16b118e8d5b902d042fc7b24bc4f68054cbbf0df99e8ac3f90342cbb"
+hash = "db7108974e8ecacf7e0a9c451cca4454f0efc1885c26737f43db478cbeb318d4"
 
 [[files]]
 file = "config/EnderStorage.cfg"
@@ -2169,6 +2169,10 @@ file = "config/sophisticatedcore-common.toml"
 hash = "c948f0e20ef37672c696f721ca73f0f5500267049264b44b28efd2ce77fed575"
 
 [[files]]
+file = "config/spark/config.json"
+hash = "808735d966e11fe08ccae1cf008c2e1a121b9fcfbf6a48150c5975cd27efa0cf"
+
+[[files]]
 file = "config/storagedrawers-client.toml"
 hash = "208db3e4a920d34d9d72e8bee35ea202f59c018cc8d5d53c83896947f75cf205"
 
@@ -2253,14 +2257,6 @@ file = "config/valhelsia_structures-client.toml"
 hash = "0af8d83ffedf671f008302a67b64e5f75f98207abc659c6885efcb4d5ab27bcd"
 
 [[files]]
-file = "config/voxy-client.toml"
-hash = "5a6123285286f4b08a3c8c3b8cde22419fa143c3a10ec0edd57398ebe7c52dec"
-
-[[files]]
-file = "config/voxy-config.json"
-hash = "21aabef0c9bb9e6fa02f0c495c873d8bdd2f6e86d7ee2b7ed3aa23c3a4cd815b"
-
-[[files]]
 file = "config/waystones-common.toml"
 hash = "117d9ed44731bb0beb2c2da17e0500324ccdfb89dffceaf97a6ee548c501ac5b"
 
@@ -2337,7 +2333,7 @@ metafile = true
 
 [[files]]
 file = "mods/antarchy-craft-fixes.pw.toml"
-hash = "5a7fa0e6847d501170353c66f8cfd17a77e58a0c11db89b1b181549f3e8057a0"
+hash = "080b60ff980ea240558c98cf8252a234bb4bcf7cfaf8520d8504270ba9df969e"
 metafile = true
 
 [[files]]
@@ -2638,6 +2634,11 @@ metafile = true
 [[files]]
 file = "mods/derenderpatcher.pw.toml"
 hash = "afbe27f6be6cedba4a8b28a6562e6df31819c6a078e1c5a662c1911a31a10bfb"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "657a415947ae7c99600b9e76cfadd72edca3f67482e99de7c03528e2b0e4c6e5"
 metafile = true
 
 [[files]]
@@ -3323,11 +3324,6 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "fe25e59f28ceb35de272d26701dc2b8e6315b9b42fa007ddf2caff10696964a8"
-metafile = true
-
-[[files]]
-file = "mods/voxy.pw.toml"
-hash = "f44b1c841a1ace7b06ca1d38d154124549f1e76e3e72e0081546f0e088db3cb2"
 metafile = true
 
 [[files]]
