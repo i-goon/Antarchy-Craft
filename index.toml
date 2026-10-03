@@ -1670,15 +1670,15 @@ hash = "26e85b4c9ab530ffd686a8ed8a1ca9e4a7e861343c08d5ee812f7a0908181532"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/applied_energistics_2.snbt"
-hash = "c5aed32a9554f5761a41442f68dad155cddd65c8548ee986dd84aef530877056"
+hash = "a51d6141d911b0b5d33a7fd8009cd6f229dffb11dfe8ac4fe8b3d369e67e22ff"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ars_nouveau.snbt"
-hash = "f47dadf32528651bce32f33ee774cc63f2e6478539963ccf108d705bf79552fb"
+hash = "e2cfd99d8b63a2d41f2a8b232998f0bff9a68681b3ae9e219e3d812a475ff0ca"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/basic_logistics.snbt"
-hash = "2eba5bc19db4dd7f6a03886b26b6c1bc4292e6f99de5ffa1c254d7fdbfb9b099"
+hash = "998e920485cc2b44ebcbccbcbe5f62b53f4a1d548e8ce1bcdc35c151c132afe9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/big_bertha.snbt"
@@ -1694,15 +1694,19 @@ hash = "7b08b96f13b1f81e5bda4dc08345573217310808c3b8f8d8b9e6a7c29873758a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mystical_agriculture.snbt"
-hash = "e39aed80a342793fc1ca649d289dbd1f0d1971f161a23256fdb49549d28f1696"
+hash = "785ae76a50919f3e3f11970a2d19b01c0ad019af880aecafd59d80704f50114f"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/refined_automation.snbt"
+hash = "d07f357feb6bfbc18bfd88f34ecb53d60985f17c862da05004b09e4d4303ff53"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/refined_storage.snbt"
-hash = "d0e6eb02351b8316481a8a2bbc07470fad18d79e3e2c4532ee709a00053f795d"
+hash = "cc0c3a51080d4f63766965e06504d1df4712d9e5278eab66cccb4fffb3797a35"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/storage.snbt"
-hash = "eb06da8c83f84e34cdc497dfae1fa837101b9bbaca5cdb909b3913a9696f32e9"
+hash = "47614092d9ace460680f8d4bb3f8ffbc285f04d3d5a08dfef21069318b9b779a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/twilight_forest.snbt"
@@ -1710,7 +1714,7 @@ hash = "b33f5420ad1bb7d3cf670fc93e9fd1d3260734134b0c568b587902ae8dadc3a6"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "1a09cd039968566ca12ed894fc14a66eca2eddf28944908573f98b9273d501b9"
+hash = "71d7aeb1487b415e54389348c2a8f918d41b7292d2a62ccf2ccebab8f54591e3"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
@@ -2667,6 +2671,11 @@ hash = "6f80f7f54fbdb8db6f97b63a41396376877b1ec81ff63fe52a9ec16b266214ab"
 metafile = true
 
 [[files]]
+file = "mods/edivadlib.pw.toml"
+hash = "e2271f01117b2e3469832199b0830aacd678be821b4a4121fadd1805e0256195"
+metafile = true
+
+[[files]]
 file = "mods/elevatormod.pw.toml"
 hash = "9f68a63f20273c90823eefd08d079333ec096fba1b110b4050783758f511dc1b"
 metafile = true
@@ -2689,6 +2698,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "85698e605bf777498dd0c7a9e20c370f3aa584f290397f42651a575a03972137"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.pw.toml"
+hash = "96f4a172f9a065eb16ba029792144f62f048b5a60ce28719347a4978eecccb91"
 metafile = true
 
 [[files]]
@@ -2982,6 +2996,11 @@ hash = "58875d6361a02885a48cf9e301749e4ac403cffe63c29fb92b5939061db67488"
 metafile = true
 
 [[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "b72d3f3171eb5b38308c3960dfca5716c708f29b0ea8055a589f32528bed6db4"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "56ac5a2479691813d313052fa08b8a056310cd777524d6ae2b7c3b35a6b027e2"
 metafile = true
@@ -3174,6 +3193,16 @@ metafile = true
 [[files]]
 file = "mods/reliquified-artifacts.pw.toml"
 hash = "357bb964920a039094a8a715ec7d97c603b0338ad0d904a7d1f2ff428af0d95c"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "5c88e5a574bdc0e8eddd82ed48ecf6204e269ef1e553cb10e2b9b9375ed5743e"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "37383a2cce841609053ee1d534add290f41d9280ff36a7824bab821c964bfa68"
 metafile = true
 
 [[files]]

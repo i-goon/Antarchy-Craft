@@ -2,8 +2,8 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
-## [1.0.45] - 2026-10-03
-The King and Queen have arrived. Antarchy's La Peace update brings two royal bosses, the Underside, a vast new region beneath Thoraxis, and a computer that tells you where every boss lives. Plus pets that live in your inventory, far smoother frame times, and distant terrain that stretches to the horizon.
+## [1.0.45] - 2026-10-04
+The King and Queen have arrived. Antarchy's La Peace update brings two royal bosses, the Underside, a vast new region beneath Thoraxis, and a computer that tells you where every boss lives. Plus pets that live in your inventory, real autocrafting all the way up to Netherite Autocrafters, far smoother frame times, and distant terrain that stretches to the horizon.
 
 Consider backing up your world before updating.
 
@@ -15,6 +15,8 @@ Consider backing up your world before updating.
 - Inventory Pets: dozens of pets that ride in your inventory and give you powers, with their own quest chapter.
 - Distant Horizons draws the landscape far past your render distance.
 - Extreme Sound Muffler lets you quiet noisy farms and villagers, everywhere or just in one area.
+- Extra Storage: Iron, Gold, Diamond and Netherite Autocrafters for Refined Storage, up to 125 times faster, plus disks up to 16384k and Advanced Importers and Exporters.
+- RFTools Crafters: autocrafting blocks that hold up to 8 recipes and craft every tick, no storage network needed.
 - Mob Grinding Utils, for farming mobs that have no Hostile Neural Network model.
 - Hyperbox: one block holds its own pocket dimension and takes it along when you move it.
 - Cooking for Blockheads, for the Sink and its infinite water.
@@ -26,6 +28,8 @@ Consider backing up your world before updating.
 - Boss quests are sorted by dimension, with new King, Queen and taming quests.
 - Boss quests point you to the Explorer's Compass for finding lairs.
 - Refined Storage, Applied Energistics 2 and Basic Logistics quests are easier to follow.
+- Refined Storage quests now cover every feature, with a new Refined Automation chapter for importers, exporters, upgrades and autocrafting.
+- Basic Logistics has a new Autocrafting branch, from the vanilla Crafter to the RFTools Crafters.
 
 ### Removed
 - Voxy. Distant Horizons now draws distant terrain.
