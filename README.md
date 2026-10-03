@@ -61,6 +61,7 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [Curios API](https://github.com/TheIllusiveC4/Curios) by C4
 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) by Lothrazar
 - [Cyclops Core](https://www.curseforge.com/minecraft/mc-mods/cyclops-core) by rubensworks \(aka kroeser\)
+- [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons) by James Seibel
 - [Draconic Evolution](https://modrinth.com/mod/draconic-evolution) by brandon3055
 - [Dungeon Crawl](https://modrinth.com/mod/dungeoncrawl) by xiroc
 - [Easy Piglins](https://www.curseforge.com/minecraft/mc-mods/easy-piglins) by Max Henkel
@@ -172,7 +173,6 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack) by Tiviacz1337
 - [Valhelsia Core](https://modrinth.com/mod/valhelsia-core)
 - [Valhelsia Structures](https://modrinth.com/mod/valhelsia-structures)
-- [Voxy](https://modrinth.com/mod/voxy) by Cortex
 - [Waystones](https://mods.twelveiterations.com/minecraft/waystones) by BlayTheNinth
 - [Wyrmroost](https://modrinth.com/mod/wyrmroost) by WolfShotz, Kingdomall, Shannieann, Ukan, Nord\_Act
 - [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-neoforge) by YUNGNICKYOUNG

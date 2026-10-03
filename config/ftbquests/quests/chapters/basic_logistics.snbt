@@ -39,7 +39,7 @@
 				item: { count: 1, id: "pipez:wrench" }
 				type: "item"
 			}]
-			x: 4.375d
+			x: 3.75d
 			y: 0.0d
 		}
 		{
@@ -63,7 +63,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 2.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["794098D78CD9BD42"]
@@ -85,8 +85,8 @@
 				item: { count: 1, id: "pipez:fluid_pipe" }
 				type: "item"
 			}]
-			x: 1.75d
-			y: 2.5d
+			x: 1.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["794098D78CD9BD42"]
@@ -108,8 +108,8 @@
 				item: { count: 1, id: "pipez:energy_pipe" }
 				type: "item"
 			}]
-			x: 3.5d
-			y: 2.5d
+			x: 3.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["794098D78CD9BD42"]
@@ -131,8 +131,8 @@
 				item: { count: 1, id: "pipez:gas_pipe" }
 				type: "item"
 			}]
-			x: 5.25d
-			y: 2.5d
+			x: 4.5d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -158,8 +158,8 @@
 				item: { count: 1, id: "pipez:universal_pipe" }
 				type: "item"
 			}]
-			x: 1.75d
-			y: 4.0d
+			x: 1.5d
+			y: 3.5d
 		}
 		{
 			dependencies: ["794098D78CD9BD42"]
@@ -182,8 +182,8 @@
 				item: { count: 1, id: "pipez:filter_destination_tool" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 2.5d
+			x: 6.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["794098D78CD9BD42"]
@@ -206,8 +206,8 @@
 				item: { count: 1, id: "pipez:advanced_upgrade" }
 				type: "item"
 			}]
-			x: 8.75d
-			y: 2.5d
+			x: 7.5d
+			y: 2.0d
 		}
 		{
 			icon: {
@@ -237,8 +237,8 @@
 				item: { count: 1, id: "mekanism:configurator" }
 				type: "item"
 			}]
-			x: 6.125d
-			y: 7.0d
+			x: 5.25d
+			y: 6.0d
 		}
 		{
 			dependencies: ["7983697A655600AE"]
@@ -260,8 +260,8 @@
 				item: { count: 1, id: "mekanism:basic_logistical_transporter" }
 				type: "item"
 			}]
-			x: 1.75d
-			y: 9.5d
+			x: 1.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["7983697A655600AE"]
@@ -283,8 +283,8 @@
 				item: { count: 1, id: "mekanism:basic_mechanical_pipe" }
 				type: "item"
 			}]
-			x: 5.25d
-			y: 9.5d
+			x: 4.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["7983697A655600AE"]
@@ -306,8 +306,8 @@
 				item: { count: 1, id: "mekanism:basic_universal_cable" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 9.5d
+			x: 6.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["7983697A655600AE"]
@@ -329,8 +329,8 @@
 				item: { count: 1, id: "mekanism:basic_pressurized_tube" }
 				type: "item"
 			}]
-			x: 8.75d
-			y: 9.5d
+			x: 7.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["483B6AF583A73905"]
@@ -351,7 +351,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 11.0d
+			y: 9.5d
 		}
 		{
 			icon: {
@@ -373,7 +373,7 @@
 				item: { count: 1, id: "modularrouters:modular_router" }
 				type: "item"
 			}]
-			x: 12.375d
+			x: 11.25d
 			y: 0.0d
 		}
 		{
@@ -397,8 +397,8 @@
 				item: { count: 1, id: "modularrouters:sender_module_1" }
 				type: "item"
 			}]
-			x: 11.5d
-			y: 2.5d
+			x: 10.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["4BDE0496932034F8"]
@@ -418,8 +418,8 @@
 				item: { count: 1, id: "modularrouters:puller_module_1" }
 				type: "item"
 			}]
-			x: 13.25d
-			y: 2.5d
+			x: 12.0d
+			y: 2.0d
 		}
 		{
 			icon: {
@@ -437,8 +437,8 @@
 				id: "42AB70041075FB86"
 				type: "checkmark"
 			}]
-			x: 9.125d
-			y: -2.5d
+			x: 9.75d
+			y: -2.25d
 		}
 		{
 			icon: {
@@ -461,8 +461,8 @@
 				item: { count: 1, id: "create:belt_connector" }
 				type: "item"
 			}]
-			x: 15.625d
-			y: 7.0d
+			x: 14.25d
+			y: 6.0d
 		}
 		{
 			dependencies: ["755A9B6A2486D364"]
@@ -480,8 +480,8 @@
 				item: { count: 1, id: "create:andesite_funnel" }
 				type: "item"
 			}]
-			x: 13.0d
-			y: 9.5d
+			x: 12.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["755A9B6A2486D364"]
@@ -499,8 +499,8 @@
 				item: { count: 1, id: "create:chute" }
 				type: "item"
 			}]
-			x: 14.75d
-			y: 9.5d
+			x: 13.5d
+			y: 8.0d
 		}
 		{
 			dependencies: ["755A9B6A2486D364"]
@@ -518,8 +518,8 @@
 				item: { count: 1, id: "create:depot" }
 				type: "item"
 			}]
-			x: 16.5d
-			y: 9.5d
+			x: 15.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["0C1AFCCD54FA31AA"]
@@ -537,8 +537,8 @@
 				item: { count: 1, id: "create:portable_storage_interface" }
 				type: "item"
 			}]
-			x: 13.0d
-			y: 11.0d
+			x: 12.0d
+			y: 9.5d
 		}
 		{
 			dependencies: ["755A9B6A2486D364"]
@@ -556,8 +556,8 @@
 				item: { count: 1, id: "create:redstone_link" }
 				type: "item"
 			}]
-			x: 18.25d
-			y: 9.5d
+			x: 16.5d
+			y: 8.0d
 		}
 		{
 			icon: {
@@ -576,7 +576,7 @@
 				item: { count: 1, id: "fluxnetworks:flux_configurator" }
 				type: "item"
 			}]
-			x: 16.375d
+			x: 15.75d
 			y: 0.0d
 		}
 		{
@@ -595,8 +595,8 @@
 				item: { count: 1, id: "fluxnetworks:flux_plug" }
 				type: "item"
 			}]
-			x: 15.5d
-			y: 2.5d
+			x: 15.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["0E9821755DE5F440"]
@@ -614,8 +614,8 @@
 				item: { count: 1, id: "fluxnetworks:flux_point" }
 				type: "item"
 			}]
-			x: 17.25d
-			y: 2.5d
+			x: 16.5d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -644,8 +644,8 @@
 					value: 1000000L
 				}
 			]
-			x: 16.375d
-			y: 4.0d
+			x: 15.75d
+			y: 3.5d
 		}
 		{
 			dependencies: ["483B6AF583A73905"]
@@ -663,8 +663,8 @@
 				item: { count: 1, id: "mekanism:basic_bin" }
 				type: "item"
 			}]
-			x: 1.75d
-			y: 11.0d
+			x: 1.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["570FA365734D9D59"]
@@ -682,8 +682,8 @@
 				item: { count: 1, id: "mekanism:basic_fluid_tank" }
 				type: "item"
 			}]
-			x: 5.25d
-			y: 11.0d
+			x: 4.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["483B6AF583A73905"]
@@ -701,8 +701,8 @@
 				item: { count: 1, id: "mekanism:cardboard_box" }
 				type: "item"
 			}]
-			x: 3.5d
-			y: 11.0d
+			x: 3.0d
+			y: 9.5d
 		}
 		{
 			dependencies: ["1077E6D8B10D7B23"]
@@ -720,8 +720,8 @@
 				item: { count: 1, id: "mekanism:quantum_entangloporter" }
 				type: "item"
 			}]
-			x: 7.0d
-			y: 11.0d
+			x: 6.0d
+			y: 9.5d
 		}
 		{
 			dependencies: ["7983697A655600AE"]
@@ -739,8 +739,8 @@
 				item: { count: 1, id: "mekanism:qio_drive_array" }
 				type: "item"
 			}]
-			x: 10.5d
-			y: 9.5d
+			x: 9.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["728535329B6CABAE"]
@@ -758,8 +758,104 @@
 				item: { count: 1, id: "mekanism:qio_importer" }
 				type: "item"
 			}]
-			x: 10.5d
-			y: 11.0d
+			x: 9.0d
+			y: 9.5d
+		}
+		{
+			icon: {
+				id: "minecraft:crafter"
+			}
+			id: "7B1B741AA0E3A758"
+			rewards: [{
+				id: "67E9E547924C2F0C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				id: "60A52AC7E079DA8B"
+				item: { count: 1, id: "minecraft:crafter" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7B1B741AA0E3A758"]
+			icon: {
+				id: "rftoolsbase:machine_frame"
+			}
+			id: "64572D244FFDCE7A"
+			rewards: [{
+				id: "523D1A8852B290E0"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1154200069375322"
+				item: { count: 1, id: "rftoolsbase:machine_frame" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["64572D244FFDCE7A"]
+			icon: {
+				id: "rftoolsutility:crafter1"
+			}
+			id: "2B0B528FF4F95F10"
+			rewards: [{
+				id: "5D0CD2B5AE6F78C9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "6AB64C4D289C6F1C"
+				item: { count: 1, id: "rftoolsutility:crafter1" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2B0B528FF4F95F10"]
+			icon: {
+				id: "rftoolsutility:crafter2"
+			}
+			id: "5EA8D51A32720C0F"
+			rewards: [{
+				id: "32E7A3F5B87F90E7"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "32070210B00A1534"
+				item: { count: 1, id: "rftoolsutility:crafter2" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["5EA8D51A32720C0F"]
+			icon: {
+				id: "rftoolsutility:crafter3"
+			}
+			id: "23F61BC9AD9ECB5B"
+			rewards: [{
+				id: "08D2E98D24B3026C"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "05E62C9DF5508135"
+				item: { count: 1, id: "rftoolsutility:crafter3" }
+				type: "item"
+			}]
+			x: 19.5d
+			y: 6.5d
 		}
 	]
 }

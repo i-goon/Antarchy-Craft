@@ -45,8 +45,6 @@
 	quest.099B848E75ABBBCE.title: "Bluestone Comparator"
 	quest.099EEF71849D646F.quest_desc: ["It drifts over the Lucid Pools of Thoraxis, hurling bolts that invert your gravity.", "You need two Eyes of Dreams: one for the blade, one for the Gravity Gun."]
 	quest.099EEF71849D646F.title: "Kill the Lucid"
-	quest.09B79B6479AE9F31.quest_desc: ["Places blocks from the disks into the world.", "Builders love it more."]
-	quest.09B79B6479AE9F31.title: "Constructor"
 	quest.09D0FEC1B1CFEF03.quest_desc: ["Smelts the first smeltable item in your hotbar."]
 	quest.09D0FEC1B1CFEF03.title: "Furnace Pet"
 	quest.0A0F0008E0D1CC79.quest_desc: ["Damage you deal heals you, and it fires wither skulls."]
@@ -89,8 +87,6 @@
 	quest.1077E6D8B10D7B23.title: "Universal Cables"
 	quest.10845E332C012581.quest_desc: ["It forms the core of Big Bertha's blade."]
 	quest.10845E332C012581.title: "The Ultimate Sword"
-	quest.11147A9A0BF6BC26.quest_desc: ["Put it on a chest, barrel or drawer and the network reads what is inside.", "Your old storage joins the network without moving a thing."]
-	quest.11147A9A0BF6BC26.title: "External Storage"
 	quest.11A8FAFA9EAA3CD7.quest_desc: ["Shoots fireballs."]
 	quest.11A8FAFA9EAA3CD7.title: "Ghast Pet"
 	quest.11CB8DC2DE20DF89.quest_desc: ["Collect every one of the special pets around this quest."]
@@ -99,8 +95,6 @@
 	quest.13C330FC9C38F2CF.title: "The End"
 	quest.1478123C2F7C4BC4.quest_desc: ["Plays music discs from your inventory, and can skip or stop them."]
 	quest.1478123C2F7C4BC4.title: "Jukebox Pet"
-	quest.147DAAAA0ADF3C20.quest_desc: ["Sucks external inventories into the disks.", "Point the arrow into your storage."]
-	quest.147DAAAA0ADF3C20.title: "Importer"
 	quest.15D0F21CED8A5AD4.quest_desc: ["The biggest pockets in the pack."]
 	quest.15D0F21CED8A5AD4.title: "Netherite Backpack"
 	quest.165007409221A9CC.quest_desc: ["Pulls external inventories into the QIO drives.", "Exporters push back out. Pair them per production line."]
@@ -111,22 +105,16 @@
 	quest.17E93A365DAB380D.title: "Kill the Basilisk"
 	quest.1808E04439BE57E1.quest_desc: ["Every tech machine runs on FE, and these move it without discrimination.", "Some machines have strict input and output sides, so check the machine GUI if power will not flow."]
 	quest.1808E04439BE57E1.title: "Energy Pipez"
-	quest.183A58E73DF7E824.quest_desc: ["The biggest disk in the line. Sixty-five thousand stacks.", "If this fills up, the problem is you."]
-	quest.183A58E73DF7E824.title: "64k Storage Disk"
 	quest.18CFBA29FFFD9BF3.quest_desc: ["Filters transporter lines by single item with color routing.", "Place it on the line, pick the item, pick the color, done."]
 	quest.18CFBA29FFFD9BF3.title: "Logistical Sorter"
 	quest.196602572F217A3D.quest_desc: ["Collect 40 different pets."]
 	quest.196602572F217A3D.title: "Pet Expert"
 	quest.1AE19A64C250F3FA.quest_desc: ["Voids overflow instead of clogging the line. Essential on farms that never sleep."]
 	quest.1AE19A64C250F3FA.title: "Void Upgrade"
-	quest.1B539940DB8018D6.quest_desc: ["Breaks world blocks straight into the disks.", "Quarries love it."]
-	quest.1B539940DB8018D6.title: "Destructor"
 	quest.1CEC818DF0EE4222.quest_desc: ["Right-click to open a portable chest."]
 	quest.1CEC818DF0EE4222.title: "Chest Pet"
 	quest.1D2BC6C9E7FCD9DD.quest_desc: ["Dropped by the Basilisk."]
 	quest.1D2BC6C9E7FCD9DD.title: "Basilisk Fang"
-	quest.1DE3FC52AC8A0FDB.quest_desc: ["Both chapters store everything digitally, and nothing stops you running both.", "Refined Storage is the beginner-friendly start: no channels, simpler autocrafting.", "AE2 scales further for later, at real complexity cost."]
-	quest.1DE3FC52AC8A0FDB.title: "Refined or AE2?"
 	quest.1E2CD94571F3157A.quest_desc: ["Slowly repairs damaged items in your inventory.", "Can summon a living anvil."]
 	quest.1E2CD94571F3157A.title: "Anvil Pet"
 	quest.1E9CB2FC2EB81A66.quest_desc: ["More room for activities."]
@@ -196,8 +184,6 @@
 	quest.321275E3D6C51353.title: "Applied Energistics 2"
 	quest.3315C143CA2C9FC5.quest_desc: ["The cheapest digital storage: one master block plus cables linking every chest.", "No power, no drives, just one searchable inventory."]
 	quest.3315C143CA2C9FC5.title: "Simple Storage Network"
-	quest.337319A85472B250.quest_desc: ["Disk-based digital storage with autocrafting further down the line.", "The controller powers the network; everything hangs off cables."]
-	quest.337319A85472B250.title: "Refined Storage"
 	quest.344416259F08E1D9.quest_desc: ["Night vision, scares off creepers, and catches fish near water."]
 	quest.344416259F08E1D9.title: "Ocelot Pet"
 	quest.3457FE5FD126C5CD.quest_desc: ["Reverses gravity for nearby mobs and items."]
@@ -250,8 +236,6 @@
 	quest.438F1AA8169CF59A.title: "Dubstep Pet"
 	quest.43AE1F89A8B0ECFD.quest_desc: ["The first upgrade."]
 	quest.43AE1F89A8B0ECFD.title: "Iron Backpack"
-	quest.4401780EB32024FE.quest_desc: ["Load Patterns in and the network crafts on demand.", "Request an item from the Grid and let it work."]
-	quest.4401780EB32024FE.title: "Autocrafter"
 	quest.45A76C5F674624A5.quest_desc: ["Collect 20 different pets."]
 	quest.45A76C5F674624A5.title: "Pet Collector"
 	quest.45E07B5F73AEFB8A.quest_desc: ["The Brutalfly rules Elythia's skies. Take it down.", "Its wing feeds the Big Bertha weapon line, so don't lose it."]
@@ -288,12 +272,6 @@
 	quest.4BC8C8F0B0ADFCA2.title: "Creeper Pet"
 	quest.4BDE0496932034F8.quest_desc: ["One block that pushes, pulls and filters with swappable modules, perfect for compact automation.", "It works on the six adjacent blocks out of the box. Range and stack upgrades come later."]
 	quest.4BDE0496932034F8.title: "Modular Routers"
-	quest.4CB8BC45DA301142.quest_desc: ["Connects every device back to the Controller.", "No channels to count, just run it everywhere."]
-	quest.4CB8BC45DA301142.title: "Cable"
-	quest.4CCEAB12A6AD72FA.quest_desc: ["Writes crafting recipes onto blank Patterns.", "Patterns are what autocrafting runs on."]
-	quest.4CCEAB12A6AD72FA.title: "Pattern Grid"
-	quest.4D7B3F935FEBA2AB.quest_desc: ["Your first disk: two thousand items, roughly.", "Bigger disks build on smaller ones."]
-	quest.4D7B3F935FEBA2AB.title: "1k Storage Disk"
 	quest.4D84B1D48D2BC8EC.quest_desc: ["Pulls power out of the network into machines.", "Set limits per point so one hungry machine cannot brown out the base."]
 	quest.4D84B1D48D2BC8EC.title: "Flux Point"
 	quest.4D924EDBBBAA90E2.quest_desc: ["Dropped by the Brutalfly."]
@@ -304,8 +282,6 @@
 	quest.4DF4CCA612E87BC1.title: "Quiver Pet"
 	quest.4F15A97C2B78C20C.quest_desc: ["Dropped by the Emperor Scorpion."]
 	quest.4F15A97C2B78C20C.title: "Emperor Scorpion Stinger"
-	quest.4F5AB6B08B90C26B.quest_desc: ["Import and export in one block.", "Machines can push into it and pull from it like a chest."]
-	quest.4F5AB6B08B90C26B.title: "Interface"
 	quest.4F87D484CF50F980.quest_desc: ["Health regeneration, and fills empty buckets with lava."]
 	quest.4F87D484CF50F980.title: "Purplicious Cow Pet"
 	quest.4FB4D4E4ACC2BC58.quest_desc: ["The biggest chest in the line, with the most upgrade slots."]
@@ -372,8 +348,6 @@
 	quest.61CF2F9D4B616419.title: "Big Bertha Blade"
 	quest.61DB15007645A618.quest_desc: ["Roomier still."]
 	quest.61DB15007645A618.title: "Gold Backpack"
-	quest.628115E311C3BE81.quest_desc: ["Sixteen times the 1k. Server-grade hoarding.", "One disk can swallow a quarry output."]
-	quest.628115E311C3BE81.title: "16k Storage Disk"
 	quest.62D262AA36968D2D.quest_desc: ["Storage upgrades multiply capacity from iron up through gold, diamond, emerald and netherite.", "Sneak-right-click the controller to feed upgrades into the whole network at once."]
 	quest.62D262AA36968D2D.title: "Drawer Upgrades"
 	quest.641CF9A9B2EFF048.quest_desc: ["Serious bulk storage for serious automation.", "One cell per material network."]
@@ -382,8 +356,6 @@
 	quest.648C33EF5C50D3BF.title: "NBT and YOU!"
 	quest.649A8D3788538C80.quest_desc: ["Poisons what you hit, and fires a venom blast."]
 	quest.649A8D3788538C80.title: "Pufferfish Pet"
-	quest.663C8E631F2869C5.quest_desc: ["Four times the 1k. Keep climbing.", "Disks upgrade in place with storage parts."]
-	quest.663C8E631F2869C5.title: "4k Storage Disk"
 	quest.66902790EAFD0729.quest_desc: ["Searches every cell from one screen.", "The face of the system."]
 	quest.66902790EAFD0729.title: "ME Terminal"
 	quest.670F1DFE159F3B33.quest_desc: ["They swarm every corner of Thoraxis, hatching from nests and surface clusters.", "Squash them for the advancement."]
@@ -404,8 +376,6 @@
 	quest.6B9F7D9034C88F24.title: "Storage Link"
 	quest.6C3CC466DF3D88BE.quest_desc: ["Shift + use to cycle boss modes:", "Basilisk paralyzes and poisons, Lucid inverts gravity, Nightmare spreads dread,", "Kraken slams and calls lightning, Hercules launches foes skyward,", "Molevore drills through blocks, Toreterror crashes down with an AOE shockwave."]
 	quest.6C3CC466DF3D88BE.title: "BIG BERTHA"
-	quest.6C57084B75B0A422.quest_desc: ["Searches every disk from one screen.", "The face of the system."]
-	quest.6C57084B75B0A422.title: "Grid"
 	quest.6D508C05CB7BA59E.quest_desc: ["Pushes network stock into machines and chests.", "The backbone of auto-processing."]
 	quest.6D508C05CB7BA59E.title: "Export Kabel"
 	quest.6D8CD5CBA8CE7BFA.quest_desc: ["In The End, you'll find the final boss of Vanilla Minecraft: The Ender Dragon.", "At the top of each pillar of Obsidian, you'll find an End Crystal that heals the Dragon. Make sure to take those out first! They also do a lot of damage, so make sure to create some distance!", "Once defeated, a Dragon Egg spawns at the top of the Exit Portal. This cannot be mined like normal blocks, but is affected by gravity."]
@@ -432,10 +402,6 @@
 	quest.757E0BBF7CF30F7D.title: "Pipe Upgrades"
 	quest.75A00F759323E4AF.quest_desc: ["Moving thousands of items between chests, machines and farms by hand is not a plan.", "This chapter covers the pack's pipes: Pipez for simple runs, Mekanism for its machines, and Modular Routers for clever bits. Grab a wrench to start."]
 	quest.75A00F759323E4AF.title: "Logistics"
-	quest.75FB1CD196158F95.quest_desc: ["A grid with a crafting table built in.", "Craft straight out of the disks."]
-	quest.75FB1CD196158F95.title: "Crafting Grid"
-	quest.77F2BF66E570A12A.quest_desc: ["Holds the storage disks the network actually stores on.", "More drives, more disks, more everything."]
-	quest.77F2BF66E570A12A.title: "Disk Drive"
 	quest.7912EAAEAB3E5D3B.quest_desc: ["Made from every other pet, and can transform into any of them."]
 	quest.7912EAAEAB3E5D3B.title: "Meta Pet"
 	quest.794098D78CD9BD42.quest_desc: ["Moving thousands of items between chests, machines and farms by hand is not a plan.", "This chapter covers the pack's pipes: Pipez for simple runs, Mekanism for its machines, and Modular Routers for clever bits. Grab a wrench to start."]
@@ -450,8 +416,6 @@
 	quest.7C4E406EC577C304.title: "Pickup Upgrade"
 	quest.7D319BB781227B4F.quest_desc: ["Pets are crafted, then work while you carry them.", "Hover a pet to see its powers, controls and favorite food.", "Pets get hungry; Sated versions never do."]
 	quest.7D319BB781227B4F.title: "First Steps"
-	quest.7DA5527429294D17.quest_desc: ["Pushes network stock out to machines and chests.", "Filters keep the wrong items out."]
-	quest.7DA5527429294D17.title: "Exporter"
 	quest.7DB46DA33E716767.quest_desc: ["Searches the whole cable network from one screen and pulls what you need.", "Pair with the remote to browse your stock from anywhere."]
 	quest.7DB46DA33E716767.title: "Request Tablet"
 	quest.7DC64DC3FE15A9D9.quest_desc: ["Presses circuits for processors and cards.", "Name a press, feed the middle, collect below."]
@@ -976,4 +940,102 @@
 	quest.35AF776078BDEE51.quest_desc: ["Raises stack limits far past 64 per slot.", "Four tiers; each multiplies the last."]
 	quest.7883FA1F55A9A03E.title: "Crafting Remote"
 	quest.7883FA1F55A9A03E.quest_desc: ["Browse and request from the network anywhere.", "Needs the request tablet first."]
+	quest.7B1B741AA0E3A758.title: "Autocrafting"
+	quest.7B1B741AA0E3A758.quest_desc: ["One craft per redstone pulse. Click unused slots to lock them, or hoppers will fill them."]
+	quest.64572D244FFDCE7A.title: "Machine Frame"
+	quest.2B0B528FF4F95F10.title: "Crafter Tier 1"
+	quest.2B0B528FF4F95F10.quest_desc: ["Press Apply to save a recipe. Grid items are ghosts and are never used up.", "One craft per tick, 5 on Fast. 100 RF per craft."]
+	quest.5EA8D51A32720C0F.title: "Crafter Tier 2"
+	quest.5EA8D51A32720C0F.quest_desc: ["4 recipes. Upgrading keeps its recipes and contents.", "Set a result to Int to keep it in the buffer for the next recipe."]
+	quest.23F61BC9AD9ECB5B.title: "Crafter Tier 3"
+	quest.23F61BC9AD9ECB5B.quest_desc: ["8 recipes."]
+	quest.1DE3FC52AC8A0FDB.title: "Refined or AE2?"
+	quest.1DE3FC52AC8A0FDB.quest_desc: ["Both store everything digitally, and you can run both.", "Refined is simpler: no channels. AE2 scales further for more effort."]
+	quest.337319A85472B250.title: "Refined Storage"
+	quest.337319A85472B250.quest_desc: ["Powers the network. Every device connects to it by cable."]
+	quest.4CB8BC45DA301142.title: "Cable"
+	quest.4CB8BC45DA301142.quest_desc: ["Coloured cables only join their own colour or grey, so neighbouring networks stay apart."]
+	quest.7A33CF6F537ABEA9.title: "Relay"
+	quest.7A33CF6F537ABEA9.quest_desc: ["Switch whole branches of the network on or off with redstone."]
+	quest.3426A2E832FDCB8D.title: "Detector"
+	quest.3426A2E832FDCB8D.quest_desc: ["Emits redstone when an item's count is above, below or equal to a set amount."]
+	quest.483226E6B149864A.title: "Security Manager"
+	quest.483226E6B149864A.quest_desc: ["Once powered it locks everyone out. Add a Security Card per player to grant access, and a Fallback Card for everyone else."]
+	quest.375D87CB1E487AD3.title: "Network Transmitter"
+	quest.375D87CB1E487AD3.quest_desc: ["Joins a distant section to the network without cable, using a Network Card bound to a Network Receiver."]
+	quest.31AA78FF05279258.title: "Network Receiver"
+	quest.1626590A648B756F.title: "Configuration Card"
+	quest.1626590A648B756F.quest_desc: ["Use on a device to copy its settings, then on others of the same type to paste them, upgrades included. Crouch-use to clear."]
+	quest.77F2BF66E570A12A.title: "Disk Drive"
+	quest.11147A9A0BF6BC26.title: "External Storage"
+	quest.11147A9A0BF6BC26.quest_desc: ["Puts any chest, barrel or drawer on the network."]
+	quest.4D5E0E950323157C.title: "Storage Blocks"
+	quest.4D5E0E950323157C.quest_desc: ["Disk storage as a block: no Disk Drive needed. Same tiers as the disks."]
+	quest.34D8464A354BBDE0.title: "Disk Interface"
+	quest.34D8464A354BBDE0.quest_desc: ["Empties a disk into the network, or fills one from it."]
+	quest.641F3E9887B15CBF.title: "Portable Grid"
+	quest.641F3E9887B15CBF.quest_desc: ["Takes one disk and works anywhere, no network needed. Crouch to place it."]
+	quest.6C57084B75B0A422.title: "Grid"
+	quest.75FB1CD196158F95.title: "Crafting Grid"
+	quest.7073F3304BD975F9.title: "Wireless Transmitter"
+	quest.7073F3304BD975F9.quest_desc: ["Gives Wireless Grids access to the network. More transmitters, more coverage."]
+	quest.2E1225C25070C28D.title: "Wireless Grid"
+	quest.2E1225C25070C28D.quest_desc: ["Use it on any network device to bind it."]
+	quest.207D71F2A0ED8189.title: "Range Upgrade"
+	quest.461525FED16F0D2F.title: "Storage Monitor"
+	quest.461525FED16F0D2F.quest_desc: ["Shows one item's count. Left click takes a stack, right click puts items in."]
+	quest.108AB375355878E3.title: "Import and Export"
+	quest.147DAAAA0ADF3C20.title: "Importer"
+	quest.7DA5527429294D17.title: "Exporter"
+	quest.4F5AB6B08B90C26B.title: "Interface"
+	quest.4F5AB6B08B90C26B.quest_desc: ["The network keeps it stocked, but machines must push and pull from it themselves."]
+	quest.1B539940DB8018D6.title: "Destructor"
+	quest.09B79B6479AE9F31.title: "Constructor"
+	quest.1D78E68162E6BB43.title: "Advanced Importer"
+	quest.1D78E68162E6BB43.quest_desc: ["18 filter slots instead of 9."]
+	quest.5B67AFC2E1D8CFCA.title: "Advanced Exporter"
+	quest.5B67AFC2E1D8CFCA.quest_desc: ["18 filter slots instead of 9."]
+	quest.4CCEAB12A6AD72FA.title: "Pattern Grid"
+	quest.4CCEAB12A6AD72FA.quest_desc: ["Fuzzy mode lets a pattern accept alternatives, like any planks."]
+	quest.4401780EB32024FE.title: "Autocrafter"
+	quest.4401780EB32024FE.quest_desc: ["Autocrafters facing each other form a chain and share one machine's patterns."]
+	quest.5F6BEBFA9C253CD7.title: "Iron Autocrafter"
+	quest.12A51644EBDC77C4.title: "Neural Processor"
+	quest.3B858C2562C025FB.title: "Gold Autocrafter"
+	quest.7C250EB3C54A4305.title: "Diamond Autocrafter"
+	quest.6303A1CA4FF512BB.title: "Netherite Autocrafter"
+	quest.1ACC1C53F86B8013.title: "Autocrafting Upgrade"
+	quest.1ACC1C53F86B8013.quest_desc: ["In an Exporter, starts a craft for anything the network runs out of."]
+	quest.05775A36786C444E.title: "Autocrafting Monitor"
+	quest.05775A36786C444E.quest_desc: ["Shows running crafts and lets you cancel them."]
+	quest.43F0842DA0F5F171.title: "Wireless Autocrafting Monitor"
+	quest.56F29292B30574B0.title: "Autocrafter Manager"
+	quest.56F29292B30574B0.quest_desc: ["Every Autocrafter's patterns in one screen."]
+	quest.4D7B3F935FEBA2AB.title: "1k Storage Disk"
+	quest.663C8E631F2869C5.title: "4k Storage Disk"
+	quest.628115E311C3BE81.title: "16k Storage Disk"
+	quest.183A58E73DF7E824.title: "64k Storage Disk"
+	quest.7CDC82029B052DBF.title: "256k Storage Disk"
+	quest.44E57E3019331292.title: "1024k Storage Disk"
+	quest.5E020E414789EE83.title: "4096k Storage Disk"
+	quest.262710BF250D9D0B.title: "16384k Storage Disk"
+	quest.43AAAB61AC4347BB.title: "64b Fluid Storage Disk"
+	quest.6730DA5DAE52AEB7.title: "256b Fluid Storage Disk"
+	quest.3747FED7881D1FAE.title: "1024b Fluid Storage Disk"
+	quest.21AE3F4599CBDD34.title: "4096b Fluid Storage Disk"
+	quest.0A3F3A23E6A754F6.title: "16384b Fluid Storage Disk"
+	quest.232E6608418DBD29.title: "65536b Fluid Storage Disk"
+	quest.28C6965B94EC9068.title: "262144b Fluid Storage Disk"
+	quest.5526C015188292D5.title: "1048576b Fluid Storage Disk"
+	quest.6C605E7D5737665B.title: "Upgrades"
+	quest.4945A7408A1E9797.title: "Speed Upgrade"
+	quest.042F6B4960B05F13.title: "Stack Upgrade"
+	quest.042F6B4960B05F13.quest_desc: ["A full stack per operation instead of one item."]
+	quest.5ECBDBD168B6D9C9.title: "Regulator Upgrade"
+	quest.5ECBDBD168B6D9C9.quest_desc: ["An Exporter only tops the target up to the set amount; an Importer only takes what is above it. Use the item to set the amount."]
+	quest.78274230F9484C4A.title: "Fortune Upgrade"
+	quest.78274230F9484C4A.quest_desc: ["For the Destructor. Three levels."]
+	quest.524697768363521E.title: "Silk Touch Upgrade"
+	quest.524697768363521E.quest_desc: ["For the Destructor."]
+	chapter.6ABE910B0AF62D5A.title: "Refined Automation"
 }
