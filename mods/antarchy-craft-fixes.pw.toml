@@ -1,8 +1,8 @@
 name = "Antarchy Craft Fixes"
-filename = "antarchy-craft-fixes-neoforge-1.21.1-1.1.0.jar"
+filename = "antarchy-craft-fixes-neoforge-1.21.1-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/i-goon/Antarchy-Craft/releases/download/custom-mods/antarchy-craft-fixes-neoforge-1.21.1-1.1.0.jar"
+url = "https://github.com/i-goon/Antarchy-Craft/releases/download/custom-mods/antarchy-craft-fixes-neoforge-1.21.1-1.2.0.jar"
 hash-format = "sha256"
-hash = "b9b124f8b99fe949ef56ddc71c76c7a5525ca167f498cdd1f74562256f574ad5"
+hash = "c538b17fa38a4ec23c2db7178e38e72a4d01ed46740fce003f15002c10185c2e"

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "02c8915f982b771c0b245818d9eb758b3489f4d4ef9c6f422f15a084042b6f73"
+hash = "f0b5c468087d631aa727332de34025c8914299ddc06f4ed085c0cc0830e8c33c"
 
 [[files]]
 file = "config/EnderStorage.cfg"
@@ -1570,7 +1570,7 @@ hash = "4a0b8a8b3c5e642bbd2e457529885c38cd322cd295bbbe6884b20d66bcd39a56"
 
 [[files]]
 file = "config/easy_villagers-client.toml"
-hash = "ffbf93504e499a448f256d3b4d6ece4d784f5e3cf2b6ae8dbc460681e3185c2f"
+hash = "c40674d57a970b93380e214034809269142e5c1f96954664c676effb9207236a"
 
 [[files]]
 file = "config/easy_villagers-server.toml"
@@ -2057,6 +2057,10 @@ file = "config/notenoughanimations.json"
 hash = "45121987f8bbbb948bd5096ffb02b1361c762b3e34836b3f9097a9a4ef7222d4"
 
 [[files]]
+file = "config/particle_core_config.toml"
+hash = "526dce0a8bbb78403c2638c9f9fc21fb3eefb49d31091fdc4c9ebdeaeb4f7868"
+
+[[files]]
 file = "config/pehkui-client.toml"
 hash = "d6a05a680afa06a7de77bee6d147ae5a629693843d53ca22600fcd17fbc87111"
 
@@ -2337,7 +2341,7 @@ metafile = true
 
 [[files]]
 file = "mods/antarchy-craft-fixes.pw.toml"
-hash = "080b60ff980ea240558c98cf8252a234bb4bcf7cfaf8520d8504270ba9df969e"
+hash = "d536fa840aecd8b6ed4674da65c70adbd4d93c708cb5f5eaf61f0e981ec7c65f"
 metafile = true
 
 [[files]]

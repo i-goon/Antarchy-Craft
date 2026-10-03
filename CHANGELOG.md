@@ -24,6 +24,8 @@ Consider backing up your world before updating.
 
 ### Changed
 - Far fewer stutters. The game no longer runs a background profiler that briefly froze it dozens of times a second.
+- Busy bases run smoother. Our own fix stops Distant Horizons rebuilding the terrain around your farms and machines every few seconds.
+- Higher frame rates in big bases: villagers inside Easy Villagers blocks show within 16 blocks, and distant particles are trimmed.
 - The quest book opens with Antarchy: Bosses, Big Bertha, then Inventory Pets.
 - Boss quests are sorted by dimension, with new King, Queen and taming quests.
 - Boss quests point you to the Explorer's Compass for finding lairs.
@@ -43,7 +45,7 @@ Consider backing up your world before updating.
 
 ### Good to Know
 - Distant terrain fills in again as you explore, since Distant Horizons builds its own.
-- Distant Horizons shows 64 chunks by default. On a strong PC you can raise it in its settings.
+- Distant Horizons shows 32 chunks by default. On a strong PC you can raise it in its settings.
 - Five Antarchy mobs have new names: Cloud Shark is now Stratoshark, Jumpy Bug is Springbug, Triffid is Flytrap, Creeping Horror is Crawling Blight, and Lurking Terror is Skulking Fright.
 - Our own fix carries your old drops, spawn eggs and mobs over under their new names.
 - Big Bertha quest progress resets once, since its quests now use the new drops.

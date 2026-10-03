@@ -27,7 +27,7 @@ _version = 5
 				# Note: this is a best effort number. 
 				# The actual render distance may be above or below this number 
 				# depending on your other graphic settings.
-				lodChunkRenderDistanceRadius = 64
+				lodChunkRenderDistanceRadius = 32
 				#
 				# This indicates how far apart drops in LOD quality are. 
 				# 

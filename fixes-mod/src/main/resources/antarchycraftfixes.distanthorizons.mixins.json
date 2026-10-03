@@ -4,7 +4,8 @@
   "package": "com.antarchycraft.fixes.mixin.distanthorizons",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
-    "AbstractChunkyAccessorMixin"
+    "AbstractChunkyAccessorMixin",
+    "ServerApiMixin"
   ],
   "injectors": {
     "defaultRequire": 1

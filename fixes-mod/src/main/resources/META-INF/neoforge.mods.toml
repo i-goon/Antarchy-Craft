@@ -10,7 +10,8 @@ authors = "Antarchy Craft"
 description = '''Fixes for mods in the Antarchy Craft modpack. Contains only our own code.
 
 - Antarchy: the King's Tree no longer freezes the server while it generates.
-- Distant Horizons: worlds no longer crash on load when Chunky is installed.'''
+- Distant Horizons: worlds no longer crash on load when Chunky is installed.
+- Distant Horizons: busy bases no longer rebuild their distant terrain every few seconds.'''
 
 [[mixins]]
 config = "antarchycraftfixes.mixins.json"
