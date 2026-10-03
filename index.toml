@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "db7108974e8ecacf7e0a9c451cca4454f0efc1885c26737f43db478cbeb318d4"
+hash = "02c8915f982b771c0b245818d9eb758b3489f4d4ef9c6f422f15a084042b6f73"
 
 [[files]]
 file = "config/EnderStorage.cfg"
