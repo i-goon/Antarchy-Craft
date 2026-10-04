@@ -2,6 +2,28 @@
 
 All notable changes to Antarchy Craft. Format is Keep a Changelog; this file is read by `publish.yml` for CurseForge + Modrinth.
 
+## [1.0.45] - 2026-10-04
+Real autocrafting has arrived, all the way up to the Netherite Autocrafter, and the game runs far smoother. Distant Horizons draws the landscape out to the horizon, busy bases stop stuttering, and every Refined Storage feature now has a quest.
+
+### Added
+- Extra Storage: Iron, Gold, Diamond and Netherite Autocrafters for Refined Storage, up to 125 times faster, plus disks up to 16384k and Advanced Importers and Exporters.
+- RFTools Crafters: autocrafting blocks that hold up to 8 recipes and craft every tick, no storage network needed.
+- Distant Horizons draws the landscape far past your render distance.
+
+### Changed
+- Far fewer stutters. The game no longer runs a background profiler that briefly froze it dozens of times a second.
+- Busy bases run smoother. Our own fix stops Distant Horizons rebuilding the terrain around your farms and machines every few seconds.
+- Higher frame rates in big bases: villagers inside Easy Villagers blocks show within 16 blocks, and distant particles are trimmed.
+- Refined Storage quests now cover every feature, from importers and upgrades to the new disks and Autocrafter tiers, all in one chapter.
+- Basic Logistics has a new Autocrafting branch, from the vanilla Crafter to the RFTools Crafters.
+
+### Removed
+- Voxy. Distant Horizons now draws distant terrain.
+
+### Good to Know
+- Distant terrain fills in again as you explore, since Distant Horizons builds its own.
+- Distant Horizons shows 64 chunks by default. If your frame rate drops, lower it in its settings.
+
 ## [1.0.44] - 2026-10-03
 Refined Storage grids now fill recipes straight from JEI, noisy farms can finally be muted, and more quests show you how to craft what they ask for.
 
