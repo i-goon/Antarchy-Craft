@@ -7,9 +7,8 @@
 	chapter.38D12879C55C1F1A.title: "The Twilight Forest"
 	chapter.4AE831F245E4DD6A.title: "Bosses"
 	chapter.55E30E8414C6EAB5.title: "Basic Logistics"
-	chapter.70CF56DEF9C52484.title: "Elythia"
 	chapter.6A04AABBCCDDEEFF.title: "Ars Nouveau"
-	quest.0002325750D8C7CA.quest_desc: ["Disk-based digital storage with autocrafting further down the line.", "Lay cables first. The full network gets its own chapter later."]
+	quest.0002325750D8C7CA.quest_desc: ["Disk-based digital storage with autocrafting up to the Netherite Autocrafter.", "Every device is in the Refined Storage chapter."]
 	quest.0002325750D8C7CA.title: "Refined Storage"
 	quest.0055C7B329D3F955.quest_desc: ["Four times the 1k. Keep climbing.", "Cells upgrade in the crafting grid."]
 	quest.0055C7B329D3F955.title: "4k Storage Cell"
@@ -65,8 +64,6 @@
 	quest.0E9821755DE5F440.title: "Flux Networks"
 	quest.0ED597DDAB4D1972.quest_desc: ["A depot stages one stack where belts, funnels and players meet.", "Basins do the same job for processing recipes."]
 	quest.0ED597DDAB4D1972.title: "Depot"
-	quest.0F18276ABF2DDB0E.quest_desc: ["The hunt begins at home."]
-	quest.0F18276ABF2DDB0E.title: "Overworld"
 	quest.1001AABBCCDDEEFF.quest_desc: ["The first boss of the Twilight Forest.", "Find the Naga Courtyard in the forest. The Naga circles the arena and charges through blocks. Bring a shield and keep moving."]
 	quest.1001AABBCCDDEEFF.title: "The Naga"
 	quest.1002AABBCCDDEEFF.quest_desc: ["At the top of the Lich Tower.", "Three phases. Reflect his Ender Pearl shots to break the shields, melee him when he summons zombies, then finish him when he swaps to a sword."]
@@ -180,7 +177,7 @@
 	quest.30A8D4C9CA631D60.title: "AE2 or Refined?"
 	quest.31BF2CE22A7C697E.quest_desc: ["Jump boost, wall climbing and string."]
 	quest.31BF2CE22A7C697E.title: "Spider Pet"
-	quest.321275E3D6C51353.quest_desc: ["Channel-based digital storage for very large networks, starting at the inscriber press.", "The full network gets its own chapter later."]
+	quest.321275E3D6C51353.quest_desc: ["Channel-based digital storage for very large networks, starting at the inscriber press.", "Every device is in the Applied Energistics 2 chapter."]
 	quest.321275E3D6C51353.title: "Applied Energistics 2"
 	quest.3315C143CA2C9FC5.quest_desc: ["The cheapest digital storage: one master block plus cables linking every chest.", "No power, no drives, just one searchable inventory."]
 	quest.3315C143CA2C9FC5.title: "Simple Storage Network"
@@ -238,8 +235,6 @@
 	quest.43AE1F89A8B0ECFD.title: "Iron Backpack"
 	quest.45A76C5F674624A5.quest_desc: ["Collect 20 different pets."]
 	quest.45A76C5F674624A5.title: "Pet Collector"
-	quest.45E07B5F73AEFB8A.quest_desc: ["The Brutalfly rules Elythia's skies. Take it down.", "Its wing feeds the Big Bertha weapon line, so don't lose it."]
-	quest.45E07B5F73AEFB8A.title: "Kill the Brutalfly"
 	quest.45E3311A8FC88F72.quest_desc: ["Collect 50 different pets."]
 	quest.45E3311A8FC88F72.title: "Pet Professional"
 	quest.468AC41BFA2FBD23.quest_desc: ["Two comparators, two ingots, netherite, and a second Eye of Dreams.", "The blade borrows an eye too, so you must kill two Lucids."]
@@ -262,8 +257,6 @@
 	quest.49AA40492696BCA0.title: "Magnet Upgrade"
 	quest.4A48C9233678C0E2.quest_desc: ["Collect every one of the peaceful pets around this quest."]
 	quest.4A48C9233678C0E2.title: "Peaceful Pets"
-	quest.4A5B316F3F26BB5D.quest_desc: ["Right-click a brown ant and you'll be pulled into Elythia."]
-	quest.4A5B316F3F26BB5D.title: "Enter Elythia"
 	quest.4A9C9D5C3303E80E.quest_desc: ["Holds ten storage cells where the network keeps items.", "Cells come in tiers; start small."]
 	quest.4A9C9D5C3303E80E.title: "ME Drive"
 	quest.4B7A9E79D4CAE2E1.quest_desc: ["Collect every one of the mob pets around this quest."]
@@ -430,70 +423,18 @@
 	quest.7F85B0D935283536.title: "Pattern Provider"
 	quest.7F8D2F3FBC9C28BE.quest_desc: ["Dropped by the Hercules Beetle."]
 	quest.7F8D2F3FBC9C28BE.title: "Hercules Horn"
-	quest.843DB879D75A9841.quest_desc: ["Pulls external inventories into the cells.", "Filtered sides keep loops out."]
-	quest.843DB879D75A9841.title: "Import Bus"
-	quest.8E160E8AA5A249A0.quest_desc: ["Sixteen times the 1k cell.", "Cells upgrade in the crafting grid."]
-	quest.8E160E8AA5A249A0.title: "16k Storage Cell"
 	quest.141707DC8770F0B6.quest_desc: ["Hatch the Prince Egg and feed the hatchling golden items until it grows.", "A grown Prince can be tamed and saddled for flight."]
 	quest.141707DC8770F0B6.title: "Long Live the Prince"
 	quest.19635F3E1FC4BE40.quest_desc: ["The Kraken needs no portal, only the sea."]
 	quest.19635F3E1FC4BE40.title: "The Overworld"
 	quest.21CC719DB7052664.quest_desc: ["She rules the Underside of Thoraxis, reached through the gravity throats.", "She bends gravity and time, and her Manticores finish what she starts.", "Drops Queen Scales for Royal Assailant gear, and a Princess Egg."]
 	quest.21CC719DB7052664.title: "Kill the Queen"
-	quest.A455AC6851842809.quest_desc: ["Chutes drop items straight down, faster with each block.", "Smart chutes pull from inventories and filter on the way."]
-	quest.A455AC6851842809.title: "Chutes"
-	quest.A6C0AE770E2678B2.quest_desc: ["Holds the storage disks the network actually stores on.", "More drives, more disks, more everything."]
-	quest.A6C0AE770E2678B2.title: "Disk Drive"
-	quest.B16E5C14B9EE6477.quest_desc: ["A terminal with crafting built in.", "Craft straight out of the cells."]
-	quest.B16E5C14B9EE6477.title: "Crafting Terminal"
-	quest.B27B05606C54CE78.quest_desc: ["Both chapters store everything digitally, and nothing stops you running both.", "Refined Storage is the beginner-friendly start: no channels, simpler autocrafting.", "AE2 scales further for later, at real complexity cost."]
-	quest.B27B05606C54CE78.title: "Refined or AE2?"
-	quest.B778DC696ADFA8DF.quest_desc: ["The biggest disk in the line. Sixty-five thousand stacks.", "If this fills up, the problem is you."]
-	quest.B778DC696ADFA8DF.title: "64k Storage Disk"
-	quest.BAF2F09B27CA00FB.quest_desc: ["Breaks world blocks straight into the disks.", "Quarries love it."]
-	quest.BAF2F09B27CA00FB.title: "Destructor"
-	quest.BF079E5D5F70A7CB.quest_desc: ["Places blocks from the disks into the world.", "Builders love it more."]
-	quest.BF079E5D5F70A7CB.title: "Constructor"
-	quest.C65D75DA6984ACA7.quest_desc: ["Crafts patterns on demand for the network.", "Faster with speed cards."]
-	quest.C65D75DA6984ACA7.title: "Molecular Assembler"
-	quest.C9BC7B49CDE922D8.quest_desc: ["Channel-based digital storage for very large networks.", "The controller is the heart; give it power and room to grow."]
-	quest.C9BC7B49CDE922D8.title: "Applied Energistics 2"
-	quest.CD46890AE424E032.quest_desc: ["Feeds Forge power into the ME network.", "One per network is usually enough."]
-	quest.CD46890AE424E032.title: "Energy Acceptor"
-	quest.D003E4F1EACCC502.quest_desc: ["Wireless redstone between contraptions and the base.", "One link transmits, its twin receives, across any distance."]
-	quest.D003E4F1EACCC502.title: "Redstone Link"
 	quest.52EDD018CBF9952F.quest_desc: ["Wound it in combat, then feed it Broodfruit to pacify it.", "It bonds with whoever fed it."]
 	quest.52EDD018CBF9952F.title: "Tame the Hercules Beetle"
 	quest.575DF7EE5C1FAA9F.quest_desc: ["He rules alone from the King's Tree in Elythia.", "Mid-fight he issues Decrees like KNEEL and DO NOT RUN; break one and your hearts are halved for thirty seconds.", "Drops King Scales for Royal Guardian gear, and a Prince Egg."]
 	quest.575DF7EE5C1FAA9F.title: "Kill the King"
-	quest.DA8766E1ED0AE346.quest_desc: ["Pushes cell stock out to machines.", "Crafting cards make it request on demand."]
-	quest.DA8766E1ED0AE346.title: "Export Bus"
-	quest.DDD4597C09415D3F.quest_desc: ["Mekanism tanks hold buckets by the dozen and upgrade upward.", "Dynamic tanks scale to multiblock size later."]
-	quest.DDD4597C09415D3F.title: "Fluid Tanks"
 	quest.6408726B64551FDF.quest_desc: ["Hatch the Princess Egg and feed the hatchling golden items until it grows.", "A grown Princess can be tamed and saddled, and slows enemies with time-dilation fields."]
 	quest.6408726B64551FDF.title: "Long Live the Princess"
-	quest.E9AB0E1046D1ACA1.quest_desc: ["Wireless power: plugs feed the network, points drink from it.", "Configure both with the configurator on the same network name."]
-	quest.E9AB0E1046D1ACA1.title: "Flux Networks"
-	quest.EB2A4A8379A30FFF.quest_desc: ["Serious bulk storage for serious automation.", "One cell per material network."]
-	quest.EB2A4A8379A30FFF.title: "64k Storage Cell"
-	quest.ECFD3150D2347ED6.quest_desc: ["Single-item bulk storage that upgrades through the tiers.", "A drawer equivalent for the Mekanism corner."]
-	quest.ECFD3150D2347ED6.title: "Mekanism Bins"
-	quest.EDFA7CD0DA33B6AA.quest_desc: ["Sucks external inventories into the disks.", "Point the arrow into your storage."]
-	quest.EDFA7CD0DA33B6AA.title: "Importer"
-	quest.F5C57A4FA9A9F69C.quest_desc: ["Sixteen times the 1k. Server-grade hoarding.", "One disk can swallow a quarry output."]
-	quest.F5C57A4FA9A9F69C.title: "16k Storage Disk"
-	quest.FA383E6C8C809F46.quest_desc: ["Searches every cell from one screen.", "The face of the system."]
-	quest.FA383E6C8C809F46.title: "ME Terminal"
-	quest.FA65D79CD72A0D99.quest_desc: ["Belts, funnels and chutes move items the scenic route, with no power bill.", "Start with a belt, then funnel in and out of chests and machines."]
-	quest.FA65D79CD72A0D99.title: "Create"
-	quest.FEB98368A0EFA473.quest_desc: ["Your first disk: two thousand items, roughly.", "Bigger disks build on smaller ones."]
-	quest.FEB98368A0EFA473.title: "1k Storage Disk"
-	quest.FF0AC404523E7A26.quest_desc: ["Searches every disk from one screen.", "The face of the system."]
-	quest.FF0AC404523E7A26.title: "Grid"
-	quest.3F6637C9AF032549.title: "Minibosses"
-	quest.3F6637C9AF032549.quest_desc: ["Smaller horrors, each with its own advancement - and most drop Big Bertha ingredients."]
-	quest.520D6F3F261DDD59.title: "Overworld Bosses"
-	quest.520D6F3F261DDD59.quest_desc: ["No dimension gate. The Kraken answers squid-kills and Bunny eggs; the Alpha Mantis stalks overworld mantis territory."]
 	chapter.6A00AABBCCDDEEFF.title: "Mystical Agriculture"
 	quest.6A01000000000001.quest_desc: ["Mine it from the ground. Half of every MA recipe starts here."]
 	quest.6A01000000000001.title: "Prosperity Shards"
@@ -1037,5 +978,4 @@
 	quest.78274230F9484C4A.quest_desc: ["For the Destructor. Three levels."]
 	quest.524697768363521E.title: "Silk Touch Upgrade"
 	quest.524697768363521E.quest_desc: ["For the Destructor."]
-	chapter.6ABE910B0AF62D5A.title: "Refined Automation"
 }

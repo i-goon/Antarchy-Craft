@@ -9,13 +9,12 @@ Real autocrafting has arrived, all the way up to the Netherite Autocrafter, and 
 - Extra Storage: Iron, Gold, Diamond and Netherite Autocrafters for Refined Storage, up to 125 times faster, plus disks up to 16384k and Advanced Importers and Exporters.
 - RFTools Crafters: autocrafting blocks that hold up to 8 recipes and craft every tick, no storage network needed.
 - Distant Horizons draws the landscape far past your render distance.
-- A new Refined Automation quest chapter for importers, exporters, upgrades and autocrafting.
 
 ### Changed
 - Far fewer stutters. The game no longer runs a background profiler that briefly froze it dozens of times a second.
 - Busy bases run smoother. Our own fix stops Distant Horizons rebuilding the terrain around your farms and machines every few seconds.
 - Higher frame rates in big bases: villagers inside Easy Villagers blocks show within 16 blocks, and distant particles are trimmed.
-- Refined Storage quests now cover every feature, including the new disks and Autocrafter tiers.
+- Refined Storage quests now cover every feature, from importers and upgrades to the new disks and Autocrafter tiers, all in one chapter.
 - Basic Logistics has a new Autocrafting branch, from the vanilla Crafter to the RFTools Crafters.
 
 ### Removed
@@ -23,7 +22,7 @@ Real autocrafting has arrived, all the way up to the Netherite Autocrafter, and 
 
 ### Good to Know
 - Distant terrain fills in again as you explore, since Distant Horizons builds its own.
-- Distant Horizons shows 32 chunks by default. On a strong PC you can raise it in its settings.
+- Distant Horizons shows 64 chunks by default. If your frame rate drops, lower it in its settings.
 
 ## [1.0.44] - 2026-10-03
 Refined Storage grids now fill recipes straight from JEI, noisy farms can finally be muted, and more quests show you how to craft what they ask for.

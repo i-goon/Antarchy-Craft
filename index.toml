@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "f0b5c468087d631aa727332de34025c8914299ddc06f4ed085c0cc0830e8c33c"
+hash = "02c8915f982b771c0b245818d9eb758b3489f4d4ef9c6f422f15a084042b6f73"
 
 [[files]]
 file = "config/EnderStorage.cfg"
@@ -1670,11 +1670,11 @@ hash = "26e85b4c9ab530ffd686a8ed8a1ca9e4a7e861343c08d5ee812f7a0908181532"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/applied_energistics_2.snbt"
-hash = "a51d6141d911b0b5d33a7fd8009cd6f229dffb11dfe8ac4fe8b3d369e67e22ff"
+hash = "c5aed32a9554f5761a41442f68dad155cddd65c8548ee986dd84aef530877056"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/ars_nouveau.snbt"
-hash = "e2cfd99d8b63a2d41f2a8b232998f0bff9a68681b3ae9e219e3d812a475ff0ca"
+hash = "f47dadf32528651bce32f33ee774cc63f2e6478539963ccf108d705bf79552fb"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/basic_logistics.snbt"
@@ -1694,19 +1694,15 @@ hash = "7b08b96f13b1f81e5bda4dc08345573217310808c3b8f8d8b9e6a7c29873758a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/mystical_agriculture.snbt"
-hash = "785ae76a50919f3e3f11970a2d19b01c0ad019af880aecafd59d80704f50114f"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/refined_automation.snbt"
-hash = "d07f357feb6bfbc18bfd88f34ecb53d60985f17c862da05004b09e4d4303ff53"
+hash = "e39aed80a342793fc1ca649d289dbd1f0d1971f161a23256fdb49549d28f1696"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/refined_storage.snbt"
-hash = "cc0c3a51080d4f63766965e06504d1df4712d9e5278eab66cccb4fffb3797a35"
+hash = "cb7af0b7c6dc074c9917f9047ad11a1b8a3f12c897d6b7e2cb196562194f32e3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/storage.snbt"
-hash = "47614092d9ace460680f8d4bb3f8ffbc285f04d3d5a08dfef21069318b9b779a"
+hash = "eb06da8c83f84e34cdc497dfae1fa837101b9bbaca5cdb909b3913a9696f32e9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/twilight_forest.snbt"
@@ -1714,7 +1710,7 @@ hash = "b33f5420ad1bb7d3cf670fc93e9fd1d3260734134b0c568b587902ae8dadc3a6"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "71d7aeb1487b415e54389348c2a8f918d41b7292d2a62ccf2ccebab8f54591e3"
+hash = "a5597ab3b4afe3ada91cd0a5f46a72593a39864d82141a9a9d485ded58b6bdf8"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
