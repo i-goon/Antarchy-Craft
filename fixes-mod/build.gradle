@@ -19,6 +19,8 @@ neoForge {
 dependencies {
     // The official Antarchy jar, only to compile the mixin against. It is never bundled.
     compileOnly files("libs/antarchy-2.1.1+1.21.1-neoforge.jar")
+    // Distant Horizons (LGPL), same deal: compile only, never bundled.
+    compileOnly files("libs/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar")
 }
 
 tasks.withType(ProcessResources).configureEach {

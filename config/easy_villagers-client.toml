@@ -15,4 +15,4 @@
 	#This has no effect if 'render_block_contents' is disabled
 	# Default: 32
 	# Range: 1 ~ 256
-	block_render_distance = 32
+	block_render_distance = 16

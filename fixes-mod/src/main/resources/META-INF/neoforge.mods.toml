@@ -7,12 +7,17 @@ modId = "${mod_id}"
 version = "${mod_version}"
 displayName = "${mod_name}"
 authors = "Antarchy Craft"
-description = '''Fixes for Antarchy used by the Antarchy Craft modpack. Contains no Antarchy code.
+description = '''Fixes for mods in the Antarchy Craft modpack. Contains only our own code.
 
-- The King's Tree no longer freezes the server while it generates.'''
+- Antarchy: the King's Tree no longer freezes the server while it generates.
+- Distant Horizons: worlds no longer crash on load when Chunky is installed.
+- Distant Horizons: busy bases no longer rebuild their distant terrain every few seconds.'''
 
 [[mixins]]
 config = "antarchycraftfixes.mixins.json"
+
+[[mixins]]
+config = "antarchycraftfixes.distanthorizons.mixins.json"
 
 [[dependencies.${mod_id}]]
 modId = "neoforge"
@@ -27,5 +32,13 @@ side = "BOTH"
 modId = "antarchy"
 type = "required"
 versionRange = "[2.1.1,2.1.2)"
+ordering = "AFTER"
+side = "BOTH"
+
+# Optional: only checked when Distant Horizons is installed. Pinned to 3.3.x for the same reason.
+[[dependencies.${mod_id}]]
+modId = "distanthorizons"
+type = "optional"
+versionRange = "[3.3.3,3.4)"
 ordering = "AFTER"
 side = "BOTH"

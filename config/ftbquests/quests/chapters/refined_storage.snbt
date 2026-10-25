@@ -13,6 +13,23 @@
 	quests: [
 		{
 			icon: {
+				id: "refinedstorage:grid"
+			}
+			id: "1DE3FC52AC8A0FDB"
+			rewards: [{
+				id: "6E60A37F9BD84CAD"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "1E26C9CBCC1955C2"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			icon: {
 				id: "refinedstorage:controller"
 			}
 			id: "337319A85472B250"
@@ -25,34 +42,150 @@
 				}
 				type: "item"
 			}]
-			shape: "pentagon"
-			size: 1.5d
+			shape: "gear"
+			size: 1.75d
 			tasks: [{
 				id: "258F9C437AC6B903"
 				item: { count: 1, id: "refinedstorage:controller" }
 				type: "item"
 			}]
-			x: 6.125d
+			x: 7.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["337319A85472B250"]
 			icon: {
-				id: "refinedstorage:disk_drive"
+				id: "refinedstorage:cable"
 			}
-			id: "77F2BF66E570A12A"
+			id: "4CB8BC45DA301142"
 			rewards: [{
-				id: "691EBA8BA521C1CF"
+				id: "24A187F9698994EF"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				id: "1EE62AE38146C77A"
+				item: { count: 1, id: "refinedstorage:cable" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4CB8BC45DA301142"]
+			icon: {
+				id: "refinedstorage:relay"
+			}
+			id: "7A33CF6F537ABEA9"
+			rewards: [{
+				id: "4010E29925D9DCEC"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3D6B1AA4120A7254"
+				item: { count: 1, id: "refinedstorage:relay" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["4CB8BC45DA301142"]
+			icon: {
+				id: "refinedstorage:detector"
+			}
+			id: "3426A2E832FDCB8D"
+			rewards: [{
+				id: "7BB9A161B2804C13"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "39AFAC5E0DFF4F94"
+				item: { count: 1, id: "refinedstorage:detector" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["4CB8BC45DA301142"]
+			icon: {
+				id: "refinedstorage:security_manager"
+			}
+			id: "483226E6B149864A"
+			rewards: [{
+				id: "64D2D551958FA5AA"
 				type: "xp"
 				xp: 25
 			}]
 			tasks: [{
-				id: "531CF6A1FE6CB9AC"
-				item: { count: 1, id: "refinedstorage:disk_drive" }
+				id: "1A4285F936787BC5"
+				item: { count: 1, id: "refinedstorage:security_manager" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 2.5d
+			x: 2.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["4CB8BC45DA301142"]
+			icon: {
+				id: "refinedstorage:network_transmitter"
+			}
+			id: "375D87CB1E487AD3"
+			rewards: [{
+				id: "0E3696F46A39C7BF"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "13F047C60709D078"
+				item: { count: 1, id: "refinedstorage:network_transmitter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["4CB8BC45DA301142"]
+			icon: {
+				id: "refinedstorage:configuration_card"
+			}
+			id: "1626590A648B756F"
+			rewards: [{
+				id: "65C3E5BE95F4BA81"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "4DC96A0177110E12"
+				item: { count: 1, id: "refinedstorage:configuration_card" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["375D87CB1E487AD3"]
+			icon: {
+				id: "refinedstorage:network_receiver"
+			}
+			id: "31AA78FF05279258"
+			rewards: [{
+				id: "6BE689E7681B401D"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "062DB30D6CFAE3AE"
+				item: { count: 1, id: "refinedstorage:network_receiver" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.25d
 		}
 		{
 			dependencies: ["337319A85472B250"]
@@ -65,13 +198,15 @@
 				type: "xp"
 				xp: 10
 			}]
+			shape: "pentagon"
+			size: 1.5d
 			tasks: [{
 				id: "2EC0AE543DFAA00D"
 				item: { count: 1, id: "refinedstorage:grid" }
 				type: "item"
 			}]
-			x: 1.75d
-			y: 2.5d
+			x: 7.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["6C57084B75B0A422"]
@@ -89,202 +224,108 @@
 				item: { count: 1, id: "refinedstorage:crafting_grid" }
 				type: "item"
 			}]
-			x: 1.75d
-			y: 4.0d
+			x: 6.0d
+			y: 3.25d
 		}
 		{
-			dependencies: ["77F2BF66E570A12A"]
+			dependencies: ["6C57084B75B0A422"]
 			icon: {
-				id: "refinedstorage:1k_storage_disk"
+				id: "refinedstorage:wireless_transmitter"
 			}
-			id: "4D7B3F935FEBA2AB"
+			id: "7073F3304BD975F9"
 			rewards: [{
-				id: "0A330A6FE9BEFB34"
-				item: {
-					count: 1
-					id: "refinedstorage:4k_storage_disk"
-				}
-				type: "item"
-			}]
-			tasks: [{
-				id: "0A11BE78266BECB9"
-				item: { count: 1, id: "refinedstorage:1k_storage_disk" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["4D7B3F935FEBA2AB"]
-			icon: {
-				id: "refinedstorage:4k_storage_disk"
-			}
-			id: "663C8E631F2869C5"
-			rewards: [{
-				id: "1CC2A6C7A56021D5"
+				id: "46C099B4FEDE5EB8"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [{
-				id: "51298C369F85BCD9"
-				item: { count: 1, id: "refinedstorage:4k_storage_disk" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 5.5d
-		}
-		{
-			dependencies: ["337319A85472B250"]
-			icon: {
-				id: "refinedstorage:importer"
-			}
-			id: "147DAAAA0ADF3C20"
-			rewards: [{
-				id: "0C70D8378312E786"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "7EAC0F9DCF35BFF2"
-				item: { count: 1, id: "refinedstorage:importer" }
+				id: "50A3FE845E5CDE7C"
+				item: { count: 1, id: "refinedstorage:wireless_transmitter" }
 				type: "item"
 			}]
 			x: 7.0d
-			y: 2.5d
+			y: 3.25d
 		}
 		{
-			dependencies: ["337319A85472B250"]
+			dependencies: ["6C57084B75B0A422"]
 			icon: {
-				id: "refinedstorage:exporter"
+				id: "refinedstorage:storage_monitor"
 			}
-			id: "7DA5527429294D17"
+			id: "461525FED16F0D2F"
 			rewards: [{
-				id: "7349EB50B4D0FCE8"
+				id: "3BC508356AB02CC5"
 				type: "xp"
 				xp: 10
 			}]
 			tasks: [{
-				id: "329B05A6F5C1A1C5"
-				item: { count: 1, id: "refinedstorage:exporter" }
+				id: "1F035FD0B17F9F88"
+				item: { count: 1, id: "refinedstorage:storage_monitor" }
 				type: "item"
 			}]
-			x: 8.75d
-			y: 2.5d
+			x: 8.0d
+			y: 3.25d
 		}
 		{
-			dependencies: ["337319A85472B250"]
+			dependencies: ["7073F3304BD975F9"]
 			icon: {
-				id: "refinedstorage:destructor"
+				id: "refinedstorage:wireless_grid"
 			}
-			id: "1B539940DB8018D6"
+			id: "2E1225C25070C28D"
 			rewards: [{
-				id: "45550EC9E0349ECD"
+				id: "1F00682A9F0D932E"
 				type: "xp"
 				xp: 25
 			}]
 			tasks: [{
-				id: "5F103C1A64CA990C"
-				item: { count: 1, id: "refinedstorage:destructor" }
+				id: "3BCA633ED9A5207E"
+				item: { count: 1, id: "refinedstorage:wireless_grid" }
 				type: "item"
 			}]
-			x: 10.5d
-			y: 2.5d
+			x: 6.5d
+			y: 4.25d
+		}
+		{
+			dependencies: ["7073F3304BD975F9"]
+			icon: {
+				id: "refinedstorage:range_upgrade"
+			}
+			id: "207D71F2A0ED8189"
+			rewards: [{
+				id: "54108E428A905A28"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "3D985EDF98FC85DE"
+				item: { count: 1, id: "refinedstorage:range_upgrade" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.25d
 		}
 		{
 			dependencies: ["337319A85472B250"]
 			icon: {
-				id: "refinedstorage:constructor"
+				id: "refinedstorage:disk_drive"
 			}
-			id: "09B79B6479AE9F31"
+			id: "77F2BF66E570A12A"
 			rewards: [{
-				id: "527B8ABB7264B76C"
+				id: "691EBA8BA521C1CF"
 				type: "xp"
 				xp: 25
 			}]
+			shape: "pentagon"
+			size: 1.5d
 			tasks: [{
-				id: "77F08363697D8103"
-				item: { count: 1, id: "refinedstorage:constructor" }
+				id: "531CF6A1FE6CB9AC"
+				item: { count: 1, id: "refinedstorage:disk_drive" }
 				type: "item"
 			}]
-			x: 12.25d
-			y: 2.5d
+			x: 11.5d
+			y: 2.0d
 		}
 		{
-			icon: {
-				id: "refinedstorage:grid"
-			}
-			id: "1DE3FC52AC8A0FDB"
-			rewards: [{
-				id: "6E60A37F9BD84CAD"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "1E26C9CBCC1955C2"
-				type: "checkmark"
-			}]
-			x: 6.125d
-			y: -1.75d
-		}
-		{
-			dependencies: ["663C8E631F2869C5"]
-			icon: {
-				id: "refinedstorage:16k_storage_disk"
-			}
-			id: "628115E311C3BE81"
-			rewards: [{
-				id: "7B262D58CCCC1C83"
-				type: "xp"
-				xp: 75
-			}]
-			tasks: [{
-				id: "0A6579F8C5299409"
-				item: { count: 1, id: "refinedstorage:16k_storage_disk" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 7.0d
-		}
-		{
-			dependencies: ["628115E311C3BE81"]
-			icon: {
-				id: "refinedstorage:64k_storage_disk"
-			}
-			id: "183A58E73DF7E824"
-			rewards: [{
-				id: "6C91F61A43AFC64A"
-				type: "xp"
-				xp: 150
-			}]
-			tasks: [{
-				id: "13DF655EB5988E4C"
-				item: { count: 1, id: "refinedstorage:64k_storage_disk" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 8.5d
-		}
-		{
-			dependencies: ["337319A85472B250"]
-			icon: {
-				id: "refinedstorage:cable"
-			}
-			id: "4CB8BC45DA301142"
-			rewards: [{
-				id: "24A187F9698994EF"
-				type: "xp"
-				xp: 10
-			}]
-			tasks: [{
-				id: "1EE62AE38146C77A"
-				item: { count: 1, id: "refinedstorage:cable" }
-				type: "item"
-			}]
-			x: 3.5d
-			y: 2.5d
-		}
-		{
-			dependencies: ["337319A85472B250"]
+			dependencies: ["77F2BF66E570A12A"]
 			icon: {
 				id: "refinedstorage:external_storage"
 			}
@@ -299,14 +340,125 @@
 				item: { count: 1, id: "refinedstorage:external_storage" }
 				type: "item"
 			}]
-			x: 5.25d
-			y: 2.5d
+			x: 10.0d
+			y: 3.25d
 		}
 		{
-			dependencies: [
-				"147DAAAA0ADF3C20"
-				"7DA5527429294D17"
-			]
+			dependencies: ["77F2BF66E570A12A"]
+			icon: {
+				id: "refinedstorage:1k_storage_block"
+			}
+			id: "4D5E0E950323157C"
+			rewards: [{
+				id: "50692E474189ABE5"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "17255ADB9FB98AAB"
+				item: { count: 1, id: "refinedstorage:1k_storage_block" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["77F2BF66E570A12A"]
+			icon: {
+				id: "refinedstorage:disk_interface"
+			}
+			id: "34D8464A354BBDE0"
+			rewards: [{
+				id: "18E2855ECCC49685"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "10B30E89F47F8B3D"
+				item: { count: 1, id: "refinedstorage:disk_interface" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["77F2BF66E570A12A"]
+			icon: {
+				id: "refinedstorage:portable_grid"
+			}
+			id: "641F3E9887B15CBF"
+			rewards: [{
+				id: "3A96B3C637D0481F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "0C492881704323D5"
+				item: { count: 1, id: "refinedstorage:portable_grid" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 3.25d
+		}
+		{
+			icon: {
+				id: "refinedstorage:interface"
+			}
+			id: "108AB375355878E3"
+			rewards: [{
+				id: "23F2955FA141D194"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				id: "65127990838E5425"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["108AB375355878E3"]
+			icon: {
+				id: "refinedstorage:importer"
+			}
+			id: "147DAAAA0ADF3C20"
+			rewards: [{
+				id: "0C70D8378312E786"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7EAC0F9DCF35BFF2"
+				item: { count: 1, id: "refinedstorage:importer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.25d
+		}
+		{
+			dependencies: ["108AB375355878E3"]
+			icon: {
+				id: "refinedstorage:exporter"
+			}
+			id: "7DA5527429294D17"
+			rewards: [{
+				id: "7349EB50B4D0FCE8"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "329B05A6F5C1A1C5"
+				item: { count: 1, id: "refinedstorage:exporter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.25d
+		}
+		{
+			dependencies: ["108AB375355878E3"]
 			icon: {
 				id: "refinedstorage:interface"
 			}
@@ -321,11 +473,86 @@
 				item: { count: 1, id: "refinedstorage:interface" }
 				type: "item"
 			}]
-			x: 7.875d
-			y: 4.0d
+			x: 2.0d
+			y: 7.25d
 		}
 		{
-			dependencies: ["75FB1CD196158F95"]
+			dependencies: ["108AB375355878E3"]
+			icon: {
+				id: "refinedstorage:destructor"
+			}
+			id: "1B539940DB8018D6"
+			rewards: [{
+				id: "45550EC9E0349ECD"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "5F103C1A64CA990C"
+				item: { count: 1, id: "refinedstorage:destructor" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.25d
+		}
+		{
+			dependencies: ["108AB375355878E3"]
+			icon: {
+				id: "refinedstorage:constructor"
+			}
+			id: "09B79B6479AE9F31"
+			rewards: [{
+				id: "527B8ABB7264B76C"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "77F08363697D8103"
+				item: { count: 1, id: "refinedstorage:constructor" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.25d
+		}
+		{
+			dependencies: ["147DAAAA0ADF3C20"]
+			icon: {
+				id: "extrastorage:advanced_importer"
+			}
+			id: "1D78E68162E6BB43"
+			rewards: [{
+				id: "10932B1D03AFD4A0"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "2F65F729C0D09F0C"
+				item: { count: 1, id: "extrastorage:advanced_importer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.25d
+		}
+		{
+			dependencies: ["7DA5527429294D17"]
+			icon: {
+				id: "extrastorage:advanced_exporter"
+			}
+			id: "5B67AFC2E1D8CFCA"
+			rewards: [{
+				id: "6CB52D76C624C43B"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "1D5C2A4535CD0E52"
+				item: { count: 1, id: "extrastorage:advanced_exporter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.25d
+		}
+		{
 			icon: {
 				id: "refinedstorage:pattern_grid"
 			}
@@ -335,13 +562,15 @@
 				type: "xp"
 				xp: 25
 			}]
+			shape: "pentagon"
+			size: 1.5d
 			tasks: [{
 				id: "74F47996AED5CE80"
 				item: { count: 1, id: "refinedstorage:pattern_grid" }
 				type: "item"
 			}]
-			x: 1.75d
-			y: 5.5d
+			x: 7.0d
+			y: 6.0d
 		}
 		{
 			dependencies: ["4CCEAB12A6AD72FA"]
@@ -359,8 +588,603 @@
 				item: { count: 1, id: "refinedstorage:autocrafter" }
 				type: "item"
 			}]
-			x: 1.75d
-			y: 7.0d
+			x: 5.5d
+			y: 7.25d
+		}
+		{
+			dependencies: ["4CCEAB12A6AD72FA"]
+			icon: {
+				id: "refinedstorage:autocrafting_upgrade"
+			}
+			id: "1ACC1C53F86B8013"
+			rewards: [{
+				id: "4A39CC43CE303E25"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "27C9B29E216AEA2F"
+				item: { count: 1, id: "refinedstorage:autocrafting_upgrade" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 7.25d
+		}
+		{
+			dependencies: ["4CCEAB12A6AD72FA"]
+			icon: {
+				id: "refinedstorage:autocrafter_manager"
+			}
+			id: "56F29292B30574B0"
+			rewards: [{
+				id: "0EFB109CE3986D09"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7740EC18BB4E2E8D"
+				item: { count: 1, id: "refinedstorage:autocrafter_manager" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 7.25d
+		}
+		{
+			dependencies: ["4CCEAB12A6AD72FA"]
+			icon: {
+				id: "refinedstorage:autocrafting_monitor"
+			}
+			id: "05775A36786C444E"
+			rewards: [{
+				id: "6D99906576067B02"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "01CA1B82F99482CF"
+				item: { count: 1, id: "refinedstorage:autocrafting_monitor" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 7.25d
+		}
+		{
+			dependencies: ["05775A36786C444E"]
+			icon: {
+				id: "refinedstorage:wireless_autocrafting_monitor"
+			}
+			id: "43F0842DA0F5F171"
+			rewards: [{
+				id: "45C2D964268F9FD8"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "73CDC75ECB49FA43"
+				item: { count: 1, id: "refinedstorage:wireless_autocrafting_monitor" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 8.25d
+		}
+		{
+			dependencies: ["4401780EB32024FE"]
+			icon: {
+				id: "extrastorage:iron_crafter"
+			}
+			id: "5F6BEBFA9C253CD7"
+			rewards: [{
+				id: "661E9F2DA56D6DC2"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "543288C3EFC63C6F"
+				item: { count: 1, id: "extrastorage:iron_crafter" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 8.25d
+		}
+		{
+			dependencies: ["5F6BEBFA9C253CD7"]
+			icon: {
+				id: "extrastorage:neural_processor"
+			}
+			id: "12A51644EBDC77C4"
+			rewards: [{
+				id: "14B3A13E296E68CE"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "57FFA3F88D99A1BB"
+				item: { count: 1, id: "extrastorage:neural_processor" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 8.25d
+		}
+		{
+			dependencies: [
+				"5F6BEBFA9C253CD7"
+				"12A51644EBDC77C4"
+			]
+			icon: {
+				id: "extrastorage:gold_crafter"
+			}
+			id: "3B858C2562C025FB"
+			rewards: [{
+				id: "03BC1694D7DD1F5E"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "100F7EC41B1F7A01"
+				item: { count: 1, id: "extrastorage:gold_crafter" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 9.25d
+		}
+		{
+			dependencies: ["3B858C2562C025FB"]
+			icon: {
+				id: "extrastorage:diamond_crafter"
+			}
+			id: "7C250EB3C54A4305"
+			rewards: [{
+				id: "60CCC42DE7877216"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2199E8012DA09E18"
+				item: { count: 1, id: "extrastorage:diamond_crafter" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 9.25d
+		}
+		{
+			dependencies: ["7C250EB3C54A4305"]
+			icon: {
+				id: "extrastorage:netherite_crafter"
+			}
+			id: "6303A1CA4FF512BB"
+			rewards: [{
+				id: "4F95F562B27F1248"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "74131CB03ECA887E"
+				item: { count: 1, id: "extrastorage:netherite_crafter" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 9.25d
+		}
+		{
+			icon: {
+				id: "refinedstorage:upgrade"
+			}
+			id: "6C605E7D5737665B"
+			rewards: [{
+				id: "416DC2FFCC59E3E8"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "pentagon"
+			size: 1.5d
+			tasks: [{
+				id: "341F0980FFC15B17"
+				item: { count: 1, id: "refinedstorage:upgrade" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6C605E7D5737665B"]
+			icon: {
+				id: "refinedstorage:speed_upgrade"
+			}
+			id: "4945A7408A1E9797"
+			rewards: [{
+				id: "7F6819FE65CDC424"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "207F481C96352138"
+				item: { count: 1, id: "refinedstorage:speed_upgrade" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 7.25d
+		}
+		{
+			dependencies: ["6C605E7D5737665B"]
+			icon: {
+				id: "refinedstorage:stack_upgrade"
+			}
+			id: "042F6B4960B05F13"
+			rewards: [{
+				id: "2F23464758121BC3"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "2F8DB7CA76423117"
+				item: { count: 1, id: "refinedstorage:stack_upgrade" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 7.25d
+		}
+		{
+			dependencies: ["6C605E7D5737665B"]
+			icon: {
+				id: "refinedstorage:regulator_upgrade"
+			}
+			id: "5ECBDBD168B6D9C9"
+			rewards: [{
+				id: "155FF09DE75ED899"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "4F623B13A87A003B"
+				item: { count: 1, id: "refinedstorage:regulator_upgrade" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 7.25d
+		}
+		{
+			dependencies: ["6C605E7D5737665B"]
+			icon: {
+				id: "refinedstorage:fortune_1_upgrade"
+			}
+			id: "78274230F9484C4A"
+			rewards: [{
+				id: "61E1DFF004579739"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "2D3A10E69BADAB73"
+				item: { count: 1, id: "refinedstorage:fortune_1_upgrade" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 7.25d
+		}
+		{
+			dependencies: ["6C605E7D5737665B"]
+			icon: {
+				id: "refinedstorage:silk_touch_upgrade"
+			}
+			id: "524697768363521E"
+			rewards: [{
+				id: "45AFE6252B0E583F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "1B4D845248E93380"
+				item: { count: 1, id: "refinedstorage:silk_touch_upgrade" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 7.25d
+		}
+		{
+			icon: {
+				id: "refinedstorage:1k_storage_disk"
+			}
+			id: "4D7B3F935FEBA2AB"
+			rewards: [{
+				id: "0A330A6FE9BEFB34"
+				item: {
+					count: 1
+					id: "refinedstorage:4k_storage_disk"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0A11BE78266BECB9"
+				item: { count: 1, id: "refinedstorage:1k_storage_disk" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 10.75d
+		}
+		{
+			dependencies: ["4D7B3F935FEBA2AB"]
+			icon: {
+				id: "refinedstorage:4k_storage_disk"
+			}
+			id: "663C8E631F2869C5"
+			rewards: [{
+				id: "1CC2A6C7A56021D5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "51298C369F85BCD9"
+				item: { count: 1, id: "refinedstorage:4k_storage_disk" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 10.75d
+		}
+		{
+			dependencies: ["663C8E631F2869C5"]
+			icon: {
+				id: "refinedstorage:16k_storage_disk"
+			}
+			id: "628115E311C3BE81"
+			rewards: [{
+				id: "7B262D58CCCC1C83"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "0A6579F8C5299409"
+				item: { count: 1, id: "refinedstorage:16k_storage_disk" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 10.75d
+		}
+		{
+			dependencies: ["628115E311C3BE81"]
+			icon: {
+				id: "refinedstorage:64k_storage_disk"
+			}
+			id: "183A58E73DF7E824"
+			rewards: [{
+				id: "6C91F61A43AFC64A"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "13DF655EB5988E4C"
+				item: { count: 1, id: "refinedstorage:64k_storage_disk" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 10.75d
+		}
+		{
+			dependencies: ["183A58E73DF7E824"]
+			icon: {
+				id: "extrastorage:disk_256k"
+			}
+			id: "7CDC82029B052DBF"
+			rewards: [{
+				id: "50C3398ACE24992D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1F866F7C0572B001"
+				item: { count: 1, id: "extrastorage:disk_256k" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 10.75d
+		}
+		{
+			dependencies: ["7CDC82029B052DBF"]
+			icon: {
+				id: "extrastorage:disk_1024k"
+			}
+			id: "44E57E3019331292"
+			rewards: [{
+				id: "64FA54BF0A7E2FDF"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "79900543D047E2E9"
+				item: { count: 1, id: "extrastorage:disk_1024k" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 10.75d
+		}
+		{
+			dependencies: ["44E57E3019331292"]
+			icon: {
+				id: "extrastorage:disk_4096k"
+			}
+			id: "5E020E414789EE83"
+			rewards: [{
+				id: "0B457BE2EE0D516F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5A446652F92EEE4E"
+				item: { count: 1, id: "extrastorage:disk_4096k" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 10.75d
+		}
+		{
+			dependencies: ["5E020E414789EE83"]
+			icon: {
+				id: "extrastorage:disk_16384k"
+			}
+			id: "262710BF250D9D0B"
+			rewards: [{
+				id: "45D9A8F62F66C4FD"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "365ACE55DDA9EAA7"
+				item: { count: 1, id: "extrastorage:disk_16384k" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 10.75d
+		}
+		{
+			dependencies: ["4D7B3F935FEBA2AB"]
+			icon: {
+				id: "refinedstorage:64b_fluid_storage_disk"
+			}
+			id: "43AAAB61AC4347BB"
+			rewards: [{
+				id: "0E72D99C4126890F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "18D0DAE4C6C4FCF8"
+				item: { count: 1, id: "refinedstorage:64b_fluid_storage_disk" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 11.75d
+		}
+		{
+			dependencies: ["43AAAB61AC4347BB"]
+			icon: {
+				id: "refinedstorage:256b_fluid_storage_disk"
+			}
+			id: "6730DA5DAE52AEB7"
+			rewards: [{
+				id: "2E3091FC5C9A7C20"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "2CF914D8C563D68B"
+				item: { count: 1, id: "refinedstorage:256b_fluid_storage_disk" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 11.75d
+		}
+		{
+			dependencies: ["6730DA5DAE52AEB7"]
+			icon: {
+				id: "refinedstorage:1024b_fluid_storage_disk"
+			}
+			id: "3747FED7881D1FAE"
+			rewards: [{
+				id: "50B0FFD8B2529763"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "4AB5E6FADCAAC4D9"
+				item: { count: 1, id: "refinedstorage:1024b_fluid_storage_disk" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 11.75d
+		}
+		{
+			dependencies: ["3747FED7881D1FAE"]
+			icon: {
+				id: "refinedstorage:4096b_fluid_storage_disk"
+			}
+			id: "21AE3F4599CBDD34"
+			rewards: [{
+				id: "48A9306E7044F352"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "57E3428288D31912"
+				item: { count: 1, id: "refinedstorage:4096b_fluid_storage_disk" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 11.75d
+		}
+		{
+			dependencies: ["21AE3F4599CBDD34"]
+			icon: {
+				id: "extrastorage:disk_16384b_fluid"
+			}
+			id: "0A3F3A23E6A754F6"
+			rewards: [{
+				id: "1C3BB1E9A51B5CC7"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "68804F28FDDF8D0B"
+				item: { count: 1, id: "extrastorage:disk_16384b_fluid" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 11.75d
+		}
+		{
+			dependencies: ["0A3F3A23E6A754F6"]
+			icon: {
+				id: "extrastorage:disk_65536b_fluid"
+			}
+			id: "232E6608418DBD29"
+			rewards: [{
+				id: "4748CBBD52F1373C"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "378F970BB17A573C"
+				item: { count: 1, id: "extrastorage:disk_65536b_fluid" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 11.75d
+		}
+		{
+			dependencies: ["232E6608418DBD29"]
+			icon: {
+				id: "extrastorage:disk_262144b_fluid"
+			}
+			id: "28C6965B94EC9068"
+			rewards: [{
+				id: "66BA9A28F6A2F2E6"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7F681C96A8BE0B17"
+				item: { count: 1, id: "extrastorage:disk_262144b_fluid" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 11.75d
+		}
+		{
+			dependencies: ["28C6965B94EC9068"]
+			icon: {
+				id: "extrastorage:disk_1048576b_fluid"
+			}
+			id: "5526C015188292D5"
+			rewards: [{
+				id: "3B2D52FF0D6E0B46"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "6311445E62521B03"
+				item: { count: 1, id: "extrastorage:disk_1048576b_fluid" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 11.75d
 		}
 	]
 }

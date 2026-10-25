@@ -38,6 +38,7 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [CodeChicken Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8) by ChickenBones, covers1624
 - [ColossalChests](https://www.curseforge.com/minecraft/mc-mods/colossal-chests) by rubensworks \(aka kroeser\)
 - [Comforts](https://github.com/illusivesoulworks/comforts) by Illusive Soulworks
+- [Common Capabilities](https://www.curseforge.com/minecraft/mc-mods/common-capabilities) by rubensworks \(aka kroeser\)
 - [Configured](https://modrinth.com/mod/configured) by MrCrayfish
 - [Configured Defaults](https://github.com/Fuzss/configureddefaults) by Fuzs
 - [Connectivity Mod](https://www.curseforge.com/minecraft/mc-mods/connectivity) by Someaddon
@@ -61,6 +62,7 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [Curios API](https://github.com/TheIllusiveC4/Curios) by C4
 - [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) by Lothrazar
 - [Cyclops Core](https://www.curseforge.com/minecraft/mc-mods/cyclops-core) by rubensworks \(aka kroeser\)
+- [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons) by James Seibel
 - [Draconic Evolution](https://modrinth.com/mod/draconic-evolution) by brandon3055
 - [Dungeon Crawl](https://modrinth.com/mod/dungeoncrawl) by xiroc
 - [Easy Piglins](https://www.curseforge.com/minecraft/mc-mods/easy-piglins) by Max Henkel
@@ -99,6 +101,8 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [Industrial Foregoing Souls](https://modrinth.com/mod/industrial-foregoing-souls) by Buuz135, Rid
 - [Industrial Foregoing: More Upgrade Plugins](https://modrinth.com/mod/industrial-foregoingmore-upgrade-plugins) by ChinaEX123
 - [Integrated API](https://modrinth.com/mod/integrated-api) by CraisinLord
+- [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics) by rubensworks \(aka kroeser\)
+- [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels) by rubensworks \(aka kroeser\)
 - [Iris](https://modrinth.com/mod/iris) by coderbot, IMS212
 - [Iron Chests](https://modrinth.com/mod/iron-chests) by cpw, alexbegt, progwml6
 - [Iron Furnaces](https://modrinth.com/mod/iron-furnaces) by Qelifern \(pizzaatime\), XenoMustache
@@ -172,7 +176,6 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack) by Tiviacz1337
 - [Valhelsia Core](https://modrinth.com/mod/valhelsia-core)
 - [Valhelsia Structures](https://modrinth.com/mod/valhelsia-structures)
-- [Voxy](https://modrinth.com/mod/voxy) by Cortex
 - [Waystones](https://mods.twelveiterations.com/minecraft/waystones) by BlayTheNinth
 - [Wyrmroost](https://modrinth.com/mod/wyrmroost) by WolfShotz, Kingdomall, Shannieann, Ukan, Nord\_Act
 - [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api-neoforge) by YUNGNICKYOUNG
