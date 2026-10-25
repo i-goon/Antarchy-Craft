@@ -38,6 +38,7 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [CodeChicken Lib](https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8) by ChickenBones, covers1624
 - [ColossalChests](https://www.curseforge.com/minecraft/mc-mods/colossal-chests) by rubensworks \(aka kroeser\)
 - [Comforts](https://github.com/illusivesoulworks/comforts) by Illusive Soulworks
+- [Common Capabilities](https://www.curseforge.com/minecraft/mc-mods/common-capabilities) by rubensworks \(aka kroeser\)
 - [Configured](https://modrinth.com/mod/configured) by MrCrayfish
 - [Configured Defaults](https://github.com/Fuzss/configureddefaults) by Fuzs
 - [Connectivity Mod](https://www.curseforge.com/minecraft/mc-mods/connectivity) by Someaddon
@@ -100,6 +101,8 @@ A massive 1.21.1 NeoForge modpack inspired by Crazy Craft Updated, built around 
 - [Industrial Foregoing Souls](https://modrinth.com/mod/industrial-foregoing-souls) by Buuz135, Rid
 - [Industrial Foregoing: More Upgrade Plugins](https://modrinth.com/mod/industrial-foregoingmore-upgrade-plugins) by ChinaEX123
 - [Integrated API](https://modrinth.com/mod/integrated-api) by CraisinLord
+- [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics) by rubensworks \(aka kroeser\)
+- [Integrated Tunnels](https://www.curseforge.com/minecraft/mc-mods/integrated-tunnels) by rubensworks \(aka kroeser\)
 - [Iris](https://modrinth.com/mod/iris) by coderbot, IMS212
 - [Iron Chests](https://modrinth.com/mod/iron-chests) by cpw, alexbegt, progwml6
 - [Iron Furnaces](https://modrinth.com/mod/iron-furnaces) by Qelifern \(pizzaatime\), XenoMustache

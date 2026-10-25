@@ -2501,6 +2501,11 @@ hash = "d79646a082c0dce5171e3235211cf48e32e266e923879d98832151671aff7226"
 metafile = true
 
 [[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "f0da6535d61dbbe5c7c62e970a3d2cb02ae4aecb70853f194dc6581374b9a7b8"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "7e8e576cec680b55f63dce0fd28820741ca841278d4717f28efff189a74cd399"
 metafile = true
@@ -2627,7 +2632,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "3f311b425caf16a665664abb61e70ba3f349b60c5803bf7537ce44ea9a4c1976"
+hash = "7fc9c417a6f55d7383fcb5deefd38cadcaecee0059c509a83d9ed88d2e18b2a6"
 metafile = true
 
 [[files]]
@@ -2883,6 +2888,16 @@ metafile = true
 [[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "eb22677575ee9861b1ca038ad99cdb205895745fd0a4e553f97f4ae431ca3335"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "937f55aaca4b8383b81a04aa6e30e14570ca1e711a4a46d47daf4e732322e5af"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "db0c218bc094120e311343a84511520a81ba67cd33c057c1d661f4492df8b64c"
 metafile = true
 
 [[files]]

@@ -8,6 +8,7 @@ Real autocrafting has arrived, all the way up to the Netherite Autocrafter, and 
 ### Added
 - Extra Storage: Iron, Gold, Diamond and Netherite Autocrafters for Refined Storage, up to 125 times faster, plus disks up to 16384k and Advanced Importers and Exporters.
 - RFTools Crafters: autocrafting blocks that hold up to 8 recipes and craft every tick, no storage network needed.
+- Integrated Dynamics and Integrated Tunnels: build networks of cables that move items, fluids and energy, and program the logic yourself.
 - Distant Horizons draws the landscape far past your render distance.
 
 ### Changed
